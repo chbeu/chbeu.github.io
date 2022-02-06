@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>personalization | Christine Bauer</title><link>https://chbeu.github.io/tag/personalization/</link><atom:link href="https://chbeu.github.io/tag/personalization/index.xml" rel="self" type="application/rss+xml"/><description>personalization</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate><image><url>https://chbeu.github.io/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_512x512_fill_lanczos_center_3.png</url><title>personalization</title><link>https://chbeu.github.io/tag/personalization/</link></image><item><title>In the user is it – is it?: If you want to understand your users, you have to understand their situations</title><link>https://chbeu.github.io/talks/kn02_humanize2021/</link><pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/kn02_humanize2021/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/_iWHP4NNxpI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;br>
+Christine Bauer (2021). In the user is it – is it?: If you want to understand your users, you have to understand their situations. Keynote at the Workshop “Transparency and Explainability in Adaptive Systems Through User Modelling Grounded in Psychological Theory (HUMANIZE 2021), co-located with IUI 2021. Online, 13 April.</description></item><item><title>UMAP tutorial on multi-method evaluation</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-02-18-umap-tutorial-on-multi-method-evaluation/</link><pubDate>Thu, 18 Feb 2021 16:13:25 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-02-18-umap-tutorial-on-multi-method-evaluation/</guid><description>&lt;p>I am looking forward to give a tutorial on &lt;a href="https://www.um.org/umap2021/program/tutorials#T02" rel="noopener" target="_blank">Multi-method evaluation of adaptive systems: Why and how?&lt;/a> at &lt;a href="https://www.um.org/umap2021/" rel="noopener" target="_blank">UMAP 2021&lt;/a>.&lt;/p>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span class="author-highlighted">
+Christine Bauer&lt;/span>
+&lt;/span>
+(2021).
+&lt;a href="https://chbeu.github.io/publications/bauer-2021-multimethods-tutorial/">Multi-Method Evaluation of Adaptive Systems&lt;/a>.
+&lt;em>29th Conference on User Modeling, Adaptation and Personalization&lt;/em>.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2021-multimethods-tutorial/bauer-2021-multimethods-tutorial.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publications/bauer-2021-multimethods-tutorial/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf" target="_blank" rel="noopener">
+Slides
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3450613.3457122" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/p>
+&lt;/div></description></item><item><title>Fine-grained culture-aware music recommender systems</title><link>https://chbeu.github.io/project/fwf579/</link><pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/project/fwf579/</guid><description>&lt;p>Having tens of millions of musical works available at a listener’s fingertips requires novel recommendation and interaction techniques for music consumption. Thereby the success of a music recommender system, a system that proposes users what to explore or listen to next, depends on its ability to propose the right music, to the right user, at the right moment (i.e., in the right context). However, this task is extremely complex, as various factors influence a user’s music preferences. Amongst others, cultural aspects and characteristics (e.g., different requirements regarding diversity of a playlist or familiarity with its music tracks) have been shown to affect music perception, preferences, and listening behavior. Calling on this, the project entitled “Fine-grained culture-aware music recommender systems” investigates how music recommender systems could and should integrate cultural aspects in order to provide better recommendations. The research findings will answer the question how music recommender systems have to be designed to reflect cultural diversity and will provide insights into cross-cultural music perception, preferences, and listening behavior.&lt;/p>
+&lt;p>Specifically, the project will investigate the cultural requirements on music recommender systems – as concerns what listeners in different cultures expect with regard to the recommended music. Thereby, we postulate that different granularity levels of culture (e.g., individual, regional, national, or global level) have to be considered to improve music recommender systems. We hypothesize that the various cultural levels of different granularities have to be combined in a comprehensive way to transcend limitations of current music recommender systems. And we will investigate its impact on recommendation quality in cross-cultural studies with users from Austria, the United States, and Korea.&lt;/p>
+&lt;p>Our scientific approach comprises four methodological orientations: (i) a combination of surveys and user panels, (ii) user modeling, (iii) designing and implementing prototypes of culture-aware music recommender systems, and (iv) cross-cultural studies with users to investigate their performance. The samples will include users from the United States, Austria, and Korea; we will focus on national culture, but also consider regional cultures (e.g., urban vs. suburban vs. countryside areas).&lt;/p>
+&lt;p>In contrast to past research in the field of culture-aware music information retrieval and recommendation, the project follows an approach that is driven by user needs and preferences. The project aims to design and implement music recommender systems that are able to meet those requirements by considering different granularity levels of cultural aspects in a comprehensive way.&lt;/p></description></item><item><title>Radio aktiv: Von der redaktionellen Gestaltung über Empfehlungen zum dynamischen Programm</title><link>https://chbeu.github.io/talks/t05_radioaktiv2016/</link><pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t05_radioaktiv2016/</guid><description>
+&lt;div class="gallery">
+&lt;a data-fancybox="gallery-t05_radioaktiv2016" href="https://chbeu.github.io/media/albums/t05_radioaktiv2016/14963228_1166438473422278_2339842726598737200_n.jpg" >
+&lt;img src="https://chbeu.github.io/media/albums/t05_radioaktiv2016/14963228_1166438473422278_2339842726598737200_n_huae84a6fd9e0d72cfa2f61a2e880692e0_36970_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="14963228_1166438473422278_2339842726598737200_n.jpg" width="253" height="190">
+&lt;/a>
+&lt;a data-fancybox="gallery-t05_radioaktiv2016" href="https://chbeu.github.io/media/albums/t05_radioaktiv2016/14980760_1166438480088944_55834447800959137_n.jpg" >
+&lt;img src="https://chbeu.github.io/media/albums/t05_radioaktiv2016/14980760_1166438480088944_55834447800959137_n_hu6b027cb2663dd4825c15f9b50d526f26_44393_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="14980760_1166438480088944_55834447800959137_n.jpg" width="253" height="190">
+&lt;/a>
+&lt;/div></description></item><item><title>Kontextadaptive Systeme: überall—auch in der Werbung</title><link>https://chbeu.github.io/talks/t03_wucompetenceday2011/</link><pubDate>Thu, 17 Nov 2011 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t03_wucompetenceday2011/</guid><description/></item></channel></rss>
