@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: 'chb'
+theme: chb
 day_night: false
 font: 'minimal'
 font_size: M
@@ -159,7 +159,7 @@ marketing:
 #  baidu_site_verification: ''
 #  baidu_tongji: ''
 cms:
-  branch: master
+  branch: main
   local_backend: false
 icon:
   pack:
