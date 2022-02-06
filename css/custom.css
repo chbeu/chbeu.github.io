@@ -1,0 +1,79 @@
+
+/* Import ACM authorizer stylesheet*/
+@import url("https://dl.acm.org/specs/products/acm/widgets/authorizer/scss/style.css");
+
+
+/* twitter */
+
+.twitter-follow-button {
+	margin: 0px 0px -490px 0px;
+  padding: 0px;
+}
+
+/* acm authorizer adapt */
+
+
+.multi-search .issue-item {
+    padding: 15px;
+    background: #fff;
+	  padding-bottom: 25px;
+  	margin: 0px 0px -280px 0px;
+}
+
+
+.multi-search .issue-item__detail {
+    margin: 0px 0px 0px 0px;
+	  padding: 0px;
+}
+
+
+.multi-search .issue-item__abstract {
+	  margin-top: 0px;
+    margin-bottom: 10px;
+	  padding-top: 0px;
+	  height: 20px;
+}
+
+
+.multi-search br {
+    display: none;
+}
+
+
+/* altmetric style adapt */
+
+.altmetric-style {
+	display:inline-block;
+	margin-left:30px;
+	vertical-align: top;
+}
+
+
+/* plumx */
+.plumx{
+	display:inline-block;
+	margin-left:30px;
+	vertical-align: top;
+	clear:none;
+}
+
+
+/* dimensions.ai */
+
+.__dimensions_badge_embed__{
+	display:inline-block;
+	margin-left:30px;
+	vertical-align: top;
+	clear:none;
+}
+
+
+/* chb stylesheet*/
+
+.scimago {
+	height:90px;
+	width:90px;
+	margin-left:30px;
+	vertical-align:top;
+}
+
