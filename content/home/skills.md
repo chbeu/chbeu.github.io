@@ -9,25 +9,41 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
-subtitle:
+title: Portfolio
+#subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+- name: Central theme
+  description: Interactive intelligent systems<br>at the intersection of human-centered computing, data science, and artificial intelligence
+  icon: bullseye
+  icon_pack: fa
+- name: Academic indices
+  description: '[Citations 1523<br>h-index 21<br>i10-index 43](https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en)'
+  icon: google-scholar-square
+  icon_pack: ai
+- name: Teaching
+  description: 24 different courses across 14 institutions<br>RecSys Summer School, Tutorial at UMAP<br>Supervision of >60 theses
+  icon: chalkboard-teacher
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+- name: Community service
+  description: PC Co-Chair (e.g., RecSys, UMAP, MuC)<br>Meta-Reviewer (e.g., CHI, ISMIR, UMAP)<br>Reviewer for >20 journals and >100 conferences
+  icon: users
   icon_pack: fas
-  name: Photography
+- name: International experience
+  description: Research experience in 4 countries (AT, DE, NL, US)<br>Teaching experience in 5 countries (AT, DE, NL, SE, US)
+  icon: globe
+  icon_pack: fas
+- name: Outreach
+  description: Repeatedly presenter and panelist at non-scientific events (e.g., Ars Electronica Festival, Dutch Media Week, VUT Indie Days)<br>Substantial media coverage (e.g., Financial Times, El País)<br>Radio interviews (e.g., SWR 2, Ö1, FM4, NPO Radio 1)
+  icon: bullhorn
+  icon_pack: fas
+- name: Mentoring
+  description: WiMIR Mentoring since 2018<br>Queen Mary University of London since 2021
+  icon: hands-helping
+  icon_pack: fas
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

@@ -1,0 +1,23 @@
+---
+id: 2144
+title: CHIIR 2020 cancelled
+date: 2020-03-06T14:04:03+00:00
+author: Christine Bauer
+layout: post
+guid: https://christinebauer.eu/?p=2144
+permalink: /?p=2144
+zincy_lite_sidebar_layout:
+  - right-sidebar
+categories:
+  - news
+tags:
+  - chiir
+  - multi-methods
+  - tutorial
+---
+Unfortunately, CHIIR 2020 was cancelled. This is really sad news. I was so much looking forward to holding the tutorial on multi-method evaluation. Meanwhile, you can have a look at <a href="https://multimethods.info" rel="noopener noreferrer" target="_blank">https://multimethods.info</a>, which I maintain with <a href="https://evazangerle.at" rel="noopener noreferrer" target="_blank">Eva Zangerle</a>. You can find a collection of useful material there.
+
+{{< tweet user="ACM_CHIIR" id="1235811231866339329" >}}
+
+
+{{< cite page="bauer-2020-chiir-tutorial-multimethods" view="4" >}}
