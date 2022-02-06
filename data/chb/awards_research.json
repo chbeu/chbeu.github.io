@@ -1,0 +1,91 @@
+{ "awards": [
+    {
+        "name": "HICSS 2018",
+    "award": "Nomination for Best Paper Award",
+    "paper": "C33",
+    "description": "51st Hawaii International Conference on System Sciences",
+        "link": "",
+        "image": ""
+    },
+    {
+        "name": "MoMM 2017",
+    "award": "Best Paper Award",
+    "paper": "C33",
+    "description": "15th International Conference on Advances in Mobile Computing & Multimedia",
+        "link": "http://www.iiwas.org/conferences/momm2017/bpa.php",
+        "image": "images/awards/momm2017_bestpaperaward.jpg"
+    },
+    {
+        "name": "Emerald Literati Network Awards of Excellence 2017",
+    "award": "Highly Commended Award",
+    "paper": "C33",
+    "description": "",
+        "link": "",
+        "image": ""
+    },
+    {
+        "name": "DocEng 2016",
+    "award": "Nomination for Best Paper Award",
+    "paper": "C33",
+    "description": "ACM Symposium on Document Engineering",
+        "link": "",
+        "image": ""
+    },
+    {
+        "name": "DocEng 2016",
+    "award": "Nomination for Best Student Paper Award",
+    "paper": "C33",
+    "description": "ACM Symposium on Document Engineering",
+        "link": "",
+        "image": ""
+    },
+    {
+        "name": "WU Vienna (Vienna University of Economics and Business)",
+    "award": "Top journal publication prize",
+    "paper": "C33",
+    "description": "",
+        "link": "",
+        "image": ""
+    },
+    {
+        "name": "CPDP 2013",
+    "award": "Multidisciplinary Privacy Research Award",
+    "paper": "C33",
+    "description": "Computers, Privacy & Data Protection",
+        "link": "",
+        "image": "images/awards/cpdp2013_award.jpg"
+    },
+    {
+        "name": "Dr. Maria Schaumayer Prize 2011",
+    "award": "Dr. Maria Schaumayer Prize",
+    "paper": "Master thesis",
+    "description": "Dr. Maria Schaumayer-Stiftung, Austria",
+        "link": "",
+        "image": ""
+    },
+    {
+        "name": "Dr. Maria Schaumayer Prize 2009",
+    "award": "Dr. Maria Schaumayer Prize",
+    "paper": "Dissertation",
+    "description": "Dr. Maria Schaumayer-Stiftung, Austria",
+        "link": "",
+        "image": ""
+    },
+    {
+        "name": "WI 2009",
+    "award": "Nomination for Best Paper Award",
+    "paper": "C33",
+    "description": "9th International Conference on Wirtschaftsinformatik 2009",
+        "link": "",
+        "image": ""
+    },
+    {
+        "name": "e-Learning 2008",
+    "award": "Best Research Paper Award",
+    "paper": "C33",
+    "description": " IADIS International Conference e-Learning 2008, part of MCCSIS 2008",
+        "link": "",
+        "image": ""
+    }
+]
+}
