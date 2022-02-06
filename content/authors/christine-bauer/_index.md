@@ -108,7 +108,7 @@ highlight_name: true
 Christine Bauer is an assistant professor at the Human-Centred Computing group at the Department of Information and Computing Sciences at Utrecht University.
 
 Her research activities center on **interactive intelligent systems** where she integrates research on intelligent technologies, the interaction of humans with the intelligent system, as well as their interplay. Thereby, she takes a **human-centered computing approach**, where technology follows humans’ and society’s needs. **Central themes in her research are context and context-adaptivity**. Recently, she focuses on context-aware **recommender systems** and concentrates on music recommender systems in particular. Her knowledge and experience with music and the music business are her particular asset for this research.
-A core interest in her research activities is **multi-method evaluations**. Further interests span manifold fields such as online self-disclosure and privacy, methods for designing context-adaptive systems, and the creative industries, in particular the music sector.
+A core interest in her research activities is **multi-method evaluations**. Further interests span manifold fields such as online self-disclosure and privacy, methods for designing context-adaptive systems, and the creative industries, in particular the music sector.  
 
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
