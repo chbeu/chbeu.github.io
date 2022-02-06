@@ -18,6 +18,6 @@ tags:
 ---
 Yesterday's <a href="http://teldh.dibris.unige.it/iuadapt" rel="noopener noreferrer" target="_blank">IUadaptME</a> workshop at <a href="http://www.um.org/umap2018/" rel="noopener noreferrer" target="_blank">UMAP 2018</a> was a great success! Thank you to all participants and my co-organizers. We had interesting discussions.
 
-{{< gallery album="IUAdaptME2018" >}}
+{{< gallery album="ws_iuadaptme2018" >}}
 <br>
 {{< cite page="celik-2018-multimethods-umap-workshop" view="4" >}}
