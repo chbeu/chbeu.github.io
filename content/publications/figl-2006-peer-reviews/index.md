@@ -16,6 +16,7 @@ date: 2006-10-28 #28-31 October
 lastmod: 2021-08-08T03:11:24+02:00
 featured: false
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,7 +35,7 @@ projects: []
 publishDate: '2021-08-08T01:13:58.935528Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: "Peer-reviewing is gaining importance as didactic technique in computer science courses. Through reviewing their peers, students develop evaluation skills, increase their reflection ability, and develop awareness of their own work's quality. This paper presents an experimental study exploring communication and collaboration aspects of the peer-reviewing task. In particular, the study analyzes differences between the face-to-face and the online setting. Both settings were implemented and investigated with respect to communication and collaboration in and among teams as well as workload distribution. The results show that students highly appreciated many aspects of the online reviewing tool but found themselves constrained by the lack of discussion, which they experienced and valued in the face-to-face process. The paper discusses further results regarding team communication and collaboration and their implications on the specific didactical use of online and face-to-face peer-reviewing."
 publication: '*36th ASEE/IEEE Frontiers in Education Conference*'
 doi: 10.1109/FIE.2006.322469
 url_preprint: figl-2006-peer-reviews-acceptedversion.pdf

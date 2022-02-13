@@ -15,6 +15,7 @@ date: 2017-12-04 #4-6 December
 lastmod: 2021-08-08T03:11:15+02:00
 featured: false
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -33,7 +34,7 @@ projects: []
 publishDate: '2021-08-08T01:13:50.504373Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'At the heart of ubiquitous and pervasive computing is the integration of semantically rich contextual information into systems that intelligently adapt their behavior to the context. This paper presents an analysis of the contextual elements considered in the scientific discourse on pervasive computing. To support researchers with positioning their work, this paper explores how well the facets of context are represented and which context el- ements are particularly important in specific application domains, such as healthcare or traffic. Results suggest that context elements are considered diversely among domains. Context spreads across a long tail of heterogeneous, rather specific context elements. Potential factors explaining this high diversity relate to sensor technology, structure of context information as well as purposes and design of context-aware systems.'
 publication: '*19th International Conference on Information Integration and Web-based
   Applications & Services*'
 doi: 10.1145/3151759.3151760

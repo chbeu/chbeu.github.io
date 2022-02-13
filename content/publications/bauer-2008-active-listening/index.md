@@ -14,6 +14,7 @@ date: 2008-10-22 #22-25 October
 lastmod: 2021-08-08T03:11:24+02:00
 featured: false
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

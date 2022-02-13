@@ -17,6 +17,7 @@ date: 2009-09-22 #22-25 September
 lastmod: 2021-08-08T03:11:22+02:00
 featured: false
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,7 +36,7 @@ projects: []
 publishDate: '2021-08-08T01:13:57.136766Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'This paper focuses on identifying and analyzing a potential innovative application for the insurance industry through the use of networked ubiquitous computing environment. In particular, it will describe damage prevention as an exemplary application of ubiquitous computing in the insurance sector. With respect to such an implementation for damage prevention, this paper presents a framework for decision support, considering cost drivers, indicators, parameters, and other influencing factors.'
 publication: '*International Workshop on Design, Optimization and Management of Heterogeneous
   Networked Systems, in conjunction with 38th International Conference on Parallel
   Processing (ICPP-2009)*'

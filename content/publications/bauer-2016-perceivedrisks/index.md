@@ -16,6 +16,7 @@ date: 2016-06-01 #12-15 June
 lastmod: 2021-08-08T03:11:17+02:00
 featured: false
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

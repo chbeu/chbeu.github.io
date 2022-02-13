@@ -17,6 +17,7 @@ date: 2017-09-04 #4-7 September
 lastmod: 2021-08-08T03:11:16+02:00
 featured: false
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,7 +36,7 @@ projects: []
 publishDate: '2021-08-08T01:13:50.640849Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Due to the high potential of digital media to support learning processes and outcomes, educational games have gained wide acceptance over the years. The combination of mobile devices with location-based technologies offers new options and possibilities for the development of educational games in consideration of learners’ environment with the positive side effect to promote learner’s physical activities. This paper introduces a mobile educational game for promoting a better understanding of concepts related to route problems and route optimization on the basis of real world examples in a playful manner. The game combines problem-solving tasks with a quiz to teach concepts related to the Traveling Salesman Problem (TSP) by using the Global Positioning System (GPS) technology.'
 publication: '*19th International Conference on Human-Computer Interaction with Mobile
   Devices and Services*'
 doi: 10.1145/3098279.3122130

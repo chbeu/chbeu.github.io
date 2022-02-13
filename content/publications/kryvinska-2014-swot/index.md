@@ -17,6 +17,7 @@ date: 2014-09-03 #3-5 September
 lastmod: 2021-08-08T03:11:19+02:00
 featured: false
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,6 +36,6 @@ projects: []
 publishDate: '2021-08-08T01:13:53.954650Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Due to their technological complexity, traditional software development paradigms are not appropriate to face the challenges in the modern Web 2.0 world. Having the ability to adapt rapidly to the fast changing Web in an open environment, and challenged by the need for applications to be flexible, Service-Oriented Architecture (SOA), Service-Oriented Computing (SOC), and more recently Cloud Computing are becoming more and more popular. SOC/SOA and Cloud Computing share many drivers, such as enterprise portfolio and cost reduction. Both approaches are complementary and are expected to become the core of IT-based projects and/or businesses. Thus, this paper discusses the opportunities and challenges of Soft-Computing Paradigms, which are evaluated based on a SWOT analysis. For illustration, we also present a case of SOC/Cloud (C-SOA) based on the real-world application of Amazon Services.'
 publication: '*8th Mediterranean Conference on Information Systems*'
 ---

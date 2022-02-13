@@ -14,6 +14,7 @@ date: 2020-04-01 #25-30 April
 lastmod: 2021-08-08T03:11:12+02:00
 featured: true
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,7 +33,7 @@ projects: []
 publishDate: '2021-08-08T01:13:46.973627Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'A strong research record has evidenced that individuals tend to conform with a group’s majority opinion. In contrast to existing literature that investigates conformity to a majority opinion against an objectively correct answer, the originality of our study lies in that we investigate conformity in a subjective context. The emphasis of our analysis lies on the “switching direction” in favor or against an item. In an online experiment, groups of five had to create a music playlist.A song was added to the playlist with an unanimous posi- tive decision only. After seeing the other group members’ ratings, participants had the opportunity to revise their own response. Results suggest different behavior for originally favored compared to disliked songs. For favored songs,one negative judgement by another group member was sufficient to induce participants to downvote the song. For disliked songs, in contrast, a majority of positive judgements was needed to induce participants to switch their vote.'
 publication: '*CHI Conference on Human Factors in Computing Systems*'
 doi: 10.1145/3334480.3382942
 ---
