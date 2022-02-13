@@ -21,7 +21,7 @@ feature:
   icon: bullseye
   icon_pack: fa
 - name: Academic indices
-  description: '[Citations 1523<br>h-index 21<br>i10-index 42](https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en)'
+  description: '[Citations 1530<br>h-index 21<br>i10-index 42](https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en)'
   icon: google-scholar-square
   icon_pack: ai
 - name: Teaching
@@ -29,7 +29,7 @@ feature:
   icon: chalkboard-teacher
   icon_pack: fas
 - name: Community service
-  description: PC Co-Chair (e.g., RecSys, UMAP, MuC)<br>Meta-Reviewer (e.g., CHI, ISMIR, UMAP)<br>Reviewer for >20 journals and >100 conferences
+  description: PC Co-Chair (e.g., RecSys, UMAP, CHI)<br>Meta-Reviewer (e.g., CHI, ISMIR, UMAP)<br>Reviewer for >20 journals and >100 conferences
   icon: users
   icon_pack: fas
 - name: International experience
