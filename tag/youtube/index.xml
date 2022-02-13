@@ -4,7 +4,7 @@
 &lt;iframe src="https://www.youtube.com/embed/nAevW75MzQA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;br>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">

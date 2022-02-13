@@ -10,7 +10,7 @@ Here some links (articles in various languages):&lt;/p>
 &lt;li>&lt;a href="https://www.computable.nl/artikel/nieuws/maatschappij/7166553/250449/algoritmes-zangeres-onvriendelijk.html" rel="noopener" target="_blank">Computable—Algoritmes zangeres-onvriendelijk&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.larepublica.cat/minut-a-minut/un-estudi-de-la-upf-troba-biaix-de-genere-en-els-algoritmes-de-recomanacio-musical/" rel="noopener" target="_blank">La República—Un estudi de la UPF troba biaix de gènere en els algoritmes de recomanació musical&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -38,7 +38,7 @@ DOI
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Summary of ISMIR 2020 Special Session Do we help artists? published in SIGIR Forum</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-01-06-summary-of-ismir-2020-special-session-do-we-help-artists-published-in-sigir-forum/</link><pubDate>Wed, 06 Jan 2021 17:33:49 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-01-06-summary-of-ismir-2020-special-session-do-we-help-artists-published-in-sigir-forum/</guid><description>&lt;p>I am glad that my summary of the &lt;a href="https://www.ismir2020.net" rel="noopener" target="_blank">ISMIR 2020&lt;/a> special session: &amp;lsquo;&amp;lsquo;How do we—in MIR research—help artists? Do we?&amp;rsquo;&amp;rsquo; made it to the &lt;a href="http://sigir.org/forum/issues/december-2020/" rel="noopener" target="_blank">December 2020 issue of the SIGIR Forum&lt;/a>.&lt;/p>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -215,7 +215,7 @@ Note, the talk is announced with the title &amp;lsquo;&amp;lsquo;Music Informati
 &lt;li>21 June 2019, DER STANDARD. &lt;a href="https://www.derstandard.at/story/2000105229715/linzer-forscher-zeigen-laenderunterschiede-im-musikgeschmack-auf" rel="noopener noreferrer" target="_blank">Linzer Forscher zeigen Länderunterschiede im Musikgeschmack auf (in German)&lt;/a>.&lt;/li>
 &lt;/ol>
 &lt;p>And, well, also read the original &lt;a href="https://doi.org/10.1371/journal.pone.0217389" rel="noopener noreferrer" target="_blank">PLOS ONE article (open access) on music preferences in 47 countries with respect to what is considered mainstream including recommendation approaches considering users' mainstreaminess&lt;/a> by &lt;a href="http://www.mschedl.eu" rel="noopener noreferrer" target="_blank">Markus Schedl&lt;/a> and me.&lt;/p>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -242,7 +242,7 @@ DOI
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0217389" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Speaker at PrivacyWeek 2019 in Vienna</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-07-05-speaker-at-privacyweek-2019/</link><pubDate>Fri, 05 Jul 2019 12:05:18 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-07-05-speaker-at-privacyweek-2019/</guid><description>&lt;p>I&amp;rsquo;m happy to announce that I will give a talk at this year&amp;rsquo;s &lt;a href="https://privacyweek.at" rel="noopener noreferrer" target="_blank">PrivacyWeek 2019 – Privat, oida!&lt;/a> organized by &lt;a href="https://c3w.at/" rel="noopener noreferrer" target="_blank">Chaos Computer Club Wien (C3W)&lt;/a> in October. Stay tuned!&lt;/p></description></item><item><title>PLOS ONE article on global and country-specific mainstreaminess out now!</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-plos-one-article-on-global-and-country-specific-mainstreaminess-out-now/</link><pubDate>Thu, 13 Jun 2019 23:38:11 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-plos-one-article-on-global-and-country-specific-mainstreaminess-out-now/</guid><description>&lt;p>I proudly present the &lt;a href="https://doi.org/10.1371/journal.pone.0217389" rel="noopener noreferrer" target="_blank">PLOS ONE article&lt;/a> by &lt;a href="http://www.mschedl.eu" rel="noopener noreferrer" target="_blank">Markus Schedl&lt;/a> and me: We analyze music preferences in 47 countries with respect to what is considered mainstream in a particular country. And, of course, we evaluate recommendation approaches considering users'; mainstreaminess.&lt;/p>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -271,7 +271,7 @@ DOI
 &lt;/div></description></item><item><title>Position paper accepted for CompHCI 2019 Workshop @CHI 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</link><pubDate>Thu, 14 Mar 2019 20:17:04 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</guid><description>&lt;p>I am proud to announce that my position paper on &amp;lsquo;&amp;lsquo;The Potential of the Confluence of Theoretical and Algorithmic Modeling in Music Recommendation&amp;rsquo;&amp;rsquo; has been accepted for the ACM CHI 2019 Workshop on “&lt;a href="https://hcicompmodeling.wordpress.com" rel="noopener noreferrer" target="_blank">Computational Modeling in Human-Computer Interaction (CompHCI 2019)&lt;/a>“.&lt;/p>
 &lt;p>The workshop is co-organized by Nikola Banovic, Antti Oulasvirta, and Per Ola Kristensson.&lt;/p>
 &lt;p>I am looking forward to participate in the workshop to discuss the developments in the field.&lt;/p>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -294,7 +294,7 @@ Project
 &lt;/p>
 &lt;/div></description></item><item><title>LBW paper accepted for CHI 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-02-11-lbr-paper-accepted-for-chi-2019/</link><pubDate>Mon, 11 Feb 2019 13:52:03 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-02-11-lbr-paper-accepted-for-chi-2019/</guid><description>&lt;p>I am proud to announce that the late breaking work paper on &amp;lsquo;&amp;lsquo;Cross-country user connections in an online social network for music&amp;rsquo;&amp;rsquo; that I co-authored with Markus Schedl has been accepted for CHI 2019.&lt;/p>
 &lt;p>I am looking forward to participate in this conferences. And with meeting a lot of great people there, I am sure that we will have a great time at CHI in Glasgow!&lt;/p>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -320,7 +320,7 @@ DOI
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>Mentor in WiMIR mentoring 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-01-30-mentor-in-wimir-mentoring-2019/</link><pubDate>Wed, 30 Jan 2019 09:29:43 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-01-30-mentor-in-wimir-mentoring-2019/</guid><description>&lt;p>Next round of &lt;a href="https://wimir.wordpress.com/2019/01/30/wimir-mentoring-round-2019-kickoff/" target="_blank" rel="noopener noreferrer">WiMIR mentoring&lt;/a> has just started. I am looking forward to this journey, mentoring a young female researcher.&lt;/p></description></item><item><title>Den richtigen Inhalt für den richtigen User im richtigen Moment: Musikempfehlungssysteme jetzt und in der Zukunft</title><link>https://chbeu.github.io/talks/t07_rotaryclub2018/</link><pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t07_rotaryclub2018/</guid><description/></item><item><title>ISMIR paper online</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-09-18-ismir-paper-online/</link><pubDate>Tue, 18 Sep 2018 18:28:21 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-09-18-ismir-paper-online/</guid><description>&lt;p>The ISMIR paper co-authored with Markus Schedl is online. The paper is entitled &amp;lsquo;&amp;lsquo;Investigating cross-country relationship between users&amp;rsquo; social ties and music mainstreaminess&amp;rsquo;'.&lt;/p>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -345,7 +345,7 @@ Project
 &lt;/div></description></item><item><title>Paper at ISMIR 2018</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-06-11-paper-at-ismir-2018/</link><pubDate>Mon, 11 Jun 2018 15:08:31 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-06-11-paper-at-ismir-2018/</guid><description>&lt;p>The article &amp;lsquo;&amp;lsquo;Investigating cross-country relationship between users’ social ties and music mainstreaminess&amp;rsquo;&amp;rsquo; is accepted for publication at the 19th International Society for Music Information Retrieval Conference (ISMIR 2018).&lt;/p>
 &lt;p>I am looking forward to the discussions at the conference in September.
 &lt;br>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -374,7 +374,7 @@ Project
 &lt;p>The book is available at: DOI: &lt;a href="http://doi.org/10.1007/978-3-658-19399-7" rel="noopener noreferrer" target="_blank">10.1007/978-3-658-19399-7&lt;/a>.&lt;br>
 The section that I have authored is entitled &amp;lsquo;&amp;lsquo;Der Beitrag der Informatik zur Musikwirtschaftsforschung&amp;rsquo;&amp;rsquo; and is available at: DOI: &lt;a href="http://doi.org/10.1007/978-3-658-19399-7_6" rel="noopener noreferrer" target="_blank">10.1007/978-3-658-19399-7_6&lt;/a>.&lt;/p>
 &lt;br>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -393,7 +393,7 @@ Cite
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>Mentor in WiMIR mentoring 2018</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-01-12-mentor-in-wimir-mentoring-2018/</link><pubDate>Fri, 12 Jan 2018 07:02:34 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-01-12-mentor-in-wimir-mentoring-2018/</guid><description>&lt;p>This month I start mentoring a young female researcher as part of the &lt;a href="https://wimir.wordpress.com/2018/01/11/mentoring-round-2018-is-about-to-start/" target="_blank" rel="noopener noreferrer">WiMIR mentoring 2018&lt;/a> program. I am looking forward to this &amp;lsquo;&amp;lsquo;journey&amp;rsquo;&amp;rsquo;.&lt;/p></description></item><item><title>Best Paper Award at MoMM 2017</title><link>https://chbeu.github.io/post/_posts_wordpress/2017-12-16-best-paper-award-at-momm-2017/</link><pubDate>Sat, 16 Dec 2017 21:40:42 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2017-12-16-best-paper-award-at-momm-2017/</guid><description>&lt;p>Markus Schedl and me, we received the Best Paper Award at MoMM 2017 for our article entitled &amp;lsquo;&amp;lsquo;Introducing global and regional mainstreaminess for improving personalized music recommendation&amp;rsquo;&amp;rsquo;.&lt;/p>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >

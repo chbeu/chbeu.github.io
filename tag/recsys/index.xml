@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>recsys | Christine Bauer</title><link>https://chbeu.github.io/tag/recsys/</link><atom:link href="https://chbeu.github.io/tag/recsys/index.xml" rel="self" type="application/rss+xml"/><description>recsys</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate><image><url>https://chbeu.github.io/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_512x512_fill_lanczos_center_3.png</url><title>recsys</title><link>https://chbeu.github.io/tag/recsys/</link></image><item><title>Multi-Method Evaluation of Adaptive Systems</title><link>https://chbeu.github.io/talks/tu01_umap2021_multimethods/</link><pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/tu01_umap2021_multimethods/</guid><description>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -29,7 +29,7 @@ DOI
 &lt;iframe src="https://www.youtube.com/embed/nAevW75MzQA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;br>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -53,7 +53,7 @@ Cite
 &lt;iframe src="https://www.youtube.com/embed/nAevW75MzQA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;br>&lt;/p>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -72,7 +72,7 @@ Cite
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>Keynote at ComplexRec 2020</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-07-27-keynote-at-complexrec-2020/</link><pubDate>Mon, 27 Jul 2020 19:59:47 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-07-27-keynote-at-complexrec-2020/</guid><description>&lt;p>I am honored to announce that I am invited to give the keynote at the &lt;a href="https://complexrec2020.aau.dk" rel="noopener noreferrer" target="_blank">4th Workshop on Recommendation in Complex Environments (ComplexRec 2020)&lt;/a>, co-located with &lt;a href="https://recsys.acm.org/recsys20/" rel="noopener noreferrer" target="_blank">RecSys 2020&lt;/a>. The &lt;strong>fancy&lt;/strong> ;-) title of my talk is: &lt;em>Ratings in, rankings out. Keep it simple, they said. But we need more than that.&lt;/em>&lt;/p>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">

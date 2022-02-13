@@ -45,7 +45,7 @@
 &lt;/a>
 &lt;/div>
 &lt;br>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -76,7 +76,7 @@ DOI
 &lt;br>
 More information can soon be found on our workshop website at &lt;a href="http://multimethods.info" target="_blank" rel="noopener noreferrer">&lt;a href="http://multimethods.info" target="_blank" rel="noopener">http://multimethods.info&lt;/a>&lt;/a>.
 &lt;br>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
