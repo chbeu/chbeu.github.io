@@ -7,12 +7,13 @@ tags:
 - personalization
 - context awareness
 date: "2017-02-01T00:00:00Z"
+profile: false
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Image by Pexels from Pixabay. 
   focal_point: Smart
 
 links:

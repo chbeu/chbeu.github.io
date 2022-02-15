@@ -7,6 +7,7 @@ tags:
 - fairness
 - algorithmic decision-making
 date: "2019-09-01T00:00:00Z"
+profile: false
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
