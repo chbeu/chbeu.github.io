@@ -38,7 +38,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-08-01T00:00:00Z"
 
-authors: []
+authors: [Christine Bauer]
 tags: [tutorial, UMAP, multi-methods, evaluation, adaptive systems, recsys]
 
 # Is this a featured talk? (true/false)
@@ -71,10 +71,8 @@ url_slides: "talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_sli
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects:
+projects: [multimethod]
 #- internal-project
-
-# And here is the citation of {{< cite "bauer-2020-complexrec-keynote" >}}. Let me continue with the text and see what happens.
 ---
 
 

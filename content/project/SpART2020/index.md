@@ -12,9 +12,16 @@ profile: false
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
 
-#image:
-#  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  placement: 300
+  caption: Photo by Image by <a href="https://pixabay.com/users/monsterkoi-65294/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3363160">Monsterkoi</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3363160">Pixabay</a>
+  focal_point: Smart
+  preview_only: false
 
 links:
 #- icon: twitter
