@@ -45,9 +45,13 @@ tags: [keynote, talk, ComplexRec, recsys, context]
 # Is this a featured talk? (true/false)
 featured: true
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 #image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
+#  caption: ""
+#  focal_point: ""
+#  preview_only: false
 
 links:
 - icon: ceur-square
@@ -74,7 +78,6 @@ url_video: "https://youtu.be/nAevW75MzQA"
 #projects:
 #- internal-project
 
-# And here is the citation of {{< cite "bauer-2020-complexrec-keynote" >}}. Let me continue with the text and see what happens.
 ---
 
 {{< youtube nAevW75MzQA >}}

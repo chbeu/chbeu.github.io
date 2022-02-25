@@ -38,7 +38,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-08-01T00:00:00Z"
 
-authors: [Christine Bauer]
+#authors: [Christine Bauer]
 tags: [tutorial, UMAP, multi-methods, evaluation, adaptive systems, recsys]
 
 # Is this a featured talk? (true/false)
