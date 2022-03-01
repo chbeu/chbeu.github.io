@@ -25,8 +25,8 @@ summary: Keynote at Codarts Rotterdam---International Women's Day 2022.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-03-08T15:00:00+01:00
-date_end: 2022-03-08T20:30:00+01:00
+date: 2022-03-08T15:00:00.000Z
+date_end: 2022-03-08 20:30:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
