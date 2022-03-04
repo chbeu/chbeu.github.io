@@ -1,5 +1,5 @@
 ---
-title: "Music platforms suggest which songs to listen to now. Chances are the first recommendation is a song by a male artist. Can we break this pattern? – Yes, you can."
+title: "Celebrating an engaged music community and breaking the bias"
 cms_exclude: true
 type: talk
 
@@ -21,7 +21,7 @@ address:
 #  postcode:
   country: The Netherlands
 summary: Keynote at Codarts Rotterdam---International Women's Day 2022.
-#abstract: 
+abstract: "Music platforms suggest which songs to listen to now. Chances are the first recommendation is a song by a male artist. Can we break this pattern?---Yes, we can."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
