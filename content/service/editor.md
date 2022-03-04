@@ -10,11 +10,11 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Membership in Editorial Boards'
-subtitle: 'Guest Editor'
+#subtitle: 'Guest Editor'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -35,14 +35,23 @@ experience:
     #date_end: '2020-01-31'
 #    description:  with Eva Zangerle and Alan Said<br>Special Issue (Research Topic)
 
-  - title: Human Issues in Recommender Systems
+  - title: Associate Editor
+    company: ACM Transactions on Recommender Systems
+    company_url: 'https://dl.acm.org/journal/tors'
+    company_logo: acm
+    #location: Austria
+    date_start: '2022-03-04'
+    #date_end: '2020-01-31'
+    #description:  Associate Editor
+    
+  - title: 'Guest Editor: Human Issues in Recommender Systems'
     company: Frontiers in Big Data---Recommender Systems
     company_url: 'https://frontiersin.org'
     company_logo: frontiers
     #location: Austria
     date_start: '2021-06-01'
     #date_end: '2020-01-31'
-    description:  with Bruce Ferwerda<br>Special Issue (Research Topic)
+    #description:  Guest Editor<br>with Bruce Ferwerda<br>Special Issue (Research Topic)
     
 
 design:

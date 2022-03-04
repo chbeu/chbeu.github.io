@@ -6,11 +6,11 @@ widget: chb_services
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 25
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Service to the Community'
-subtitle: Workshop and Meetup Organizer
+title: Workshop and Meetup Organizer #'Service to the Community'
+#subtitle: Workshop and Meetup Organizer
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format

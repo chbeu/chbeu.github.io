@@ -9,11 +9,11 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 15
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Service to the Community'
-subtitle: PC Co-Chair
+title: PC Co-Chair #'Service to the Community'
+#subtitle: PC Co-Chair
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
