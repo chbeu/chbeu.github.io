@@ -4,7 +4,7 @@
 title: "New website goes online"
 subtitle: ""
 summary: "I completely redesigned my website."
-authors: [Christine Bauer]
+#authors: [Christine Bauer]
 tags: [website]
 categories: [news]
 date: 2022-02-15T20:54:09+01:00
