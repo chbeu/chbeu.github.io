@@ -37,7 +37,7 @@ feature:
   icon: globe
   icon_pack: fas
 - name: Outreach
-  description: Repeatedly presenter and panelist at non-scientific events (e.g., Ars Electronica Festival, Dutch Media Week, VUT Indie Days)<br>Substantial media coverage (e.g., Financial Times, El País)<br>Radio interviews (e.g., SWR 2, Ö1, FM4, NPO Radio 1)
+  description: Repeatedly speaker and panelist at non-scientific events (e.g., Ars Electronica Festival, Dutch Media Week, VUT Indie Days)<br>Substantial media coverage (e.g., Financial Times, El País)<br>Radio interviews (e.g., SWR 2, Ö1, FM4, NPO Radio 1)
   icon: bullhorn
   icon_pack: fas
 - name: Mentoring
