@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://chbeu.github.io/sitemap.xml
+Sitemap: https://christinebauer.eu/sitemap.xml
