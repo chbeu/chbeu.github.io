@@ -55,12 +55,11 @@ featured: false
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-#url_slides:
-
 #url_code: ""
 #url_pdf:  ""
 #url_slides:  ""
 #url_video: ""
+url_program: "kt01_codarts/kt01_codarts_program.png"
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -76,3 +75,6 @@ featured: false
 #   Otherwise, set `projects = []`.
 projects: [SpART2020]
 ---
+
+{{< figure src="kt01_codarts_program.png" >}}
+
