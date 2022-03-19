@@ -1,178 +1,25 @@
-<!doctype html><html lang=en-us>
-<head>
-<meta charset=utf-8>
-<meta name=viewport content="width=device-width,initial-scale=1">
-<meta http-equiv=x-ua-compatible content="IE=edge">
-<meta name=generator content="Wowchemy 5.3.0 for Hugo">
-<link rel=preconnect href=https://fonts.gstatic.com crossorigin>
-<link rel=preload as=style href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
-<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media=print onload='this.media="all"'>
-<meta name=author content="Christine Bauer">
-<meta name=description content="Among the many viable research questions in the field of recommender systems, a frequently addressed problem is to accurately predict the relevance of individual items to users, with the goal of presenting the assumedly most relevant ones as recommendations. Typically, we have users’ (explicit or implicit) ratings as input and rankings of items as output. Complex enough, yet too simplistic to reflect reality and indeed meet the various demands in practice.
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=generator content="Wowchemy 5.3.0 for Hugo"><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link rel=preload as=style href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap"><link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media=print onload='this.media="all"'><meta name=author content="Christine Bauer"><meta name=description content="Among the many viable research questions in the field of recommender systems, a frequently addressed problem is to accurately predict the relevance of individual items to users, with the goal of presenting the assumedly most relevant ones as recommendations. Typically, we have users’ (explicit or implicit) ratings as input and rankings of items as output. Complex enough, yet too simplistic to reflect reality and indeed meet the various demands in practice.
 
 We have learned that “context matters”. But what does it mean? What is the context that matters? And how do we get the relevant signals?  It is more than what we currently ascribe to and reflect in what we call “context-aware recommender systems”. Let’s have a view to related fields that deal with context as deeply complex input.
 
 And on the output side, we have individual items and also item bundles, complementaries, sequences, repeated recommendations, etc. What do we actually want to present? And how? For who? And why? A ranked list as output may seem like an appropriate one-size-fits-all solution, does it?
 
-In this talk, I will reflect on the complexity of our research field, reach out to related fields such as context-aware computing and pervasive advertising for inspiration, and I will raise a lot of questions that have yet to be answered.">
-<link rel=alternate hreflang=en-us href=https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/>
-<meta name=theme-color content="rgb(0, 136, 204)">
-<link rel=stylesheet href=/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css media=print onload='this.media="all"'>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin=anonymous media=print onload='this.media="all"'>
-<link rel=stylesheet href=/css/wowchemy.3e42436f550b0e1f68df00f599807352.css>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63090417-1"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}function trackOutboundLink(e,t){gtag("event","click",{event_category:"outbound",event_label:e,transport_type:"beacon",event_callback:function(){t!=="_blank"&&(document.location=e)}}),console.debug("Outbound link clicked: "+e)}function onClickCallback(e){if(e.target.tagName!=="A"||e.target.host===window.location.host)return;trackOutboundLink(e.target,e.target.getAttribute("target"))}gtag("js",new Date),gtag("config","UA-63090417-1",{anonymize_ip:!0}),gtag("set",{cookie_flags:"SameSite=None;Secure"}),document.addEventListener("click",onClickCallback,!1)</script>
-<link rel=manifest href=/manifest.webmanifest>
-<link rel=icon type=image/png href=/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_32x32_fill_lanczos_center_3.png>
-<link rel=apple-touch-icon type=image/png href=/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_180x180_fill_lanczos_center_3.png>
-<link rel=canonical href=https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/>
-<meta property="twitter:card" content="summary">
-<meta property="twitter:site" content="@christine_bauer">
-<meta property="twitter:creator" content="@christine_bauer">
-<meta property="og:site_name" content="Christine Bauer">
-<meta property="og:url" content="https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/">
-<meta property="og:title" content="Ratings in, rankings out. Keep it simple, they said. But we need more than that. | Christine Bauer">
-<meta property="og:description" content="Among the many viable research questions in the field of recommender systems, a frequently addressed problem is to accurately predict the relevance of individual items to users, with the goal of presenting the assumedly most relevant ones as recommendations. Typically, we have users’ (explicit or implicit) ratings as input and rankings of items as output. Complex enough, yet too simplistic to reflect reality and indeed meet the various demands in practice.
+In this talk, I will reflect on the complexity of our research field, reach out to related fields such as context-aware computing and pervasive advertising for inspiration, and I will raise a lot of questions that have yet to be answered."><link rel=alternate hreflang=en-us href=https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/><meta name=theme-color content="rgb(0, 136, 204)"><link rel=stylesheet href=/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css media=print onload='this.media="all"'><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin=anonymous media=print onload='this.media="all"'><link rel=stylesheet href=/css/wowchemy.3e42436f550b0e1f68df00f599807352.css><script async src="https://www.googletagmanager.com/gtag/js?id=UA-63090417-1"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}function trackOutboundLink(e,t){gtag("event","click",{event_category:"outbound",event_label:e,transport_type:"beacon",event_callback:function(){t!=="_blank"&&(document.location=e)}}),console.debug("Outbound link clicked: "+e)}function onClickCallback(e){if(e.target.tagName!=="A"||e.target.host===window.location.host)return;trackOutboundLink(e.target,e.target.getAttribute("target"))}gtag("js",new Date),gtag("config","UA-63090417-1",{anonymize_ip:!0}),gtag("set",{cookie_flags:"SameSite=None;Secure"}),document.addEventListener("click",onClickCallback,!1)</script><link rel=manifest href=/manifest.webmanifest><link rel=icon type=image/png href=/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_32x32_fill_lanczos_center_3.png><link rel=apple-touch-icon type=image/png href=/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_180x180_fill_lanczos_center_3.png><link rel=canonical href=https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/><meta property="twitter:card" content="summary"><meta property="twitter:site" content="@christine_bauer"><meta property="twitter:creator" content="@christine_bauer"><meta property="og:site_name" content="Christine Bauer"><meta property="og:url" content="https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/"><meta property="og:title" content="Ratings in, rankings out. Keep it simple, they said. But we need more than that. | Christine Bauer"><meta property="og:description" content="Among the many viable research questions in the field of recommender systems, a frequently addressed problem is to accurately predict the relevance of individual items to users, with the goal of presenting the assumedly most relevant ones as recommendations. Typically, we have users’ (explicit or implicit) ratings as input and rankings of items as output. Complex enough, yet too simplistic to reflect reality and indeed meet the various demands in practice.
 
 We have learned that “context matters”. But what does it mean? What is the context that matters? And how do we get the relevant signals?  It is more than what we currently ascribe to and reflect in what we call “context-aware recommender systems”. Let’s have a view to related fields that deal with context as deeply complex input.
 
 And on the output side, we have individual items and also item bundles, complementaries, sequences, repeated recommendations, etc. What do we actually want to present? And how? For who? And why? A ranked list as output may seem like an appropriate one-size-fits-all solution, does it?
 
-In this talk, I will reflect on the complexity of our research field, reach out to related fields such as context-aware computing and pervasive advertising for inspiration, and I will raise a lot of questions that have yet to be answered."><meta property="og:image" content="https://christinebauer.eu/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_512x512_fill_lanczos_center_3.png">
-<meta property="twitter:image" content="https://christinebauer.eu/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
-<meta property="article:published_time" content="2021-08-08T01:13:47+00:00">
-<meta property="article:modified_time" content="2021-08-08T03:11:12+02:00">
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/"},"headline":"Ratings in, rankings out. Keep it simple, they said. But we need more than that.","datePublished":"2021-08-08T01:13:47Z","dateModified":"2021-08-08T03:11:12+02:00","author":{"@type":"Person","name":"Christine Bauer"},"publisher":{"@type":"Organization","name":"Christine Bauer","logo":{"@type":"ImageObject","url":"https://christinebauer.eu/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_192x192_fill_lanczos_center_3.png"}},"description":"Among the many viable research questions in the field of recommender systems, a frequently addressed problem is to accurately predict the relevance of individual items to users, with the goal of presenting the assumedly most relevant ones as recommendations. Typically, we have users’ (explicit or implicit) ratings as input and rankings of items as output. Complex enough, yet too simplistic to reflect reality and indeed meet the various demands in practice.\n\nWe have learned that “context matters”. But what does it mean? What is the context that matters? And how do we get the relevant signals?  It is more than what we currently ascribe to and reflect in what we call “context-aware recommender systems”. Let’s have a view to related fields that deal with context as deeply complex input.\n\nAnd on the output side, we have individual items and also item bundles, complementaries, sequences, repeated recommendations, etc. What do we actually want to present? And how? For who? And why? A ranked list as output may seem like an appropriate one-size-fits-all solution, does it?\n\nIn this talk, I will reflect on the complexity of our research field, reach out to related fields such as context-aware computing and pervasive advertising for inspiration, and I will raise a lot of questions that have yet to be answered."}</script>
-<script src=https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin=anonymous></script>
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin=anonymous>
-<script>window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"rgb(0, 136, 204)",text:"rgb(255, 255, 255)"},button:{background:"rgb(255, 255, 255)",text:"rgb(0, 136, 204)"}},theme:"classic",content:{message:"This website uses cookies to ensure you get the best experience on our website.",dismiss:"Got it!",link:"Learn more",href:"/tag/privacy/"}})})</script>
-<script type=text/javascript src=https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js></script>
+In this talk, I will reflect on the complexity of our research field, reach out to related fields such as context-aware computing and pervasive advertising for inspiration, and I will raise a lot of questions that have yet to be answered."><meta property="og:image" content="https://christinebauer.eu/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_512x512_fill_lanczos_center_3.png"><meta property="twitter:image" content="https://christinebauer.eu/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us"><meta property="article:published_time" content="2021-08-08T01:13:47+00:00"><meta property="article:modified_time" content="2021-08-08T03:11:12+02:00"><script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/"},"headline":"Ratings in, rankings out. Keep it simple, they said. But we need more than that.","datePublished":"2021-08-08T01:13:47Z","dateModified":"2021-08-08T03:11:12+02:00","author":{"@type":"Person","name":"Christine Bauer"},"publisher":{"@type":"Organization","name":"Christine Bauer","logo":{"@type":"ImageObject","url":"https://christinebauer.eu/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_192x192_fill_lanczos_center_3.png"}},"description":"Among the many viable research questions in the field of recommender systems, a frequently addressed problem is to accurately predict the relevance of individual items to users, with the goal of presenting the assumedly most relevant ones as recommendations. Typically, we have users’ (explicit or implicit) ratings as input and rankings of items as output. Complex enough, yet too simplistic to reflect reality and indeed meet the various demands in practice.\n\nWe have learned that “context matters”. But what does it mean? What is the context that matters? And how do we get the relevant signals?  It is more than what we currently ascribe to and reflect in what we call “context-aware recommender systems”. Let’s have a view to related fields that deal with context as deeply complex input.\n\nAnd on the output side, we have individual items and also item bundles, complementaries, sequences, repeated recommendations, etc. What do we actually want to present? And how? For who? And why? A ranked list as output may seem like an appropriate one-size-fits-all solution, does it?\n\nIn this talk, I will reflect on the complexity of our research field, reach out to related fields such as context-aware computing and pervasive advertising for inspiration, and I will raise a lot of questions that have yet to be answered."}</script><script src=https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin=anonymous></script>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin=anonymous><script>window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"rgb(0, 136, 204)",text:"rgb(255, 255, 255)"},button:{background:"rgb(255, 255, 255)",text:"rgb(0, 136, 204)"}},theme:"classic",content:{message:"This website uses cookies to ensure you get the best experience on our website.",dismiss:"Got it!",link:"Learn more",href:"/tag/privacy/"}})})</script><script type=text/javascript src=https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js></script>
 <script type=text/javascript src=//cdn.plu.mx/widget-popup.js></script>
 <script async src=https://badge.dimensions.ai/badge.js></script>
-<link href=https://christinebauer.eucss/custom.css rel=stylesheet>
-<title>Ratings in, rankings out. Keep it simple, they said. But we need more than that. | Christine Bauer</title></head><body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class=page-wrapper data-wc-page-id=cb802bf470728f163e49a5ff41432e4e>
-<script src=/js/wowchemy-init.min.fccf491147236875a545acccaebaf369.js></script>
-<aside class=search-modal id=search>
-<div class=container>
-<section class=search-header>
-<div class="row no-gutters justify-content-between mb-3">
-<div class=col-6>
-<h1>Search</h1></div><div class="col-6 col-search-close">
-<a class=js-search href=# aria-label=Close><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a>
-</div></div><div id=search-box>
-<input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search class=form-control aria-label=Search...>
-</div></section><section class=section-search-results>
-<div id=search-hits>
-</div></section></div></aside><div class=page-header>
-<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main>
-<div class=container-xl>
-<div class="d-none d-lg-inline-flex">
-<a class=navbar-brand href=/>Christine Bauer</a>
-</div><button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar-content aria-expanded=false aria-label="Toggle navigation">
-<span><i class="fas fa-bars"></i></span>
-</button>
-<div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-<a class=navbar-brand href=/>Christine Bauer</a>
-</div><div class="navbar-collapse main-menu-item collapse justify-content-start" id=navbar-content>
-<ul class="navbar-nav d-md-inline-flex">
-<li class=nav-item>
-<a class=nav-link href=/bio/><span>Bio</span></a>
-</li><li class=nav-item>
-<a class=nav-link href=/awards/><span>Awards & Honors</span></a>
-</li><li class=nav-item>
-<a class=nav-link href=/funding/><span>Funding</span></a>
-</li><li class=nav-item>
-<a class="nav-link active" href=/publications/><span>Publications</span></a>
-</li><li class=nav-item>
-<a class=nav-link href=/talks/><span>Talks</span></a>
-</li><li class=nav-item>
-<a class=nav-link href=/teaching/><span>Teaching</span></a>
-</li><li class=nav-item>
-<a class=nav-link href=/service/><span>Community Service</span></a>
-</li><li class=nav-item>
-<a class=nav-link href=/media/><span>Media</span></a>
-</li><li class=nav-item>
-<a class=nav-link href=/#contact><span>Contact</span></a>
-</li></ul></div><ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
-<li class=nav-item>
-<a class="nav-link js-search" href=# aria-label=Search><i class="fas fa-search" aria-hidden=true></i></a>
-</li></ul></div></nav></div><div class=page-body>
-<div class=pub>
-<div class="article-container pt-3">
-<h1>Ratings in, rankings out. Keep it simple, they said. But we need more than that.</h1><div class=article-metadata>
-<div>
-<span class=author-highlighted>
-Christine Bauer</span>
-</div><span class=article-date>
-September 2020
-</span>
-</div><div class="btn-links mb-3">
-<a class="btn btn-outline-primary btn-page-header" href=/publications/bauer-2020-complexrec-keynote/bauer-2020-complexrec-keynote.pdf target=_blank rel=noopener>
-PDF
-</a>
-<a href=# class="btn btn-outline-primary btn-page-header js-cite-modal" data-filename=/publications/bauer-2020-complexrec-keynote/cite.bib>
-Cite
-</a>
-</div></div><div class=article-container>
-<h3>Abstract</h3><p class=pub-abstract><p>Among the many viable research questions in the field of recommender systems, a frequently addressed problem is to accurately predict the relevance of individual items to users, with the goal of presenting the assumedly most relevant ones as recommendations. Typically, we have users’ (explicit or implicit) ratings as input and rankings of items as output. Complex enough, yet too simplistic to reflect reality and indeed meet the various demands in practice.</p><p>We have learned that “context matters”. But what does it mean? What is the context that matters? And how do we get the relevant signals? It is more than what we currently ascribe to and reflect in what we call “context-aware recommender systems”. Let’s have a view to related fields that deal with context as deeply complex input.</p><p>And on the output side, we have individual items and also item bundles, complementaries, sequences, repeated recommendations, etc. What do we actually want to present? And how? For who? And why? A ranked list as output may seem like an appropriate one-size-fits-all solution, does it?</p><p>In this talk, I will reflect on the complexity of our research field, reach out to related fields such as context-aware computing and pervasive advertising for inspiration, and I will raise a lot of questions that have yet to be answered.</p></p><div class=row>
-<div class=col-md-1></div><div class=col-md-10>
-<div class=row>
-<div class="col-12 col-md-3 pub-row-heading">Type</div><div class="col-12 col-md-9">
-<a href=/tag/publication/#1>
-Conference paper
-</a>
-</div></div></div><div class=col-md-1></div></div><div class="d-md-none space-below"></div><div class=row>
-<div class=col-md-1></div><div class=col-md-10>
-<div class=row>
-<div class="col-12 col-md-3 pub-row-heading">Publication</div><div class="col-12 col-md-9">Proceedings of the Recommendation in Complex Scenarios and the Impact of Recommender Systems 2020 (ComplexRec-ImpactRS 2020)</div></div></div><div class=col-md-1></div></div><div class="d-md-none space-below"></div><div class=space-below></div><div class=article-style></div><div class=share-box aria-hidden=true>
-<ul class=share>
-<li>
-<a href="https://twitter.com/intent/tweet?url=https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/&text=Ratings%20in,%20rankings%20out.%20Keep%20it%20simple,%20they%20said.%20But%20we%20need%20more%20than%20that." target=_blank rel=noopener class=share-btn-twitter>
-<i class="fab fa-twitter"></i>
-</a>
-</li><li>
-<a href="https://www.facebook.com/sharer.php?u=https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/&t=Ratings%20in,%20rankings%20out.%20Keep%20it%20simple,%20they%20said.%20But%20we%20need%20more%20than%20that." target=_blank rel=noopener class=share-btn-facebook>
-<i class="fab fa-facebook"></i>
-</a>
-</li><li>
-<a href="mailto:?subject=Ratings%20in,%20rankings%20out.%20Keep%20it%20simple,%20they%20said.%20But%20we%20need%20more%20than%20that.&body=https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/" target=_blank rel=noopener class=share-btn-email>
-<i class="fas fa-envelope"></i>
-</a>
-</li><li>
-<a href="https://www.linkedin.com/shareArticle?url=https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/&title=Ratings%20in,%20rankings%20out.%20Keep%20it%20simple,%20they%20said.%20But%20we%20need%20more%20than%20that." target=_blank rel=noopener class=share-btn-linkedin>
-<i class="fab fa-linkedin-in"></i>
-</a>
-</li><li>
-<a href="whatsapp://send?text=Ratings%20in,%20rankings%20out.%20Keep%20it%20simple,%20they%20said.%20But%20we%20need%20more%20than%20that.%20https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/" target=_blank rel=noopener class=share-btn-whatsapp>
-<i class="fab fa-whatsapp"></i>
-</a>
-</li><li>
-<a href="https://service.weibo.com/share/share.php?url=https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/&title=Ratings%20in,%20rankings%20out.%20Keep%20it%20simple,%20they%20said.%20But%20we%20need%20more%20than%20that." target=_blank rel=noopener class=share-btn-weibo>
-<i class="fab fa-weibo"></i>
-</a>
-</li></ul></div></div></div></div><div class=page-footer>
-<div class=container>
-<footer class=site-footer>
-<p class=powered-by>
-© 2022 Christine Bauer
-</p><p class=powered-by>
-Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target=_blank rel=noopener>Wowchemy</a> — the free, <a href=https://github.com/wowchemy/wowchemy-hugo-modules target=_blank rel=noopener>open source</a> website builder that empowers creators.
-</p></footer></div></div><div id=modal class="modal fade" role=dialog>
-<div class=modal-dialog>
-<div class=modal-content>
-<div class=modal-header>
-<h5 class=modal-title>Cite</h5><button type=button class=close data-dismiss=modal aria-label=Close>
-<span aria-hidden=true>&#215;</span>
-</button>
-</div><div class=modal-body>
-<pre><code class="tex hljs"></code></pre></div><div class=modal-footer>
-<a class="btn btn-outline-primary my-1 js-copy-cite" href=# target=_blank>
-<i class="fas fa-copy"></i> Copy
-</a>
-<a class="btn btn-outline-primary my-1 js-download-cite" href=# target=_blank>
-<i class="fas fa-download"></i> Download
-</a>
-<div id=modal-error></div></div></div></div></div><script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin=anonymous></script>
+<link href=https://christinebauer.eucss/custom.css rel=stylesheet><title>Ratings in, rankings out. Keep it simple, they said. But we need more than that. | Christine Bauer</title></head><body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class=page-wrapper data-wc-page-id=cb802bf470728f163e49a5ff41432e4e><script src=/js/wowchemy-init.min.fccf491147236875a545acccaebaf369.js></script><aside class=search-modal id=search><div class=container><section class=search-header><div class="row no-gutters justify-content-between mb-3"><div class=col-6><h1>Search</h1></div><div class="col-6 col-search-close"><a class=js-search href=# aria-label=Close><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a></div></div><div id=search-box><input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search class=form-control aria-label=Search...></div></section><section class=section-search-results><div id=search-hits></div></section></div></aside><div class=page-header><nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main><div class=container-xl><div class="d-none d-lg-inline-flex"><a class=navbar-brand href=/>Christine Bauer</a></div><button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar-content aria-expanded=false aria-label="Toggle navigation">
+<span><i class="fas fa-bars"></i></span></button><div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none"><a class=navbar-brand href=/>Christine Bauer</a></div><div class="navbar-collapse main-menu-item collapse justify-content-start" id=navbar-content><ul class="navbar-nav d-md-inline-flex"><li class=nav-item><a class=nav-link href=/bio/><span>Bio</span></a></li><li class=nav-item><a class=nav-link href=/awards/><span>Awards & Honors</span></a></li><li class=nav-item><a class=nav-link href=/funding/><span>Funding</span></a></li><li class=nav-item><a class="nav-link active" href=/publications/><span>Publications</span></a></li><li class=nav-item><a class=nav-link href=/talks/><span>Talks</span></a></li><li class=nav-item><a class=nav-link href=/teaching/><span>Teaching</span></a></li><li class=nav-item><a class=nav-link href=/service/><span>Community Service</span></a></li><li class=nav-item><a class=nav-link href=/media/><span>Media</span></a></li><li class=nav-item><a class=nav-link href=/#contact><span>Contact</span></a></li></ul></div><ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2"><li class=nav-item><a class="nav-link js-search" href=# aria-label=Search><i class="fas fa-search" aria-hidden=true></i></a></li></ul></div></nav></div><div class=page-body><div class=pub><div class="article-container pt-3"><h1>Ratings in, rankings out. Keep it simple, they said. But we need more than that.</h1><div class=article-metadata><div><span class=author-highlighted>Christine Bauer</span></div><span class=article-date>September 2020</span></div><div class="btn-links mb-3"><a class="btn btn-outline-primary btn-page-header" href=/publications/bauer-2020-complexrec-keynote/bauer-2020-complexrec-keynote.pdf target=_blank rel=noopener>PDF</a>
+<a href=# class="btn btn-outline-primary btn-page-header js-cite-modal" data-filename=/publications/bauer-2020-complexrec-keynote/cite.bib>Cite</a></div></div><div class=article-container><h3>Abstract</h3><p class=pub-abstract><p>Among the many viable research questions in the field of recommender systems, a frequently addressed problem is to accurately predict the relevance of individual items to users, with the goal of presenting the assumedly most relevant ones as recommendations. Typically, we have users’ (explicit or implicit) ratings as input and rankings of items as output. Complex enough, yet too simplistic to reflect reality and indeed meet the various demands in practice.</p><p>We have learned that “context matters”. But what does it mean? What is the context that matters? And how do we get the relevant signals? It is more than what we currently ascribe to and reflect in what we call “context-aware recommender systems”. Let’s have a view to related fields that deal with context as deeply complex input.</p><p>And on the output side, we have individual items and also item bundles, complementaries, sequences, repeated recommendations, etc. What do we actually want to present? And how? For who? And why? A ranked list as output may seem like an appropriate one-size-fits-all solution, does it?</p><p>In this talk, I will reflect on the complexity of our research field, reach out to related fields such as context-aware computing and pervasive advertising for inspiration, and I will raise a lot of questions that have yet to be answered.</p></p><div class=row><div class=col-md-1></div><div class=col-md-10><div class=row><div class="col-12 col-md-3 pub-row-heading">Type</div><div class="col-12 col-md-9"><a href=/tag/publication/#1>Conference paper</a></div></div></div><div class=col-md-1></div></div><div class="d-md-none space-below"></div><div class=row><div class=col-md-1></div><div class=col-md-10><div class=row><div class="col-12 col-md-3 pub-row-heading">Publication</div><div class="col-12 col-md-9">Proceedings of the Recommendation in Complex Scenarios and the Impact of Recommender Systems 2020 (ComplexRec-ImpactRS 2020)</div></div></div><div class=col-md-1></div></div><div class="d-md-none space-below"></div><div class=space-below></div><div class=article-style></div><div class=share-box aria-hidden=true><ul class=share><li><a href="https://twitter.com/intent/tweet?url=https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/&text=Ratings%20in,%20rankings%20out.%20Keep%20it%20simple,%20they%20said.%20But%20we%20need%20more%20than%20that." target=_blank rel=noopener class=share-btn-twitter><i class="fab fa-twitter"></i></a></li><li><a href="https://www.facebook.com/sharer.php?u=https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/&t=Ratings%20in,%20rankings%20out.%20Keep%20it%20simple,%20they%20said.%20But%20we%20need%20more%20than%20that." target=_blank rel=noopener class=share-btn-facebook><i class="fab fa-facebook"></i></a></li><li><a href="mailto:?subject=Ratings%20in,%20rankings%20out.%20Keep%20it%20simple,%20they%20said.%20But%20we%20need%20more%20than%20that.&body=https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/" target=_blank rel=noopener class=share-btn-email><i class="fas fa-envelope"></i></a></li><li><a href="https://www.linkedin.com/shareArticle?url=https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/&title=Ratings%20in,%20rankings%20out.%20Keep%20it%20simple,%20they%20said.%20But%20we%20need%20more%20than%20that." target=_blank rel=noopener class=share-btn-linkedin><i class="fab fa-linkedin-in"></i></a></li><li><a href="whatsapp://send?text=Ratings%20in,%20rankings%20out.%20Keep%20it%20simple,%20they%20said.%20But%20we%20need%20more%20than%20that.%20https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/" target=_blank rel=noopener class=share-btn-whatsapp><i class="fab fa-whatsapp"></i></a></li><li><a href="https://service.weibo.com/share/share.php?url=https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/&title=Ratings%20in,%20rankings%20out.%20Keep%20it%20simple,%20they%20said.%20But%20we%20need%20more%20than%20that." target=_blank rel=noopener class=share-btn-weibo><i class="fab fa-weibo"></i></a></li></ul></div></div></div></div><div class=page-footer><div class=container><footer class=site-footer><p class=powered-by>© 2022 Christine Bauer</p><p class=powered-by>Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target=_blank rel=noopener>Wowchemy</a> — the free, <a href=https://github.com/wowchemy/wowchemy-hugo-modules target=_blank rel=noopener>open source</a> website builder that empowers creators.</p></footer></div></div><div id=modal class="modal fade" role=dialog><div class=modal-dialog><div class=modal-content><div class=modal-header><h5 class=modal-title>Cite</h5><button type=button class=close data-dismiss=modal aria-label=Close>
+<span aria-hidden=true>&#215;</span></button></div><div class=modal-body><pre><code class="tex hljs"></code></pre></div><div class=modal-footer><a class="btn btn-outline-primary my-1 js-copy-cite" href=# target=_blank><i class="fas fa-copy"></i> Copy</a>
+<a class="btn btn-outline-primary my-1 js-download-cite" href=# target=_blank><i class="fas fa-download"></i> Download</a><div id=modal-error></div></div></div></div></div><script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin=anonymous></script>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin=anonymous></script>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin=anonymous></script>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin=anonymous></script>
@@ -186,9 +33,7 @@ Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target=_bl
             </div>
           </div>
         </div>
-      </script>
-<script src=https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin=anonymous></script>
+      </script><script src=https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin=anonymous></script>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin=anonymous></script>
 <script src=/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js></script>
-<script src=/en/js/wowchemy.min.c34d9a6ccf9d692f50771409b2008bab.js></script>
-</body></html>
+<script src=/en/js/wowchemy.min.c34d9a6ccf9d692f50771409b2008bab.js></script></body></html>
