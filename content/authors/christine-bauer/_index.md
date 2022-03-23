@@ -36,6 +36,9 @@ education:
   - course: Diploma (equivalent to Master degree) in International Business Administration
     institution: University of Vienna, Austria
     year: 2002
+  - course: Study of Jazz Saxophone
+    institution: Konservatorium der Stadt Wien, Austria
+#    year: not completed
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
