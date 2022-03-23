@@ -100,7 +100,7 @@ item:
   #paper: "C33"
   description: " IADIS International Conference e-Learning 2008 (e-Learning 2008) part of MCCSIS 2008"
   organization_url: ""
-  certificate_url: ""
+  certificate_url: "../images/awards/elearning2008_bestresearchpaper.jpeg"
   date_start: "2009-08-01"
 
 design:

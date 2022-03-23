@@ -22,11 +22,11 @@ profile: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  placement: 300
-  caption: ""
+  placement: 500
+  caption: "e-Learning 2008 Best Research Paper Award"
   focal_point: "Smart"
   preview_only: false
-  alt_text: ""
+  alt_text: "Certificate of the e-Learning 2008 Best Research Paper Award"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
