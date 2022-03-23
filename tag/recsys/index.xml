@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>recsys | Christine Bauer</title><link>www.christinebauer.eu/tag/recsys/</link><atom:link href="www.christinebauer.eu/tag/recsys/index.xml" rel="self" type="application/rss+xml"/><description>recsys</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate><image><url>/www.christinebauer.eu/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_512x512_fill_lanczos_center_3.png</url><title>recsys</title><link>www.christinebauer.eu/tag/recsys/</link></image><item><title>Multi-Method Evaluation of Adaptive Systems</title><link>www.christinebauer.eu/talks/tu01_umap2021_multimethods/</link><pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate><guid>www.christinebauer.eu/talks/tu01_umap2021_multimethods/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>recsys | Christine Bauer</title><link>https://chbeu.github.io/tag/recsys/</link><atom:link href="https://chbeu.github.io/tag/recsys/index.xml" rel="self" type="application/rss+xml"/><description>recsys</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate><image><url>https://chbeu.github.io/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_512x512_fill_lanczos_center_3.png</url><title>recsys</title><link>https://chbeu.github.io/tag/recsys/</link></image><item><title>Multi-Method Evaluation of Adaptive Systems</title><link>https://chbeu.github.io/talks/tu01_umap2021_multimethods/</link><pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/tu01_umap2021_multimethods/</guid><description>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
@@ -6,27 +6,27 @@
 Christine Bauer&lt;/span>
 &lt;/span>
 (2021).
-&lt;a href="www.christinebauer.eu/publications/bauer-2021-multimethods-tutorial/">Multi-Method Evaluation of Adaptive Systems&lt;/a>.
+&lt;a href="https://chbeu.github.io/publications/bauer-2021-multimethods-tutorial/">Multi-Method Evaluation of Adaptive Systems&lt;/a>.
 &lt;em>29th Conference on User Modeling, Adaptation and Personalization&lt;/em>.
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="www.christinebauer.eu/www.christinebauer.eu/publications/bauer-2021-multimethods-tutorial/bauer-2021-multimethods-tutorial.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2021-multimethods-tutorial/bauer-2021-multimethods-tutorial.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-data-filename="/www.christinebauer.eu/publications/bauer-2021-multimethods-tutorial/cite.bib">
+data-filename="/publications/bauer-2021-multimethods-tutorial/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="www.christinebauer.eu/project/multimethod/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/multimethod/">
 Project
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="www.christinebauer.eu/www.christinebauer.eu/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf" target="_blank" rel="noopener">
 Slides
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3450613.3457122" target="_blank" rel="noopener">
 DOI
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>The videos of all the ComplexRec2020 workshop talks are online</title><link>www.christinebauer.eu/post/_posts_wordpress/2020-11-27-the-videos-of-all-the-complexrec2020-workshop-talks-are-online/</link><pubDate>Fri, 27 Nov 2020 13:12:39 +0000</pubDate><guid>www.christinebauer.eu/post/_posts_wordpress/2020-11-27-the-videos-of-all-the-complexrec2020-workshop-talks-are-online/</guid><description>&lt;p>The videos of all &lt;a href="https://complexrec2020.aau.dk" rel="noopener noreferrer" target="_blank">ComplexRec 2020&lt;/a> workshop talks at &lt;a href="https://recsys.acm.org/recsys20/" rel="noopener noreferrer" target="_blank">RecSys 2020&lt;/a> – including my keynote – can now be found on the &lt;a href="https://youtu.be/nAevW75MzQA" rel="noopener noreferrer" target="_blank">RecSys YouTube channel&lt;/a>.&lt;/p>
+&lt;/div></description></item><item><title>The videos of all the ComplexRec2020 workshop talks are online</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-11-27-the-videos-of-all-the-complexrec2020-workshop-talks-are-online/</link><pubDate>Fri, 27 Nov 2020 13:12:39 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-11-27-the-videos-of-all-the-complexrec2020-workshop-talks-are-online/</guid><description>&lt;p>The videos of all &lt;a href="https://complexrec2020.aau.dk" rel="noopener noreferrer" target="_blank">ComplexRec 2020&lt;/a> workshop talks at &lt;a href="https://recsys.acm.org/recsys20/" rel="noopener noreferrer" target="_blank">RecSys 2020&lt;/a> – including my keynote – can now be found on the &lt;a href="https://youtu.be/nAevW75MzQA" rel="noopener noreferrer" target="_blank">RecSys YouTube channel&lt;/a>.&lt;/p>
 &lt;p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/nAevW75MzQA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
@@ -39,19 +39,19 @@ DOI
 Christine Bauer&lt;/span>
 &lt;/span>
 (2020).
-&lt;a href="www.christinebauer.eu/publications/bauer-2020-complexrec-keynote/">Ratings in, rankings out. Keep it simple, they said. But we need more than that.&lt;/a>.
+&lt;a href="https://chbeu.github.io/publications/bauer-2020-complexrec-keynote/">Ratings in, rankings out. Keep it simple, they said. But we need more than that.&lt;/a>.
 Proceedings of the Recommendation in Complex Scenarios and the Impact of Recommender Systems 2020 (ComplexRec-ImpactRS 2020).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="www.christinebauer.eu/www.christinebauer.eu/publications/bauer-2020-complexrec-keynote/bauer-2020-complexrec-keynote.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2020-complexrec-keynote/bauer-2020-complexrec-keynote.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-data-filename="/www.christinebauer.eu/publications/bauer-2020-complexrec-keynote/cite.bib">
+data-filename="/publications/bauer-2020-complexrec-keynote/cite.bib">
 Cite
 &lt;/a>
 &lt;/p>
 &lt;/div>
-&lt;/p></description></item><item><title>Ratings in, rankings out. Keep it simple, they said. But we need more than that.</title><link>www.christinebauer.eu/talks/kn01_complexrec2020/</link><pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate><guid>www.christinebauer.eu/talks/kn01_complexrec2020/</guid><description>&lt;p>
+&lt;/p></description></item><item><title>Ratings in, rankings out. Keep it simple, they said. But we need more than that.</title><link>https://chbeu.github.io/talks/kn01_complexrec2020/</link><pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/kn01_complexrec2020/</guid><description>&lt;p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/nAevW75MzQA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
@@ -63,18 +63,18 @@ Cite
 Christine Bauer&lt;/span>
 &lt;/span>
 (2020).
-&lt;a href="www.christinebauer.eu/publications/bauer-2020-complexrec-keynote/">Ratings in, rankings out. Keep it simple, they said. But we need more than that.&lt;/a>.
+&lt;a href="https://chbeu.github.io/publications/bauer-2020-complexrec-keynote/">Ratings in, rankings out. Keep it simple, they said. But we need more than that.&lt;/a>.
 Proceedings of the Recommendation in Complex Scenarios and the Impact of Recommender Systems 2020 (ComplexRec-ImpactRS 2020).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="www.christinebauer.eu/www.christinebauer.eu/publications/bauer-2020-complexrec-keynote/bauer-2020-complexrec-keynote.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2020-complexrec-keynote/bauer-2020-complexrec-keynote.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-data-filename="/www.christinebauer.eu/publications/bauer-2020-complexrec-keynote/cite.bib">
+data-filename="/publications/bauer-2020-complexrec-keynote/cite.bib">
 Cite
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>Keynote at ComplexRec 2020</title><link>www.christinebauer.eu/post/_posts_wordpress/2020-07-27-keynote-at-complexrec-2020/</link><pubDate>Mon, 27 Jul 2020 19:59:47 +0000</pubDate><guid>www.christinebauer.eu/post/_posts_wordpress/2020-07-27-keynote-at-complexrec-2020/</guid><description>&lt;p>I am honored to announce that I am invited to give the keynote at the &lt;a href="https://complexrec2020.aau.dk" rel="noopener noreferrer" target="_blank">4th Workshop on Recommendation in Complex Environments (ComplexRec 2020)&lt;/a>, co-located with &lt;a href="https://recsys.acm.org/recsys20/" rel="noopener noreferrer" target="_blank">RecSys 2020&lt;/a>. The &lt;strong>fancy&lt;/strong> ;-) title of my talk is: &lt;em>Ratings in, rankings out. Keep it simple, they said. But we need more than that.&lt;/em>&lt;/p>
+&lt;/div></description></item><item><title>Keynote at ComplexRec 2020</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-07-27-keynote-at-complexrec-2020/</link><pubDate>Mon, 27 Jul 2020 19:59:47 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-07-27-keynote-at-complexrec-2020/</guid><description>&lt;p>I am honored to announce that I am invited to give the keynote at the &lt;a href="https://complexrec2020.aau.dk" rel="noopener noreferrer" target="_blank">4th Workshop on Recommendation in Complex Environments (ComplexRec 2020)&lt;/a>, co-located with &lt;a href="https://recsys.acm.org/recsys20/" rel="noopener noreferrer" target="_blank">RecSys 2020&lt;/a>. The &lt;strong>fancy&lt;/strong> ;-) title of my talk is: &lt;em>Ratings in, rankings out. Keep it simple, they said. But we need more than that.&lt;/em>&lt;/p>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
@@ -82,21 +82,21 @@ Cite
 Christine Bauer&lt;/span>
 &lt;/span>
 (2020).
-&lt;a href="www.christinebauer.eu/publications/bauer-2020-complexrec-keynote/">Ratings in, rankings out. Keep it simple, they said. But we need more than that.&lt;/a>.
+&lt;a href="https://chbeu.github.io/publications/bauer-2020-complexrec-keynote/">Ratings in, rankings out. Keep it simple, they said. But we need more than that.&lt;/a>.
 Proceedings of the Recommendation in Complex Scenarios and the Impact of Recommender Systems 2020 (ComplexRec-ImpactRS 2020).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="www.christinebauer.eu/www.christinebauer.eu/publications/bauer-2020-complexrec-keynote/bauer-2020-complexrec-keynote.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2020-complexrec-keynote/bauer-2020-complexrec-keynote.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-data-filename="/www.christinebauer.eu/publications/bauer-2020-complexrec-keynote/cite.bib">
+data-filename="/publications/bauer-2020-complexrec-keynote/cite.bib">
 Cite
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>Best Reviewer Award RecSys 2019</title><link>www.christinebauer.eu/post/_posts_wordpress/2019-09-18-best-reviewer-award-recsys-2019/</link><pubDate>Wed, 18 Sep 2019 12:40:59 +0000</pubDate><guid>www.christinebauer.eu/post/_posts_wordpress/2019-09-18-best-reviewer-award-recsys-2019/</guid><description>&lt;p>I am happy having received RecSys 2019&amp;rsquo;s Best Reviewer Award.&lt;/p>
+&lt;/div></description></item><item><title>Best Reviewer Award RecSys 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-09-18-best-reviewer-award-recsys-2019/</link><pubDate>Wed, 18 Sep 2019 12:40:59 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-09-18-best-reviewer-award-recsys-2019/</guid><description>&lt;p>I am happy having received RecSys 2019&amp;rsquo;s Best Reviewer Award.&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Recognizing best reviewers at &lt;a href="https://twitter.com/hashtag/recsys2019?src=hash&amp;amp;ref_src=twsrc%5Etfw">#recsys2019&lt;/a> &lt;a href="https://twitter.com/m_schedl?ref_src=twsrc%5Etfw">@m_schedl&lt;/a> &lt;a href="https://twitter.com/christine_bauer?ref_src=twsrc%5Etfw">@christine_bauer&lt;/a> &lt;a href="https://twitter.com/sandrewge?ref_src=twsrc%5Etfw">@sandrewge&lt;/a> &lt;a href="https://twitter.com/peter_knees?ref_src=twsrc%5Etfw">@peter_knees&lt;/a> -- Thanks for all the hard work! &lt;a href="https://t.co/OLyqU7YzW3">pic.twitter.com/OLyqU7YzW3&lt;/a>&lt;/p>&amp;mdash; Sole Pera (@DrCh0le) &lt;a href="https://twitter.com/DrCh0le/status/1174041924220661761?ref_src=twsrc%5Etfw">September 17, 2019&lt;/a>&lt;/blockquote>
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>Tutor Sessions at the RecSys Summer School 2019</title><link>www.christinebauer.eu/post/_posts_wordpress/2019-09-06-tutor-sessions-at-the-recsys-summer-school/</link><pubDate>Fri, 06 Sep 2019 20:02:18 +0000</pubDate><guid>www.christinebauer.eu/post/_posts_wordpress/2019-09-06-tutor-sessions-at-the-recsys-summer-school/</guid><description>&lt;p>I am happy to announce that Martijn C. Willemsen and I organize &lt;a href="https://acmrecsys.github.io/rsss2019/recsys_summerschool_tutorassignment.pdf" rel="noopener noreferrer" target="_blank">tutor sessions&lt;/a> in scope of the &lt;a href="https://acmrecsys.github.io/rsss2019/" rel="noopener noreferrer" target="_blank">RecSys Summer School 2019&lt;/a>. The idea is that each participant can discuss the specific research goals and questions with senior researchers/teachers of the summer school and fellow students.&lt;/p>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>Tutor Sessions at the RecSys Summer School 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-09-06-tutor-sessions-at-the-recsys-summer-school/</link><pubDate>Fri, 06 Sep 2019 20:02:18 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-09-06-tutor-sessions-at-the-recsys-summer-school/</guid><description>&lt;p>I am happy to announce that Martijn C. Willemsen and I organize &lt;a href="https://acmrecsys.github.io/rsss2019/recsys_summerschool_tutorassignment.pdf" rel="noopener noreferrer" target="_blank">tutor sessions&lt;/a> in scope of the &lt;a href="https://acmrecsys.github.io/rsss2019/" rel="noopener noreferrer" target="_blank">RecSys Summer School 2019&lt;/a>. The idea is that each participant can discuss the specific research goals and questions with senior researchers/teachers of the summer school and fellow students.&lt;/p>
 &lt;p>Participation is highly recommended (especially for for PhD and MSc students), but optional. For more information, have a look at the &lt;a href="https://acmrecsys.github.io/rsss2019/recsys_summerschool_tutorassignment.pdf" rel="noopener noreferrer" target="_blank">assignment&lt;/a>.&lt;/p>
-&lt;p>We kindly ask you to sign up via the following &lt;a href="https://forms.gle/caQeMZqHZVQs1k1B8" rel="noopener noreferrer" target="_blank">Google form&lt;/a> before Sunday, 8 September, 21h, as we will need some time to plan the sessions.&lt;/p></description></item><item><title>Speaker at RecSys Summer School 2019</title><link>www.christinebauer.eu/post/_posts_wordpress/2019-07-01-speaker-at-recsys-summer-school-2019/</link><pubDate>Mon, 01 Jul 2019 22:45:08 +0000</pubDate><guid>www.christinebauer.eu/post/_posts_wordpress/2019-07-01-speaker-at-recsys-summer-school-2019/</guid><description>&lt;p>I am happy to be a speaker at &lt;a href="https://acmrecsys.github.io/rsss2019/" rel="noopener noreferrer" target="_blank">ACM Summer School on Recommender Systems&lt;/a> taking place in Gothenburg, Sweden, just a week before the official &lt;a href="https://recsys.acm.org/recsys19/" rel="noopener noreferrer" target="_blank">RecSys 2019&lt;/a> in Copenhagen, Denmark.&lt;/p></description></item><item><title>Best Reviewer – Runner-Up at RecSys 2018</title><link>www.christinebauer.eu/post/_posts_wordpress/2018-10-06-best-reviewer-runner-up-at-recsys-2018/</link><pubDate>Sat, 06 Oct 2018 13:31:03 +0000</pubDate><guid>www.christinebauer.eu/post/_posts_wordpress/2018-10-06-best-reviewer-runner-up-at-recsys-2018/</guid><description>&lt;p>I am honored being runner-up for the Best Reviewer Award at RecSys 2018.&lt;/p>
+&lt;p>We kindly ask you to sign up via the following &lt;a href="https://forms.gle/caQeMZqHZVQs1k1B8" rel="noopener noreferrer" target="_blank">Google form&lt;/a> before Sunday, 8 September, 21h, as we will need some time to plan the sessions.&lt;/p></description></item><item><title>Speaker at RecSys Summer School 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-07-01-speaker-at-recsys-summer-school-2019/</link><pubDate>Mon, 01 Jul 2019 22:45:08 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-07-01-speaker-at-recsys-summer-school-2019/</guid><description>&lt;p>I am happy to be a speaker at &lt;a href="https://acmrecsys.github.io/rsss2019/" rel="noopener noreferrer" target="_blank">ACM Summer School on Recommender Systems&lt;/a> taking place in Gothenburg, Sweden, just a week before the official &lt;a href="https://recsys.acm.org/recsys19/" rel="noopener noreferrer" target="_blank">RecSys 2019&lt;/a> in Copenhagen, Denmark.&lt;/p></description></item><item><title>Best Reviewer – Runner-Up at RecSys 2018</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-10-06-best-reviewer-runner-up-at-recsys-2018/</link><pubDate>Sat, 06 Oct 2018 13:31:03 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-10-06-best-reviewer-runner-up-at-recsys-2018/</guid><description>&lt;p>I am honored being runner-up for the Best Reviewer Award at RecSys 2018.&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">&lt;a href="https://twitter.com/christine_bauer?ref_src=twsrc%5Etfw">@christine_bauer&lt;/a> congrats, runner-up &lt;a href="https://t.co/5k0trWQHMC">pic.twitter.com/5k0trWQHMC&lt;/a>&lt;/p>&amp;mdash; Marko Tkalčič (@RecSysMare) &lt;a href="https://twitter.com/RecSysMare/status/1048087921973055489?ref_src=twsrc%5Etfw">October 5, 2018&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item></channel></rss>
