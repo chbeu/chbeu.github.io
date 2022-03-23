@@ -59,6 +59,11 @@
   {{ if gt $featured.Width 300 }}
     {{ $image = $featured.Resize "300x" }}
   {{ end }}
+{{ else if eq $placement 500}}
+  {{ $image_container = "container" }}
+  {{ if gt $featured.Width 500 }}
+    {{ $image = $featured.Resize "500x" }}
+  {{ end }}
 {{else}}
   {{ $image_container = "article-container" }}
   {{ if gt $featured.Width 720 }}
