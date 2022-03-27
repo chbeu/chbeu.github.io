@@ -33,7 +33,7 @@ all_day: false
 publishDate: 2022-02-28T22:16:51+01:00
 
 #authors: ["Christine Bauer"]
-tags: [talk, keynote, international women's day, music, gender bias]
+tags: [talk, keynote, international women's day, music, artists, gender bias]
 
 # Is this a featured event? (true/false)
 featured: false
