@@ -38,7 +38,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-03-11T00:00:00Z"
 
-authors: []
+authors: [Christine Bauer, Verena Krawarik, Michael Litschka, Anna Michalski, Florian Saurwein]
 tags: [panel, FH St. Pölten, media, artificial intelligence, ethics, algorithms]
 
 # Is this a featured talk? (true/false)
@@ -47,7 +47,7 @@ featured: false
 image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
-  preview_only: true
+  preview_only: false
 
 links:
 #- icon: twitter
