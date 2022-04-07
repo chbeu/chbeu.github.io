@@ -44,20 +44,24 @@ tags: [panel, FH St. Pölten, media, artificial intelligence, ethics, algorithms
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
-  preview_only: false
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+#image:
+#  caption: ""
+#  focal_point: ""
+#  preview_only: false
 
-links:
+#links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Tweet
 #  url: https://twitter.com/christine_bauer
+
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
-#url_video: ""
+#url_video: "https://youtu.be/Sm21fQEfnRc"
 
 
 # Markdown Slides (optional).
@@ -76,5 +80,8 @@ links:
 #- internal-project
 ---
 
+{{< youtube Sm21fQEfnRc >}}
+
+<br>
 
 [Press release (in German)](20220310_PA_Symposium_Medienethik.pdf)
