@@ -13,6 +13,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 
 event: Lunchtime Seminar series---Universität Innsbruck
 event_url: https://www.uibk.ac.at/informatik/forschung/lunchtime-seminar/events/2022-04-07.html
+
 location: Universität Innsbruck, online
 address:
 #  street: 
@@ -20,6 +21,7 @@ address:
 #  region:
 #  postcode:
   country: Austria
+
 summary: Invited talk at the Department of Computer Science at the Universität Innsbruck.
 abstract: "Algorithmic curation has been adopted by online music platforms to assist listeners in navigating the huge catalogs of music recordings. An ideal music recommender system is meant to propose 'the right music, to the right user, at the right moment'. What happens if a music recommender does not consider country-specific variations in music taste? And what happens if so? Besides showcasing country-specific differences in music taste, I will demonstrate performance differences of recommender approaches with and without considering the country context."
 
