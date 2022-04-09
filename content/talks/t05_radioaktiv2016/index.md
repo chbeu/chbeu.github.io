@@ -11,7 +11,7 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 event: "Jahrestagung des Instituts für Rundfunkökonomie: Hörfunk-Innovationen: Auf dem Weg zum interaktiven Radio"
-event_url: ""
+event_url: "http://www.rundfunk-institut.uni-koeln.de/institut/tagungen/2007.php"
 
 location: University of Cologne
 address:
@@ -51,7 +51,8 @@ links:
 #url_code: ""
 #url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: https://youtu.be/O3vA-N8F6P0
+url_program: "t05_radioaktiv2016/hoerfunkinnovationen2016_tagungsprogramm.pdf"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -69,4 +70,9 @@ url_video: ""
 #- internal-project
 ---
 
-{{< gallery album="t05_radioaktiv2016" >}}
+{{< gallery album="t05_radioaktiv2016" >}}   
+
+<br>  
+<br>  
+
+{{< youtube O3vA-N8F6P0 >}}   
