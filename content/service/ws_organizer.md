@@ -21,6 +21,16 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - workshop: "PERSPECTIVES 2022"
+    role: Workshop Co-Organizer
+    date_start: "2022-09-01" #-09-25"
+#    date_end: "2021-10-01"
+    longtitle: "2nd Workshop on the Perspectives on the Evaluation of Recommender Systems"
+    description: "with Eva Zangerle and Alan Said"
+    conf: "16th ACM Conference on Recommender Systems (RecSys 2022)"
+    #workshop_url: "https://perspectives-ws.github.io/2022/"
+    conf_url: "https://recsys.acm.org/recsys22/"
+    #proceedings_url: "http://ceur-ws.org/Vol-2955/"
   - workshop: "PERSPECTIVES 2021"
     role: Workshop Co-Organizer
     date_start: "2021-09-25"
@@ -29,7 +39,7 @@ item:
     description: "with Eva Zangerle and Alan Said"
     conf: "15th ACM Conference on Recommender Systems (RecSys 2021)"
     workshop_url: "https://perspectives-ws.github.io/2021/"
-    conf_url: "https://recsys2021.acm.org"
+    conf_url: "https://recsys.acm.org/recsys21/"
     proceedings_url: "http://ceur-ws.org/Vol-2955/"
   - workshop: "IUadaptMe 2018"
     longtitle: "Workshop on Intelligent User-Adapted Interfaces: Design and Multi-Modal Evaluation"
