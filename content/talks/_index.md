@@ -16,7 +16,11 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+#header:
+#  caption: ""
+#  image: ""
+
+image:
+  caption: 'Image credit: [**Kurt Hörbst**](https://www.hoerbst.com), 2020.' 
+
 ---

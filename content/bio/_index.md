@@ -17,7 +17,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: "(c) 2020 Kurt Hörbst."
+  caption: 'Image credit: [**Kurt Hörbst**](https://www.hoerbst.com), 2020.' 
   focal_point: "Center"
   preview_only: false
   alt_text: ""
