@@ -33,7 +33,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-10-28T00:00:00Z"
 
-authors: []
+authors: [Christine Bauer, Stefan Biffl, Peter Purgathofer, Stefan Szeider]
 tags: [panel, TU Wien, computational thinking, ways of thinking, informatics, computer science, teaching]
 
 # Is this a featured talk? (true/false)

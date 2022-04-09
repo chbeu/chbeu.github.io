@@ -39,9 +39,10 @@ tags: [talk, privacy, privacyweek, self-disclosure, c3w]
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
+image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
+  placement: 500
 
 links:
 #- icon: twitter

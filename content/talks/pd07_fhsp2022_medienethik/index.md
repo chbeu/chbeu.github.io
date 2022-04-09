@@ -47,10 +47,11 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
+image:
 #  caption: ""
 #  focal_point: ""
 #  preview_only: false
+  placement: 300
 
 #links:
 #- icon: twitter
@@ -61,7 +62,7 @@ featured: false
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
-#url_video: "https://youtu.be/Sm21fQEfnRc"
+url_video: "https://youtu.be/Sm21fQEfnRc"
 
 
 # Markdown Slides (optional).
