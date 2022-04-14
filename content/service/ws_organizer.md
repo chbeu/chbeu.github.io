@@ -28,7 +28,7 @@ item:
     longtitle: "2nd Workshop on the Perspectives on the Evaluation of Recommender Systems"
     description: "with Eva Zangerle and Alan Said"
     conf: "16th ACM Conference on Recommender Systems (RecSys 2022)"
-    #workshop_url: "https://perspectives-ws.github.io/2022/"
+    workshop_url: "https://perspectives-ws.github.io/2022/"
     conf_url: "https://recsys.acm.org/recsys22/"
     #proceedings_url: "http://ceur-ws.org/Vol-2955/"
   - workshop: "PERSPECTIVES 2021"
