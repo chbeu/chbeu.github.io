@@ -23,6 +23,7 @@ interests:
 - Recommender systems
 - Human-centered computing
 - Fairness
+- Multi-method evaluation
 
 # Education to show in About widget
 education:
