@@ -14,7 +14,7 @@ tags:
   - artificial intelligence
   - human-centric
   - talk
-  - ngi
+  - NGI
 ---
 You can find a nice summary (in German) of the third NGI event on ''AI and beyond'', where I gave a talk last month.  
 <a href="https://ngi.ait.ac.at/aftermath-to-ngi3-ai-and-beyond/" rel="noopener noreferrer" target="_blank">https://ngi.ait.ac.at/aftermath-to-ngi3-ai-and-beyond/</a>

@@ -14,6 +14,8 @@ tags:
   - digital signage
   - publication
   - interdisciplinary
+  - retail
+  - marketing
 ---
 I like interdisciplinary work. The paper on ''Research directions for digital signage systems in retail'' is joint efforts from informatics, (e-)business, marketing, and consumer behavior.
 

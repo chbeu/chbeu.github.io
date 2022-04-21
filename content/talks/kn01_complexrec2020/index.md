@@ -40,7 +40,7 @@ all_day: true
 publishDate: "2021-08-01T00:00:00Z"
 
 #authors: ["Christine Bauer"]
-tags: [keynote, talk, ComplexRec, recsys, context]
+tags: [keynote, talk, ComplexRec, RecSys, context, recommender systems]
 
 # Is this a featured talk? (true/false)
 featured: true

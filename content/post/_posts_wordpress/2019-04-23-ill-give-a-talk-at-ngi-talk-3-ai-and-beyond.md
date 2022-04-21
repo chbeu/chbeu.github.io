@@ -14,7 +14,7 @@ tags:
   - artificial intelligence
   - human-centric
   - talk
-  - ngi
+  - NGI
 ---
 I am happy to announce that I will give a talk at the event <a href="https://ngi.ait.ac.at/event/ngi-talk-3-ai-and-beyond/" rel="noopener noreferrer" target="_blank">NGI Talk #3: AI and beyond</a> on ''How will AI change the way we perceive and interact with computers?''
 

@@ -14,7 +14,8 @@ tags:
   - multi-methods
   - recommender systems
   - workshop
-  - umap
+  - UMAP
+  - evaluation
 ---
 Together with <a href="https://www.evazangerle.at" target="_blank" rel="noopener noreferrer">Eva Zangerle</a> and <a href="https://www.usabart.nl" target="_blank" rel="noopener noreferrer">Bart Knijnenburg</a>, I will organize a workshop on _<a href="http://multimethods.info" rel="noopener noreferrer" target="_blank">Multi-Method Evaluation of Personalized Systems (MuMe 2018)</a>_ in scope of the <a href="http://www.um.org/umap2018/" rel="noopener noreferrer" target="_blank">26th Conference on User Modeling, Adaptation and Personalization (UMAP 2018)</a> in Singapore!
 <br>

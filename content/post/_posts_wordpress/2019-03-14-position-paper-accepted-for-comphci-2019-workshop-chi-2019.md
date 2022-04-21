@@ -14,7 +14,7 @@ tags:
   - music
   - publication
   - recommender systems
-  - chi
+  - CHI
 ---
 I am proud to announce that my position paper on ''The Potential of the Confluence of Theoretical and Algorithmic Modeling in Music Recommendation'' has been accepted for the ACM CHI 2019 Workshop on &#8220;<a href="https://hcicompmodeling.wordpress.com" rel="noopener noreferrer" target="_blank">Computational Modeling in Human-Computer Interaction (CompHCI 2019)</a>&#8220;.
 

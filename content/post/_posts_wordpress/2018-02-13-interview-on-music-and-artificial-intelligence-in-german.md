@@ -14,6 +14,7 @@ tags:
   - artificial intelligence
   - media
   - music
+  - communication to the public
 ---
 I was interviewed for <a href="https://noisey.vice.com/alps" rel="noopener noreferrer" target="_blank">Noisey Austria</a> (an online youth magazine) on music and artificial intelligence (in German):  
 <a href="https://noisey.vice.com/alps/article/ywqpqy/roboter-statt-popstars-was-bedeutet-kunstliche-intelligenz-fur-die-musikwelt" rel="noopener noreferrer" target="_blank">https://noisey.vice.com/alps/article/ywqpqy/roboter-statt-popstars-was-bedeutet-kunstliche-intelligenz-fur-die-musikwelt</a>

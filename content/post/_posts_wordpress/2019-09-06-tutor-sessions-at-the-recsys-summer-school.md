@@ -15,8 +15,9 @@ tags:
   - multi-methods
   - recommender systems
   - teaching
-  - recsys
+  - RecSys
   - summer school
+  - evaluation
 ---
 I am happy to announce that Martijn C. Willemsen and I organize <a href="https://acmrecsys.github.io/rsss2019/recsys_summerschool_tutorassignment.pdf" rel="noopener noreferrer" target="_blank">tutor sessions</a> in scope of the <a href="https://acmrecsys.github.io/rsss2019/" rel="noopener noreferrer" target="_blank">RecSys Summer School 2019</a>. The idea is that each participant can discuss the specific research goals and questions with senior researchers/teachers of the summer school and fellow students.
 

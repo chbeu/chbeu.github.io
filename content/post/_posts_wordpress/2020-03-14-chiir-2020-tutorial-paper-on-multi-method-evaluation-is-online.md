@@ -11,10 +11,13 @@ zincy_lite_sidebar_layout:
 categories:
   - news
 tags:
-  - chiir
+  - CHIIR
   - multi-methods
   - publication
   - tutorial
+  - evaluation
+  - recommender systems
+  - information retrieval
 ---
 While <a href="http://sigir.org/chiir2020/" rel="noopener noreferrer" target="_blank">CHIIR 2020</a> had to be cancelled due to the current global situation with Covid-19, the paper accompanying the tutorial on multi-method evaluation (that I would have held there) is published.
 

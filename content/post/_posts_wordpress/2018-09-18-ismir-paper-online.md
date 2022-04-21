@@ -14,7 +14,7 @@ tags:
   - music
   - online social networks
   - publication
-  - ismir
+  - ISMIR
 ---
 The ISMIR paper co-authored with Markus Schedl is online. The paper is entitled ''Investigating cross-country relationship between users' social ties and music mainstreaminess''.
 

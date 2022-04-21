@@ -14,7 +14,7 @@ tags:
   - music
   - online social networks
   - publication
-  - chi
+  - CHI
 ---
 I am proud to announce that the late breaking work paper on ''Cross-country user connections in an online social network for music'' that I co-authored with Markus Schedl has been accepted for CHI 2019.
 

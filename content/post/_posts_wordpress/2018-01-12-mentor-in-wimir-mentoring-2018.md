@@ -13,6 +13,6 @@ categories:
 tags:
   - mentoring
   - music
-  - wimir
+  - WiMIR
 ---
 This month I start mentoring a young female researcher as part of the <a href="https://wimir.wordpress.com/2018/01/11/mentoring-round-2018-is-about-to-start/" target="_blank" rel="noopener noreferrer">WiMIR mentoring 2018</a> program. I am looking forward to this ''journey''.

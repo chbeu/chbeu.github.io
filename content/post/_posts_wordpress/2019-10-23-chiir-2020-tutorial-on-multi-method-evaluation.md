@@ -14,7 +14,10 @@ tags:
   - multi-methods
   - teaching
   - tutorial
-  - chiir
+  - CHIIR
+  - evaluation
+  - recommender systems
+  - information retrieval
 ---
 I am happy to announce that I will give a tutorial with the title ''Leveraging multiple methods to answer what you were looking for'' at <a href="http://sigir.org/chiir2020/" rel="noopener noreferrer" target="_blank">CHIIR 2020</a>. Details will follow.
 

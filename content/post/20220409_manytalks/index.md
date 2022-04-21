@@ -7,7 +7,7 @@ summary: "I had a busy week with talks. Great that we have not the opportunity f
 authors: []
 #authors: [Christine Bauer]
 categories: [news]
-tags: []
+tags: [recommender systems, talks, fairness, music, ethics]
 date: 2022-04-09T22:45:06+02:00
 lastmod: 2022-04-09T22:45:06+02:00
 featured: false

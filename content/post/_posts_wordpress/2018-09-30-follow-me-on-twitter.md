@@ -12,7 +12,7 @@ categories:
   - news
 tags:
   - outreach
-  - twitter
+  - Twitter
 ---
 Finally, I also started engaging on Twitter. Come, and follow me!  
 <a href="https://twitter.com/christine_bauer" rel="noopener noreferrer" target="_blank">https://twitter.com/christine_bauer</a>

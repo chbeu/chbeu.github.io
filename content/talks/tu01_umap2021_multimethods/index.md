@@ -39,7 +39,7 @@ all_day: true
 publishDate: "2021-08-01T00:00:00Z"
 
 #authors: [Christine Bauer]
-tags: [tutorial, UMAP, multi-methods, evaluation, adaptive systems, recsys]
+tags: [tutorial, UMAP, multi-methods, evaluation, adaptive systems, recommender systems]
 
 # Is this a featured talk? (true/false)
 featured: true

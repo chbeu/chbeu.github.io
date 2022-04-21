@@ -15,6 +15,8 @@ tags:
   - music
   - recommender systems
   - radio
+  - ORF
+  - Ö1
 ---
 Next week, Ö1 Radiokolleg (by the Austrian public broadcaster ORF) devotes to the topic of music and algorithms, and their impact on the music industry. The program is called <a href="https://oe1.orf.at/programm/20190930/573343" rel="noopener noreferrer" target="_blank">Maschinenmusik</a>.  
 I am among the experts interviewed for this program which is broadcasted throughout the week. I will appear in part 2 (Tuesday) and 4 (Thursday).

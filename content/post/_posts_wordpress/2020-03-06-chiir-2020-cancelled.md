@@ -11,7 +11,7 @@ zincy_lite_sidebar_layout:
 categories:
   - news
 tags:
-  - chiir
+  - CHIIR
   - multi-methods
   - tutorial
 ---

@@ -5,8 +5,8 @@ title: "Launch of the new journal ACM Transactions on Recommender Systems (TORS)
 subtitle: ""
 summary: "The new journal ACM Transactions on Recommender Systems (TORS) has launched its website and is ready to accept submissions."
 #authors: [Christine Bauer]
-tags: [TORS, recommender systems]
 categories: [news]
+tags: [TORS, recommender systems, journal]
 date: 2022-03-04T16:45:05+01:00
 lastmod: 2022-03-04T16:45:05+01:00
 featured: false

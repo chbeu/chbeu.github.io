@@ -16,7 +16,8 @@ tags:
   - recommender systems
   - talk
   - teaching
-  - recsys
+  - RecSys
   - summer school
+  - evaluation
 ---
 I am happy to be a speaker at <a href="https://acmrecsys.github.io/rsss2019/" rel="noopener noreferrer" target="_blank">ACM Summer School on Recommender Systems</a> taking place in Gothenburg, Sweden, just a week before the official <a href="https://recsys.acm.org/recsys19/" rel="noopener noreferrer" target="_blank">RecSys 2019</a> in Copenhagen, Denmark.

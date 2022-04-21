@@ -14,6 +14,7 @@ tags:
   - media
   - music
   - recommender systems
+  - communication to the public
 ---
 It's great to see our scientific results being communicated to the public. Our results were well received on the media.
 

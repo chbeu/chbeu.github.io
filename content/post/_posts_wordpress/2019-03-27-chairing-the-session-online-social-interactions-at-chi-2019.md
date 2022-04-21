@@ -12,7 +12,7 @@ categories:
   - news
 tags:
   - online social networks
-  - chi
+  - CHI
   - session chair
 ---
 I am pleased to announce that I will chair the session on _Online Social Interactions_ at <a href="https://chi2019.acm.org" rel="noopener noreferrer" target="_blank">CHI 2019</a>.  

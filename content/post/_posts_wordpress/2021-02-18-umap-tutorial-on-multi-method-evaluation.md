@@ -17,6 +17,7 @@ tags:
   - recommender systems
   - tutorial
   - UMAP
+  - evaluation
 ---
 I am looking forward to give a tutorial on <a href="https://www.um.org/umap2021/program/tutorials#T02" rel="noopener" target="_blank">Multi-method evaluation of adaptive systems: Why and how?</a> at <a href="https://www.um.org/umap2021/" rel="noopener" target="_blank">UMAP 2021</a>.
 

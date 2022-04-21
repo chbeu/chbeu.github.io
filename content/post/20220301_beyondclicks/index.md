@@ -5,8 +5,8 @@ title: "Kick-off meeting of our project on value-driven recommendations."
 subtitle: ""
 summary: ""
 authors: []
-tags: [recommender systems, kick-off, value-driven, project]
 categories: [news]
+tags: [recommender systems, kick-off, value-driven, project, news, DPG Media]
 date: 2022-03-01T23:10:18+01:00
 lastmod: 2022-03-15T23:10:18+01:00
 featured: false

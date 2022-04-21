@@ -11,10 +11,13 @@ zincy_lite_sidebar_layout:
 categories:
   - news
 tags:
-  - chiir
+  - CHIIR
   - multi-methods
   - teaching
   - tutorial
+  - evaluation
+  - recommender systems
+  - information retrieval
 ---
 Are you interested in attending my <a href="https://sigir.org/chiir2020/" rel="noopener noreferrer" target="_blank">CHIIR 2020</a> tutorial on multi-method evaluation (Leveraging multiple methods to answer what you were looking for)?
 

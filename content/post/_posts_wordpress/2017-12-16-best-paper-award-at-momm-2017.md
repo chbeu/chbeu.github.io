@@ -15,6 +15,7 @@ tags:
   - music
   - publication
   - recommender systems
+  - MoMM
 ---
 Markus Schedl and me, we received the Best Paper Award at MoMM 2017 for our article entitled ''Introducing global and regional mainstreaminess for improving personalized music recommendation''.
 

@@ -10,7 +10,7 @@ authors:
 - Christine Bauer
 - Marta Kholodylo
 - Christine Strauss
-tags: [music recommender system, artist, non-superstar]
+tags: [music, artists, non-superstar, recommender systems]
 categories: []
 date: 2017-06-18 #18-21 June
 lastmod: 2021-08-08T03:11:16+02:00

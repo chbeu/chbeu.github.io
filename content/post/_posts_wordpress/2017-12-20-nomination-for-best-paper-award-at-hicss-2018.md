@@ -15,6 +15,7 @@ tags:
   - online self-disclosure
   - privacy
   - publication
+  - HICSS
 ---
 The paper entitled ''An Open Model for Researching the Role of Culture in Online Self-Disclosure'' that I co-authored with Katharina Sophie Schmid and Christine Strauss is nominated for the Best Paper Award at HICSS 2018.
 <br>

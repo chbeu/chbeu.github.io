@@ -13,7 +13,7 @@ categories:
 tags:
   - award
   - recommender systems
-  - recsys
+  - RecSys
   - best reviewer
 ---
 I am honored being runner-up for the Best Reviewer Award at RecSys 2018.
