@@ -29,7 +29,7 @@ feature:
   icon: chalkboard-teacher
   icon_pack: fas
 - name: Community service
-  description: PC Co-Chair (e.g., RecSys, UMAP, CHI)<br>Meta-Reviewer (e.g., CHI, ISMIR, UMAP)<br>Reviewer for >20 journals and >100 conferences
+  description: AE at TORS<br>PC Co-Chair (e.g., RecSys, UMAP, CHI)<br>Meta-Reviewer (e.g., CHI, ISMIR, UMAP)<br>Reviewer for >20 journals and >100 conferences
   icon: users
   icon_pack: fas
 - name: International experience
