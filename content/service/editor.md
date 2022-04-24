@@ -27,7 +27,7 @@ date_format:  Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: 'Guest Editor: Special Issue on Perspectives on Recommender Systems Evaluation'
+  - title: "Guest Editor: Special Issue  'Perspectives on Recommender Systems Evaluation"
     company: ACM Transactions on Recommender Systems
     company_url: 'https://dl.acm.org/journal/tors'
     company_logo: acm
@@ -46,14 +46,14 @@ experience:
     #date_end: '2020-01-31'
     #description:  Associate Editor
     
-  - title: 'Guest Editor: Human Issues in Recommender Systems'
+  - title: "Guest Editor: Research Topic 'Human Issues in Recommender Systems'"
     company: Frontiers in Big Data---Recommender Systems
     company_url: 'https://www.frontiersin.org/journals/big-data/sections/recommender-systems'
     company_logo: frontiers
     #location: Austria
     date_start: '2021-06-01'
     date_end: '2022-05-31'
-    description:  with Bruce Ferwerda
+    description:  with Bruce Ferwerda<br>[Link to Research Topic](https://www.frontiersin.org/research-topics/23412/human-issues-in-recommender-systems#overview)
     
 
 design:
