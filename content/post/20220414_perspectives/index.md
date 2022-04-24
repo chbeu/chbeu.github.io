@@ -7,7 +7,7 @@ summary: "PERSPECTIVES 2022: The workshop 'Perspectives on the Evaluation of Rec
 authors: 
 #authors: [Christine Bauer]
 categories: [news]
-tags: [RecSys, evaluation, recommender systems]
+tags: [RecSys, evaluation, recommender systems, workshop, CfP]
 date: 2022-04-14T17:35:06+02:00
 lastmod: 2022-04-14T17:35:06+02:00
 featured: false
@@ -32,4 +32,4 @@ image:
 projects: [multimethod]
 ---
 
-The workshop [Perspectives on the Evaluation of Recommender Systems](https://perspectives-ws.github.io/2022/) is back at [RecSys 2022](https://recsys.acm.org/recsys22/). I am happy to co-chair this workshop together with [Eva Zangerle](https://evazangerle.at) and [Alan Said](https://www.alansaid.com). The [Call for Papers](https://perspectives-ws.github.io/2022/#cfp) and submission details are already available at the workshop website.
+The workshop [Perspectives on the Evaluation of Recommender Systems](https://perspectives-ws.github.io/2022/) is back at [RecSys 2022](https://recsys.acm.org/recsys22/). I am happy to co-chair this workshop together with [Eva Zangerle](https://evazangerle.at) and [Alan Said](https://www.alansaid.com). The [Call for Papers](https://perspectives-ws.github.io/2022/#cfp) and the submission details are already available at the workshop website.
