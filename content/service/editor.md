@@ -26,14 +26,16 @@ date_format:  Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-#  - title: Perspectives on Recommender Systems Evaluation
-#   company: Frontiers in Big Data---Recommender Systems
-#    company_url: 'https://frontiersin.org'
-#    company_logo: frontiers
+
+  - title: 'Guest Editor: Special Issue on Perspectives on Recommender Systems Evaluation'
+    company: ACM Transactions on Recommender Systems
+    company_url: 'https://dl.acm.org/journal/tors'
+    company_logo: acm
     #location: Austria
-#    date_start: '2021-09-01'
+    date_start: '2022-04-21'
     #date_end: '2020-01-31'
-#    description:  with Eva Zangerle and Alan Said<br>Special Issue (Research Topic)
+    description: with Eva Zangerle and Alan Said<br>[Call for Papers](https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-CfP-SI-Evaluation-1650479094177.pdf)
+
 
   - title: Associate Editor
     company: ACM Transactions on Recommender Systems
@@ -46,12 +48,12 @@ experience:
     
   - title: 'Guest Editor: Human Issues in Recommender Systems'
     company: Frontiers in Big Data---Recommender Systems
-    company_url: 'https://frontiersin.org'
+    company_url: 'https://www.frontiersin.org/journals/big-data/sections/recommender-systems'
     company_logo: frontiers
     #location: Austria
     date_start: '2021-06-01'
-    #date_end: '2020-01-31'
-    #description:  Guest Editor<br>with Bruce Ferwerda<br>Special Issue (Research Topic)
+    date_end: '2022-05-31'
+    description:  with Bruce Ferwerda
     
 
 design:
