@@ -57,7 +57,7 @@ image:
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides: "talks/it20_mediafutures2022/mediafutures2022_fairness_slides.pdf"
-#url_video: ""
+url_video: "https://player.vimeo.com/video/702565366?h=233b4ebcf8"
 
 #url_code: ""
 #url_pdf:  ""
@@ -77,3 +77,6 @@ url_slides: "talks/it20_mediafutures2022/mediafutures2022_fairness_slides.pdf"
 #   Otherwise, set `projects = []`.
 projects: [SpART2020]
 ---
+
+{{< vimeo 702565366 >}}
+
