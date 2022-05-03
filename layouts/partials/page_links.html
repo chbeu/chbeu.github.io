@@ -138,6 +138,11 @@
   Proceedings
 </a> 
 {{ end }}
+{{ with $page.Params.url_book }}
+<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
+  Book
+</a> 
+{{ end }}
 {{ with $page.Params.url_program }}
 <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
   Program
