@@ -148,25 +148,6 @@
   Program
 </a> 
 {{ end }}
-{{ with $page.Params.altmetric }}
-  {{partial "chb_get_altmetricsbadge"  (dict "context" . "doiparent" $doi) }}
-{{ end }}
-{{ with $page.Params.plumx }}
-  {{partial "chb_get_plumxbadge"  (dict "context" . "doiparent" $doi) }}
-  {{partial "chb_get_dimensionsbadge"  (dict "context" . "doiparent" $doi) }}
-{{ end }}
-{{ with $page.Params.dimensions }}
-  {{partial "chb_get_dimensionsbadge"  (dict "context" . "doiparent" $doi) }}
-{{ end }}
-{{ range $page.Params.icons }}
-  {{ $pack := or .icon_pack "fas" }}
-  {{ $pack_prefix := $pack }}
-  {{ if in (slice "fab" "fas" "far" "fal") $pack }}
-    {{ $pack_prefix = "fa" }}
-  {{ end }}
-    {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}
-    {{ with .name }}{{ . }}{{end}}
-{{ end }}
 {{ range $page.Params.links }}
   {{ $pack := or .icon_pack "fas" }}
   {{ $pack_prefix := $pack }}
@@ -190,4 +171,23 @@
     {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}
     {{ with .name }}{{ . | safeHTML }}{{end}}
   </a>
+{{ end }}
+{{ with $page.Params.altmetric }}
+  {{partial "chb_get_altmetricsbadge"  (dict "context" . "doiparent" $doi) }}
+{{ end }}
+{{ with $page.Params.plumx }}
+  {{partial "chb_get_plumxbadge"  (dict "context" . "doiparent" $doi) }}
+  {{partial "chb_get_dimensionsbadge"  (dict "context" . "doiparent" $doi) }}
+{{ end }}
+{{ with $page.Params.dimensions }}
+  {{partial "chb_get_dimensionsbadge"  (dict "context" . "doiparent" $doi) }}
+{{ end }}
+{{ range $page.Params.icons }}
+  {{ $pack := or .icon_pack "fas" }}
+  {{ $pack_prefix := $pack }}
+  {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+    {{ $pack_prefix = "fa" }}
+  {{ end }}
+    {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}
+    {{ with .name }}{{ . }}{{end}}
 {{ end }}
