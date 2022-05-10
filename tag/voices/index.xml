@@ -53,6 +53,10 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3406522.3446033" target="_blank" rel="noopener">
 DOI
 &lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
+&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+ACM Author-izer
+&lt;/a>
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item></channel></rss>

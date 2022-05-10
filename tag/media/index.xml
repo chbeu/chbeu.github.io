@@ -37,6 +37,10 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3406522.3446033" target="_blank" rel="noopener">
 DOI
 &lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
+&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+ACM Author-izer
+&lt;/a>
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>The Conversation article on our CHIIR 2021 paper</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/</link><pubDate>Tue, 30 Mar 2021 18:01:13 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/</guid><description>&lt;p>This article is republished from &lt;a href="https://theconversation.com" target="_blank" rel="noopener">The Conversation&lt;/a> under a Creative Commons license. Read the &lt;a href="https://theconversation.com/music-recommendation-algorithms-are-unfair-to-female-artists-but-we-can-change-that-158016" target="_blank" rel="noopener">original article&lt;/a>.&lt;/p>
@@ -118,6 +122,10 @@ Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3406522.3446033" target="_blank" rel="noopener">
 DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
+&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+ACM Author-izer
 &lt;/a>
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
