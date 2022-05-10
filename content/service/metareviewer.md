@@ -32,9 +32,9 @@ design:
   flip_alt_rows: false
 ---
 
+CHI 2023, 2021, 2020  
 NordiCHI 2022, 2020  
 ECIS 2022, 2021, 2020, 2018, 2017, 2016, 2015  
-CHI 2021, 2020  
 WI 2020, 2019, 2017  
 INTERACT 2019  
 ICIS 2019  
