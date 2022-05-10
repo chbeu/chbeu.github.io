@@ -39,4 +39,5 @@ abstract: 'The core of the open innovation paradigm is based on the principle of
 publication: '*Global Journal of Flexible Systems Management*'
 doi: 10.1007/s40171-013-0053-6
 url_preprint: mladenow-2014-social-crowd-preprint.pdf
+url_pdf: https://rdcu.be/cNhBO
 ---

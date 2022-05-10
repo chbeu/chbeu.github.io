@@ -42,5 +42,5 @@ links:
 - icon: acmdl
   icon_pack: ai
   name: ACM Author-izer
-  url: https://dl.acm.org/doi/10.1145/2837185.2837242?cid=81453628934
+  url:  https://dl.acm.org/doi/10.1145/2837185.2837242?cid=81453628934
 ---

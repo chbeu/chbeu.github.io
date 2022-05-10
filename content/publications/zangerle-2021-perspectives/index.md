@@ -9,7 +9,7 @@ authors:
 - Eva Zangerle
 - Christine Bauer
 - Alan Said
-tags: []
+tags: [evaluation, RecSys]
 categories: []
 date: '2021-09-25' #25 September - 1 October
 lastmod: 2021-08-08T03:11:11+02:00
@@ -37,4 +37,9 @@ publication_types:
 abstract: 'Evaluation is a cornerstone in the process of developing and deploying recommender systems. The PERSPECTIVES workshop brought together academia and industry to critically reflect on the evaluation of recommender systems. Particularly, the workshop aimed to shed light on the different, and maybe even diverging or contradictory perspectives on the evaluation of recommender systems. Papers reporting a reflection on problems regarding recommender systems evaluation and lessons learned were solicited. The workshop combined flash presentations of accepted papers, a keynote from industry, and an interactive part with discussions in break-out rooms as well as in the plenum. The workshop complemented the program of the main conference as it emphasized problems and lessons learned, fostered exchange integrating various perspectives on evaluation, and sought to move the recommender systems community forward as an outcome of the workshop.'
 publication: '*15th ACM Conference on Recommender Systems*'
 doi: 10.1145/3460231.3470929
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url:  https://dl.acm.org/doi/10.1145/3460231.3470929?cid=81453628934
 ---

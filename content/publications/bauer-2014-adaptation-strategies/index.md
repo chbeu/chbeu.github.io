@@ -37,4 +37,5 @@ abstract: 'Personalization can break through the information clutter in digital 
 publication: '*Management Review Quarterly*'
 doi: 10.1007/s11301-014-0101-0
 url_preprint: bauer-2014-adaptation-strategies-acceptedversion.pdf
+url_pdf: https://rdcu.be/cNhB5
 ---

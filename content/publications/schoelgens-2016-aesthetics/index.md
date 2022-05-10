@@ -42,6 +42,12 @@ publication: '*ACM Symposium on Document Engineering*'
 doi: 10.1145/2960811.2960821
 url_preprint: schoelgens-2016-aesthetics-acceptedversion.pdf
 
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url:  https://dl.acm.org/doi/10.1145/2960811.2960821?cid=81453628934
+
 icons:
 - icon: award
   icon_pack: fas

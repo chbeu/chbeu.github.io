@@ -38,4 +38,5 @@ abstract: 'Digital signage is a rapidly emerging marketing channel that promises
 publication: '*Journal of Service Science Research*'
 doi: 10.1007/s12927-012-0011-4
 url_preprint: bauer-2012-backendservices-preprint.pdf
+url_pdf: https://rdcu.be/cNhB6
 ---

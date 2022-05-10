@@ -42,4 +42,9 @@ publication: '*14th Annual ACM-SIGCSE Conference on Innovation and Technology in
   Science Education*'
 doi: 10.1145/1562877.1562892
 url_preprint: bauer-2009-studentview-peerreview-preprint.pdf
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url:  https://dl.acm.org/doi/10.1145/1562877.1562892?cid=81453628934
 ---

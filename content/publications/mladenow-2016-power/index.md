@@ -39,4 +39,5 @@ abstract: 'Information and communication technologies (ICT) are enablers for coo
 publication: '*Blurring the Boundaries Through Digital Innovation: Individual, Organizational, and Societal Challenges*'
 doi: 10.1007/978-3-319-38974-5_16
 url_preprint: mladenow-2016-power-preprint.pdf
+url_pdf: https://rdcu.be/cNhBr
 ---

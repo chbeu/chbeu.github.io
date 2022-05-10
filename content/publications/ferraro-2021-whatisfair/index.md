@@ -41,4 +41,6 @@ altmetric: true
 plumx: false
 dimensions: false
 url_preprint: ferraro-2021-whatisfair-preprint.pdf
+doi: 10.1007/978-3-030-85616-8_33
+url_pdf: https://rdcu.be/cNhvN
 ---

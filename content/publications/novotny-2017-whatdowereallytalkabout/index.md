@@ -39,4 +39,9 @@ publication: '*19th International Conference on Information Integration and Web-
   Applications & Services*'
 doi: 10.1145/3151759.3151760
 url_preprint: novotny-2017-whatdowereallytalkabout-acceptedversion.pdf
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url:  https://dl.acm.org/doi/10.1145/3151759.3151760?cid=81453628934
 ---

@@ -42,4 +42,9 @@ publication: '*19th International Conference on Human-Computer Interaction with 
 doi: 10.1145/3098279.3122130
 url_poster: kriglstein-2017-travelingsalesman-poster-A4.pdf
 url_preprint: kriglstein-2017-travelingsalesman-acceptedversion.pdf
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url:  https://dl.acm.org/doi/10.1145/3098279.3122130?cid=81453628934
 ---

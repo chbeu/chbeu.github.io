@@ -37,6 +37,11 @@ publication_types:
 abstract: 'As recommender systems play an important role in everyday life, there is an increasing pressure that such systems are fair. Besides serving diverse groups of users, recommenders need to represent and serve item providers fairly as well. In interviews with music artists, we identified that gender fairness is one of the artists’ main concerns. They emphasized that female artists should be given more exposure in music recommendations. We analyze a widely-used collaborative filtering approach with two public datasets—enriched with gender information—to understand how this approach per-forms with respect to the artists’ gender. To achieve gender balance, we propose a progressive re-ranking method that is based on the insights from the interviews. For the evaluation, we rely on a simulation of feedback loops and provide an in-depth analysis using state-of-the-art performance measures and metrics concerning gender fairness.'
 publication: '*6th ACM SIGIR Conference on Human Information Interaction and Retrieval*'
 doi: 10.1145/3406522.3446033
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url:  https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934
 altmetric: true
 plumx: false
 dimensions: false

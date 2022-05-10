@@ -38,4 +38,9 @@ publication: '*2nd Workshop on Surprise, Opposition, and Obstruction in Adaptive
   Personalized Systems, in conjunction with 25th International Conference on User
   Modeling, Adaptation and Personalization (UMAP 2017)*'
 doi: 10.1145/3099023.3099098
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url:  https://dl.acm.org/doi/10.1145/3099023.3099098?cid=81453628934
 ---

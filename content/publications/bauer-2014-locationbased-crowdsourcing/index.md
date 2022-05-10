@@ -39,4 +39,5 @@ publication: '*11th International Conference on Cooperative Design, Visualizatio
   & Engineering (CDVE 2014)*'
 doi: 10.1007/978-3-319-10831-5_13
 url_slides: bauer-2014-locationbased-crowdsourcing-slides.pdf
+url_pdf: https://rdcu.be/cNhBU
 ---

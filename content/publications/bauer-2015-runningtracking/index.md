@@ -37,4 +37,9 @@ abstract: 'In the last years, a large number of sport and fitness applications f
 publication: '*13th International Conference on Advances in Mobile Computing and Multimedia*'
 doi: 10.1145/2837126.2839316
 url_preprint: bauer-2015-runningtracking-acceptedversion.pdf
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url:  https://dl.acm.org/doi/10.1145/2837126.2839316?cid=81453628934
 ---

@@ -39,4 +39,9 @@ abstract: "Human-Computer Interaction research is traditionally collaborative. H
 publication: '*2016 CHI Conference Extended Abstracts on Human Factors in Computing  Systems*'
 doi: 10.1145/2851581.2892582
 url_slides: bdac-2016-firstauthorship-altchi-slides.pdf
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url:  https://dl.acm.org/doi/10.1145/2851581.2892582?cid=81453628934
 ---

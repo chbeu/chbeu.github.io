@@ -38,11 +38,19 @@ projects: [fwf579]
 publishDate: '2021-08-08T01:13:50.075988Z'
 publication_types:
 - '1'
-abstract: "The **music mainstreaminess of a user** reflects how strong a user's listening preferences correspond to those of the larger population. Considering that music mainstream may be defined from different perspectives and on various levels, e.g., geographical (charts of a country), genre (''Indie charts''), or distribution channel (radio charts vs. download charts), we study how the user's music mainstreaminess influences the quality of music recommendations. The paper's contribution is three-fold.First, we propose 11 novel mainstreaminess measures characterizing music listeners, considering both a global and a country-specific basis. To this end, we model **preference profiles** (as a vector over artists) for users, countries, and globally, incorporating artist frequency, listener frequency, and a newly proposed TF-IDF-inspired weighting function, which we call artist frequency--inverse listener frequency (AF-ILF). The resulting preference profile for each user *u* is then related to the respective country-specific and global preference profile using fraction-based approaches, symmetrized Kullback-Leibler divergence, and Kendall's τ rank correlation, in order to quantify *u*'s mainstreaminess.Second, we demonstrate country-specific peculiarities of these mainstreaminess definitions.Third, we show that incorporating the proposed global and country-specific mainstreaminess measures into the music recommendation process can notably improve accuracy of rating prediction."
+abstract: "The **music mainstreaminess of a user** reflects how strong a user's listening preferences correspond to those of the larger population. Considering that music mainstream may be defined from different perspectives and on various levels, e.g., geographical (charts of a country), genre (''Indie charts''), or distribution channel (radio charts vs. download charts), we study how the user's music mainstreaminess influences the quality of music recommendations. The paper's contribution is three-fold.
+First, we propose 11 novel mainstreaminess measures characterizing music listeners, considering both a global and a country-specific basis. To this end, we model **preference profiles** (as a vector over artists) for users, countries, and globally, incorporating artist frequency, listener frequency, and a newly proposed TF-IDF-inspired weighting function, which we call artist frequency--inverse listener frequency (AF-ILF). The resulting preference profile for each user *u* is then related to the respective country-specific and global preference profile using fraction-based approaches, symmetrized Kullback-Leibler divergence, and Kendall's τ rank correlation, in order to quantify *u*'s mainstreaminess.
+Second, we demonstrate country-specific peculiarities of these mainstreaminess definitions.
+Third, we show that incorporating the proposed global and country-specific mainstreaminess measures into the music recommendation process can notably improve accuracy of rating prediction."
 publication: '*15th International Conference on Advances in Mobile Computing & Multimedia*'
 doi: 10.1145/3151848.3151849
 
 url_slides: schedl-2017-introducing-global-regional-momm-slides.pdf
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url:  https://dl.acm.org/doi/10.1145/3151848.3151849?cid=81453628934
 
 icons:
 - icon: trophy

@@ -8,7 +8,7 @@ subtitle: ''
 summary: ''
 authors:
 - Christine Bauer
-tags: []
+tags: [evaluation, CHIIR, tutorial, multimethods]
 categories: []
 date: 2020-03-14 #14-18 March
 lastmod: 2021-08-08T03:11:13+02:00
@@ -37,4 +37,9 @@ abstract: "Research in the field of information retrieval and recommendation mos
 publication: '*2020 Conference on Human Information Interaction and Retrieval*'
 url_pdf: https://doi.org/10.1145/3343413.3378015
 doi: 10.1145/3343413.3378015
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url:  https://dl.acm.org/doi/10.1145/3343413.3378015?cid=81453628934
 ---

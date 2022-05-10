@@ -38,4 +38,9 @@ A song was added to the playlist with an unanimous posi- tive decision only. Aft
 one negative judgement by another group member was sufficient to induce participants to downvote the song. For disliked songs, in contrast, a majority of positive judgements was needed to induce participants to switch their vote.'
 publication: '*CHI Conference on Human Factors in Computing Systems*'
 doi: 10.1145/3334480.3382942
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url:  https://dl.acm.org/doi/10.1145/3334480.3382942?cid=81453628934
 ---

@@ -37,4 +37,5 @@ abstract: 'Location-based advertising (LBA) allows the delivery of advertising m
 publication: '*Management Review Quarterly*'
 doi: 10.1007/s11301-015-0118-z
 url_preprint: bauer-2016-locationbased-preprint.pdf
+url_pdf: https://rdcu.be/cNhBv
 ---

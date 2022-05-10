@@ -36,4 +36,9 @@ abstract: 'When evaluating personalized or adaptive systems, we frequently rely 
 publication: '*29th Conference on User Modeling, Adaptation and Personalization*'
 doi: 10.1145/3450613.3457122
 url_slides: "talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf"
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url:  https://dl.acm.org/doi/10.1145/3450613.3457122?cid=81453628934
 ---

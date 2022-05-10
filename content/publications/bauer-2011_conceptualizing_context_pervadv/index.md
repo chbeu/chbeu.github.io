@@ -37,4 +37,5 @@ abstract: 'Profile-driven personalization based on socio-demographics is current
 publication: '*Pervasive Advertising*'
 doi: 10.1007/978-0-85729-352-7_8
 url_preprint: bauer-2011_conceptualizing_context_pervadv-preprint.pdf
+url_pdf: https://rdcu.be/cNhB8
 ---
