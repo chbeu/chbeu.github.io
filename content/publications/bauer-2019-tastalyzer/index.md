@@ -11,7 +11,7 @@ authors:
 - Markus Schedl
 - Vera Angerer
 - Stefan Wegenkittl
-tags: []
+tags: [tastalyzer, music, demo, music taste]
 categories: []
 date: 2019-10-21 #21-25 October
 lastmod: 2021-08-08T03:11:13+02:00
@@ -37,7 +37,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [fwf579]
 publishDate: '2021-08-08T01:13:47.856483Z'
 publication_types:
 - '1'
@@ -51,3 +51,5 @@ links:
   name: ACM Author-izer
   url:  https://dl.acm.org/doi/10.1145/3343031.3350585?cid=81453628934
 ---
+
+{{< youtube kJpksYs31GM >}}
