@@ -46,11 +46,13 @@ tags: [talk, privacy, privacyweek, music, c3w]
 featured: false
 
 image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
+  caption: 'Image credit: [**Jana Wiese**](http://jasowieso.com)'
+  focal_point: Smart
   placement: 500
 
 links:
+- name: Sketchnote
+  url: https://pbs.twimg.com/media/EH5JLWtXkAAeM5j?format=jpg&name=medium
 #- icon: twitter
 #  icon_pack: fab
 #  name: Tweet
@@ -59,6 +61,7 @@ links:
 #url_pdf: ""
 url_slides: "talks/t10_privacyweek2019/privacyweek2019_musicpersonality.pdf"
 url_video: "https://media.ccc.de/v/pw19-245-sag-mir-was-du-hrst-und-ich-sage-dir-wer-du-bist-/"
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -78,3 +81,6 @@ url_video: "https://media.ccc.de/v/pw19-245-sag-mir-was-du-hrst-und-ich-sage-dir
 ---
 
 <video controls src="https://mirrors.dotsrc.org/cdn.media.ccc.de/events/privacyweek/2019/h264-hd/pw19-245-deu-eng-Sag_mir_was_du_hoerst_-_und_ich_sage_dir_wer_du_bist_hd.mp4"></video>
+
+{{< tweet user="christine_bauer" id="1188472972023087104" >}}
+
