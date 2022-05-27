@@ -37,4 +37,9 @@ abstract: 'In group decision-making, we can frequently observe that an individua
 publication: '*CHI Conference on Human Factors in Computing Systems*'
 doi: 10.1145/3491101.3519662
 url_poster: ferwerda-2022-conformity-culture-poster.pdf
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url: https://dl.acm.org/doi/10.1145/3491101.3519662?cid=81453628934
 ---
