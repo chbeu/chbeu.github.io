@@ -9,7 +9,7 @@ authors:
 - Andrés Ferraro
 - Xavier Serra
 - Christine Bauer
-tags: []
+tags: [gender, CHIIR, music, recommender systems, artists, simulation]
 categories: []
 date: 2021-03-14 #14-19 March
 lastmod: 2021-08-08T03:11:12+02:00
@@ -41,7 +41,7 @@ links:
 - icon: acmdl
   icon_pack: ai
   name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934
+  url: https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934
 altmetric: true
 plumx: false
 dimensions: false
