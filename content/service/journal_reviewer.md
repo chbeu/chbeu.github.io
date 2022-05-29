@@ -32,7 +32,8 @@ design:
   flip_alt_rows: false
 ---
 
-Transactions on Knowledge and Data Engineering (TKDE)  
+ACM Transactions on Recommender Systems (TORS)  
+IEEE Transactions on Knowledge and Data Engineering (TKDE)  
 AI Magazine  
 User Modeling and User-Adapted Interaction (UMUAI)  
 Transactions of the International Society for Music Information Retrieval (TISMIR)  
