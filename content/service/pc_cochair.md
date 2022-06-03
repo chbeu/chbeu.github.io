@@ -25,6 +25,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- organization: "CHI 2023"
+  date_end: ""
+  title: "Allyship Co-Chair"
+  description: "SIGCHI Conference on Human Factors in Computing Systems (CHI 2023)"
+  #certificate_url: "../images/awards/recsys2020_bestreviewer_nominee.png"
+  organization_url: "https://chi2023.acm.org"
+  #url: ""
+  date_start: "2023-04-01"
+  date_end: "2023-04-30"
 - organization: "CHI 2022"
   date_end: ""
   title: "Allyship Co-Chair"
