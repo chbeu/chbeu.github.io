@@ -33,7 +33,6 @@ item:
   organization_url: "https://chi2023.acm.org"
   #url: ""
   date_start: "2023-04-01"
-  date_end: "2023-04-30"
 - organization: "CHI 2022"
   date_end: ""
   title: "Allyship Co-Chair"
