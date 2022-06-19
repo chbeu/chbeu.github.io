@@ -53,7 +53,7 @@ links:
 #url_code: ""
 #url_pdf: ""
 url_slides: "talks/t09_aixmusic2019_talk/AIxMUSIC-talk_20190908.pdf"
-url_video: "https://www.dorftv.at/system/files/webvideos/x264_mid/31986.mp4#t=1545"
+url_video: "https://www.dorftv.at/system/files/thek/720p/2019/31986/31986.mp4#t=1545"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
