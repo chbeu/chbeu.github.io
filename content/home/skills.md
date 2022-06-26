@@ -41,7 +41,7 @@ feature:
   icon: bullhorn
   icon_pack: fas
 - name: Mentoring
-  description: WiMIR Mentoring since 2018<br>Queen Mary University of London since 2021
+  description: WiMIR Mentoring since 2018<br>Queen Mary University of London since 2021<br>Allyship Co-Chair at CHI 2022 and CHI 2023
   icon: hands-helping
   icon_pack: fas
 
