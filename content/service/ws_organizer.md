@@ -21,6 +21,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - workshop: "Dagstuhl 23031"
+    role: Dagstuhl Seminar Co-Organizer
+    date_start: "2023-01-15"
+#    date_end: "2023-01-20"
+    longtitle: "Frontiers of Information Access Experimentation for Research and Education"
+    description: "with Ben Carterette, Nicola Ferro, and Norbert Fuhr"
+    workshop_url: "https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=23031"
   - workshop: "PERSPECTIVES 2022"
     role: Workshop Co-Organizer
     date_start: "2022-09-01" #-09-25"
@@ -41,6 +48,12 @@ item:
     workshop_url: "https://perspectives-ws.github.io/2021/"
     conf_url: "https://recsys.acm.org/recsys21/"
     proceedings_url: "http://ceur-ws.org/Vol-2955/"
+  - workshop: ""
+    date_start: "2020-10-15"
+    longtitle: "How do we—in MIR research—help artists? Do we?"
+    role: Meetup Organizer
+    conf: "21st International Society for Music Information Retrieval Conference (ISMIR 2020)"
+    conf_url: "https://www.ismir2020.net"
   - workshop: "IUadaptMe 2018"
     longtitle: "Workshop on Intelligent User-Adapted Interfaces: Design and Multi-Modal Evaluation"
     role: Workshop Co-Organizer
