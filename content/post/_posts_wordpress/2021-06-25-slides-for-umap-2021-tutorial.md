@@ -18,9 +18,9 @@ tags:
   - tutorial
   - UMAP
 ---
-I enjoyed today's tutorial on multi-method evaluation for adaptive systems at UMAP 2021. The slides are online under the menu point [Teaching](https://christinebauer.eu/?page_id=124#tutorials).
+I enjoyed today's tutorial on multi-method evaluation for adaptive systems at UMAP 2021.
 
-Or directly access the slides from here:  
+You can access the slides from here:  
 {{< figure src="/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf" title="[Tutorial slides](/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf)" >}}
 
 {{< cite page="bauer-2021-multimethods-tutorial" view="4" >}}
