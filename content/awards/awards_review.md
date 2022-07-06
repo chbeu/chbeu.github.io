@@ -25,6 +25,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- organization: "UMAP 2022"
+  date_end: ""
+  title: "Best Reviewer Award"
+  description: "30th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2022)"
+  certificate_url: "../images/awards/umap2022_bestreviewer.jpg"
+  organization_url: "https://www.um.org/umap2022/"
+  #url: ""
+  date_start: "2022-07-06"
 - organization: "IUI 2022"
   date_end: ""
   title: "Special Recognition for Outstanding Review"
