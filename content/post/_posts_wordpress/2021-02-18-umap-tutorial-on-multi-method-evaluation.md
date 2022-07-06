@@ -19,6 +19,6 @@ tags:
   - UMAP
   - evaluation
 ---
-I am looking forward to give a tutorial on <a href="https://www.um.org/umap2021/program/tutorials#T02" rel="noopener" target="_blank">Multi-method evaluation of adaptive systems: Why and how?</a> at <a href="https://www.um.org/umap2021/" rel="noopener" target="_blank">UMAP 2021</a>.
+I am looking forward to give a tutorial on [Multi-method evaluation of adaptive systems: Why and how?](https://www.um.org/umap2021/program/tutorials.html#T02) at [UMAP 2021](https://www.um.org/umap2021/).
 
 {{< cite page="bauer-2021-multimethods-tutorial" view="4" >}}
