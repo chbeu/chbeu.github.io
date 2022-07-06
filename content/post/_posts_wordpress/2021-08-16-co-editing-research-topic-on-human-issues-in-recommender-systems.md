@@ -8,6 +8,7 @@ guid: https://christinebauer.eu/?p=3909
 permalink: /?p=3909
 zincy_lite_sidebar_layout:
   - right-sidebar
+profile: false
 categories:
   - news
 tags:

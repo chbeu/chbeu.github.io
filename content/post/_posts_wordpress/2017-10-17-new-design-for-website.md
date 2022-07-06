@@ -8,6 +8,7 @@ guid: http://homepage.univie.ac.at/chris.bauer/chb_eu/?p=715
 permalink: /?p=715
 zincy_lite_sidebar_layout:
   - right-sidebar
+profile: false
 categories:
   - news
 ---

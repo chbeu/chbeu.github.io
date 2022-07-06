@@ -8,6 +8,7 @@ guid: https://christinebauer.eu/?p=2316
 permalink: /?p=2316
 zincy_lite_sidebar_layout:
   - right-sidebar
+profile: false
 enclosure:
   - |
     https://www.dorftv.at/system/files/webvideos/x264_mid/34030.mp4
