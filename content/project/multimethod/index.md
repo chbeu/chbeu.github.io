@@ -25,15 +25,9 @@ links:
 #url_slides: ""
 #url_video: ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
 ---
 
 The comprehensive evaluation of the performance of a  system is a complex endeavor: many facets need to be considered in configuring an adequate and effective evaluation setting. 
 A single evaluation method or measure is not able to evaluate all relevant aspects in a complex setting where a multitude of stakeholders are involved. Employing a multi-method evaluation, where multiple evaluation methods or measures are combined and integrated, allows for getting a richer picture and prevents blind spots in the evaluation outcome.
 
-Together with [Eva Zangerle]({{< ref "https://evazangerle.at" >}}), I maintain a website on [multi-method evaluation]({{< ref  "https://multimethods.info" >}}) where we collect resources that help to apply multi-method evaluation in research and development. Naturally, this collection is meant to grow over time and we are happy to share your resources and discuss best practices. 
+Together with [Eva Zangerle](https://evazangerle.at), I maintain a website on [multi-method evaluation](https://multimethods.info) where we collect resources that help to apply multi-method evaluation in research and development. Naturally, this collection is meant to grow over time and we are happy to share your resources and discuss best practices. 
