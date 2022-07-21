@@ -32,6 +32,7 @@ design:
   flip_alt_rows: false
 ---
 
+Human-Computer Interaction  
 ACM Transactions on Recommender Systems (TORS)  
 IEEE Transactions on Knowledge and Data Engineering (TKDE)  
 AI Magazine  
