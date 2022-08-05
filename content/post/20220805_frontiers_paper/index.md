@@ -31,8 +31,6 @@ image:
 #projects: []
 ---
 
-<br><br>
-
 The first joint paper with Karlijn Dinnissen has just appeared in the journal [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data). In this mini review, we take a stakeholder-centered view and discuss literature on fairness in music recommender systems from the perspective of the various stakeholders.  
 
 Overall, our literature review shows that the large majority of works analyze the current situation of fairness in music recommender systems, whereas only a few works propose approaches to improve it.  
