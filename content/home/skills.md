@@ -25,7 +25,7 @@ feature:
   icon: google-scholar-square
   icon_pack: ai
 - name: Teaching
-  description: 24 different courses across 14 institutions<br>RecSys Summer School, Tutorial at UMAP<br>Supervision of >60 theses
+  description: 24 different courses across 14 institutions<br>RecSys Summer School, Italian National PhD Program of AI<br>Tutorials at UMAP and ISMIR<br>Supervision of >60 theses
   icon: chalkboard-teacher
   icon_pack: fas
 - name: Community service
@@ -33,7 +33,7 @@ feature:
   icon: users
   icon_pack: fas
 - name: International experience
-  description: Research experience in 4 countries (AT, DE, NL, US)<br>Teaching experience in 5 countries (AT, DE, NL, SE, US)
+  description: Research experience in 4 countries (AT, DE, NL, US)<br>Teaching experience in 6 countries (AT, DE, IT, NL, SE, US)
   icon: globe
   icon_pack: fas
 - name: Outreach
