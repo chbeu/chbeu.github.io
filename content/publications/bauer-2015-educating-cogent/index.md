@@ -37,3 +37,7 @@ abstract: 'Labour force in the art sector is characterised by high qualification
 publication: '*Cogent Education*'
 doi: 10.1080/2331186x.2015.1045217
 ---
+
+The study presented in this publication has been included in the database of [SKBF | CSRE
+Schweizerische Koordinationsstelle für Bildungsforschung](http://www.skbf-csre.ch):
+[Project ID 207520](http://www.skbf-csre.ch/en/research-in-education/database/projektdetail/?_id=207520)
