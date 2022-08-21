@@ -8,10 +8,10 @@ summary: ''
 authors:
 - Eva Zangerle
 - Christine Bauer
-tags: [evaluation, RecSys, FEVR]
+tags: [evaluation, recommender systems, FEVR, survey]
 categories: []
 date: '2022-08-19'
-lastmod: 2022-08-19T03:11:11+02:00
+lastmod: 2022-08-21T03:11:11+02:00
 featured: false
 draft: false
 profile: false
@@ -20,7 +20,7 @@ profile: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Framework for EValuating Recommender systems (FEVR)'
   focal_point: ''
   preview_only: false
 
