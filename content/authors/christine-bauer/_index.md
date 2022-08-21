@@ -63,7 +63,7 @@ social:
   link: https://orcid.org/0000-0001-5724-1137
 - icon: publons
   icon_pack: ai
-  link: https://publons.com/a/1578876/
+  link: https://www.webofscience.com/wos/author/rid/J-7323-2019
 - icon: impactstory
   icon_pack: ai
   link: https://profiles.impactstory.org/u/0000-0001-5724-1137
