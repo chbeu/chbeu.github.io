@@ -12,7 +12,7 @@ tags: [evaluation, recommender systems, FEVR, survey]
 categories: []
 date: '2022-08-19'
 lastmod: 2022-08-21T03:11:11+02:00
-featured: false
+featured: true
 draft: false
 profile: false
 
@@ -41,5 +41,7 @@ links:
   icon_pack: ai
   name: ACM Author-izer
   url: https://dl.acm.org/doi/10.1145/3556536?cid=81453628934
-
+altmetric: true
+plumx: false
+dimensions: false
 ---
