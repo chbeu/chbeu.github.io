@@ -157,9 +157,10 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;th style="text-align:right">WT 2019/20&lt;/th>
 &lt;th style="text-align:right">ST 2020&lt;/th>
 &lt;th style="text-align:right">WT 2020/21&lt;/th>
-&lt;th style="text-align:right">ST 2021&lt;/th>
+&lt;th style="text-align:right">SS 2001&lt;/th>
 &lt;th style="text-align:right">WT 2021/22&lt;/th>
 &lt;th style="text-align:right">ST 2022&lt;/th>
+&lt;th style="text-align:right">WT 2022/23&lt;/th>
 &lt;th style="text-align:right">&lt;/th>
 &lt;/tr>
 &lt;/thead>
@@ -171,6 +172,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:center">&lt;/td>
 &lt;td style="text-align:center">&lt;/td>
 &lt;td style="text-align:right">ECTS per course per semester&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
@@ -232,6 +234,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">7.5&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">7.5&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">15&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -268,6 +271,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">7.5&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">7.5&lt;/td>
+&lt;td style="text-align:right">15&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Adaptive Interactive Systems&lt;/td>
@@ -299,6 +303,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">7.5&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
@@ -337,6 +342,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">7.5&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -372,7 +378,8 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">7.5&lt;/td>
 &lt;td style="text-align:right">7.5&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
-&lt;td style="text-align:right">22.5&lt;/td>
+&lt;td style="text-align:right">7.5&lt;/td>
+&lt;td style="text-align:right">30&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>SE in Intelligent Information Systems (seminar)&lt;/td>
@@ -403,6 +410,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">3&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
@@ -442,6 +450,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">1.25&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -477,6 +486,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">5&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -506,6 +516,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">5&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
@@ -547,6 +558,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">5&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -573,6 +585,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">6&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
@@ -617,6 +630,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">5&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -652,6 +666,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">8&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -677,6 +692,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">6&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
@@ -722,6 +738,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">5&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -757,6 +774,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">12&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -778,6 +796,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">4&lt;/td>
 &lt;td style="text-align:right">4&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
@@ -827,6 +846,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">12&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -862,6 +882,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">3&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -878,6 +899,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">4&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
@@ -932,6 +954,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">12&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -948,6 +971,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">4&lt;/td>
 &lt;td style="text-align:right">4&lt;/td>
 &lt;td style="text-align:right">4&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
@@ -1002,6 +1026,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">28&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -1037,6 +1062,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">19&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -1049,6 +1075,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">6&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">6&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
@@ -1107,6 +1134,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">52&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -1142,6 +1170,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">3&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -1150,6 +1179,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:center">&lt;/td>
 &lt;td style="text-align:center">&lt;/td>
 &lt;td style="text-align:center">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
 &lt;td style="text-align:right">&lt;/td>
@@ -1212,7 +1242,8 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;td style="text-align:right">15&lt;/td>
 &lt;td style="text-align:right">15&lt;/td>
 &lt;td style="text-align:right">7.5&lt;/td>
-&lt;td style="text-align:right">294.25&lt;/td>
+&lt;td style="text-align:right">15&lt;/td>
+&lt;td style="text-align:right">309.25&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
