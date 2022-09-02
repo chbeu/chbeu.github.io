@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>recommender systems | Christine Bauer</title><link>https://chbeu.github.io/tag/recommender-systems/</link><atom:link href="https://chbeu.github.io/tag/recommender-systems/index.xml" rel="self" type="application/rss+xml"/><description>recommender systems</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://chbeu.github.io/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_512x512_fill_lanczos_center_3.png</url><title>recommender systems</title><link>https://chbeu.github.io/tag/recommender-systems/</link></image><item><title>Trustworthy MIR: Creating MIR applications with values</title><link>https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/</link><pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/</guid><description/></item><item><title>Evaluating Recommender Systems: Survey and Framework</title><link>https://chbeu.github.io/publications/zangerle-2022-fevr/</link><pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/zangerle-2022-fevr/</guid><description/></item><item><title>Featured in episode 8 of the Recsperts podcast</title><link>https://chbeu.github.io/post/20220815_recsperts/</link><pubDate>Mon, 15 Aug 2022 13:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220815_recsperts/</guid><description>&lt;p>I am happy to share that &lt;a href="https://www.recsperts.com/episodes/8-music-recommender-systems-fairness-and-evaluation-with-christine-bauer" target="_blank" rel="noopener">episode #8 of the Recsperts podcast&lt;/a> was released.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>recommender systems | Christine Bauer</title><link>https://chbeu.github.io/tag/recommender-systems/</link><atom:link href="https://chbeu.github.io/tag/recommender-systems/index.xml" rel="self" type="application/rss+xml"/><description>recommender systems</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://chbeu.github.io/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_512x512_fill_lanczos_center_3.png</url><title>recommender systems</title><link>https://chbeu.github.io/tag/recommender-systems/</link></image><item><title>Trustworthy MIR: Creating MIR applications with values</title><link>https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/</link><pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/</guid><description/></item><item><title>Karlijn Dinnissen presents at FAccTRec 2022</title><link>https://chbeu.github.io/post/20220902_facctrec2022/</link><pubDate>Fri, 02 Sep 2022 10:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220902_facctrec2022/</guid><description>&lt;p>As a proud supervisor, I am happy to let you know that Karlijn Dinnissen will present and discuss our joint paper &lt;a href="https://chbeu.github.io/publications/dinnissen-2022-fairness-in-music-recommender-systems">Fairness in music recommender systems: a stakeholder-centered mini review&lt;/a> at the &lt;a href="https://facctrec.github.io/facctrec2022/" target="_blank" rel="noopener">5th FAccTRec Workshop: Responsible Recommendation&lt;/a> at &lt;a href="https://recsys.acm.org/recsys22/" target="_blank" rel="noopener">RecSys 2022&lt;/a>.&lt;/p>
+&lt;br>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+Karlijn Dinnissen&lt;/span>, &lt;span class="author-highlighted">
+Christine Bauer&lt;/span>
+&lt;/span>
+(2022).
+&lt;a href="https://chbeu.github.io/publications/dinnissen-2022-fairness-in-music-recommender-systems/">Fairness in music recommender systems: a stakeholder-centered mini review&lt;/a>.
+&lt;em>Frontiers in Big Data&lt;/em>.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/dinnissen-2022-fairness-in-music-recommender-systems/dinnissen-2022-fairness-in-music-recommender-systems.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publications/dinnissen-2022-fairness-in-music-recommender-systems/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/spart2020/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fdata.2022.913608" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;/p>
+&lt;/div></description></item><item><title>Evaluating Recommender Systems: Survey and Framework</title><link>https://chbeu.github.io/publications/zangerle-2022-fevr/</link><pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/zangerle-2022-fevr/</guid><description/></item><item><title>Featured in episode 8 of the Recsperts podcast</title><link>https://chbeu.github.io/post/20220815_recsperts/</link><pubDate>Mon, 15 Aug 2022 13:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220815_recsperts/</guid><description>&lt;p>I am happy to share that &lt;a href="https://www.recsperts.com/episodes/8-music-recommender-systems-fairness-and-evaluation-with-christine-bauer" target="_blank" rel="noopener">episode #8 of the Recsperts podcast&lt;/a> was released.
 &lt;a href="https://www.linkedin.com/in/marcel-kurovski/" target="_blank" rel="noopener">Marcel Kurovski&lt;/a>, who hosts this podcast, has invited me to talk about my research on recommender systems.&lt;/p>
 &lt;p>And so we did. We discuss the specifics of recommenders in the music (streaming) domain, my research on fairness from the artists&amp;rsquo; perspective, and the importance of multi-method evaluation. I also share my view on the opportunities of leveraging context awareness for recommender systems.&lt;/p>
 &lt;p>It has been a nice conversation, and I hope the audience will enjoy it too.&lt;/p>
