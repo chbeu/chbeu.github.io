@@ -28,7 +28,7 @@ item:
 - organization: "CHI 2023"
   date_end: ""
   title: "Allyship Co-Chair"
-  description: "SIGCHI Conference on Human Factors in Computing Systems (CHI 2023)"
+  description: "with Siobahn Day Grady <br>SIGCHI Conference on Human Factors in Computing Systems (CHI 2023)"
   #certificate_url: "../images/awards/recsys2020_bestreviewer_nominee.png"
   organization_url: "https://chi2023.acm.org"
   #url: ""
