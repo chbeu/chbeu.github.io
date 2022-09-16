@@ -31,7 +31,9 @@ image:
 #projects: []
 ---
 
-As a proud supervisor, I am happy to let you know that Karlijn Dinnissen will present and discuss our joint paper  [Fairness in music recommender systems: a stakeholder-centered mini review](/publications/dinnissen-2022-fairness-in-music-recommender-systems) at the [5th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2022/) at [RecSys 2022](https://recsys.acm.org/recsys22/).
+As a proud supervisor, I am happy to let you know that Karlijn Dinnissen will present and discuss our joint paper [Fairness in music recommender systems: a stakeholder-centered mini review](/publications/dinnissen-2022-fairness-in-music-recommender-systems) at the [5th FAccTRec Workshop: Responsible Recommendation](https://facctrec.github.io/facctrec2022/) at [RecSys 2022](https://recsys.acm.org/recsys22/).  
+
+In the [FAcctRec abstract](https://arxiv.org/abs/2209.06126), we summarize the main findings and point to the two open questions (arising from the review) that we will address at the workshop.  
 
 <br>
 
