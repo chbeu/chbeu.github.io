@@ -44,7 +44,7 @@ item:
   #paper: "C33"
   description: "Emerald Literati Network Awards of Excellence 2017"
   #organization_url: ""
-  #certificate_url: ""
+  certificate_url: "../images/awards/emerald_literati_2017.pdf"
   date_start: "2017-03-01"
 - organization: "DocEng 2016"
   title: "Nomination for Best Paper Award"
