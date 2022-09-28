@@ -27,7 +27,7 @@ date_format:  Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: "Guest Editor: Special Issue  'Perspectives on Recommender Systems Evaluation"
+  - title: "Guest Editor: Special Issue 'Perspectives on Recommender Systems Evaluation'"
     company: ACM Transactions on Recommender Systems
     company_url: 'https://dl.acm.org/journal/tors'
     company_logo: acm
