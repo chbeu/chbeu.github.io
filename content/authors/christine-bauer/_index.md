@@ -19,8 +19,8 @@ organizations:
 # Interests to show in About widget
 interests:
 - Intelligent interactive systems
-- Context-adaptive systems
 - Recommender systems
+- Context-adaptive systems
 - Human-centered computing
 - Fairness
 - Multi-method evaluation
@@ -76,7 +76,7 @@ social:
 - icon: dblp
   icon_pack: ai
   icon_title: dblp
-  link: https://dblp.uni-trier.de/pers/hd/b/Bauer_0001:Christine
+  link: https://dblp.uni-trier.de/pid/41/819.html
 #- icon: scopus
 #  icon_pack: ai
 #  icon_title: Scopus
@@ -102,17 +102,18 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "chris.bauer@univie.ac.at"
+email: "chb@christinebauer.eu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 
-Christine Bauer is an assistant professor at the Human-Centred Computing group at the Department of Information and Computing Sciences at Utrecht University.
+Christine Bauer is an Assistant Professor at the Human-Centered Computing group at the Department of Information and Computing Sciences at Utrecht University.
 
-Her research activities center on **interactive intelligent systems** where she integrates research on intelligent technologies, the interaction of humans with the intelligent system, as well as their interplay. Thereby, she takes a **human-centered computing approach**, where technology follows humans’ and society’s needs. **Central themes in her research are context and context-adaptivity**. Recently, she focuses on context-aware **recommender systems** and concentrates on music recommender systems in particular. Her knowledge and experience with music and the music business are her particular asset for this research.
-A core interest in her research activities is **multi-method evaluations**. Further interests span manifold fields such as online self-disclosure and privacy, methods for designing context-adaptive systems, and the creative industries, in particular the music sector.  
+Her research activities center on **interactive intelligent systems** where she integrates research on intelligent technologies, the interaction of humans with the intelligent system, as well as their interplay. Thereby, she takes a **human-centered computing approach**, where technology follows humans’ and society’s needs. **Central themes in her research are context and context-adaptivity**. Recently, she focuses on context-aware **recommender systems** and concentrates on recommender systems in the music and media sector in particular. Core interests in her research activities are **fairness** and **multi-method evaluation**.   
+
+<!--Further interests span manifold fields such as online self-disclosure and privacy, methods for designing context-adaptive systems, and the creative industries.  -->
 
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
