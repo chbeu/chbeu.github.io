@@ -42,6 +42,10 @@ links:
   icon_pack: ai
   name: ACM Author-izer
   url: https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/andrebola/gender-recs
 altmetric: true
 plumx: false
 dimensions: false

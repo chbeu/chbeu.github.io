@@ -40,4 +40,5 @@ abstract: "Music preferences are strongly shaped by the cultural and socio-econo
 publication: '*Frontiers in Artificial Intelligence*'
 url_pdf: https://www.frontiersin.org/article/10.3389/frai.2020.508725
 doi: 10.3389/frai.2020.508725
+zenodo: 10.5281/zenodo.3907362
 ---
