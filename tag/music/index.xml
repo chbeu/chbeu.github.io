@@ -25,6 +25,7 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fdata.2022.913608" target="_blank" rel="noopener">
 DOI
 &lt;/a>
+&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fdata.2022.913608" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Featured in episode 8 of the Recsperts podcast</title><link>https://chbeu.github.io/post/20220815_recsperts/</link><pubDate>Mon, 15 Aug 2022 13:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220815_recsperts/</guid><description>&lt;p>I am happy to share that &lt;a href="https://www.recsperts.com/episodes/8-music-recommender-systems-fairness-and-evaluation-with-christine-bauer" target="_blank" rel="noopener">episode #8 of the Recsperts podcast&lt;/a> was released.
 &lt;a href="https://www.linkedin.com/in/marcel-kurovski/" target="_blank" rel="noopener">Marcel Kurovski&lt;/a>, who hosts this podcast, has invited me to talk about my research on recommender systems.&lt;/p>
@@ -56,6 +57,7 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fdata.2022.913608" target="_blank" rel="noopener">
 DOI
 &lt;/a>
+&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fdata.2022.913608" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Fairness in music recommender systems: a stakeholder-centered mini review</title><link>https://chbeu.github.io/publications/dinnissen-2022-fairness-in-music-recommender-systems/</link><pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/dinnissen-2022-fairness-in-music-recommender-systems/</guid><description/></item><item><title>To flip or not to flip: conformity effect across cultures</title><link>https://chbeu.github.io/publications/ferwerda-2022-conformity-culture/</link><pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/ferwerda-2022-conformity-culture/</guid><description/></item><item><title>Fairness—Are algorithms a burden or a solution?</title><link>https://chbeu.github.io/talks/it20_mediafutures2022/</link><pubDate>Thu, 21 Apr 2022 13:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/it20_mediafutures2022/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -112,6 +114,10 @@ DOI
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
 &lt;i class="ai ai-acmdl mr-1">&lt;/i>
 ACM Author-izer
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
+&lt;i class="fab fa-github mr-1">&lt;/i>
+Code
 &lt;/a>
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>

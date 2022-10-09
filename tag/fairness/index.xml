@@ -25,6 +25,7 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fdata.2022.913608" target="_blank" rel="noopener">
 DOI
 &lt;/a>
+&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fdata.2022.913608" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Featured in episode 8 of the Recsperts podcast</title><link>https://chbeu.github.io/post/20220815_recsperts/</link><pubDate>Mon, 15 Aug 2022 13:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220815_recsperts/</guid><description>&lt;p>I am happy to share that &lt;a href="https://www.recsperts.com/episodes/8-music-recommender-systems-fairness-and-evaluation-with-christine-bauer" target="_blank" rel="noopener">episode #8 of the Recsperts podcast&lt;/a> was released.
 &lt;a href="https://www.linkedin.com/in/marcel-kurovski/" target="_blank" rel="noopener">Marcel Kurovski&lt;/a>, who hosts this podcast, has invited me to talk about my research on recommender systems.&lt;/p>
@@ -56,6 +57,7 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fdata.2022.913608" target="_blank" rel="noopener">
 DOI
 &lt;/a>
+&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fdata.2022.913608" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Fairness in music recommender systems: a stakeholder-centered mini review</title><link>https://chbeu.github.io/publications/dinnissen-2022-fairness-in-music-recommender-systems/</link><pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/dinnissen-2022-fairness-in-music-recommender-systems/</guid><description/></item><item><title>Tutorial at ISMIR 2022: Trustworthy MIR: Creating MIR applications with values</title><link>https://chbeu.github.io/post/20220625_ismir2022_tutorial/</link><pubDate>Sat, 25 Jun 2022 02:00:06 +0200</pubDate><guid>https://chbeu.github.io/post/20220625_ismir2022_tutorial/</guid><description>&lt;p>I am happy to announce that I will hold a tutorial at &lt;a href="https://ismir2022.ismir.net/" target="_blank" rel="noopener">ISMIR 2022&lt;/a> on &lt;a href="https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/">Trustworthy MIR: Creating MIR applications with values&lt;/a> together with &lt;a href="https://andrebola.github.io/about/" target="_blank" rel="noopener">Andrés Ferraro&lt;/a>, &lt;a href="https://emiliagomez.com/" target="_blank" rel="noopener">Emilia Gómez&lt;/a>, and &lt;a href="https://lorenzoporcaro.com/" target="_blank" rel="noopener">Lorenzo Porcaro&lt;/a>. The goal of the tutorial is to show how values, such as fairness and diversity, can be embedded in the life cycle of MIR systems to make them trustworthy: from algorithmic design to evaluation practices and regulatory proposals. To achieve that, we will discuss examples of, among the others, popularity bias, gender bias, algorithmic bias, music styles underrepresentation, and diversity-related phenomena (e.g. filter bubbles).&lt;/p>
 &lt;p>Naturally, I hope that you can learn a lot from the tutorial. As a very positive side effect, I am looking forward to collaborating with &lt;a href="https://andrebola.github.io/about/" target="_blank" rel="noopener">Andrés Ferraro&lt;/a>, &lt;a href="https://emiliagomez.com/" target="_blank" rel="noopener">Emilia Gómez&lt;/a>, and &lt;a href="https://lorenzoporcaro.com/" target="_blank" rel="noopener">Lorenzo Porcaro&lt;/a> on this topic. For sure, we will have a blast.&lt;/p></description></item><item><title>Fairness—Are algorithms a burden or a solution?</title><link>https://chbeu.github.io/talks/it20_mediafutures2022/</link><pubDate>Thu, 21 Apr 2022 13:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/it20_mediafutures2022/</guid><description>
@@ -96,6 +98,10 @@ DOI
 &lt;i class="ai ai-acmdl mr-1">&lt;/i>
 ACM Author-izer
 &lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
+&lt;i class="fab fa-github mr-1">&lt;/i>
+Code
+&lt;/a>
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Recent media presence</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-05-03-recent-media-presence/</link><pubDate>Mon, 03 May 2021 20:38:21 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-05-03-recent-media-presence/</guid><description>&lt;p>I am very happy that our CHIIR paper &lt;a href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" rel="noopener" target="_blank">Break the Loop: Gender Imbalance in Music Recommenders&lt;/a> with &lt;a href="https://andrebola.github.io" rel="noopener" target="_blank">Andrés Ferraro&lt;/a> and Xavier Serra received a lot of media attention.&lt;/p>
@@ -135,6 +141,10 @@ DOI
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
 &lt;i class="ai ai-acmdl mr-1">&lt;/i>
 ACM Author-izer
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
+&lt;i class="fab fa-github mr-1">&lt;/i>
+Code
 &lt;/a>
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
@@ -222,6 +232,10 @@ DOI
 &lt;i class="ai ai-acmdl mr-1">&lt;/i>
 ACM Author-izer
 &lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
+&lt;i class="fab fa-github mr-1">&lt;/i>
+Code
+&lt;/a>
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>CHIIR 2021 presentation: Break the Loop: Gender Imbalance in Music Recommenders</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</link><pubDate>Sun, 14 Mar 2021 21:48:39 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</guid><description>&lt;p>&lt;a href="https://andrebola.github.io/about/" rel="noopener" target="_blank">Andrés Ferraro&lt;/a> will present our joint paper at CHIIR 2021. In the paper with the title Break the Loop: Gender Imbalance in Music Recommenders, we investigate the imbalance in music recommendations with respect to the artists gender. We propose a simple re-ranking approach to mitigate the problem and show in a simulation of feedback loops how the gender (im-)balances evolves over time.&lt;/p>
@@ -253,6 +267,10 @@ DOI
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
 &lt;i class="ai ai-acmdl mr-1">&lt;/i>
 ACM Author-izer
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
+&lt;i class="fab fa-github mr-1">&lt;/i>
+Code
 &lt;/a>
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>

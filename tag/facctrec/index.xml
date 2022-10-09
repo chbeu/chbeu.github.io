@@ -25,5 +25,6 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fdata.2022.913608" target="_blank" rel="noopener">
 DOI
 &lt;/a>
+&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fdata.2022.913608" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item></channel></rss>
