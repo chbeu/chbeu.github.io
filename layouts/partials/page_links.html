@@ -172,6 +172,10 @@
     {{ with .name }}{{ . | safeHTML }}{{end}}
   </a>
 {{ end }}
+{{ with $page.Params.zenodo }}
+  {{ $zenodo_doi := $page.Params.zenodo }}
+  {{partial "chb_get_zenodobadge"  (dict "context" . "zenodo_doi" $zenodo_doi) }}
+{{ end }}
 {{ with $page.Params.altmetric }}
   {{partial "chb_get_altmetricsbadge"  (dict "context" . "doiparent" $doi) }}
 {{ end }}
