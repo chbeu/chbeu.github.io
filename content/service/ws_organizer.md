@@ -37,7 +37,7 @@ item:
     conf: "16th ACM Conference on Recommender Systems (RecSys 2022)"
     workshop_url: "https://perspectives-ws.github.io/2022/"
     conf_url: "https://recsys.acm.org/recsys22/"
-    #proceedings_url: "http://ceur-ws.org/Vol-2955/"
+    proceedings_url: "http://ceur-ws.org/Vol-3228/"
   - workshop: "PERSPECTIVES 2021"
     role: Workshop Co-Organizer
     date_start: "2021-09-25"
