@@ -31,7 +31,7 @@ experience:
     company_logo: uu_dpgmedia
     location: The Netherlands
     date_start: '2022-04-01'
-    date_end: '2024-03-31'
+    #date_end: '2024-03-31'
     description: |2-
         Affiliation: Utrecht University<br>
         Partner: DPG Media
