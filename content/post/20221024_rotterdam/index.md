@@ -31,7 +31,7 @@ image:
 #projects: [SpART2020]
 ---
 
-Last week, I had the pleasure giving a guest lecture in scope of the minor program "[MU$IC---The Economy, Sociology and Practice of Popular Music](https://www.eur.nl/en/minor/muic)" at [Erasmus University Rotterdam](https://www.eur.nl/en/). It was very inspiring to work with student from another discipline.
+Last week, I had the pleasure giving a guest lecture in the scope of the minor program "[MU$IC---The Economy, Sociology and Practice of Popular Music](https://www.eur.nl/en/minor/muic)" at the [Erasmus University Rotterdam](https://www.eur.nl/en/). It was very inspiring to work with student from another discipline.
 
 It was also a very interesting experience to be in the audience, when students started the session by introducing my research on artist gender imbalance in music recommendation.
 
