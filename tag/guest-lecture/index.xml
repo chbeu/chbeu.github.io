@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>guest lecture | Christine Bauer</title><link>https://chbeu.github.io/tag/guest-lecture/</link><atom:link href="https://chbeu.github.io/tag/guest-lecture/index.xml" rel="self" type="application/rss+xml"/><description>guest lecture</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Mon, 24 Oct 2022 10:00:00 +0200</lastBuildDate><image><url>https://chbeu.github.io/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_512x512_fill_lanczos_center_3.png</url><title>guest lecture</title><link>https://chbeu.github.io/tag/guest-lecture/</link></image><item><title>Guest lecture at the Erasmus University Rotterdam</title><link>https://chbeu.github.io/post/20221024_rotterdam/</link><pubDate>Mon, 24 Oct 2022 10:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20221024_rotterdam/</guid><description>&lt;p>Last week, I had the pleasure giving a guest lecture in scope of the minor program &amp;ldquo;&lt;a href="https://www.eur.nl/en/minor/muic" target="_blank" rel="noopener">MU$IC&amp;mdash;The Economy, Sociology and Practice of Popular Music&lt;/a>&amp;rdquo; at &lt;a href="https://www.eur.nl/en/" target="_blank" rel="noopener">Erasmus University Rotterdam&lt;/a>. It was very inspiring to work with student from another discipline.&lt;/p>
+&lt;p>It was also a very interesting experience to be in the audience, when students started the session by introducing my research on artist gender imbalance in music recommendation.&lt;/p>
+&lt;br>
+&lt;p>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+Andrés Ferraro&lt;/span>, &lt;span >
+Xavier Serra&lt;/span>, &lt;span class="author-highlighted">
+Christine Bauer&lt;/span>
+&lt;/span>
+(2021).
+&lt;a href="https://chbeu.github.io/publications/ferraro-2021-break-the-loop/">Break the Loop: Gender Imbalance in Music Recommenders&lt;/a>.
+&lt;em>6th ACM SIGIR Conference on Human Information Interaction and Retrieval&lt;/em>.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/ferraro-2021-break-the-loop/ferraro-2021-break-the-loop.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publications/ferraro-2021-break-the-loop/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/spart2020/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3406522.3446033" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
+&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+ACM Author-izer
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
+&lt;i class="fab fa-github mr-1">&lt;/i>
+Code
+&lt;/a>
+&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;/p>
+&lt;/div>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+Andrés Ferraro&lt;/span>, &lt;span >
+Xavier Serra&lt;/span>, &lt;span class="author-highlighted">
+Christine Bauer&lt;/span>
+&lt;/span>
+(2021).
+&lt;a href="https://chbeu.github.io/publications/ferraro-2021-whatisfair/">What is fair? Exploring the artists&amp;#39; perspective on the fairness of music streaming platforms&lt;/a>.
+&lt;em>18th IFIP International Conference on Human-Computer Interaction&lt;/em>.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/ferraro-2021-whatisfair/ferraro-2021-whatisfair-preprint.pdf" target="_blank" rel="noopener">
+Preprint
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://rdcu.be/cNhvN" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publications/ferraro-2021-whatisfair/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/spart2020/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-85616-8_33" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.4793395" rel="noopener noreferrer" target="_blank">&lt;img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4793395.svg" alt="DOI">&lt;/a>
+&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-85616-8_33" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;/p>
+&lt;/div>
+&lt;/p></description></item></channel></rss>
