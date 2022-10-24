@@ -21,11 +21,11 @@ feature:
   icon: bullseye
   icon_pack: fa
 - name: Academic indices
-  description: '[Citations 1771<br>h-index 23<br>i10-index 50](https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en)'
+  description: '[Citations 1773<br>h-index 23<br>i10-index 50](https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en)'
   icon: google-scholar-square
   icon_pack: ai
 - name: Teaching
-  description: 24 different courses across 14 institutions<br>RecSys Summer School, Italian National PhD Program of AI<br>Tutorials at UMAP and ISMIR<br>Supervision of >60 theses
+  description: 24 different courses across 15 institutions<br>RecSys Summer School, Italian National PhD Program of AI<br>Tutorials at UMAP and ISMIR<br>Supervision of >60 theses
   icon: chalkboard-teacher
   icon_pack: fas
 - name: Community service
