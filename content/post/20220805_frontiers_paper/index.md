@@ -20,7 +20,7 @@ image:
 #  caption: ""
 #  focal_point: "Smart"
 #  preview_only: false
-  placement: 300
+  placement: 1
 
 
 # Projects (optional).
