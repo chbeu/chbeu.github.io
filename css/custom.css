@@ -77,3 +77,18 @@
 	vertical-align:top;
 }
 
+table {
+  display: block;
+  overflow-x: auto;
+}
+th{
+  font-weight: normal;
+}
+
+tbody tr:nth-child(odd){
+  background-color: #EBEBEB;
+}
+
+tbody td{
+  border-right: 1px dotted #D6D6D6;
+}
