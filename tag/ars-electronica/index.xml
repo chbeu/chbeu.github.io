@@ -1,54 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ars electronica | Christine Bauer</title><link>https://chbeu.github.io/tag/ars-electronica/</link><atom:link href="https://chbeu.github.io/tag/ars-electronica/index.xml" rel="self" type="application/rss+xml"/><description>ars electronica</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate><image><url>https://chbeu.github.io/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_512x512_fill_lanczos_center_3.png</url><title>ars electronica</title><link>https://chbeu.github.io/tag/ars-electronica/</link></image><item><title>Music Information Retrieval: Inside and Outside the Music</title><link>https://chbeu.github.io/talks/t09_aixmusic2019_talk/</link><pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t09_aixmusic2019_talk/</guid><description>&lt;p>&lt;video controls src="https://www.dorftv.at/system/files/webvideos/x264_mid/31986.mp4#t=1545">&lt;/video>&lt;/p>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O_hu4c422569970d4dd29378e5200606a2c7_1954265_0x190_resize_q75_lanczos.JPG" loading="lazy" alt="48698187558_594301CE59_O.JPG" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O_hu4c422569970d4dd29378e5200606a2c7_1954265_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="48698187558_594301CE59_O.JPG" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O_hu4c422569970d4dd29378e5200606a2c7_1387763_0x190_resize_q75_lanczos.JPG" loading="lazy" alt="48698705532_C9E61907D7_O.JPG" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O_hu4c422569970d4dd29378e5200606a2c7_1387763_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="48698705532_C9E61907D7_O.JPG" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O_hu4c422569970d4dd29378e5200606a2c7_1419379_0x190_resize_q75_lanczos.JPG" loading="lazy" alt="48698706212_D14D50BAF1_O.JPG" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O_hu4c422569970d4dd29378e5200606a2c7_1419379_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="48698706212_D14D50BAF1_O.JPG" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4042.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4042.jpeg" width="142" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4042.jpeg" width="562" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4070.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4070_huc52c39725df73efbd98e62c34320798c_531658_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4070.jpeg" width="385" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4070_huc52c39725df73efbd98e62c34320798c_531658_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4070.jpeg" width="750" height="370">
 &lt;/a>
+&lt;/div>
 &lt;/div></description></item><item><title>Recommenders and Intelligent Tools in Music Creation: Why, Why Not, and How?</title><link>https://chbeu.github.io/talks/wo01_aixmusic2019_ws/</link><pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/wo01_aixmusic2019_ws/</guid><description>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4041%202.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4041%202_hude31bc0fa581f6fe278db65bbdadfb9b_1452481_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4041 2.jpeg" width="338" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4041%202_hude31bc0fa581f6fe278db65bbdadfb9b_1452481_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4041 2.jpeg" width="750" height="422">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4042.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4042.jpeg" width="142" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4042.jpeg" width="562" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4044.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4044_hude31bc0fa581f6fe278db65bbdadfb9b_1465151_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4044.jpeg" width="107" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4044_hude31bc0fa581f6fe278db65bbdadfb9b_1465151_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4044.jpeg" width="422" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4045.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4045_hu3a03999124e9d31077192b40aaf6d5f9_2103872_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4045.jpeg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4045_hu3a03999124e9d31077192b40aaf6d5f9_2103872_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4045.jpeg" width="750" height="563">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4046.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4046_hude31bc0fa581f6fe278db65bbdadfb9b_1905088_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4046.jpeg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4046_hude31bc0fa581f6fe278db65bbdadfb9b_1905088_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4046.jpeg" width="750" height="563">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4047.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4047_hude31bc0fa581f6fe278db65bbdadfb9b_2186067_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4047.jpeg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4047_hude31bc0fa581f6fe278db65bbdadfb9b_2186067_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4047.jpeg" width="750" height="563">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4053.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4053_hude31bc0fa581f6fe278db65bbdadfb9b_1555720_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4053.jpeg" width="143" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4053_hude31bc0fa581f6fe278db65bbdadfb9b_1555720_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4053.jpeg" width="563" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4055.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4055_hude31bc0fa581f6fe278db65bbdadfb9b_1825765_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4055.jpeg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4055_hude31bc0fa581f6fe278db65bbdadfb9b_1825765_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4055.jpeg" width="750" height="563">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4058.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4058_hude31bc0fa581f6fe278db65bbdadfb9b_2110982_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4058.jpeg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4058_hude31bc0fa581f6fe278db65bbdadfb9b_2110982_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4058.jpeg" width="750" height="563">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4059.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4059_hude31bc0fa581f6fe278db65bbdadfb9b_2100420_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4059.jpeg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4059_hude31bc0fa581f6fe278db65bbdadfb9b_2100420_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4059.jpeg" width="750" height="563">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4061.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4061_hude31bc0fa581f6fe278db65bbdadfb9b_1842071_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4061.jpeg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4061_hude31bc0fa581f6fe278db65bbdadfb9b_1842071_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4061.jpeg" width="750" height="563">
 &lt;/a>
+&lt;/div>
 &lt;/div></description></item><item><title>Additional talk at AIxMusic Festival on Sunday, 8 September</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-08-27-additional-talk-at-aixmusic-festival-on-sun-8-september/</link><pubDate>Tue, 27 Aug 2019 22:13:03 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-08-27-additional-talk-at-aixmusic-festival-on-sun-8-september/</guid><description>&lt;p>Besides holding a workshop on the festival&amp;rsquo;s second day (Friday), I will give a talk on &amp;lsquo;&amp;lsquo;Music Information Retrieval: Inside and Outside the Music&amp;rsquo;&amp;rsquo;; together with &lt;a href="https://www.ifs.tuwien.ac.at/~knees/" rel="noopener noreferrer" target="_blank">Peter Knees&lt;/a> at the &lt;a href="https://ars.electronica.art/outofthebox/en/aixmusic-day-matinee/" rel="noopener noreferrer" target="_blank">AIxMusic Matinée&lt;/a> on Sunday, 8 September.&lt;br>
 Note, the talk is announced with the title &amp;lsquo;&amp;lsquo;Music Information &amp;amp; Music Data&amp;rsquo;&amp;rsquo;.&lt;/p></description></item><item><title>Workshop at AIxMusic Festival in scope of the 2019 Ars Electronica Festival</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-08-27-workshop-at-aixmusic/</link><pubDate>Tue, 27 Aug 2019 21:41:34 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-08-27-workshop-at-aixmusic/</guid><description>&lt;p>I happily announce that I will hold a workshop with the title &lt;a href="https://ars.electronica.art/outofthebox/en/aixmusic-tools/" rel="noopener noreferrer" target="_blank">Recommenders and Intelligent Tools in Music Creation: Why, Why Not, and How?&lt;/a> at &lt;a href="https://ars.electronica.art/outofthebox/en/aixmusic/" rel="noopener noreferrer" target="_blank">AIxMusic Festival&lt;/a> in scope of the &lt;a href="https://ars.electronica.art/outofthebox/en/" rel="noopener noreferrer" target="_blank">2019 Ars Electronica Festival&lt;/a> – together with my co-speakers &lt;a href="https://www.ifs.tuwien.ac.at/~knees/" rel="noopener noreferrer" target="_blank">Peter Knees&lt;/a>, &lt;a href="https://www.ifs.tuwien.ac.at/~vogl/" rel="noopener noreferrer" target="_blank">Richard Vogl&lt;/a>, and &lt;a href="https://asdfg.me" rel="noopener noreferrer" target="_blank">Hansi Raber&lt;/a>.&lt;/p></description></item></channel></rss>

@@ -5,8 +5,9 @@
 &lt;div class="w-100" >&lt;img src="https://chbeu.github.io/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf" alt="[Tutorial slides](/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf)" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 &lt;a href="https://chbeu.github.io/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf">Tutorial slides&lt;/a>
-&lt;/figcaption>&lt;/figure>&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -38,7 +39,7 @@ ACM Author-izer
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>Multi-Method Evaluation of Adaptive Systems</title><link>https://chbeu.github.io/talks/tu01_umap2021_multimethods/</link><pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/tu01_umap2021_multimethods/</guid><description>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -71,7 +72,7 @@ ACM Author-izer
 &lt;/p>
 &lt;/div></description></item><item><title>Workshop PERSPECTIVES 2021 @ RecSys 2021</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-03-17-workshop-perspectives-2021-recsys-2021/</link><pubDate>Wed, 17 Mar 2021 22:32:23 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-03-17-workshop-perspectives-2021-recsys-2021/</guid><description>&lt;p>I am happy to announce that we – &lt;a href="https://evazangerle.at" target="_blank" rel="noopener">Eva Zangerle&lt;/a>, &lt;a href="https://www.alansaid.com" rel="noopener" target="_blank">Alain Said&lt;/a>, and me – will co-organize the workshop Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES) at &lt;a href="https://recsys.acm.org/recsys21/" rel="noopener" target="_blank">RecSys 2021&lt;/a>. Finger crossed that the event can indeed happen in Amsterdam and that many of use can safely participate. There will definitely be the possibility to participate online.&lt;/p>
 &lt;p>More infos will follow soon. Stay tuned!&lt;/p></description></item><item><title>UMAP tutorial on multi-method evaluation</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-02-18-umap-tutorial-on-multi-method-evaluation/</link><pubDate>Thu, 18 Feb 2021 16:13:25 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-02-18-umap-tutorial-on-multi-method-evaluation/</guid><description>&lt;p>I am looking forward to give a tutorial on &lt;a href="https://www.um.org/umap2021/program/tutorials.html#T02" target="_blank" rel="noopener">Multi-method evaluation of adaptive systems: Why and how?&lt;/a> at &lt;a href="https://www.um.org/umap2021/" target="_blank" rel="noopener">UMAP 2021&lt;/a>.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -103,7 +104,7 @@ ACM Author-izer
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>CHIIR 2020 tutorial paper on multi-method evaluation is online</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-03-14-chiir-2020-tutorial-paper-on-multi-method-evaluation-is-online/</link><pubDate>Sat, 14 Mar 2020 10:36:37 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-03-14-chiir-2020-tutorial-paper-on-multi-method-evaluation-is-online/</guid><description>&lt;p>While &lt;a href="http://sigir.org/chiir2020/" rel="noopener noreferrer" target="_blank">CHIIR 2020&lt;/a> had to be cancelled due to the current global situation with Covid-19, the paper accompanying the tutorial on multi-method evaluation (that I would have held there) is published.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -134,7 +135,7 @@ ACM Author-izer
 &lt;/div></description></item><item><title>CHIIR 2020 cancelled</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-03-06-chiir-2020-cancelled/</link><pubDate>Fri, 06 Mar 2020 14:04:03 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-03-06-chiir-2020-cancelled/</guid><description>&lt;p>Unfortunately, CHIIR 2020 was cancelled. This is really sad news. I was so much looking forward to holding the tutorial on multi-method evaluation. Meanwhile, you can have a look at &lt;a href="https://multimethods.info" rel="noopener noreferrer" target="_blank">&lt;a href="https://multimethods.info" target="_blank" rel="noopener">https://multimethods.info&lt;/a>&lt;/a>, which I maintain with &lt;a href="https://evazangerle.at" rel="noopener noreferrer" target="_blank">Eva Zangerle&lt;/a>. You can find a collection of useful material there.&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Yes, it&amp;#39;s sad, but true. CHIIR 2020 has been cancelled due to the COVID-19 health crisis. We will miss seeing you all in Vancouver. Stay healthy and CHIIR-ful, everyone! &lt;a href="https://twitter.com/hashtag/CHIIR2020?src=hash&amp;amp;ref_src=twsrc%5Etfw">#CHIIR2020&lt;/a>&lt;/p>&amp;mdash; ACM CHIIR 2023 (@ACM_CHIIR) &lt;a href="https://twitter.com/ACM_CHIIR/status/1235811231866339329?ref_src=twsrc%5Etfw">March 6, 2020&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -164,7 +165,7 @@ ACM Author-izer
 &lt;/p>
 &lt;/div></description></item><item><title>Small task to prepare for my CHIIR 2020 tutorial on multi-method evaluation</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-02-10-small-task-to-prepare-for-my-chiir-2020-tutorial-on-multi-method-evaluation/</link><pubDate>Mon, 10 Feb 2020 16:29:59 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-02-10-small-task-to-prepare-for-my-chiir-2020-tutorial-on-multi-method-evaluation/</guid><description>&lt;p>Are you interested in attending my &lt;a href="https://sigir.org/chiir2020/" rel="noopener noreferrer" target="_blank">CHIIR 2020&lt;/a> tutorial on multi-method evaluation (Leveraging multiple methods to answer what you were looking for)?&lt;/p>
 &lt;p>Consider preparing a small (very small!) task for the tutorial. It will help you get the best out of it for your very own research project. I summarized the task on the &lt;a href="https://multimethods.info" rel="noopener noreferrer" target="_blank">multimethods.info&lt;/a> site that I maintain together with &lt;a href="https://evazangerle.at" rel="noopener noreferrer" target="_blank">Eva Zangerle&lt;/a> from Universität Innsbruck: &lt;a href="https://multimethods.info/?page_id=122" rel="noopener noreferrer" target="_blank">Task description for the CHIIR 2020 Tutorial &amp;lsquo;&amp;lsquo;Leveraging multiple methods to answer what you were looking for&amp;rsquo;&amp;rsquo;&lt;/a>&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -193,7 +194,7 @@ ACM Author-izer
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>multimethods.info released</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-12-09-multimethods-info-released/</link><pubDate>Mon, 09 Dec 2019 20:48:20 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-12-09-multimethods-info-released/</guid><description>&lt;p>In our joint effort, advocating for multi-method evaluation, &lt;a href="https://www.evazangerle.at" rel="noopener noreferrer" target="_blank">Eva Zangerle&lt;/a> and me have set up a dedicated website: &lt;a href="https://multimethods.info" rel="noopener noreferrer" target="_blank">&lt;a href="https://multimethods.info" target="_blank" rel="noopener">https://multimethods.info&lt;/a>&lt;/a>. On that page, we collect resources that help to apply multi-method evaluation in research and development.&lt;/p></description></item><item><title>CHIIR 2020 Tutorial on Multi-Method Evaluation</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-10-23-chiir-2020-tutorial-on-multi-method-evaluation/</link><pubDate>Wed, 23 Oct 2019 10:43:42 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-10-23-chiir-2020-tutorial-on-multi-method-evaluation/</guid><description>&lt;p>I am happy to announce that I will give a tutorial with the title &amp;lsquo;&amp;lsquo;Leveraging multiple methods to answer what you were looking for&amp;rsquo;&amp;rsquo; at &lt;a href="http://sigir.org/chiir2020/" rel="noopener noreferrer" target="_blank">CHIIR 2020&lt;/a>. Details will follow.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -225,16 +226,20 @@ ACM Author-izer
 &lt;p>Participation is highly recommended (especially for for PhD and MSc students), but optional. For more information, have a look at the &lt;a href="https://acmrecsys.github.io/rsss2019/recsys_summerschool_tutorassignment.pdf" rel="noopener noreferrer" target="_blank">assignment&lt;/a>.&lt;/p>
 &lt;p>We kindly ask you to sign up via the following &lt;a href="https://forms.gle/caQeMZqHZVQs1k1B8" rel="noopener noreferrer" target="_blank">Google form&lt;/a> before Sunday, 8 September, 21h, as we will need some time to plan the sessions.&lt;/p></description></item><item><title>Speaker at RecSys Summer School 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-07-01-speaker-at-recsys-summer-school-2019/</link><pubDate>Mon, 01 Jul 2019 22:45:08 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-07-01-speaker-at-recsys-summer-school-2019/</guid><description>&lt;p>I am happy to be a speaker at &lt;a href="https://acmrecsys.github.io/rsss2019/" rel="noopener noreferrer" target="_blank">ACM Summer School on Recommender Systems&lt;/a> taking place in Gothenburg, Sweden, just a week before the official &lt;a href="https://recsys.acm.org/recsys19/" rel="noopener noreferrer" target="_blank">RecSys 2019&lt;/a> in Copenhagen, Denmark.&lt;/p></description></item><item><title>IUadaptME great success!</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-07-09-iuadaptme-great-success/</link><pubDate>Mon, 09 Jul 2018 03:48:29 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-07-09-iuadaptme-great-success/</guid><description>&lt;p>Yesterday&amp;rsquo;s &lt;a href="http://teldh.dibris.unige.it/iuadapt" rel="noopener noreferrer" target="_blank">IUadaptME&lt;/a> workshop at &lt;a href="http://www.um.org/umap2018/" rel="noopener noreferrer" target="_blank">UMAP 2018&lt;/a> was a great success! Thank you to all participants and my co-organizers. We had interesting discussions.&lt;/p>
 &lt;p>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-ws_iuadaptme2018" href="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-1.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-1_hu1464139d67255ea511c12e1961686cfb_73407_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="iuadaptme2018-1.jpg" width="253" height="190">
-&lt;/a>
-&lt;a data-fancybox="gallery-ws_iuadaptme2018" href="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2_hu53add388233f60596a0a2f246ca7c7e7_75080_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="iuadaptme2018-2.jpg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-1_hu1464139d67255ea511c12e1961686cfb_73407_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="iuadaptme2018-1.jpg" width="750" height="563">
 &lt;/a>
 &lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-ws_iuadaptme2018" href="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2.jpg" >
+&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2_hu53add388233f60596a0a2f246ca7c7e7_75080_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="iuadaptme2018-2.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;/div>
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -272,7 +277,7 @@ ACM Author-izer
 &lt;br>
 More information can soon be found on our workshop website at &lt;a href="http://multimethods.info" target="_blank" rel="noopener noreferrer">&lt;a href="http://multimethods.info" target="_blank" rel="noopener">http://multimethods.info&lt;/a>&lt;/a>.
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >

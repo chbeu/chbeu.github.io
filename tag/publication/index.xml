@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>publication | Christine Bauer</title><link>https://chbeu.github.io/tag/publication/</link><atom:link href="https://chbeu.github.io/tag/publication/index.xml" rel="self" type="application/rss+xml"/><description>publication</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Fri, 05 Aug 2022 22:00:00 +0200</lastBuildDate><image><url>https://chbeu.github.io/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_512x512_fill_lanczos_center_3.png</url><title>publication</title><link>https://chbeu.github.io/tag/publication/</link></image><item><title>Mini review on fairness in music recommender systems</title><link>https://chbeu.github.io/post/20220805_frontiers_paper/</link><pubDate>Fri, 05 Aug 2022 22:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220805_frontiers_paper/</guid><description>&lt;p>The first joint paper with Karlijn Dinnissen has just appeared in the journal &lt;a href="https://www.frontiersin.org/journals/big-data" target="_blank" rel="noopener">Frontiers in Big Data&lt;/a>. In this mini review, we take a stakeholder-centered view and discuss literature on fairness in music recommender systems from the perspective of the various stakeholders.&lt;/p>
 &lt;p>Overall, our literature review shows that the large majority of works analyze the current situation of fairness in music recommender systems, whereas only a few works propose approaches to improve it.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -30,7 +30,7 @@ DOI
 &lt;p>Our chapter is part of the book &lt;a href="https://www.grimme-institut.de/publikationen/schriftenreihe/p/d/mediale-stimmentwuerfe" target="_blank" rel="noopener">Mediale Stimmentwürfe&amp;mdash;Perspectives of Media Voice Designs&lt;/a>.
 &lt;br>
 &lt;br>&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -58,10 +58,10 @@ Book
 &lt;figure id="figure-algorithms-help-lots-of-people-discover-new-musicimagehttpspixabaycomphotosadult-music-listening-sound-woman-3086302-by-omar-medina-filmshttpspixabaycomusersomarmedinafilms-818453utm_sourcelink-attributionutm_mediumreferralutm_campaignimageutm_content3086302-from-pixabayhttpspixabaycomutm_sourcelink-attributionutm_mediumreferralutm_campaignimageutm_content3086302">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Adult, Music, Listening, Sound, Woman, Fun, Enjoyment" srcset="
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_fa209eb095c29fdee5558498b9365b7e.jpg 400w,
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_0cf45a3d9f8f4a3dd51ecbe7e3653744.jpg 760w,
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_1200x1200_fit_q75_lanczos.jpg 1200w"
-src="https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_fa209eb095c29fdee5558498b9365b7e.jpg"
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_60c7272be53cb997a60e8919fa2cb326.webp 400w,
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_1102631f9af0e46becc560e5620967c8.webp 760w,
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_60c7272be53cb997a60e8919fa2cb326.webp"
 width="760"
 height="507"
 loading="lazy" data-zoomable />&lt;/div>
@@ -84,10 +84,10 @@ Algorithms help lots of people discover new music.&lt;br>&lt;a href="https://pix
 &lt;figure id="figure-applications-like-spotify-use-algorithms-to-find-recommendationsimagehttpspixabaycomphotoswindows-phone-music-mobile-phone-1092785-by-štěpán-vranýhttpspixabaycomusers1767892-1767892utm_sourcelink-attributionutm_mediumreferralutm_campaignimageutm_content1092785-from-pixabayhttpspixabaycomutm_sourcelink-attributionutm_mediumreferralutm_campaignimageutm_content1092785">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Close up of a phone with the Xbox music application on the screen" srcset="
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_72c1e908937e4a406001ca21260b0ca3.jpg 400w,
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_4f136173a6cd3563c848e4cf6112c4d0.jpg 760w,
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_1200x1200_fit_q75_lanczos.jpg 1200w"
-src="https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_72c1e908937e4a406001ca21260b0ca3.jpg"
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_b2f5af2a79c1a915020376646bfa4805.webp 400w,
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_bf077a97c6afea2c4bbde085a6571bdd.webp 760w,
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_b2f5af2a79c1a915020376646bfa4805.webp"
 width="760"
 height="503"
 loading="lazy" data-zoomable />&lt;/div>
@@ -107,7 +107,7 @@ Applications like Spotify use algorithms to find recommendations.&lt;br>&lt;a hr
 &lt;br>
 &lt;a href="https://theconversation.com/profiles/christine-bauer-1221184" target="_blank" rel="noopener">Christine Bauer&lt;/a>, Assistant Professor of Human Centred Computing, &lt;em>&lt;a href="https://theconversation.com/institutions/utrecht-university-1354" target="_blank" rel="noopener">Utrecht University&lt;/a>&lt;/em> and &lt;a href="https://theconversation.com/profiles/andres-ferraro-1221187" target="_blank" rel="noopener">Andrés Ferraro&lt;/a>, PhD Candidate, Information and Communication Technologies, &lt;em>&lt;a href="https://theconversation.com/institutions/universitat-pompeu-fabra-2457" target="_blank" rel="noopener">Universitat Pompeu Fabra&lt;/a>&lt;/em>&lt;/p>
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -143,7 +143,7 @@ Code
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>CHIIR 2021 presentation: Break the Loop: Gender Imbalance in Music Recommenders</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</link><pubDate>Sun, 14 Mar 2021 21:48:39 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</guid><description>&lt;p>&lt;a href="https://andrebola.github.io/about/" rel="noopener" target="_blank">Andrés Ferraro&lt;/a> will present our joint paper at CHIIR 2021. In the paper with the title Break the Loop: Gender Imbalance in Music Recommenders, we investigate the imbalance in music recommendations with respect to the artists gender. We propose a simple re-ranking approach to mitigate the problem and show in a simulation of feedback loops how the gender (im-)balances evolves over time.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -179,7 +179,7 @@ Code
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Summary of ISMIR 2020 Special Session Do we help artists? published in SIGIR Forum</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-01-06-summary-of-ismir-2020-special-session-do-we-help-artists-published-in-sigir-forum/</link><pubDate>Wed, 06 Jan 2021 17:33:49 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-01-06-summary-of-ismir-2020-special-session-do-we-help-artists-published-in-sigir-forum/</guid><description>&lt;p>I am glad that my summary of the &lt;a href="https://www.ismir2020.net" rel="noopener" target="_blank">ISMIR 2020&lt;/a> special session: &amp;lsquo;&amp;lsquo;How do we—in MIR research—help artists? Do we?&amp;rsquo;&amp;rsquo; made it to the &lt;a href="http://sigir.org/forum/issues/december-2020/" rel="noopener" target="_blank">December 2020 issue of the SIGIR Forum&lt;/a>.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -208,7 +208,7 @@ ACM Author-izer
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>CHIIR 2020 tutorial paper on multi-method evaluation is online</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-03-14-chiir-2020-tutorial-paper-on-multi-method-evaluation-is-online/</link><pubDate>Sat, 14 Mar 2020 10:36:37 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-03-14-chiir-2020-tutorial-paper-on-multi-method-evaluation-is-online/</guid><description>&lt;p>While &lt;a href="http://sigir.org/chiir2020/" rel="noopener noreferrer" target="_blank">CHIIR 2020&lt;/a> had to be cancelled due to the current global situation with Covid-19, the paper accompanying the tutorial on multi-method evaluation (that I would have held there) is published.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -237,7 +237,7 @@ ACM Author-izer
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>PLOS ONE article on global and country-specific mainstreaminess out now!</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-plos-one-article-on-global-and-country-specific-mainstreaminess-out-now/</link><pubDate>Thu, 13 Jun 2019 23:38:11 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-plos-one-article-on-global-and-country-specific-mainstreaminess-out-now/</guid><description>&lt;p>I proudly present the &lt;a href="https://doi.org/10.1371/journal.pone.0217389" rel="noopener noreferrer" target="_blank">PLOS ONE article&lt;/a> by &lt;a href="http://www.mschedl.eu" rel="noopener noreferrer" target="_blank">Markus Schedl&lt;/a> and me: We analyze music preferences in 47 countries with respect to what is considered mainstream in a particular country. And, of course, we evaluate recommendation approaches considering users&amp;rsquo;; mainstreaminess.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -266,7 +266,7 @@ DOI
 &lt;/div></description></item><item><title>Position paper accepted for CompHCI 2019 Workshop @CHI 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</link><pubDate>Thu, 14 Mar 2019 20:17:04 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</guid><description>&lt;p>I am proud to announce that my position paper on &amp;lsquo;&amp;lsquo;The Potential of the Confluence of Theoretical and Algorithmic Modeling in Music Recommendation&amp;rsquo;&amp;rsquo; has been accepted for the ACM CHI 2019 Workshop on “&lt;a href="https://hcicompmodeling.wordpress.com" rel="noopener noreferrer" target="_blank">Computational Modeling in Human-Computer Interaction (CompHCI 2019)&lt;/a>“.&lt;/p>
 &lt;p>The workshop is co-organized by Nikola Banovic, Antti Oulasvirta, and Per Ola Kristensson.&lt;/p>
 &lt;p>I am looking forward to participate in the workshop to discuss the developments in the field.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -289,7 +289,7 @@ Project
 &lt;/p>
 &lt;/div></description></item><item><title>LBW paper accepted for CHI 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-02-11-lbr-paper-accepted-for-chi-2019/</link><pubDate>Mon, 11 Feb 2019 13:52:03 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-02-11-lbr-paper-accepted-for-chi-2019/</guid><description>&lt;p>I am proud to announce that the late breaking work paper on &amp;lsquo;&amp;lsquo;Cross-country user connections in an online social network for music&amp;rsquo;&amp;rsquo; that I co-authored with Markus Schedl has been accepted for CHI 2019.&lt;/p>
 &lt;p>I am looking forward to participate in this conferences. And with meeting a lot of great people there, I am sure that we will have a great time at CHI in Glasgow!&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -320,7 +320,7 @@ ACM Author-izer
 &lt;/p>
 &lt;/div></description></item><item><title>HICSS 2019 paper online</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-01-03-hicss-2019-paper-online/</link><pubDate>Thu, 03 Jan 2019 12:20:36 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-01-03-hicss-2019-paper-online/</guid><description>&lt;p>Our HICSS paper is online! &lt;a href="http://hdl.handle.net/10125/59655" rel="noopener noreferrer" target="_blank">&lt;a href="http://hdl.handle.net/10125/59655" target="_blank" rel="noopener">http://hdl.handle.net/10125/59655&lt;/a>&lt;/a>&lt;/p>
 &lt;p>The presentation is scheduled for Friday, 11 January 2019, 8:00 am.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -349,7 +349,7 @@ DOI
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>Paper on digital signage for retail is online</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-11-08-paper-on-digital-signage-for-retail-online/</link><pubDate>Thu, 08 Nov 2018 18:47:08 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-11-08-paper-on-digital-signage-for-retail-online/</guid><description>&lt;p>I like interdisciplinary work. The paper on &amp;lsquo;&amp;lsquo;Research directions for digital signage systems in retail&amp;rsquo;&amp;rsquo; is joint efforts from informatics, (e-)business, marketing, and consumer behavior.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -374,7 +374,7 @@ DOI
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>ISMIR paper online</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-09-18-ismir-paper-online/</link><pubDate>Tue, 18 Sep 2018 18:28:21 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-09-18-ismir-paper-online/</guid><description>&lt;p>The ISMIR paper co-authored with Markus Schedl is online. The paper is entitled &amp;lsquo;&amp;lsquo;Investigating cross-country relationship between users&amp;rsquo; social ties and music mainstreaminess&amp;rsquo;&amp;rsquo;.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -399,7 +399,7 @@ Project
 &lt;/div></description></item><item><title>Paper at ISMIR 2018</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-06-11-paper-at-ismir-2018/</link><pubDate>Mon, 11 Jun 2018 15:08:31 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-06-11-paper-at-ismir-2018/</guid><description>&lt;p>The article &amp;lsquo;&amp;lsquo;Investigating cross-country relationship between users’ social ties and music mainstreaminess&amp;rsquo;&amp;rsquo; is accepted for publication at the 19th International Society for Music Information Retrieval Conference (ISMIR 2018).&lt;/p>
 &lt;p>I am looking forward to the discussions at the conference in September.
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -426,7 +426,7 @@ Project
 &lt;p>The book is available at: DOI: &lt;a href="http://doi.org/10.1007/978-3-658-19399-7" rel="noopener noreferrer" target="_blank">10.1007/978-3-658-19399-7&lt;/a>.&lt;br>
 The section that I have authored is entitled &amp;lsquo;&amp;lsquo;Der Beitrag der Informatik zur Musikwirtschaftsforschung&amp;rsquo;&amp;rsquo; and is available at: DOI: &lt;a href="http://doi.org/10.1007/978-3-658-19399-7_6" rel="noopener noreferrer" target="_blank">10.1007/978-3-658-19399-7_6&lt;/a>.&lt;/p>
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -446,7 +446,7 @@ Cite
 &lt;/p>
 &lt;/div></description></item><item><title>Nomination for Best Paper Award at HICSS 2018</title><link>https://chbeu.github.io/post/_posts_wordpress/2017-12-20-nomination-for-best-paper-award-at-hicss-2018/</link><pubDate>Wed, 20 Dec 2017 20:43:48 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2017-12-20-nomination-for-best-paper-award-at-hicss-2018/</guid><description>&lt;p>The paper entitled &amp;lsquo;&amp;lsquo;An Open Model for Researching the Role of Culture in Online Self-Disclosure&amp;rsquo;&amp;rsquo; that I co-authored with Katharina Sophie Schmid and Christine Strauss is nominated for the Best Paper Award at HICSS 2018.
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -476,7 +476,7 @@ nominated for Best Paper Award
 &lt;/p>
 &lt;/div>
 &lt;/p></description></item><item><title>Best Paper Award at MoMM 2017</title><link>https://chbeu.github.io/post/_posts_wordpress/2017-12-16-best-paper-award-at-momm-2017/</link><pubDate>Sat, 16 Dec 2017 21:40:42 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2017-12-16-best-paper-award-at-momm-2017/</guid><description>&lt;p>Markus Schedl and me, we received the Best Paper Award at MoMM 2017 for our article entitled &amp;lsquo;&amp;lsquo;Introducing global and regional mainstreaminess for improving personalized music recommendation&amp;rsquo;&amp;rsquo;.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >

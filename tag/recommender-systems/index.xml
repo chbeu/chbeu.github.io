@@ -2,7 +2,7 @@
 &lt;p>It was also a very interesting experience to be in the audience, when students started the session by introducing my research on artist gender imbalance in music recommendation.&lt;/p>
 &lt;br>
 &lt;p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -38,7 +38,7 @@ Code
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -73,7 +73,7 @@ DOI
 &lt;/p></description></item><item><title>Karlijn Dinnissen presents at FAccTRec 2022</title><link>https://chbeu.github.io/post/20220902_facctrec2022/</link><pubDate>Fri, 02 Sep 2022 10:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220902_facctrec2022/</guid><description>&lt;p>As a proud supervisor, I am happy to let you know that Karlijn Dinnissen will present and discuss our joint paper &lt;a href="https://chbeu.github.io/publications/dinnissen-2022-fairness-in-music-recommender-systems">Fairness in music recommender systems: a stakeholder-centered mini review&lt;/a> at the &lt;a href="https://facctrec.github.io/facctrec2022/" target="_blank" rel="noopener">5th FAccTRec Workshop: Responsible Recommendation&lt;/a> at &lt;a href="https://recsys.acm.org/recsys22/" target="_blank" rel="noopener">RecSys 2022&lt;/a>.&lt;/p>
 &lt;p>In the &lt;a href="https://arxiv.org/abs/2209.06126" target="_blank" rel="noopener">FAcctRec abstract&lt;/a>, we summarize the main findings and point to the two open questions (arising from the review) that we will address at the workshop.&lt;/p>
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -105,7 +105,7 @@ DOI
 &lt;p>It has been a nice conversation, and I hope the audience will enjoy it too.&lt;/p>
 &lt;p>&lt;a href="https://www.recsperts.com/episodes/8-music-recommender-systems-fairness-and-evaluation-with-christine-bauer" target="_blank" rel="noopener">Link to episode #8 of the Recsperts podcast&lt;/a>&lt;/p></description></item><item><title>Mini review on fairness in music recommender systems</title><link>https://chbeu.github.io/post/20220805_frontiers_paper/</link><pubDate>Fri, 05 Aug 2022 22:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220805_frontiers_paper/</guid><description>&lt;p>The first joint paper with Karlijn Dinnissen has just appeared in the journal &lt;a href="https://www.frontiersin.org/journals/big-data" target="_blank" rel="noopener">Frontiers in Big Data&lt;/a>. In this mini review, we take a stakeholder-centered view and discuss literature on fairness in music recommender systems from the perspective of the various stakeholders.&lt;/p>
 &lt;p>Overall, our literature review shows that the large majority of works analyze the current situation of fairness in music recommender systems, whereas only a few works propose approaches to improve it.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -145,7 +145,7 @@ Providing users with relevant news and a good experience are key to such platfor
 &lt;p>Read the &lt;a href="https://www.uu.nl/en/organisation/equality-diversity-inclusion/music-recommenders-show-a-strong-gender-bias" rel="noopener" target="_blank">article based the interview with me&lt;/a>.
 &lt;br>
 &lt;br>&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -187,8 +187,9 @@ Code
 &lt;div class="w-100" >&lt;img src="https://chbeu.github.io/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf" alt="[Tutorial slides](/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf)" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 &lt;a href="https://chbeu.github.io/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf">Tutorial slides&lt;/a>
-&lt;/figcaption>&lt;/figure>&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -220,7 +221,7 @@ ACM Author-izer
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>Multi-Method Evaluation of Adaptive Systems</title><link>https://chbeu.github.io/talks/tu01_umap2021_multimethods/</link><pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/tu01_umap2021_multimethods/</guid><description>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -260,7 +261,7 @@ Here some links (articles in various languages):&lt;/p>
 &lt;li>&lt;a href="https://www.computable.nl/artikel/nieuws/maatschappij/7166553/250449/algoritmes-zangeres-onvriendelijk.html" rel="noopener" target="_blank">Computable—Algoritmes zangeres-onvriendelijk&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.larepublica.cat/minut-a-minut/un-estudi-de-la-upf-troba-biaix-de-genere-en-els-algoritmes-de-recomanacio-musical/" rel="noopener" target="_blank">La República—Un estudi de la UPF troba biaix de gènere en els algoritmes de recomanació musical&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -301,10 +302,10 @@ Code
 &lt;figure id="figure-algorithms-help-lots-of-people-discover-new-musicimagehttpspixabaycomphotosadult-music-listening-sound-woman-3086302-by-omar-medina-filmshttpspixabaycomusersomarmedinafilms-818453utm_sourcelink-attributionutm_mediumreferralutm_campaignimageutm_content3086302-from-pixabayhttpspixabaycomutm_sourcelink-attributionutm_mediumreferralutm_campaignimageutm_content3086302">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Adult, Music, Listening, Sound, Woman, Fun, Enjoyment" srcset="
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_fa209eb095c29fdee5558498b9365b7e.jpg 400w,
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_0cf45a3d9f8f4a3dd51ecbe7e3653744.jpg 760w,
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_1200x1200_fit_q75_lanczos.jpg 1200w"
-src="https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_fa209eb095c29fdee5558498b9365b7e.jpg"
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_60c7272be53cb997a60e8919fa2cb326.webp 400w,
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_1102631f9af0e46becc560e5620967c8.webp 760w,
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_60c7272be53cb997a60e8919fa2cb326.webp"
 width="760"
 height="507"
 loading="lazy" data-zoomable />&lt;/div>
@@ -327,10 +328,10 @@ Algorithms help lots of people discover new music.&lt;br>&lt;a href="https://pix
 &lt;figure id="figure-applications-like-spotify-use-algorithms-to-find-recommendationsimagehttpspixabaycomphotoswindows-phone-music-mobile-phone-1092785-by-štěpán-vranýhttpspixabaycomusers1767892-1767892utm_sourcelink-attributionutm_mediumreferralutm_campaignimageutm_content1092785-from-pixabayhttpspixabaycomutm_sourcelink-attributionutm_mediumreferralutm_campaignimageutm_content1092785">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Close up of a phone with the Xbox music application on the screen" srcset="
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_72c1e908937e4a406001ca21260b0ca3.jpg 400w,
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_4f136173a6cd3563c848e4cf6112c4d0.jpg 760w,
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_1200x1200_fit_q75_lanczos.jpg 1200w"
-src="https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_72c1e908937e4a406001ca21260b0ca3.jpg"
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_b2f5af2a79c1a915020376646bfa4805.webp 400w,
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_bf077a97c6afea2c4bbde085a6571bdd.webp 760w,
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_b2f5af2a79c1a915020376646bfa4805.webp"
 width="760"
 height="503"
 loading="lazy" data-zoomable />&lt;/div>
@@ -350,7 +351,7 @@ Applications like Spotify use algorithms to find recommendations.&lt;br>&lt;a hr
 &lt;br>
 &lt;a href="https://theconversation.com/profiles/christine-bauer-1221184" target="_blank" rel="noopener">Christine Bauer&lt;/a>, Assistant Professor of Human Centred Computing, &lt;em>&lt;a href="https://theconversation.com/institutions/utrecht-university-1354" target="_blank" rel="noopener">Utrecht University&lt;/a>&lt;/em> and &lt;a href="https://theconversation.com/profiles/andres-ferraro-1221187" target="_blank" rel="noopener">Andrés Ferraro&lt;/a>, PhD Candidate, Information and Communication Technologies, &lt;em>&lt;a href="https://theconversation.com/institutions/universitat-pompeu-fabra-2457" target="_blank" rel="noopener">Universitat Pompeu Fabra&lt;/a>&lt;/em>&lt;/p>
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -387,7 +388,7 @@ Code
 &lt;/p>
 &lt;/div></description></item><item><title>Workshop PERSPECTIVES 2021 @ RecSys 2021</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-03-17-workshop-perspectives-2021-recsys-2021/</link><pubDate>Wed, 17 Mar 2021 22:32:23 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-03-17-workshop-perspectives-2021-recsys-2021/</guid><description>&lt;p>I am happy to announce that we – &lt;a href="https://evazangerle.at" target="_blank" rel="noopener">Eva Zangerle&lt;/a>, &lt;a href="https://www.alansaid.com" rel="noopener" target="_blank">Alain Said&lt;/a>, and me – will co-organize the workshop Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES) at &lt;a href="https://recsys.acm.org/recsys21/" rel="noopener" target="_blank">RecSys 2021&lt;/a>. Finger crossed that the event can indeed happen in Amsterdam and that many of use can safely participate. There will definitely be the possibility to participate online.&lt;/p>
 &lt;p>More infos will follow soon. Stay tuned!&lt;/p></description></item><item><title>CHIIR 2021 presentation: Break the Loop: Gender Imbalance in Music Recommenders</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</link><pubDate>Sun, 14 Mar 2021 21:48:39 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</guid><description>&lt;p>&lt;a href="https://andrebola.github.io/about/" rel="noopener" target="_blank">Andrés Ferraro&lt;/a> will present our joint paper at CHIIR 2021. In the paper with the title Break the Loop: Gender Imbalance in Music Recommenders, we investigate the imbalance in music recommendations with respect to the artists gender. We propose a simple re-ranking approach to mitigate the problem and show in a simulation of feedback loops how the gender (im-)balances evolves over time.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -423,7 +424,7 @@ Code
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Break the Loop: Gender Imbalance in Music Recommenders</title><link>https://chbeu.github.io/publications/ferraro-2021-break-the-loop/</link><pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/ferraro-2021-break-the-loop/</guid><description/></item><item><title>UMAP tutorial on multi-method evaluation</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-02-18-umap-tutorial-on-multi-method-evaluation/</link><pubDate>Thu, 18 Feb 2021 16:13:25 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-02-18-umap-tutorial-on-multi-method-evaluation/</guid><description>&lt;p>I am looking forward to give a tutorial on &lt;a href="https://www.um.org/umap2021/program/tutorials.html#T02" target="_blank" rel="noopener">Multi-method evaluation of adaptive systems: Why and how?&lt;/a> at &lt;a href="https://www.um.org/umap2021/" target="_blank" rel="noopener">UMAP 2021&lt;/a>.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -460,7 +461,7 @@ ACM Author-izer
 &lt;iframe src="https://www.youtube.com/embed/nAevW75MzQA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -483,28 +484,38 @@ Cite
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/jQM2M6gMAvY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div></description></item><item><title>Tomorrow, panel at VUT Indie Days 2020</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-10-22-tomorrow-panel-at-vut-indie-days-2020/</link><pubDate>Thu, 22 Oct 2020 13:21:07 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-10-22-tomorrow-panel-at-vut-indie-days-2020/</guid><description>&lt;p>I am looking forward to join the panel on gender bias and discrimination in AI at the VUT Indie Days 2020 tomorrow. The panel is scheduled for 13:15 CEST and will be streamed on &lt;a href="https://c-o-pop.de/en/xoxo" rel="noopener noreferrer" target="_blank">c/o pop xoxo&lt;/a> in channel 1. Although originally planned to be held in English, the discussion will be in German. Maybe a good reason to brush up your German skills ;-)&lt;/p>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n_hud4a729e8ced41074b6c49e9ddc851db5_93838_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="122194815_3379261962139907_2981327588273322309_n.jpg" width="107" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n_hud4a729e8ced41074b6c49e9ddc851db5_93838_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="122194815_3379261962139907_2981327588273322309_n.jpg" width="422" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag.png" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag_hu84a89f40db0b943e52771e19a389834c_2710961_0x190_resize_lanczos_3.png" loading="lazy" alt="copopxoxo_Bauer_Freitag.png" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag_hu84a89f40db0b943e52771e19a389834c_2710961_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="copopxoxo_Bauer_Freitag.png" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797_hu84a89f40db0b943e52771e19a389834c_2703088_0x190_resize_lanczos_3.PNG" loading="lazy" alt="EPZF5797.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797_hu84a89f40db0b943e52771e19a389834c_2703088_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="EPZF5797.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382_hu84a89f40db0b943e52771e19a389834c_2696218_0x190_resize_lanczos_3.PNG" loading="lazy" alt="UHVQ3382.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382_hu84a89f40db0b943e52771e19a389834c_2696218_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="UHVQ3382.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980_hu84a89f40db0b943e52771e19a389834c_2697812_0x190_resize_lanczos_3.PNG" loading="lazy" alt="VKBZ4980.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980_hu84a89f40db0b943e52771e19a389834c_2697812_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="VKBZ4980.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
 &lt;/div></description></item><item><title>Ratings in, rankings out. Keep it simple, they said. But we need more than that.</title><link>https://chbeu.github.io/talks/kn01_complexrec2020/</link><pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/kn01_complexrec2020/</guid><description>&lt;p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/nAevW75MzQA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;br>&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -530,7 +541,7 @@ Cite
 &lt;p>Registration information will be announced soon. Follow &lt;a href="https://twitter.com/Women_MIR?s=20" rel="noopener noreferrer" target="_blank">@Women_MIR&lt;/a> to not miss any news.&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">The WiMIR workshop is going virtual with nine sessions with MIR all-stars! These sessions will be spread across four weekends (and timezones) leading up to &lt;a href="https://twitter.com/hashtag/vISMIR2020?src=hash&amp;amp;ref_src=twsrc%5Etfw">#vISMIR2020&lt;/a>. Registration information coming soon.&lt;a href="https://twitter.com/hashtag/WiMIR2020?src=hash&amp;amp;ref_src=twsrc%5Etfw">#WiMIR2020&lt;/a> &lt;a href="https://twitter.com/hashtag/WomenInMIR?src=hash&amp;amp;ref_src=twsrc%5Etfw">#WomenInMIR&lt;/a> &lt;a href="https://twitter.com/hashtag/WiMIRworkshop?src=hash&amp;amp;ref_src=twsrc%5Etfw">#WiMIRworkshop&lt;/a> @ismir2020&lt;/p>&amp;mdash; Women in MIR (@Women_MIR) &lt;a href="https://twitter.com/Women_MIR/status/1291735328118771714?ref_src=twsrc%5Etfw">August 7, 2020&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>Keynote at ComplexRec 2020</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-07-27-keynote-at-complexrec-2020/</link><pubDate>Mon, 27 Jul 2020 19:59:47 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-07-27-keynote-at-complexrec-2020/</guid><description>&lt;p>I am honored to announce that I am invited to give the keynote at the &lt;a href="https://complexrec2020.aau.dk" rel="noopener noreferrer" target="_blank">4th Workshop on Recommendation in Complex Environments (ComplexRec 2020)&lt;/a>, co-located with &lt;a href="https://recsys.acm.org/recsys20/" rel="noopener noreferrer" target="_blank">RecSys 2020&lt;/a>. The &lt;strong>fancy&lt;/strong> ;-) title of my talk is: &lt;em>Ratings in, rankings out. Keep it simple, they said. But we need more than that.&lt;/em>&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -564,7 +575,7 @@ Titlepage&lt;br>&lt;a href="https://www.liwest.at/uploads/tx_liwestblaetterkatal
 &lt;/div>&lt;figcaption>
 pdf file of the article in Burgenland Mitte.
 &lt;/figcaption>&lt;/figure></description></item><item><title>CHIIR 2020 tutorial paper on multi-method evaluation is online</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-03-14-chiir-2020-tutorial-paper-on-multi-method-evaluation-is-online/</link><pubDate>Sat, 14 Mar 2020 10:36:37 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-03-14-chiir-2020-tutorial-paper-on-multi-method-evaluation-is-online/</guid><description>&lt;p>While &lt;a href="http://sigir.org/chiir2020/" rel="noopener noreferrer" target="_blank">CHIIR 2020&lt;/a> had to be cancelled due to the current global situation with Covid-19, the paper accompanying the tutorial on multi-method evaluation (that I would have held there) is published.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -594,7 +605,7 @@ ACM Author-izer
 &lt;/p>
 &lt;/div></description></item><item><title>Small task to prepare for my CHIIR 2020 tutorial on multi-method evaluation</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-02-10-small-task-to-prepare-for-my-chiir-2020-tutorial-on-multi-method-evaluation/</link><pubDate>Mon, 10 Feb 2020 16:29:59 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-02-10-small-task-to-prepare-for-my-chiir-2020-tutorial-on-multi-method-evaluation/</guid><description>&lt;p>Are you interested in attending my &lt;a href="https://sigir.org/chiir2020/" rel="noopener noreferrer" target="_blank">CHIIR 2020&lt;/a> tutorial on multi-method evaluation (Leveraging multiple methods to answer what you were looking for)?&lt;/p>
 &lt;p>Consider preparing a small (very small!) task for the tutorial. It will help you get the best out of it for your very own research project. I summarized the task on the &lt;a href="https://multimethods.info" rel="noopener noreferrer" target="_blank">multimethods.info&lt;/a> site that I maintain together with &lt;a href="https://evazangerle.at" rel="noopener noreferrer" target="_blank">Eva Zangerle&lt;/a> from Universität Innsbruck: &lt;a href="https://multimethods.info/?page_id=122" rel="noopener noreferrer" target="_blank">Task description for the CHIIR 2020 Tutorial &amp;lsquo;&amp;lsquo;Leveraging multiple methods to answer what you were looking for&amp;rsquo;&amp;rsquo;&lt;/a>&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -623,7 +634,7 @@ ACM Author-izer
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>multimethods.info released</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-12-09-multimethods-info-released/</link><pubDate>Mon, 09 Dec 2019 20:48:20 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-12-09-multimethods-info-released/</guid><description>&lt;p>In our joint effort, advocating for multi-method evaluation, &lt;a href="https://www.evazangerle.at" rel="noopener noreferrer" target="_blank">Eva Zangerle&lt;/a> and me have set up a dedicated website: &lt;a href="https://multimethods.info" rel="noopener noreferrer" target="_blank">&lt;a href="https://multimethods.info" target="_blank" rel="noopener">https://multimethods.info&lt;/a>&lt;/a>. On that page, we collect resources that help to apply multi-method evaluation in research and development.&lt;/p></description></item><item><title>CHIIR 2020 Tutorial on Multi-Method Evaluation</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-10-23-chiir-2020-tutorial-on-multi-method-evaluation/</link><pubDate>Wed, 23 Oct 2019 10:43:42 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-10-23-chiir-2020-tutorial-on-multi-method-evaluation/</guid><description>&lt;p>I am happy to announce that I will give a tutorial with the title &amp;lsquo;&amp;lsquo;Leveraging multiple methods to answer what you were looking for&amp;rsquo;&amp;rsquo; at &lt;a href="http://sigir.org/chiir2020/" rel="noopener noreferrer" target="_blank">CHIIR 2020&lt;/a>. Details will follow.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -655,22 +666,32 @@ ACM Author-izer
 I am among the experts interviewed for this program which is broadcasted throughout the week. I will appear in part 2 (Tuesday) and 4 (Thursday).&lt;/p></description></item><item><title>Best Reviewer Award RecSys 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-09-18-best-reviewer-award-recsys-2019/</link><pubDate>Wed, 18 Sep 2019 12:40:59 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-09-18-best-reviewer-award-recsys-2019/</guid><description>&lt;p>I am happy having received RecSys 2019&amp;rsquo;s Best Reviewer Award.&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Recognizing best reviewers at &lt;a href="https://twitter.com/hashtag/recsys2019?src=hash&amp;amp;ref_src=twsrc%5Etfw">#recsys2019&lt;/a> &lt;a href="https://twitter.com/m_schedl?ref_src=twsrc%5Etfw">@m_schedl&lt;/a> &lt;a href="https://twitter.com/christine_bauer?ref_src=twsrc%5Etfw">@christine_bauer&lt;/a> &lt;a href="https://twitter.com/sandrewge?ref_src=twsrc%5Etfw">@sandrewge&lt;/a> &lt;a href="https://twitter.com/peter_knees?ref_src=twsrc%5Etfw">@peter_knees&lt;/a> -- Thanks for all the hard work! &lt;a href="https://t.co/OLyqU7YzW3">pic.twitter.com/OLyqU7YzW3&lt;/a>&lt;/p>&amp;mdash; Sole Pera (@DrCh0le) &lt;a href="https://twitter.com/DrCh0le/status/1174041924220661761?ref_src=twsrc%5Etfw">September 17, 2019&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>Music Information Retrieval: Inside and Outside the Music</title><link>https://chbeu.github.io/talks/t09_aixmusic2019_talk/</link><pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t09_aixmusic2019_talk/</guid><description>&lt;p>&lt;video controls src="https://www.dorftv.at/system/files/webvideos/x264_mid/31986.mp4#t=1545">&lt;/video>&lt;/p>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O_hu4c422569970d4dd29378e5200606a2c7_1954265_0x190_resize_q75_lanczos.JPG" loading="lazy" alt="48698187558_594301CE59_O.JPG" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O_hu4c422569970d4dd29378e5200606a2c7_1954265_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="48698187558_594301CE59_O.JPG" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O_hu4c422569970d4dd29378e5200606a2c7_1387763_0x190_resize_q75_lanczos.JPG" loading="lazy" alt="48698705532_C9E61907D7_O.JPG" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O_hu4c422569970d4dd29378e5200606a2c7_1387763_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="48698705532_C9E61907D7_O.JPG" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O_hu4c422569970d4dd29378e5200606a2c7_1419379_0x190_resize_q75_lanczos.JPG" loading="lazy" alt="48698706212_D14D50BAF1_O.JPG" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O_hu4c422569970d4dd29378e5200606a2c7_1419379_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="48698706212_D14D50BAF1_O.JPG" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4042.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4042.jpeg" width="142" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4042.jpeg" width="562" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4070.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4070_huc52c39725df73efbd98e62c34320798c_531658_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4070.jpeg" width="385" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4070_huc52c39725df73efbd98e62c34320798c_531658_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4070.jpeg" width="750" height="370">
 &lt;/a>
+&lt;/div>
 &lt;/div></description></item><item><title>Tutor Sessions at the RecSys Summer School 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-09-06-tutor-sessions-at-the-recsys-summer-school/</link><pubDate>Fri, 06 Sep 2019 20:02:18 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-09-06-tutor-sessions-at-the-recsys-summer-school/</guid><description>&lt;p>I am happy to announce that Martijn C. Willemsen and I organize &lt;a href="https://acmrecsys.github.io/rsss2019/recsys_summerschool_tutorassignment.pdf" rel="noopener noreferrer" target="_blank">tutor sessions&lt;/a> in scope of the &lt;a href="https://acmrecsys.github.io/rsss2019/" rel="noopener noreferrer" target="_blank">RecSys Summer School 2019&lt;/a>. The idea is that each participant can discuss the specific research goals and questions with senior researchers/teachers of the summer school and fellow students.&lt;/p>
 &lt;p>Participation is highly recommended (especially for for PhD and MSc students), but optional. For more information, have a look at the &lt;a href="https://acmrecsys.github.io/rsss2019/recsys_summerschool_tutorassignment.pdf" rel="noopener noreferrer" target="_blank">assignment&lt;/a>.&lt;/p>
 &lt;p>We kindly ask you to sign up via the following &lt;a href="https://forms.gle/caQeMZqHZVQs1k1B8" rel="noopener noreferrer" target="_blank">Google form&lt;/a> before Sunday, 8 September, 21h, as we will need some time to plan the sessions.&lt;/p></description></item><item><title>Additional talk at AIxMusic Festival on Sunday, 8 September</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-08-27-additional-talk-at-aixmusic-festival-on-sun-8-september/</link><pubDate>Tue, 27 Aug 2019 22:13:03 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-08-27-additional-talk-at-aixmusic-festival-on-sun-8-september/</guid><description>&lt;p>Besides holding a workshop on the festival&amp;rsquo;s second day (Friday), I will give a talk on &amp;lsquo;&amp;lsquo;Music Information Retrieval: Inside and Outside the Music&amp;rsquo;&amp;rsquo;; together with &lt;a href="https://www.ifs.tuwien.ac.at/~knees/" rel="noopener noreferrer" target="_blank">Peter Knees&lt;/a> at the &lt;a href="https://ars.electronica.art/outofthebox/en/aixmusic-day-matinee/" rel="noopener noreferrer" target="_blank">AIxMusic Matinée&lt;/a> on Sunday, 8 September.&lt;br>
@@ -685,7 +706,7 @@ Note, the talk is announced with the title &amp;lsquo;&amp;lsquo;Music Informati
 &lt;li>21 June 2019, DER STANDARD. &lt;a href="https://www.derstandard.at/story/2000105229715/linzer-forscher-zeigen-laenderunterschiede-im-musikgeschmack-auf" rel="noopener noreferrer" target="_blank">Linzer Forscher zeigen Länderunterschiede im Musikgeschmack auf (in German)&lt;/a>.&lt;/li>
 &lt;/ol>
 &lt;p>And, well, also read the original &lt;a href="https://doi.org/10.1371/journal.pone.0217389" rel="noopener noreferrer" target="_blank">PLOS ONE article (open access) on music preferences in 47 countries with respect to what is considered mainstream including recommendation approaches considering users&amp;rsquo; mainstreaminess&lt;/a> by &lt;a href="http://www.mschedl.eu" rel="noopener noreferrer" target="_blank">Markus Schedl&lt;/a> and me.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -712,7 +733,7 @@ DOI
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0217389" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Speaker at RecSys Summer School 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-07-01-speaker-at-recsys-summer-school-2019/</link><pubDate>Mon, 01 Jul 2019 22:45:08 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-07-01-speaker-at-recsys-summer-school-2019/</guid><description>&lt;p>I am happy to be a speaker at &lt;a href="https://acmrecsys.github.io/rsss2019/" rel="noopener noreferrer" target="_blank">ACM Summer School on Recommender Systems&lt;/a> taking place in Gothenburg, Sweden, just a week before the official &lt;a href="https://recsys.acm.org/recsys19/" rel="noopener noreferrer" target="_blank">RecSys 2019&lt;/a> in Copenhagen, Denmark.&lt;/p></description></item><item><title>PLOS ONE article on global and country-specific mainstreaminess out now!</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-plos-one-article-on-global-and-country-specific-mainstreaminess-out-now/</link><pubDate>Thu, 13 Jun 2019 23:38:11 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-plos-one-article-on-global-and-country-specific-mainstreaminess-out-now/</guid><description>&lt;p>I proudly present the &lt;a href="https://doi.org/10.1371/journal.pone.0217389" rel="noopener noreferrer" target="_blank">PLOS ONE article&lt;/a> by &lt;a href="http://www.mschedl.eu" rel="noopener noreferrer" target="_blank">Markus Schedl&lt;/a> and me: We analyze music preferences in 47 countries with respect to what is considered mainstream in a particular country. And, of course, we evaluate recommendation approaches considering users&amp;rsquo;; mainstreaminess.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -741,7 +762,7 @@ DOI
 &lt;/div></description></item><item><title>Outstanding Reviewer (Honorable Mention) at UMAP 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-outstanding-reviewer/</link><pubDate>Thu, 13 Jun 2019 23:34:05 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-outstanding-reviewer/</guid><description>&lt;p>I feel honored being among the seven &lt;strong>Outstanding Reviewers (Honorable Mentions)&lt;/strong> at &lt;a href="http://www.cyprusconferences.org/umap2019/index.html" rel="noopener noreferrer" target="_blank">UMAP 2019&lt;/a>. &lt;a href="http://www.cyprusconferences.org/umap2019/pages/committee.html" rel="noopener noreferrer" target="_blank">Have a look!&lt;/a>&lt;/p></description></item><item><title>Position paper accepted for CompHCI 2019 Workshop @CHI 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</link><pubDate>Thu, 14 Mar 2019 20:17:04 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</guid><description>&lt;p>I am proud to announce that my position paper on &amp;lsquo;&amp;lsquo;The Potential of the Confluence of Theoretical and Algorithmic Modeling in Music Recommendation&amp;rsquo;&amp;rsquo; has been accepted for the ACM CHI 2019 Workshop on “&lt;a href="https://hcicompmodeling.wordpress.com" rel="noopener noreferrer" target="_blank">Computational Modeling in Human-Computer Interaction (CompHCI 2019)&lt;/a>“.&lt;/p>
 &lt;p>The workshop is co-organized by Nikola Banovic, Antti Oulasvirta, and Per Ola Kristensson.&lt;/p>
 &lt;p>I am looking forward to participate in the workshop to discuss the developments in the field.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -764,7 +785,7 @@ Project
 &lt;/p>
 &lt;/div></description></item><item><title>HICSS 2019 paper online</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-01-03-hicss-2019-paper-online/</link><pubDate>Thu, 03 Jan 2019 12:20:36 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-01-03-hicss-2019-paper-online/</guid><description>&lt;p>Our HICSS paper is online! &lt;a href="http://hdl.handle.net/10125/59655" rel="noopener noreferrer" target="_blank">&lt;a href="http://hdl.handle.net/10125/59655" target="_blank" rel="noopener">http://hdl.handle.net/10125/59655&lt;/a>&lt;/a>&lt;/p>
 &lt;p>The presentation is scheduled for Friday, 11 January 2019, 8:00 am.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -796,16 +817,20 @@ DOI
 &lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">&lt;a href="https://twitter.com/christine_bauer?ref_src=twsrc%5Etfw">@christine_bauer&lt;/a> congrats, runner-up &lt;a href="https://t.co/5k0trWQHMC">pic.twitter.com/5k0trWQHMC&lt;/a>&lt;/p>&amp;mdash; Marko Tkalčič (@RecSysMare) &lt;a href="https://twitter.com/RecSysMare/status/1048087921973055489?ref_src=twsrc%5Etfw">October 5, 2018&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>IUadaptME great success!</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-07-09-iuadaptme-great-success/</link><pubDate>Mon, 09 Jul 2018 03:48:29 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-07-09-iuadaptme-great-success/</guid><description>&lt;p>Yesterday&amp;rsquo;s &lt;a href="http://teldh.dibris.unige.it/iuadapt" rel="noopener noreferrer" target="_blank">IUadaptME&lt;/a> workshop at &lt;a href="http://www.um.org/umap2018/" rel="noopener noreferrer" target="_blank">UMAP 2018&lt;/a> was a great success! Thank you to all participants and my co-organizers. We had interesting discussions.&lt;/p>
 &lt;p>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-ws_iuadaptme2018" href="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-1.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-1_hu1464139d67255ea511c12e1961686cfb_73407_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="iuadaptme2018-1.jpg" width="253" height="190">
-&lt;/a>
-&lt;a data-fancybox="gallery-ws_iuadaptme2018" href="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2_hu53add388233f60596a0a2f246ca7c7e7_75080_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="iuadaptme2018-2.jpg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-1_hu1464139d67255ea511c12e1961686cfb_73407_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="iuadaptme2018-1.jpg" width="750" height="563">
 &lt;/a>
 &lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-ws_iuadaptme2018" href="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2.jpg" >
+&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2_hu53add388233f60596a0a2f246ca7c7e7_75080_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="iuadaptme2018-2.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;/div>
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -844,7 +869,7 @@ ACM Author-izer
 &lt;br>
 More information can soon be found on our workshop website at &lt;a href="http://multimethods.info" target="_blank" rel="noopener noreferrer">&lt;a href="http://multimethods.info" target="_blank" rel="noopener">http://multimethods.info&lt;/a>&lt;/a>.
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -879,7 +904,7 @@ ACM Author-izer
 &lt;/p>
 &lt;/div>
 &lt;/p></description></item><item><title>Best Paper Award at MoMM 2017</title><link>https://chbeu.github.io/post/_posts_wordpress/2017-12-16-best-paper-award-at-momm-2017/</link><pubDate>Sat, 16 Dec 2017 21:40:42 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2017-12-16-best-paper-award-at-momm-2017/</guid><description>&lt;p>Markus Schedl and me, we received the Best Paper Award at MoMM 2017 for our article entitled &amp;lsquo;&amp;lsquo;Introducing global and regional mainstreaminess for improving personalized music recommendation&amp;rsquo;&amp;rsquo;.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >

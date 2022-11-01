@@ -2,7 +2,7 @@
 &lt;p>It was also a very interesting experience to be in the audience, when students started the session by introducing my research on artist gender imbalance in music recommendation.&lt;/p>
 &lt;br>
 &lt;p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -38,7 +38,7 @@ Code
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -73,7 +73,7 @@ DOI
 &lt;/p></description></item><item><title>Karlijn Dinnissen presents at FAccTRec 2022</title><link>https://chbeu.github.io/post/20220902_facctrec2022/</link><pubDate>Fri, 02 Sep 2022 10:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220902_facctrec2022/</guid><description>&lt;p>As a proud supervisor, I am happy to let you know that Karlijn Dinnissen will present and discuss our joint paper &lt;a href="https://chbeu.github.io/publications/dinnissen-2022-fairness-in-music-recommender-systems">Fairness in music recommender systems: a stakeholder-centered mini review&lt;/a> at the &lt;a href="https://facctrec.github.io/facctrec2022/" target="_blank" rel="noopener">5th FAccTRec Workshop: Responsible Recommendation&lt;/a> at &lt;a href="https://recsys.acm.org/recsys22/" target="_blank" rel="noopener">RecSys 2022&lt;/a>.&lt;/p>
 &lt;p>In the &lt;a href="https://arxiv.org/abs/2209.06126" target="_blank" rel="noopener">FAcctRec abstract&lt;/a>, we summarize the main findings and point to the two open questions (arising from the review) that we will address at the workshop.&lt;/p>
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -105,7 +105,7 @@ DOI
 &lt;p>It has been a nice conversation, and I hope the audience will enjoy it too.&lt;/p>
 &lt;p>&lt;a href="https://www.recsperts.com/episodes/8-music-recommender-systems-fairness-and-evaluation-with-christine-bauer" target="_blank" rel="noopener">Link to episode #8 of the Recsperts podcast&lt;/a>&lt;/p></description></item><item><title>Mini review on fairness in music recommender systems</title><link>https://chbeu.github.io/post/20220805_frontiers_paper/</link><pubDate>Fri, 05 Aug 2022 22:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220805_frontiers_paper/</guid><description>&lt;p>The first joint paper with Karlijn Dinnissen has just appeared in the journal &lt;a href="https://www.frontiersin.org/journals/big-data" target="_blank" rel="noopener">Frontiers in Big Data&lt;/a>. In this mini review, we take a stakeholder-centered view and discuss literature on fairness in music recommender systems from the perspective of the various stakeholders.&lt;/p>
 &lt;p>Overall, our literature review shows that the large majority of works analyze the current situation of fairness in music recommender systems, whereas only a few works propose approaches to improve it.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -139,10 +139,10 @@ DOI
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="" srcset="
-/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_a8d6bc4423213687ba29036b181d8988.png 400w,
-/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_a5e8fbb40e8072645954258e7ebd5b5a.png 760w,
-/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_1200x1200_fit_lanczos_3.png 1200w"
-src="https://chbeu.github.io/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_a8d6bc4423213687ba29036b181d8988.png"
+/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_8a55062ea4fe824d5098cea19e3526e1.webp 400w,
+/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_30a566ccbc7e60593fd5245798435d9c.webp 760w,
+/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://chbeu.github.io/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_8a55062ea4fe824d5098cea19e3526e1.webp"
 width="428"
 height="760"
 loading="lazy" data-zoomable />&lt;/div>
@@ -158,7 +158,7 @@ Here some links (articles in various languages):&lt;/p>
 &lt;li>&lt;a href="https://www.computable.nl/artikel/nieuws/maatschappij/7166553/250449/algoritmes-zangeres-onvriendelijk.html" rel="noopener" target="_blank">Computable—Algoritmes zangeres-onvriendelijk&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.larepublica.cat/minut-a-minut/un-estudi-de-la-upf-troba-biaix-de-genere-en-els-algoritmes-de-recomanacio-musical/" rel="noopener" target="_blank">La República—Un estudi de la UPF troba biaix de gènere en els algoritmes de recomanació musical&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -194,7 +194,7 @@ Code
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Break the Loop: Gender Imbalance in Music Recommenders</title><link>https://chbeu.github.io/publications/ferraro-2021-break-the-loop/</link><pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/ferraro-2021-break-the-loop/</guid><description/></item><item><title>Summary of ISMIR 2020 Special Session Do we help artists? published in SIGIR Forum</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-01-06-summary-of-ismir-2020-special-session-do-we-help-artists-published-in-sigir-forum/</link><pubDate>Wed, 06 Jan 2021 17:33:49 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-01-06-summary-of-ismir-2020-special-session-do-we-help-artists-published-in-sigir-forum/</guid><description>&lt;p>I am glad that my summary of the &lt;a href="https://www.ismir2020.net" rel="noopener" target="_blank">ISMIR 2020&lt;/a> special session: &amp;lsquo;&amp;lsquo;How do we—in MIR research—help artists? Do we?&amp;rsquo;&amp;rsquo; made it to the &lt;a href="http://sigir.org/forum/issues/december-2020/" rel="noopener" target="_blank">December 2020 issue of the SIGIR Forum&lt;/a>.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -233,58 +233,88 @@ ACM Author-izer
 &lt;/div>
 &lt;br>
 &lt;br>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n_hud4a729e8ced41074b6c49e9ddc851db5_93838_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="122194815_3379261962139907_2981327588273322309_n.jpg" width="107" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n_hud4a729e8ced41074b6c49e9ddc851db5_93838_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="122194815_3379261962139907_2981327588273322309_n.jpg" width="422" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag.png" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag_hu84a89f40db0b943e52771e19a389834c_2710961_0x190_resize_lanczos_3.png" loading="lazy" alt="copopxoxo_Bauer_Freitag.png" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag_hu84a89f40db0b943e52771e19a389834c_2710961_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="copopxoxo_Bauer_Freitag.png" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797_hu84a89f40db0b943e52771e19a389834c_2703088_0x190_resize_lanczos_3.PNG" loading="lazy" alt="EPZF5797.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797_hu84a89f40db0b943e52771e19a389834c_2703088_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="EPZF5797.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382_hu84a89f40db0b943e52771e19a389834c_2696218_0x190_resize_lanczos_3.PNG" loading="lazy" alt="UHVQ3382.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382_hu84a89f40db0b943e52771e19a389834c_2696218_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="UHVQ3382.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980_hu84a89f40db0b943e52771e19a389834c_2697812_0x190_resize_lanczos_3.PNG" loading="lazy" alt="VKBZ4980.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980_hu84a89f40db0b943e52771e19a389834c_2697812_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="VKBZ4980.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
 &lt;/div></description></item><item><title>Tomorrow, panel at VUT Indie Days 2020</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-10-22-tomorrow-panel-at-vut-indie-days-2020/</link><pubDate>Thu, 22 Oct 2020 13:21:07 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-10-22-tomorrow-panel-at-vut-indie-days-2020/</guid><description>&lt;p>I am looking forward to join the panel on gender bias and discrimination in AI at the VUT Indie Days 2020 tomorrow. The panel is scheduled for 13:15 CEST and will be streamed on &lt;a href="https://c-o-pop.de/en/xoxo" rel="noopener noreferrer" target="_blank">c/o pop xoxo&lt;/a> in channel 1. Although originally planned to be held in English, the discussion will be in German. Maybe a good reason to brush up your German skills ;-)&lt;/p>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n_hud4a729e8ced41074b6c49e9ddc851db5_93838_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="122194815_3379261962139907_2981327588273322309_n.jpg" width="107" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n_hud4a729e8ced41074b6c49e9ddc851db5_93838_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="122194815_3379261962139907_2981327588273322309_n.jpg" width="422" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag.png" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag_hu84a89f40db0b943e52771e19a389834c_2710961_0x190_resize_lanczos_3.png" loading="lazy" alt="copopxoxo_Bauer_Freitag.png" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag_hu84a89f40db0b943e52771e19a389834c_2710961_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="copopxoxo_Bauer_Freitag.png" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797_hu84a89f40db0b943e52771e19a389834c_2703088_0x190_resize_lanczos_3.PNG" loading="lazy" alt="EPZF5797.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797_hu84a89f40db0b943e52771e19a389834c_2703088_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="EPZF5797.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382_hu84a89f40db0b943e52771e19a389834c_2696218_0x190_resize_lanczos_3.PNG" loading="lazy" alt="UHVQ3382.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382_hu84a89f40db0b943e52771e19a389834c_2696218_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="UHVQ3382.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980_hu84a89f40db0b943e52771e19a389834c_2697812_0x190_resize_lanczos_3.PNG" loading="lazy" alt="VKBZ4980.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980_hu84a89f40db0b943e52771e19a389834c_2697812_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="VKBZ4980.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
 &lt;/div></description></item><item><title>Panelist at VUT Indie Days, co-located with c/o pop xoxo</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-09-26-panelist-at-vut-indie-days-co-located-with-c-o-pop-xoxo/</link><pubDate>Sat, 26 Sep 2020 09:39:43 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-09-26-panelist-at-vut-indie-days-co-located-with-c-o-pop-xoxo/</guid><description>&lt;p>I am happy to announce that I will be part of this year&amp;rsquo;s online edition of VUT Indie Days 2020, co-located with &lt;a href="https://c-o-pop.de/en/xoxo" rel="noopener noreferrer" target="_blank">c/o pop xoxo&lt;/a>. I will join the panel on &lt;a href="https://c-o-pop.de/en/xoxo/program/vut-indie-days-koeln:-gender-biases-and-discrimination-in-ai-|-en-talk" rel="noopener noreferrer" target="_blank">Gender biases and discrimination in AI&lt;/a>.&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="de" dir="ltr">Liebe Leute, ab heute präsentieren wir die ganze Woche über den ersten Teil unseres Programms für die &lt;a href="https://twitter.com/hashtag/copopxoxo?src=hash&amp;amp;ref_src=twsrc%5Etfw">#copopxoxo&lt;/a> – los geht’s mit den Talks der ersten &lt;a href="https://twitter.com/hashtag/VUTIndieDaysK%C3%B6ln?src=hash&amp;amp;ref_src=twsrc%5Etfw">#VUTIndieDaysKöln&lt;/a> / &lt;a href="https://twitter.com/DerVUT?ref_src=twsrc%5Etfw">@DerVUT&lt;/a> &lt;a href="https://twitter.com/hashtag/VUTIndieDays?src=hash&amp;amp;ref_src=twsrc%5Etfw">#VUTIndieDays&lt;/a> &lt;a href="https://twitter.com/hashtag/copopcon20?src=hash&amp;amp;ref_src=twsrc%5Etfw">#copopcon20&lt;/a> &lt;a href="https://t.co/e1C0VI1oIB">https://t.co/e1C0VI1oIB&lt;/a> &lt;a href="https://t.co/E4RoZjNdRe">pic.twitter.com/E4RoZjNdRe&lt;/a>&lt;/p>&amp;mdash; c/o pop Convention (@copopconvention) &lt;a href="https://twitter.com/copopconvention/status/1308348060779581440?ref_src=twsrc%5Etfw">September 22, 2020&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n_hud4a729e8ced41074b6c49e9ddc851db5_93838_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="122194815_3379261962139907_2981327588273322309_n.jpg" width="107" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n_hud4a729e8ced41074b6c49e9ddc851db5_93838_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="122194815_3379261962139907_2981327588273322309_n.jpg" width="422" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag.png" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag_hu84a89f40db0b943e52771e19a389834c_2710961_0x190_resize_lanczos_3.png" loading="lazy" alt="copopxoxo_Bauer_Freitag.png" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag_hu84a89f40db0b943e52771e19a389834c_2710961_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="copopxoxo_Bauer_Freitag.png" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797_hu84a89f40db0b943e52771e19a389834c_2703088_0x190_resize_lanczos_3.PNG" loading="lazy" alt="EPZF5797.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797_hu84a89f40db0b943e52771e19a389834c_2703088_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="EPZF5797.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382_hu84a89f40db0b943e52771e19a389834c_2696218_0x190_resize_lanczos_3.PNG" loading="lazy" alt="UHVQ3382.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382_hu84a89f40db0b943e52771e19a389834c_2696218_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="UHVQ3382.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980_hu84a89f40db0b943e52771e19a389834c_2697812_0x190_resize_lanczos_3.PNG" loading="lazy" alt="VKBZ4980.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980_hu84a89f40db0b943e52771e19a389834c_2697812_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="VKBZ4980.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
 &lt;/div></description></item><item><title>Video of my interview for LIWEST Kundenmagazin is online</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-08-23-video-of-my-interview-for-liwest-kundenmagazin-is-online/</link><pubDate>Sun, 23 Aug 2020 14:43:32 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-08-23-video-of-my-interview-for-liwest-kundenmagazin-is-online/</guid><description>&lt;p>My interview for LIWEST Kundenmagazin, Ausgabe Juli 2020 (&lt;a href="https://www.liwest.at/uploads/tx_liwestblaetterkatalog/LIWEST-Kundenmagazin_02_2020_web.pdf" rel="noopener noreferrer" target="_blank">[pdf]&lt;/a> &lt;a href="https://issuu.com/liwest_admin/docs/liwest-kundenmagazin_02_2020_web" rel="noopener noreferrer" target="_blank">[e-paper]&lt;/a>) was recorded.&lt;/p>
 &lt;p>A 10 minutes cut of this interview is now online as a video at &lt;a href="https://www.dorftv.at/video/34030" rel="noopener noreferrer" target="_blank">dorf tv&lt;/a>.&lt;/p>
 &lt;p>&lt;video controls>&lt;source src="https://www.dorftv.at/system/files/webvideos/x264_mid/34030.mp4" type="video/mp4">Your browser does not support the video tag.&lt;/video>&lt;/p>
@@ -317,57 +347,89 @@ pdf file of the article in Burgenland Mitte.
 I am among the experts interviewed for this program which is broadcasted throughout the week. I will appear in part 2 (Tuesday) and 4 (Thursday).&lt;/p></description></item><item><title>My talk at PrivacyWeek 2019 is scheduled for Sun, 27 October</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-09-18-my-talk-at-privacyweek-2019-is-scheduled-for-sun-27-october/</link><pubDate>Wed, 18 Sep 2019 14:53:50 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-09-18-my-talk-at-privacyweek-2019-is-scheduled-for-sun-27-october/</guid><description>&lt;p>The program of &lt;a href="https://privacyweek.at" rel="noopener noreferrer" target="_blank">PrivacyWeek 2019&lt;/a> is online!&lt;br>
 My talk with the title &lt;a href="https://cfp.privacyweek.at/pw19/talk/BYXCVR/" rel="noopener noreferrer" target="_blank">Sag mir, was du hörst – und ich sage dir, wer du bist!&lt;/a> (in German) is scheduled for Sunday, 27 October 2019, 15:00 – 15:45 in room &amp;lsquo;&amp;lsquo;Saal 1&amp;rsquo;&amp;rsquo;.&lt;/p>
 &lt;p>Hope to see you there!&lt;/p></description></item><item><title>Music Information Retrieval: Inside and Outside the Music</title><link>https://chbeu.github.io/talks/t09_aixmusic2019_talk/</link><pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t09_aixmusic2019_talk/</guid><description>&lt;p>&lt;video controls src="https://www.dorftv.at/system/files/webvideos/x264_mid/31986.mp4#t=1545">&lt;/video>&lt;/p>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O_hu4c422569970d4dd29378e5200606a2c7_1954265_0x190_resize_q75_lanczos.JPG" loading="lazy" alt="48698187558_594301CE59_O.JPG" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O_hu4c422569970d4dd29378e5200606a2c7_1954265_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="48698187558_594301CE59_O.JPG" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O_hu4c422569970d4dd29378e5200606a2c7_1387763_0x190_resize_q75_lanczos.JPG" loading="lazy" alt="48698705532_C9E61907D7_O.JPG" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O_hu4c422569970d4dd29378e5200606a2c7_1387763_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="48698705532_C9E61907D7_O.JPG" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O_hu4c422569970d4dd29378e5200606a2c7_1419379_0x190_resize_q75_lanczos.JPG" loading="lazy" alt="48698706212_D14D50BAF1_O.JPG" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O_hu4c422569970d4dd29378e5200606a2c7_1419379_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="48698706212_D14D50BAF1_O.JPG" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4042.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4042.jpeg" width="142" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4042.jpeg" width="562" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4070.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4070_huc52c39725df73efbd98e62c34320798c_531658_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4070.jpeg" width="385" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4070_huc52c39725df73efbd98e62c34320798c_531658_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4070.jpeg" width="750" height="370">
 &lt;/a>
+&lt;/div>
 &lt;/div></description></item><item><title>Recommenders and Intelligent Tools in Music Creation: Why, Why Not, and How?</title><link>https://chbeu.github.io/talks/wo01_aixmusic2019_ws/</link><pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/wo01_aixmusic2019_ws/</guid><description>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4041%202.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4041%202_hude31bc0fa581f6fe278db65bbdadfb9b_1452481_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4041 2.jpeg" width="338" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4041%202_hude31bc0fa581f6fe278db65bbdadfb9b_1452481_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4041 2.jpeg" width="750" height="422">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4042.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4042.jpeg" width="142" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4042.jpeg" width="562" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4044.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4044_hude31bc0fa581f6fe278db65bbdadfb9b_1465151_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4044.jpeg" width="107" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4044_hude31bc0fa581f6fe278db65bbdadfb9b_1465151_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4044.jpeg" width="422" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4045.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4045_hu3a03999124e9d31077192b40aaf6d5f9_2103872_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4045.jpeg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4045_hu3a03999124e9d31077192b40aaf6d5f9_2103872_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4045.jpeg" width="750" height="563">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4046.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4046_hude31bc0fa581f6fe278db65bbdadfb9b_1905088_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4046.jpeg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4046_hude31bc0fa581f6fe278db65bbdadfb9b_1905088_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4046.jpeg" width="750" height="563">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4047.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4047_hude31bc0fa581f6fe278db65bbdadfb9b_2186067_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4047.jpeg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4047_hude31bc0fa581f6fe278db65bbdadfb9b_2186067_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4047.jpeg" width="750" height="563">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4053.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4053_hude31bc0fa581f6fe278db65bbdadfb9b_1555720_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4053.jpeg" width="143" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4053_hude31bc0fa581f6fe278db65bbdadfb9b_1555720_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4053.jpeg" width="563" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4055.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4055_hude31bc0fa581f6fe278db65bbdadfb9b_1825765_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4055.jpeg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4055_hude31bc0fa581f6fe278db65bbdadfb9b_1825765_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4055.jpeg" width="750" height="563">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4058.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4058_hude31bc0fa581f6fe278db65bbdadfb9b_2110982_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4058.jpeg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4058_hude31bc0fa581f6fe278db65bbdadfb9b_2110982_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4058.jpeg" width="750" height="563">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4059.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4059_hude31bc0fa581f6fe278db65bbdadfb9b_2100420_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4059.jpeg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4059_hude31bc0fa581f6fe278db65bbdadfb9b_2100420_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4059.jpeg" width="750" height="563">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4061.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4061_hude31bc0fa581f6fe278db65bbdadfb9b_1842071_0x190_resize_q75_lanczos.jpeg" loading="lazy" alt="IMG_4061.jpeg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4061_hude31bc0fa581f6fe278db65bbdadfb9b_1842071_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4061.jpeg" width="750" height="563">
 &lt;/a>
+&lt;/div>
 &lt;/div></description></item><item><title>Additional talk at AIxMusic Festival on Sunday, 8 September</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-08-27-additional-talk-at-aixmusic-festival-on-sun-8-september/</link><pubDate>Tue, 27 Aug 2019 22:13:03 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-08-27-additional-talk-at-aixmusic-festival-on-sun-8-september/</guid><description>&lt;p>Besides holding a workshop on the festival&amp;rsquo;s second day (Friday), I will give a talk on &amp;lsquo;&amp;lsquo;Music Information Retrieval: Inside and Outside the Music&amp;rsquo;&amp;rsquo;; together with &lt;a href="https://www.ifs.tuwien.ac.at/~knees/" rel="noopener noreferrer" target="_blank">Peter Knees&lt;/a> at the &lt;a href="https://ars.electronica.art/outofthebox/en/aixmusic-day-matinee/" rel="noopener noreferrer" target="_blank">AIxMusic Matinée&lt;/a> on Sunday, 8 September.&lt;br>
 Note, the talk is announced with the title &amp;lsquo;&amp;lsquo;Music Information &amp;amp; Music Data&amp;rsquo;&amp;rsquo;.&lt;/p></description></item><item><title>Workshop at AIxMusic Festival in scope of the 2019 Ars Electronica Festival</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-08-27-workshop-at-aixmusic/</link><pubDate>Tue, 27 Aug 2019 21:41:34 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-08-27-workshop-at-aixmusic/</guid><description>&lt;p>I happily announce that I will hold a workshop with the title &lt;a href="https://ars.electronica.art/outofthebox/en/aixmusic-tools/" rel="noopener noreferrer" target="_blank">Recommenders and Intelligent Tools in Music Creation: Why, Why Not, and How?&lt;/a> at &lt;a href="https://ars.electronica.art/outofthebox/en/aixmusic/" rel="noopener noreferrer" target="_blank">AIxMusic Festival&lt;/a> in scope of the &lt;a href="https://ars.electronica.art/outofthebox/en/" rel="noopener noreferrer" target="_blank">2019 Ars Electronica Festival&lt;/a> – together with my co-speakers &lt;a href="https://www.ifs.tuwien.ac.at/~knees/" rel="noopener noreferrer" target="_blank">Peter Knees&lt;/a>, &lt;a href="https://www.ifs.tuwien.ac.at/~vogl/" rel="noopener noreferrer" target="_blank">Richard Vogl&lt;/a>, and &lt;a href="https://asdfg.me" rel="noopener noreferrer" target="_blank">Hansi Raber&lt;/a>.&lt;/p></description></item><item><title>We had some nice media presence lately</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-07-08-we-had-some-nice-media-presence-recently/</link><pubDate>Mon, 08 Jul 2019 08:19:58 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-07-08-we-had-some-nice-media-presence-recently/</guid><description>&lt;p>It&amp;rsquo;s great to see our scientific results being communicated to the public. Our results were well received on the media.&lt;/p>
 &lt;p>And here we go, the list of articles on the media:&lt;/p>
@@ -380,7 +442,7 @@ Note, the talk is announced with the title &amp;lsquo;&amp;lsquo;Music Informati
 &lt;li>21 June 2019, DER STANDARD. &lt;a href="https://www.derstandard.at/story/2000105229715/linzer-forscher-zeigen-laenderunterschiede-im-musikgeschmack-auf" rel="noopener noreferrer" target="_blank">Linzer Forscher zeigen Länderunterschiede im Musikgeschmack auf (in German)&lt;/a>.&lt;/li>
 &lt;/ol>
 &lt;p>And, well, also read the original &lt;a href="https://doi.org/10.1371/journal.pone.0217389" rel="noopener noreferrer" target="_blank">PLOS ONE article (open access) on music preferences in 47 countries with respect to what is considered mainstream including recommendation approaches considering users&amp;rsquo; mainstreaminess&lt;/a> by &lt;a href="http://www.mschedl.eu" rel="noopener noreferrer" target="_blank">Markus Schedl&lt;/a> and me.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -407,7 +469,7 @@ DOI
 &lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0217389" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Speaker at PrivacyWeek 2019 in Vienna</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-07-05-speaker-at-privacyweek-2019/</link><pubDate>Fri, 05 Jul 2019 12:05:18 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-07-05-speaker-at-privacyweek-2019/</guid><description>&lt;p>I&amp;rsquo;m happy to announce that I will give a talk at this year&amp;rsquo;s &lt;a href="https://privacyweek.at" rel="noopener noreferrer" target="_blank">PrivacyWeek 2019 – Privat, oida!&lt;/a> organized by &lt;a href="https://c3w.at/" rel="noopener noreferrer" target="_blank">Chaos Computer Club Wien (C3W)&lt;/a> in October. Stay tuned!&lt;/p></description></item><item><title>PLOS ONE article on global and country-specific mainstreaminess out now!</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-plos-one-article-on-global-and-country-specific-mainstreaminess-out-now/</link><pubDate>Thu, 13 Jun 2019 23:38:11 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-plos-one-article-on-global-and-country-specific-mainstreaminess-out-now/</guid><description>&lt;p>I proudly present the &lt;a href="https://doi.org/10.1371/journal.pone.0217389" rel="noopener noreferrer" target="_blank">PLOS ONE article&lt;/a> by &lt;a href="http://www.mschedl.eu" rel="noopener noreferrer" target="_blank">Markus Schedl&lt;/a> and me: We analyze music preferences in 47 countries with respect to what is considered mainstream in a particular country. And, of course, we evaluate recommendation approaches considering users&amp;rsquo;; mainstreaminess.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -436,7 +498,7 @@ DOI
 &lt;/div></description></item><item><title>Position paper accepted for CompHCI 2019 Workshop @CHI 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</link><pubDate>Thu, 14 Mar 2019 20:17:04 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</guid><description>&lt;p>I am proud to announce that my position paper on &amp;lsquo;&amp;lsquo;The Potential of the Confluence of Theoretical and Algorithmic Modeling in Music Recommendation&amp;rsquo;&amp;rsquo; has been accepted for the ACM CHI 2019 Workshop on “&lt;a href="https://hcicompmodeling.wordpress.com" rel="noopener noreferrer" target="_blank">Computational Modeling in Human-Computer Interaction (CompHCI 2019)&lt;/a>“.&lt;/p>
 &lt;p>The workshop is co-organized by Nikola Banovic, Antti Oulasvirta, and Per Ola Kristensson.&lt;/p>
 &lt;p>I am looking forward to participate in the workshop to discuss the developments in the field.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -459,7 +521,7 @@ Project
 &lt;/p>
 &lt;/div></description></item><item><title>LBW paper accepted for CHI 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-02-11-lbr-paper-accepted-for-chi-2019/</link><pubDate>Mon, 11 Feb 2019 13:52:03 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-02-11-lbr-paper-accepted-for-chi-2019/</guid><description>&lt;p>I am proud to announce that the late breaking work paper on &amp;lsquo;&amp;lsquo;Cross-country user connections in an online social network for music&amp;rsquo;&amp;rsquo; that I co-authored with Markus Schedl has been accepted for CHI 2019.&lt;/p>
 &lt;p>I am looking forward to participate in this conferences. And with meeting a lot of great people there, I am sure that we will have a great time at CHI in Glasgow!&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -489,7 +551,7 @@ ACM Author-izer
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>Mentor in WiMIR mentoring 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-01-30-mentor-in-wimir-mentoring-2019/</link><pubDate>Wed, 30 Jan 2019 09:29:43 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-01-30-mentor-in-wimir-mentoring-2019/</guid><description>&lt;p>Next round of &lt;a href="https://wimir.wordpress.com/2019/01/30/wimir-mentoring-round-2019-kickoff/" target="_blank" rel="noopener noreferrer">WiMIR mentoring&lt;/a> has just started. I am looking forward to this journey, mentoring a young female researcher.&lt;/p></description></item><item><title>Global and country-specific mainstreaminess measures: Definitions, analysis, and usage for improving personalized music recommendation systems</title><link>https://chbeu.github.io/publications/bauer-2019-plosone-mainstreaminess/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/bauer-2019-plosone-mainstreaminess/</guid><description/></item><item><title>Den richtigen Inhalt für den richtigen User im richtigen Moment: Musikempfehlungssysteme jetzt und in der Zukunft</title><link>https://chbeu.github.io/talks/t07_rotaryclub2018/</link><pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t07_rotaryclub2018/</guid><description/></item><item><title>ISMIR paper online</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-09-18-ismir-paper-online/</link><pubDate>Tue, 18 Sep 2018 18:28:21 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-09-18-ismir-paper-online/</guid><description>&lt;p>The ISMIR paper co-authored with Markus Schedl is online. The paper is entitled &amp;lsquo;&amp;lsquo;Investigating cross-country relationship between users&amp;rsquo; social ties and music mainstreaminess&amp;rsquo;&amp;rsquo;.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -514,7 +576,7 @@ Project
 &lt;/div></description></item><item><title>Paper at ISMIR 2018</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-06-11-paper-at-ismir-2018/</link><pubDate>Mon, 11 Jun 2018 15:08:31 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-06-11-paper-at-ismir-2018/</guid><description>&lt;p>The article &amp;lsquo;&amp;lsquo;Investigating cross-country relationship between users’ social ties and music mainstreaminess&amp;rsquo;&amp;rsquo; is accepted for publication at the 19th International Society for Music Information Retrieval Conference (ISMIR 2018).&lt;/p>
 &lt;p>I am looking forward to the discussions at the conference in September.
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -543,7 +605,7 @@ Project
 &lt;p>The book is available at: DOI: &lt;a href="http://doi.org/10.1007/978-3-658-19399-7" rel="noopener noreferrer" target="_blank">10.1007/978-3-658-19399-7&lt;/a>.&lt;br>
 The section that I have authored is entitled &amp;lsquo;&amp;lsquo;Der Beitrag der Informatik zur Musikwirtschaftsforschung&amp;rsquo;&amp;rsquo; and is available at: DOI: &lt;a href="http://doi.org/10.1007/978-3-658-19399-7_6" rel="noopener noreferrer" target="_blank">10.1007/978-3-658-19399-7_6&lt;/a>.&lt;/p>
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -562,7 +624,7 @@ Cite
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>Mentor in WiMIR mentoring 2018</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-01-12-mentor-in-wimir-mentoring-2018/</link><pubDate>Fri, 12 Jan 2018 07:02:34 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-01-12-mentor-in-wimir-mentoring-2018/</guid><description>&lt;p>This month I start mentoring a young female researcher as part of the &lt;a href="https://wimir.wordpress.com/2018/01/11/mentoring-round-2018-is-about-to-start/" target="_blank" rel="noopener noreferrer">WiMIR mentoring 2018&lt;/a> program. I am looking forward to this &amp;lsquo;&amp;lsquo;journey&amp;rsquo;&amp;rsquo;.&lt;/p></description></item><item><title>Best Paper Award at MoMM 2017</title><link>https://chbeu.github.io/post/_posts_wordpress/2017-12-16-best-paper-award-at-momm-2017/</link><pubDate>Sat, 16 Dec 2017 21:40:42 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2017-12-16-best-paper-award-at-momm-2017/</guid><description>&lt;p>Markus Schedl and me, we received the Best Paper Award at MoMM 2017 for our article entitled &amp;lsquo;&amp;lsquo;Introducing global and regional mainstreaminess for improving personalized music recommendation&amp;rsquo;&amp;rsquo;.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -602,35 +664,55 @@ Best Paper Award
 &lt;/div>
 &lt;br>
 &lt;br>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/1a.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1a_hu0b116465b7d46c3a581a2edd4c28daa4_295106_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="1a.jpg" width="286" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1a_hu0b116465b7d46c3a581a2edd4c28daa4_295106_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="1a.jpg" width="750" height="498">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/1b.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1b_hubea710653fe503a23eb16636e45feca8_529917_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="1b.jpg" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1b_hubea710653fe503a23eb16636e45feca8_529917_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="1b.jpg" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/1c.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1c_hud8b4041ab86dad20e6046471e5674861_449722_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="1c.jpg" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1c_hud8b4041ab86dad20e6046471e5674861_449722_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="1c.jpg" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/1d.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1d_hu09951eb33f773c9a8d4b1607eceb778d_498910_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="1d.jpg" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1d_hu09951eb33f773c9a8d4b1607eceb778d_498910_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="1d.jpg" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/1e.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1e_hud4c537cd1ab4bfec474e6d357d85ecfc_60860_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="1e.jpg" width="156" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1e_hud4c537cd1ab4bfec474e6d357d85ecfc_60860_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="1e.jpg" width="614" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/2a.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/2a_huf1d5a9ed6522981e625ffc63245a66b1_453691_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="2a.jpg" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/2a_huf1d5a9ed6522981e625ffc63245a66b1_453691_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="2a.jpg" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/2b.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/2b_huc747152caa45f7e6604cc9e4685adbff_801878_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="2b.jpg" width="286" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/2b_huc747152caa45f7e6604cc9e4685adbff_801878_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="2b.jpg" width="750" height="498">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/3a.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/3a_hu6988b4b2dcc344c732ce68e400fb100b_460549_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="3a.jpg" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/3a_hu6988b4b2dcc344c732ce68e400fb100b_460549_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="3a.jpg" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/3b.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/3b_hu80672e9620a529a17511b9bbe1a156a0_353334_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="3b.jpg" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/3b_hu80672e9620a529a17511b9bbe1a156a0_353334_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="3b.jpg" width="750" height="500">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/4.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/4_hu5c302b5825eb00341101cb047eef4b23_462938_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="4.jpg" width="285" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/4_hu5c302b5825eb00341101cb047eef4b23_462938_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="4.jpg" width="750" height="500">
 &lt;/a>
+&lt;/div>
 &lt;/div></description></item><item><title>Managerial skills that artists need beyond artistic abilities</title><link>https://chbeu.github.io/talks/po03_ewts2009/</link><pubDate>Sat, 11 Jul 2009 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/po03_ewts2009/</guid><description/></item></channel></rss>

@@ -7,8 +7,9 @@
 &lt;div class="w-100" >&lt;img src="https://chbeu.github.io/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf" alt="[Tutorial slides](/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf)" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 &lt;a href="https://chbeu.github.io/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf">Tutorial slides&lt;/a>
-&lt;/figcaption>&lt;/figure>&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -40,7 +41,7 @@ ACM Author-izer
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>Multi-Method Evaluation of Adaptive Systems</title><link>https://chbeu.github.io/talks/tu01_umap2021_multimethods/</link><pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/tu01_umap2021_multimethods/</guid><description>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -72,7 +73,7 @@ ACM Author-izer
 &lt;/a>
 &lt;/p>
 &lt;/div></description></item><item><title>UMAP tutorial on multi-method evaluation</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-02-18-umap-tutorial-on-multi-method-evaluation/</link><pubDate>Thu, 18 Feb 2021 16:13:25 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-02-18-umap-tutorial-on-multi-method-evaluation/</guid><description>&lt;p>I am looking forward to give a tutorial on &lt;a href="https://www.um.org/umap2021/program/tutorials.html#T02" target="_blank" rel="noopener">Multi-method evaluation of adaptive systems: Why and how?&lt;/a> at &lt;a href="https://www.um.org/umap2021/" target="_blank" rel="noopener">UMAP 2021&lt;/a>.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -105,16 +106,20 @@ ACM Author-izer
 &lt;/p>
 &lt;/div></description></item><item><title>Outstanding Reviewer (Honorable Mention) at UMAP 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-outstanding-reviewer/</link><pubDate>Thu, 13 Jun 2019 23:34:05 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-outstanding-reviewer/</guid><description>&lt;p>I feel honored being among the seven &lt;strong>Outstanding Reviewers (Honorable Mentions)&lt;/strong> at &lt;a href="http://www.cyprusconferences.org/umap2019/index.html" rel="noopener noreferrer" target="_blank">UMAP 2019&lt;/a>. &lt;a href="http://www.cyprusconferences.org/umap2019/pages/committee.html" rel="noopener noreferrer" target="_blank">Have a look!&lt;/a>&lt;/p></description></item><item><title>IUadaptME great success!</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-07-09-iuadaptme-great-success/</link><pubDate>Mon, 09 Jul 2018 03:48:29 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-07-09-iuadaptme-great-success/</guid><description>&lt;p>Yesterday&amp;rsquo;s &lt;a href="http://teldh.dibris.unige.it/iuadapt" rel="noopener noreferrer" target="_blank">IUadaptME&lt;/a> workshop at &lt;a href="http://www.um.org/umap2018/" rel="noopener noreferrer" target="_blank">UMAP 2018&lt;/a> was a great success! Thank you to all participants and my co-organizers. We had interesting discussions.&lt;/p>
 &lt;p>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-ws_iuadaptme2018" href="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-1.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-1_hu1464139d67255ea511c12e1961686cfb_73407_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="iuadaptme2018-1.jpg" width="253" height="190">
-&lt;/a>
-&lt;a data-fancybox="gallery-ws_iuadaptme2018" href="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2_hu53add388233f60596a0a2f246ca7c7e7_75080_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="iuadaptme2018-2.jpg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-1_hu1464139d67255ea511c12e1961686cfb_73407_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="iuadaptme2018-1.jpg" width="750" height="563">
 &lt;/a>
 &lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-ws_iuadaptme2018" href="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2.jpg" >
+&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2_hu53add388233f60596a0a2f246ca7c7e7_75080_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="iuadaptme2018-2.jpg" width="750" height="563">
+&lt;/a>
+&lt;/div>
+&lt;/div>
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >
@@ -152,7 +157,7 @@ ACM Author-izer
 &lt;br>
 More information can soon be found on our workshop website at &lt;a href="http://multimethods.info" target="_blank" rel="noopener noreferrer">&lt;a href="http://multimethods.info" target="_blank" rel="noopener">http://multimethods.info&lt;/a>&lt;/a>.
 &lt;br>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span >

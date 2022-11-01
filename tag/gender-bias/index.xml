@@ -5,10 +5,10 @@
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="" srcset="
-/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_a8d6bc4423213687ba29036b181d8988.png 400w,
-/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_a5e8fbb40e8072645954258e7ebd5b5a.png 760w,
-/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_1200x1200_fit_lanczos_3.png 1200w"
-src="https://chbeu.github.io/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_a8d6bc4423213687ba29036b181d8988.png"
+/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_8a55062ea4fe824d5098cea19e3526e1.webp 400w,
+/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_30a566ccbc7e60593fd5245798435d9c.webp 760w,
+/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://chbeu.github.io/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_8a55062ea4fe824d5098cea19e3526e1.webp"
 width="428"
 height="760"
 loading="lazy" data-zoomable />&lt;/div>
@@ -18,20 +18,30 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>
 &lt;br>
 &lt;br>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n_hud4a729e8ced41074b6c49e9ddc851db5_93838_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="122194815_3379261962139907_2981327588273322309_n.jpg" width="107" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n_hud4a729e8ced41074b6c49e9ddc851db5_93838_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="122194815_3379261962139907_2981327588273322309_n.jpg" width="422" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag.png" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag_hu84a89f40db0b943e52771e19a389834c_2710961_0x190_resize_lanczos_3.png" loading="lazy" alt="copopxoxo_Bauer_Freitag.png" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag_hu84a89f40db0b943e52771e19a389834c_2710961_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="copopxoxo_Bauer_Freitag.png" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797_hu84a89f40db0b943e52771e19a389834c_2703088_0x190_resize_lanczos_3.PNG" loading="lazy" alt="EPZF5797.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797_hu84a89f40db0b943e52771e19a389834c_2703088_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="EPZF5797.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382_hu84a89f40db0b943e52771e19a389834c_2696218_0x190_resize_lanczos_3.PNG" loading="lazy" alt="UHVQ3382.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382_hu84a89f40db0b943e52771e19a389834c_2696218_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="UHVQ3382.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980_hu84a89f40db0b943e52771e19a389834c_2697812_0x190_resize_lanczos_3.PNG" loading="lazy" alt="VKBZ4980.PNG" width="190" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980_hu84a89f40db0b943e52771e19a389834c_2697812_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="VKBZ4980.PNG" width="750" height="750">
 &lt;/a>
+&lt;/div>
 &lt;/div></description></item></channel></rss>

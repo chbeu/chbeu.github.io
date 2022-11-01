@@ -4,7 +4,7 @@
 &lt;/div>
 &lt;br>
 Christine Bauer (2021). In the user is it – is it?: If you want to understand your users, you have to understand their situations. Keynote at the Workshop “Transparency and Explainability in Adaptive Systems Through User Modelling Grounded in Psychological Theory (HUMANIZE 2021), co-located with IUI 2021. Online, 13 April.</description></item><item><title>UMAP tutorial on multi-method evaluation</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-02-18-umap-tutorial-on-multi-method-evaluation/</link><pubDate>Thu, 18 Feb 2021 16:13:25 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-02-18-umap-tutorial-on-multi-method-evaluation/</guid><description>&lt;p>I am looking forward to give a tutorial on &lt;a href="https://www.um.org/umap2021/program/tutorials.html#T02" target="_blank" rel="noopener">Multi-method evaluation of adaptive systems: Why and how?&lt;/a> at &lt;a href="https://www.um.org/umap2021/" target="_blank" rel="noopener">UMAP 2021&lt;/a>.&lt;/p>
-&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
 &lt;span class="author-highlighted">
@@ -39,13 +39,17 @@ ACM Author-izer
 &lt;p>Specifically, the project will investigate the cultural requirements on music recommender systems – as concerns what listeners in different cultures expect with regard to the recommended music. Thereby, we postulate that different granularity levels of culture (e.g., individual, regional, national, or global level) have to be considered to improve music recommender systems. We hypothesize that the various cultural levels of different granularities have to be combined in a comprehensive way to transcend limitations of current music recommender systems. And we will investigate its impact on recommendation quality in cross-cultural studies with users from Austria, the United States, and Korea.&lt;/p>
 &lt;p>Our scientific approach comprises four methodological orientations: (i) a combination of surveys and user panels, (ii) user modeling, (iii) designing and implementing prototypes of culture-aware music recommender systems, and (iv) cross-cultural studies with users to investigate their performance. The samples will include users from the United States, Austria, and Korea; we will focus on national culture, but also consider regional cultures (e.g., urban vs. suburban vs. countryside areas).&lt;/p>
 &lt;p>In contrast to past research in the field of culture-aware music information retrieval and recommendation, the project follows an approach that is driven by user needs and preferences. The project aims to design and implement music recommender systems that are able to meet those requirements by considering different granularity levels of cultural aspects in a comprehensive way.&lt;/p></description></item><item><title>Radio aktiv: Von der redaktionellen Gestaltung über Empfehlungen zum dynamischen Programm</title><link>https://chbeu.github.io/talks/t05_radioaktiv2016/</link><pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t05_radioaktiv2016/</guid><description>
-&lt;div class="gallery">
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t05_radioaktiv2016" href="https://chbeu.github.io/media/albums/t05_radioaktiv2016/14963228_1166438473422278_2339842726598737200_n.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/t05_radioaktiv2016/14963228_1166438473422278_2339842726598737200_n_huae84a6fd9e0d72cfa2f61a2e880692e0_36970_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="14963228_1166438473422278_2339842726598737200_n.jpg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t05_radioaktiv2016/14963228_1166438473422278_2339842726598737200_n_huae84a6fd9e0d72cfa2f61a2e880692e0_36970_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="14963228_1166438473422278_2339842726598737200_n.jpg" width="750" height="563">
 &lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t05_radioaktiv2016" href="https://chbeu.github.io/media/albums/t05_radioaktiv2016/14980760_1166438480088944_55834447800959137_n.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/t05_radioaktiv2016/14980760_1166438480088944_55834447800959137_n_hu6b027cb2663dd4825c15f9b50d526f26_44393_0x190_resize_q75_lanczos.jpg" loading="lazy" alt="14980760_1166438480088944_55834447800959137_n.jpg" width="253" height="190">
+&lt;img src="https://chbeu.github.io/media/albums/t05_radioaktiv2016/14980760_1166438480088944_55834447800959137_n_hu6b027cb2663dd4825c15f9b50d526f26_44393_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="14980760_1166438480088944_55834447800959137_n.jpg" width="750" height="563">
 &lt;/a>
+&lt;/div>
 &lt;/div>
 &lt;br>
 &lt;br>
