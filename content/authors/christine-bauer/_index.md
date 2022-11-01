@@ -2,6 +2,10 @@
 # Display name
 title: "Christine Bauer"
 
+# Full name (for SEO)
+first_name: Christine
+last_name: Bauer
+
 # Is this the primary user of the site?
 superuser: true
 

@@ -9,7 +9,7 @@ headless: true
 weight: 25
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: Workshop and Meetup Organizer #'Service to the Community'
+title: 'Workshop and Meetup Organizer' #'Service to the Community'
 #subtitle: Workshop and Meetup Organizer
 
 # Date format
@@ -31,7 +31,7 @@ experience:
     workshop_url: "https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=23031"
   - workshop: "PERSPECTIVES 2022"
     role: Workshop Co-Organizer
-    date_start: "2022-09-01" #-09-25"
+    date_start: "2022-09-25"
     date_end: "2022-09-25"
     longtitle: "2nd Workshop on the Perspectives on the Evaluation of Recommender Systems"
     description: "with Eva Zangerle and Alan Said"
@@ -69,6 +69,6 @@ experience:
 
 
 design:
-  columns: '2' 
+  columns: '2'
 ---
 

@@ -1,18 +1,16 @@
 # Theme metadata
 name = "Chb"
 
-# Is theme light or dark?
-light = true
+[light]
+  # Primary
+  primary = "rgb(0, 136, 204)"
 
-# Primary
-primary = "rgb(0, 136, 204)"
+  # Menu
+  menu_primary = "rgb(0, 136, 204)"
+  menu_text = "#fff"
+  menu_text_active = "rgba(255, 255, 255, 1)"
+  menu_title = "#fff"
 
-# Menu
-menu_primary = "rgb(0, 136, 204)"
-menu_text = "#fff"
-menu_text_active = "rgba(255, 255, 255, 1)"
-menu_title = "#fff"
-
-# Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
