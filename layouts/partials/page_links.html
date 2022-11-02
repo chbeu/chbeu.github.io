@@ -174,14 +174,14 @@
 {{ end }}
 {{ with $page.Params.zenodo }}
   {{ $zenodo_doi := $page.Params.zenodo }}
-  {{partial "chb_get_zenodobadge"  (dict "context" . "zenodo_doi" $zenodo_doi) }}
+  {{partial "functions/chb_get_zenodobadge"  (dict "context" . "zenodo_doi" $zenodo_doi) }}
 {{ end }}
 {{ with $page.Params.altmetric }}
-  {{partial "chb_get_altmetricsbadge"  (dict "context" . "doiparent" $doi) }}
+  {{partial "functions/chb_get_altmetricsbadge"  (dict "context" . "doiparent" $doi) }}
 {{ end }}
 {{ with $page.Params.plumx }}
-  {{partial "chb_get_plumxbadge"  (dict "context" . "doiparent" $doi) }}
-  {{partial "chb_get_dimensionsbadge"  (dict "context" . "doiparent" $doi) }}
+  {{partial "functions/chb_get_plumxbadge"  (dict "context" . "doiparent" $doi) }}
+  {{partial "functions/chb_get_dimensionsbadge"  (dict "context" . "doiparent" $doi) }}
 {{ end }}
 {{ with $page.Params.dimensions }}
   {{partial "chb_get_dimensionsbadge"  (dict "context" . "doiparent" $doi) }}
