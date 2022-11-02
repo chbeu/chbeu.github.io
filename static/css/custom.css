@@ -1,4 +1,3 @@
-
 /* Import ACM authorizer stylesheet*/
 @import url("https://dl.acm.org/specs/products/acm/widgets/authorizer/scss/style.css");
 
@@ -43,9 +42,11 @@
 /* altmetric style adapt */
 
 .altmetric-style {
+	vertical-align:top;
 	display:inline-block;
-	margin-left:30px;
-	vertical-align: top;
+	margin-left:20px;
+	margin-bottom:60px;
+
 }
 
 
