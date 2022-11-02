@@ -89,7 +89,7 @@ POP	…	University of Popular Music and Music Business (Popakademie), Mannheim, 
 <br>
 Tech	…	University of Applied Sciences Technikum Wien, Vienna, Austria
 <br>
-TUW	…	TU Wien (Vienna University of Technology), Austria
+TUW	…	TU Wien, Austria
 <br>
 UU	…	Utrecht University, The Netherlands
 <br>
