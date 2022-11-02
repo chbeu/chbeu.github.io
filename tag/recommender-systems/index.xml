@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>recommender systems | Christine Bauer</title><link>https://chbeu.github.io/tag/recommender-systems/</link><atom:link href="https://chbeu.github.io/tag/recommender-systems/index.xml" rel="self" type="application/rss+xml"/><description>recommender systems</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://chbeu.github.io/media/icon_hue8a7ee765bfa3bb27b81ddd10d93e3a6_37984_512x512_fill_lanczos_center_3.png</url><title>recommender systems</title><link>https://chbeu.github.io/tag/recommender-systems/</link></image><item><title>Trustworthy MIR: Creating MIR applications with values</title><link>https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/</link><pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/</guid><description/></item><item><title>Guest lecture at the Erasmus University Rotterdam</title><link>https://chbeu.github.io/post/20221024_rotterdam/</link><pubDate>Mon, 24 Oct 2022 10:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20221024_rotterdam/</guid><description>&lt;p>Last week, I had the pleasure giving a guest lecture in the scope of the minor program &amp;ldquo;&lt;a href="https://www.eur.nl/en/minor/muic" target="_blank" rel="noopener">MU$IC&amp;mdash;The Economy, Sociology and Practice of Popular Music&lt;/a>&amp;rdquo; at the &lt;a href="https://www.eur.nl/en/" target="_blank" rel="noopener">Erasmus University Rotterdam&lt;/a>. It was very inspiring to work with student from another discipline.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>recommender systems | Christine Bauer</title><link>https://chbeu.github.io/tag/recommender-systems/</link><atom:link href="https://chbeu.github.io/tag/recommender-systems/index.xml" rel="self" type="application/rss+xml"/><description>recommender systems</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://chbeu.github.io/media/sharing.png</url><title>recommender systems</title><link>https://chbeu.github.io/tag/recommender-systems/</link></image><item><title>Trustworthy MIR: Creating MIR applications with values</title><link>https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/</link><pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/</guid><description/></item><item><title>Guest lecture at the Erasmus University Rotterdam</title><link>https://chbeu.github.io/post/20221024_rotterdam/</link><pubDate>Mon, 24 Oct 2022 10:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20221024_rotterdam/</guid><description>&lt;p>Last week, I had the pleasure giving a guest lecture in the scope of the minor program &amp;ldquo;&lt;a href="https://www.eur.nl/en/minor/muic" target="_blank" rel="noopener">MU$IC&amp;mdash;The Economy, Sociology and Practice of Popular Music&lt;/a>&amp;rdquo; at the &lt;a href="https://www.eur.nl/en/" target="_blank" rel="noopener">Erasmus University Rotterdam&lt;/a>. It was very inspiring to work with student from another discipline.&lt;/p>
 &lt;p>It was also a very interesting experience to be in the audience, when students started the session by introducing my research on artist gender imbalance in music recommendation.&lt;/p>
 &lt;br>
 &lt;p>
@@ -302,10 +302,10 @@ Code
 &lt;figure id="figure-algorithms-help-lots-of-people-discover-new-musicimagehttpspixabaycomphotosadult-music-listening-sound-woman-3086302-by-omar-medina-filmshttpspixabaycomusersomarmedinafilms-818453utm_sourcelink-attributionutm_mediumreferralutm_campaignimageutm_content3086302-from-pixabayhttpspixabaycomutm_sourcelink-attributionutm_mediumreferralutm_campaignimageutm_content3086302">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Adult, Music, Listening, Sound, Woman, Fun, Enjoyment" srcset="
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_60c7272be53cb997a60e8919fa2cb326.webp 400w,
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_1102631f9af0e46becc560e5620967c8.webp 760w,
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_60c7272be53cb997a60e8919fa2cb326.webp"
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_2c8bd298bbed37609f4b22de38e9dda5.webp 400w,
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_3a9c7f4ccb4c5af4d961ee9b1cab5ed6.webp 760w,
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_1200x1200_fit_q90_h2_lanczos.webp 1200w"
+src="https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_2c8bd298bbed37609f4b22de38e9dda5.webp"
 width="760"
 height="507"
 loading="lazy" data-zoomable />&lt;/div>
@@ -328,10 +328,10 @@ Algorithms help lots of people discover new music.&lt;br>&lt;a href="https://pix
 &lt;figure id="figure-applications-like-spotify-use-algorithms-to-find-recommendationsimagehttpspixabaycomphotoswindows-phone-music-mobile-phone-1092785-by-štěpán-vranýhttpspixabaycomusers1767892-1767892utm_sourcelink-attributionutm_mediumreferralutm_campaignimageutm_content1092785-from-pixabayhttpspixabaycomutm_sourcelink-attributionutm_mediumreferralutm_campaignimageutm_content1092785">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Close up of a phone with the Xbox music application on the screen" srcset="
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_b2f5af2a79c1a915020376646bfa4805.webp 400w,
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_bf077a97c6afea2c4bbde085a6571bdd.webp 760w,
-/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_b2f5af2a79c1a915020376646bfa4805.webp"
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_3f9e669ddb0239eb528f9b47293b9b06.webp 400w,
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_e938e98f59e9e781da7913e7b5298579.webp 760w,
+/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_1200x1200_fit_q90_h2_lanczos.webp 1200w"
+src="https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_3f9e669ddb0239eb528f9b47293b9b06.webp"
 width="760"
 height="503"
 loading="lazy" data-zoomable />&lt;/div>
@@ -487,27 +487,27 @@ Cite
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n_hud4a729e8ced41074b6c49e9ddc851db5_93838_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="122194815_3379261962139907_2981327588273322309_n.jpg" width="422" height="750">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n_hud4a729e8ced41074b6c49e9ddc851db5_93838_750x750_fit_q90_h2_lanczos.webp" loading="lazy" alt="122194815_3379261962139907_2981327588273322309_n.jpg" width="422" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag.png" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag_hu84a89f40db0b943e52771e19a389834c_2710961_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="copopxoxo_Bauer_Freitag.png" width="750" height="750">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag_hu84a89f40db0b943e52771e19a389834c_2710961_750x750_fit_q90_h2_lanczos_3.webp" loading="lazy" alt="copopxoxo_Bauer_Freitag.png" width="750" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797_hu84a89f40db0b943e52771e19a389834c_2703088_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="EPZF5797.PNG" width="750" height="750">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797_hu84a89f40db0b943e52771e19a389834c_2703088_750x750_fit_q90_h2_lanczos_3.webp" loading="lazy" alt="EPZF5797.PNG" width="750" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382_hu84a89f40db0b943e52771e19a389834c_2696218_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="UHVQ3382.PNG" width="750" height="750">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382_hu84a89f40db0b943e52771e19a389834c_2696218_750x750_fit_q90_h2_lanczos_3.webp" loading="lazy" alt="UHVQ3382.PNG" width="750" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980_hu84a89f40db0b943e52771e19a389834c_2697812_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="VKBZ4980.PNG" width="750" height="750">
+&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980_hu84a89f40db0b943e52771e19a389834c_2697812_750x750_fit_q90_h2_lanczos_3.webp" loading="lazy" alt="VKBZ4980.PNG" width="750" height="750">
 &lt;/a>
 &lt;/div>
 &lt;/div></description></item><item><title>Ratings in, rankings out. Keep it simple, they said. But we need more than that.</title><link>https://chbeu.github.io/talks/kn01_complexrec2020/</link><pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/kn01_complexrec2020/</guid><description>&lt;p>
@@ -669,27 +669,27 @@ I am among the experts interviewed for this program which is broadcasted through
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O_hu4c422569970d4dd29378e5200606a2c7_1954265_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="48698187558_594301CE59_O.JPG" width="750" height="500">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O_hu4c422569970d4dd29378e5200606a2c7_1954265_750x750_fit_q90_h2_lanczos.webp" loading="lazy" alt="48698187558_594301CE59_O.JPG" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O_hu4c422569970d4dd29378e5200606a2c7_1387763_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="48698705532_C9E61907D7_O.JPG" width="750" height="500">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O_hu4c422569970d4dd29378e5200606a2c7_1387763_750x750_fit_q90_h2_lanczos.webp" loading="lazy" alt="48698705532_C9E61907D7_O.JPG" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O_hu4c422569970d4dd29378e5200606a2c7_1419379_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="48698706212_D14D50BAF1_O.JPG" width="750" height="500">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O_hu4c422569970d4dd29378e5200606a2c7_1419379_750x750_fit_q90_h2_lanczos.webp" loading="lazy" alt="48698706212_D14D50BAF1_O.JPG" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4042.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4042.jpeg" width="562" height="750">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_750x750_fit_q90_h2_lanczos.webp" loading="lazy" alt="IMG_4042.jpeg" width="562" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4070.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4070_huc52c39725df73efbd98e62c34320798c_531658_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="IMG_4070.jpeg" width="750" height="370">
+&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4070_huc52c39725df73efbd98e62c34320798c_531658_750x750_fit_q90_h2_lanczos.webp" loading="lazy" alt="IMG_4070.jpeg" width="750" height="370">
 &lt;/a>
 &lt;/div>
 &lt;/div></description></item><item><title>Tutor Sessions at the RecSys Summer School 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-09-06-tutor-sessions-at-the-recsys-summer-school/</link><pubDate>Fri, 06 Sep 2019 20:02:18 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-09-06-tutor-sessions-at-the-recsys-summer-school/</guid><description>&lt;p>I am happy to announce that Martijn C. Willemsen and I organize &lt;a href="https://acmrecsys.github.io/rsss2019/recsys_summerschool_tutorassignment.pdf" rel="noopener noreferrer" target="_blank">tutor sessions&lt;/a> in scope of the &lt;a href="https://acmrecsys.github.io/rsss2019/" rel="noopener noreferrer" target="_blank">RecSys Summer School 2019&lt;/a>. The idea is that each participant can discuss the specific research goals and questions with senior researchers/teachers of the summer school and fellow students.&lt;/p>
@@ -820,12 +820,12 @@ DOI
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-ws_iuadaptme2018" href="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-1.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-1_hu1464139d67255ea511c12e1961686cfb_73407_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="iuadaptme2018-1.jpg" width="750" height="563">
+&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-1_hu1464139d67255ea511c12e1961686cfb_73407_750x750_fit_q90_h2_lanczos.webp" loading="lazy" alt="iuadaptme2018-1.jpg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-ws_iuadaptme2018" href="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2_hu53add388233f60596a0a2f246ca7c7e7_75080_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="iuadaptme2018-2.jpg" width="750" height="563">
+&lt;img src="https://chbeu.github.io/media/albums/ws_iuadaptme2018/iuadaptme2018-2_hu53add388233f60596a0a2f246ca7c7e7_75080_750x750_fit_q90_h2_lanczos.webp" loading="lazy" alt="iuadaptme2018-2.jpg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;/div>
