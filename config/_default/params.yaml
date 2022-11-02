@@ -21,12 +21,14 @@ marketing:
     org_name: ''
     description: "Christine Bauer is an assistant professor in human-centered computing."
     twitter: 'christine_bauer'
+  verification:
+    google: 'tvdmEZ0WrN-QEAz6MIcKMQxy_uIi54hcQ17R_XWHJ6o'
 
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image: ''
+sharing_image: 'sharing'
 
-# Diplay a logo in navigation bar rather than title (optional).
+# Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
 logo: ''
 
@@ -68,6 +70,7 @@ locale:
 
 features:
   syntax_highlighter:
+    enable: false
     theme_light: github-light
     theme_dark: dracula
   math:
@@ -119,8 +122,6 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: false
-
-
 
 
 
