@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: 'A Networked Ubiquitous Computing Environment for Damage Prevention: A Decision
-  Support Framework for the Insurance Sector'
+title: 'A networked ubiquitous computing environment for damage prevention: a decision support framework for the insurance sector'
 subtitle: ''
 summary: ''
 authors:
@@ -40,5 +39,6 @@ abstract: 'This paper focuses on identifying and analyzing a potential innovativ
 publication: '*International Workshop on Design, Optimization and Management of Heterogeneous
   Networked Systems, in conjunction with 38th International Conference on Parallel
   Processing (ICPP-2009)*'
+publication_short: DOM-HetNetS 2009
 doi: 10.1109/ICPPW.2009.79
 ---

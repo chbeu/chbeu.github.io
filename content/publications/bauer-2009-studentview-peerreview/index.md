@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: The Student View on Online Peer Review
+title: The student view on online peer review
 subtitle: ''
 summary: ''
 authors:
@@ -40,6 +40,7 @@ publication_types:
 abstract: 'Peer review is used as an effective quality assurance measure in many contexts, including science, business, programming or education. In education, several studies confirmed the positive effects of peer reviewing on student learning. Based on recent research concerning the role of media in the peer review process this study investigates how students perceive the process, content and effects of peer reviews. We also analyze students’ opinions on different modes of peer reviewing activities, e.g. online vs. face-to-face reviewing. In the context of a computer science course on scientific writing, these research questions were addressed by administering an online questionnaire (n=38) and analysis using quantitative and qualitative methods. Results indicate that students value the peer review activity, take peer reviews seriously and provide comprehensive and constructive reviews. Findings also show that students prefer written online reviews with the possibility of oral follow-up questions to reviewers.'
 publication: '*14th Annual ACM-SIGCSE Conference on Innovation and Technology in Computer
   Science Education*'
+publication_short: ITiCSE 2009
 doi: 10.1145/1562877.1562892
 url_preprint: bauer-2009-studentview-peerreview-preprint.pdf
 links: 

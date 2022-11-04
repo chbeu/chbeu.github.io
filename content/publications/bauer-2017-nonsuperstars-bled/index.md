@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: 'Music Recommender Systems: Challenges and Opportunities for Non-Superstar
-  Artists'
+title: 'Music recommender systems: challenges and opportunities for non-superstar artists'
 subtitle: ''
 summary: ''
 authors:
@@ -37,5 +36,6 @@ publication_types:
 - '1'
 abstract: 'Music Recommender Systems (MRS) are important drivers in music industry and are widely adopted by music platforms. Other than most MRS research exploring MRS from a technical or from a consumers’ perspective, this work focuses on the impact, value generation, challenges and opportunities for those, who contribute the core value, i.e. the artists. We outline the non-superstar artist’s perspective on MRS, and explore the question if and how non-superstar artists may benefit from MRS to foster their professional advancement. Thereby, we explain several techniques how MRS generate recommendations and discuss their impact on non-superstar artists.'
 publication: '*30th Bled eConference*'
+publication_short: Bled econference 2017
 doi: 10.18690/978-961-286-043-1.3
 ---

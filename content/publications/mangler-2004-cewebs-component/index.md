@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: A CEWebS Component for Facilitating Online Cooperative Brainstorming Processes
+title: A CEWebS component for facilitating online cooperative brainstorming processes
 subtitle: ''
 summary: ''
 authors:
@@ -41,6 +41,6 @@ abstract: 'Drawing your ideas to a piece of paper is easy, but drawing onto the 
 Currently available web-based whiteboard tools support common drawing features. How- ever, in informatics, teams enjoy the advantage of formalised languages (e.g. UML), which whiteboards do not support and, hence, do not make this advantage effective.
 For supporting brainstorming processes, we developed a simple, extendable chat ap- plication that can be embedded into existing learning environments through a Web ser- vice framework and focuses on a cooperative modelling approach instead of cooperative drawing.'
 publication: '*7th International Workshop on Interactive Computer-Aided Learning*'
-
+publication_short: ICL 2004
 url_poster: mangler-2004-cewebs-component-poster.pdf
 ---

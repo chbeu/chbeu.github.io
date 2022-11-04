@@ -36,5 +36,6 @@ publication_types:
 abstract: "In the field of music recommender systems, country-specific aspects have received little attention, although it is known that music perception and preferences are shaped by culture; and culture varies across countries. Based on the LFM-1b dataset (including 53,258 users from 47 countries), we show that there are significant country-specific differences in listeners' music consumption behavior with respect to the most popular artists listened to. Results indicate that, for instance, Finnish users' listening behavior is farther away from the global mainstream, while United States' listeners are close to the global mainstream. Relying on rating prediction experiments, we tailor recommendations to a user's level of preference for mainstream (defined on a global level and on a country level) and the user's country. Results suggest that, in terms of rating prediction accuracy, a combination of these two filtering strategies works particularly well for users of countries far away from the global mainstream."
 publication: '*2nd Workshop on Green (Responsible, Ethical and Social) IT and IS --
   the Corporate Perspective (GRES-IT/IS)*'
+publication_short: GRES-IT/IS 2018
 url_pdf: https://epub.wu.ac.at/7681/
 ---

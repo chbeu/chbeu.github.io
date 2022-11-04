@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: 'Psychology of Ownership and Asset Defense: Why People Value their Personal
-  Information Beyond Privacy'
+title: 'Psychology of ownership and asset defense: why people value their personal information beyond privacy'
 subtitle: ''
 summary: ''
 authors:
@@ -41,6 +40,7 @@ publication_types:
 - '1'
 abstract: 'Analysts, investors and entrepreneurs have for long recognized the value of comprehensive user profiles. While there is a market for trading such personal information among companies, the users, who are actually the providers of such information, are not asked to the negotiations table. To date, there is little information on how users value their personal information. In an online survey-based experiment 1059 Facebook users revealed how much they would be willing to pay for keeping their personal information. Our study reveals that as soon as people learn that some third party is interested in their personal information (asset consciousness prime), the value their information to a much higher degree than without this prime and start to defend their asset. Furthermore, we found that people develop a psychology of ownership towards their personal information. In fact, this construct is a significant contributor to information valuation, much higher than privacy concerns.'
 publication: '*International Conference on Information Systems*'
+publication_short: ICIS 2012
 
 icons:
 - icon: trophy

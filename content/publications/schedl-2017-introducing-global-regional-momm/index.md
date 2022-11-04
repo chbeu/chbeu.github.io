@@ -43,6 +43,7 @@ First, we propose 11 novel mainstreaminess measures characterizing music listene
 Second, we demonstrate country-specific peculiarities of these mainstreaminess definitions.
 Third, we show that incorporating the proposed global and country-specific mainstreaminess measures into the music recommendation process can notably improve accuracy of rating prediction."
 publication: '*15th International Conference on Advances in Mobile Computing & Multimedia*'
+publication_short: MoMM 2017
 doi: 10.1145/3151848.3151849
 
 url_slides: schedl-2017-introducing-global-regional-momm-slides.pdf

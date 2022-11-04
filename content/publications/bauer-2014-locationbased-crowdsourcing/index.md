@@ -36,7 +36,8 @@ publication_types:
 - '1'
 abstract: 'Crowdsourcing is a recently developed method that relies on various alternatives of collaboration to solve problems efficiently. Crowdsourcing is a recent development to solve a variety of problems efficiently, and which implies various alternatives of collaboration. However, as novel technologies are able to exploit location-sensing capabilities of mobile devices, location-based crowdsourcing (LBCS) developed as a new concept. This paper suggests a typology for LBCS as a means for fostering collaboration with the crowd through three types of LBCS: confirmation-based, digital good-based, and physical-based. Each type is underpinned with exemplary applications. Furthermore, opportunities and challenges are analysed; and future trends in LBCS are discussed.'
 publication: '*11th International Conference on Cooperative Design, Visualization
-  & Engineering (CDVE 2014)*'
+  & Engineering*'
+publication_short: CDVE 2014
 doi: 10.1007/978-3-319-10831-5_13
 url_slides: bauer-2014-locationbased-crowdsourcing-slides.pdf
 url_pdf: https://rdcu.be/cNhBU

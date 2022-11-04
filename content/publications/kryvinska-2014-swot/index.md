@@ -38,4 +38,5 @@ publication_types:
 - '1'
 abstract: 'Due to their technological complexity, traditional software development paradigms are not appropriate to face the challenges in the modern Web 2.0 world. Having the ability to adapt rapidly to the fast changing Web in an open environment, and challenged by the need for applications to be flexible, Service-Oriented Architecture (SOA), Service-Oriented Computing (SOC), and more recently Cloud Computing are becoming more and more popular. SOC/SOA and Cloud Computing share many drivers, such as enterprise portfolio and cost reduction. Both approaches are complementary and are expected to become the core of IT-based projects and/or businesses. Thus, this paper discusses the opportunities and challenges of Soft-Computing Paradigms, which are evaluated based on a SWOT analysis. For illustration, we also present a case of SOC/Cloud (C-SOA) based on the real-world application of Amazon Services.'
 publication: '*8th Mediterranean Conference on Information Systems*'
+publication_short: MCIS 2014
 ---

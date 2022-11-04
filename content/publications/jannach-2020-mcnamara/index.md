@@ -3,7 +3,7 @@
 type: publication
 
 
-title: 'Escaping the McNamara Fallacy: Toward More Impactful Recommender Systems Research'
+title: 'Escaping the McNamara Fallacy: toward more impactful recommender systems research'
 subtitle: ''
 summary: ''
 authors:

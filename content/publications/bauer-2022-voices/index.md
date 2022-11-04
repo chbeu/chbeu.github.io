@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: 'Constructing gender in audio: Exploring how the curation of the voice in music
+title: 'Constructing gender in audio: exploring how the curation of the voice in music
   and speech influences our conception of gender identity'
 subtitle: ''
 summary: ''

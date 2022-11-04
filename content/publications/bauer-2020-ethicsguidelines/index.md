@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: Ethics Guidelines in Music Information Retrieval
+title: Ethics guidelines in music information retrieval
 subtitle: ''
 summary: ''
 authors:

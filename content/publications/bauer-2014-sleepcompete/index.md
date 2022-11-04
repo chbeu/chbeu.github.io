@@ -35,6 +35,7 @@ publication_types:
 - '1'
 abstract: 'We outline SleepCompete: a bedside device that encourages and promotes healthy sleeping behaviour in families, with a particular focus on children, in a fun and useful way. SleepCompete encourages children and their parents to monitor sleeping habits by introducing a ‘sleep score’. By sharing this score with others we propose that SleepCompete persuades its users to improve sleeping habits. We outline the concept of our device and the preliminary study we conducted.'
 publication: '*27th Bled eConference*'
+publication_short: Bled eConference 2014
 url_slides: bauer-2014-sleepcompete-slides.pdf
 url_poster: bauer-2014-sleepcompete-poster.pdf
 ---

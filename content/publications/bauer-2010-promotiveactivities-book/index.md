@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: 'Promotive Activities in Technology-Enhanced Learning: The Impact of Media
-  Selection on Peer Review, Active Listening and Motivational Aspects'
+title: 'Promotive activities in technology-enhanced learning: the impact of media selection on peer review, active listening and motivational aspects'
 subtitle: ''
 summary: ''
 authors:

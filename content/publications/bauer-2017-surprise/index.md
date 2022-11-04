@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: Introducing Surprise and Opposition by Design in Recommender Systems
+title: Introducing surprise and opposition by design in recommender systems
 subtitle: ''
 summary: ''
 authors:
@@ -37,6 +37,7 @@ abstract: "There is a long tradition in recommender systems research to evaluate
 publication: '*2nd Workshop on Surprise, Opposition, and Obstruction in Adaptive and
   Personalized Systems, in conjunction with 25th International Conference on User
   Modeling, Adaptation and Personalization (UMAP 2017)*'
+publication_short: SOAP 2017
 doi: 10.1145/3099023.3099099
 url_slides: bauer-2017-surprise-slides.pdf
 links: 

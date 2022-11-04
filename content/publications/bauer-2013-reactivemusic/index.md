@@ -39,6 +39,7 @@ publication_types:
 - '1'
 abstract: 'It is a natural predisposition of humans to respond to the rhythmical qualities of music. Now, we turn the setting around: The music responds to the user’s behavior. So-called ‘reactive music’ is a non-linear format of music that is able to react to the listener and her or his environment in real-time. Giant Steps is an iPhone application that implements such reactive music in correspondence to a jogger’s movements and the sounds in her or his environment. We hope that our approach contributes to a better understanding of ‘machine to user’ adaption, and to mobile sports applications in particular.'
 publication: '*2013 CHI Extended Abstracts on Human Factors in Computing Systems*'
+publication_short: CHI EA 2013
 doi: 10.1145/2468356.2468488
 url_poster: bauer-2013-reactivemusic-poster.pdf
 links: 

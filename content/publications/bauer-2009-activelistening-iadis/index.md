@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: "Introducing \"Active Listening\" to Instant Messaging and E-mail: Benefits
-  and Limitations"
+title: "Introducing \"active listening\" to instant messaging and e-mail: benefits and limitations"
 subtitle: ''
 summary: ''
 authors:

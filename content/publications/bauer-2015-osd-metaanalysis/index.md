@@ -35,6 +35,7 @@ publication_types:
 - '1'
 abstract: 'Using the Internet increasingly requires people to disclose personal information for various reasons such as establishing legitimacy, authentication, or providing personalized services. An enormous amount of literature analyzed various influencing variables that shape self-disclosure in online interaction. However, the range of studies considers very specific variables and therefore provides merely puzzle pieces of the field. This paper puts the pieces together by combining extant evidence into a meta-study. Results suggest that, while the overall effects of demographic, environmental, person- and system-based predictors are rather weak, self-disclosure can to some extent be influenced by system design.'
 publication: '*48th Hawaii International Conference on System Sciences*'
+publication_short: HICSS 2015
 doi: 10.1109/HICSS.2015.435
 url_preprint: bauer-2015-osd-metaanalysis-acceptedversion.pdf
 url_slides: bauer-2015-osd-metaanalysis-slides.pdf

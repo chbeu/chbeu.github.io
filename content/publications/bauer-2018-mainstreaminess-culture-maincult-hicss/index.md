@@ -36,6 +36,7 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*51st Hawaii International Conference on System Sciences*'
+publication_short: HICSS 2018
 url_pdf: http://hdl.handle.net/10125/50349
 doi: 10.24251/HICSS.2018.461
 url_slides: bauer-2018-mainstreaminess-culture-maincult-hicss-slides.pdf

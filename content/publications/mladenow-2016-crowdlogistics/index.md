@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: "'Crowd Logistics': the contribution of social crowds in logistics activities"
+title: "'Crowd logistics': the contribution of social crowds in logistics activities"
 subtitle: ''
 summary: ''
 authors:

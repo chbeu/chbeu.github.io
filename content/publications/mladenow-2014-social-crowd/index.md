@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: 'Social Crowd Integration in New Product Development: Crowdsourcing Communities
-  Nourish the Open Innovation Paradigm'
+title: 'Social crowd integration in new product development: crowdsourcing communities nourish the open innovation paradigm'
 subtitle: ''
 summary: ''
 authors:

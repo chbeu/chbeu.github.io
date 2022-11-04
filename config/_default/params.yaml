@@ -122,6 +122,13 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: false
+  csp:
+    policy: ''
+    report_only: false
+  permissions:
+    policy: >-
+      accelerometer=(), camera=(), geolocation=(), gyroscope=(),
+      magnetometer=(), microphone=(), payment=(), usb=()      
 
 
 
@@ -147,7 +154,7 @@ abstract_length: 135
 plugins_js: []
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: chb
 projects:
   post_view: 2
   publication_view: 2

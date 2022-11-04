@@ -35,5 +35,6 @@ publication_types:
 - '1'
 abstract: 'In retail, demographics are currently regarded as the most convenient base for successful personalized marketing. However, signs point to the dormant power of context recognition. While technologies that can sense the environment are advanced, questions such as what to sense and how to adapt context are largely unanswered. In this paper, we analyze the purchase context of a retail outlet and suggest a context model for adaptive pervasive commerce. Furthermore, we introduce one approach how to conceptualize context that may be applied to conceptualize context for adaptive pervasive advertising applications so that they really deliver on their potential: showing the right message to the right recipient at the right time.'
 publication: '*19th European Conference on Information Systems*'
+publication_short: ECIS 2011
 url_slides: bauer-2011-conceptualizing-context-ecis-slides.pdf
 ---

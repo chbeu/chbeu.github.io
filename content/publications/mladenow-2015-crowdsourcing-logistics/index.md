@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: 'Crowdsourcing in Logistics: Concepts and Applications Using the Social Crowd'
+title: 'Crowdsourcing in logistics: concepts and applications using the social crowd'
 subtitle: ''
 summary: ''
 authors:
@@ -37,6 +37,7 @@ publication_types:
 abstract: 'The introduction of crowdsourcing offers numerous business opportunities. In recent years, manifold forms of crowdsourcing have emerged on the market – also in logistics. Thereby, the ubiquitous availability and sensor-supported assistance functions of mobile devices support crowdsourcing applications, which promotes contextual interactions between users at the right place at the right time. This paper presents the results of an in-depth- analysis on crowdsourcing in logistics in the course of ongoing research in the field of location-based crowdsourcing (LBCS). This paper analyzes LBCS for both, ‘classic’ logistics as well as ‘information’ logistics. Real-world examples of crowdsourcing applications are used to underpin the two evaluated types of logistics using crowdsourcing. Potential advantages and challenges of logistics with the crowd (‘crowd-logistics’) are discussed. Accordingly, this paper aims to provide the necessary basis for a novel interdisciplinary research field.'
 publication: '*17th International Conference on Information Integration and Web-based
   Applications & Services*'
+publication_short: iiWAS 2015
 doi: 10.1145/2837185.2837242
 links: 
 - icon: acmdl

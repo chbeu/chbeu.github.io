@@ -33,6 +33,6 @@ publishDate: '2021-08-08T01:13:56.858456Z'
 publication_types:
 - '1'
 abstract: 'Socio-demographic user profiles are currently regarded as the most convenient base for successful personalized advertising. However, signs point to the dormant power of context recognition. While technologies that can sense the environment are increasingly advanced, questions such as what to sense and how to adapt to a consumer’s context are largely unanswered. Research in the field is scattered and frequently prototype-driven. What the community lacks is a thorough methodology to provide the basis for any context-adaptive system: conceptualizing context. This position paper describes our current research of conceptualizing context for pervasive advertising. It summarizes findings from literature analysis and proposes a methodology for context conceptualization, which is currently work-in-progress.'
-publication: '*4th Workshop on Pervasive Advertising, in conjunction with Pervasive
-  2011*'
+publication: '*4th Workshop on Pervasive Advertising, in conjunction with Pervasive 2011*'
+publication_short: Pervasive Advertising 2011
 ---

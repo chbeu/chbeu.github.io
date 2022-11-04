@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: Promotive Activities in Face-to-Face and Technology-Enhanced Learning Environments
+title: Promotive activities in face-to-face and technology-enhanced learning environments
 subtitle: ''
 summary: ''
 authors:

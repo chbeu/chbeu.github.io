@@ -35,6 +35,7 @@ publication_types:
 - '1'
 abstract: 'In the last years, a large number of sport and fitness applications for smartphones were developed for supporting a healthy lifestyle by not only encouraging people to follow a balanced diet but also to motivate them to engage in physical activities. In particular running applications received increasing attention in research in recent years. In this paper, we analyze fourteen commercial running tracking applications concerning their functionalities to identify which motivation strategies are supported and also to identify possible directions for future research. For this purpose we concentrate on the three most popular motivation strategies that are usually used for sport and fitness applications: music and audio feedback, visualization, as well as competition and comparison with others.'
 publication: '*13th International Conference on Advances in Mobile Computing and Multimedia*'
+publication_short: MoMM 2015
 doi: 10.1145/2837126.2839316
 url_preprint: bauer-2015-runningtracking-acceptedversion.pdf
 links: 

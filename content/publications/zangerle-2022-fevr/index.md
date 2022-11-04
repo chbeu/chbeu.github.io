@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: 'Evaluating Recommender Systems: Survey and Framework'
+title: 'Evaluating recommender systems: survey and framework'
 subtitle: ''
 summary: ''
 authors:

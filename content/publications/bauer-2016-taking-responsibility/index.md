@@ -36,6 +36,7 @@ abstract: "Companies using the Internet for their business to consumers (busines
 There are two sides. One side supports that companies have to respect the users' desire for privacy and cannot collect and exploit at all their personal information for the companies' profit. The other side claims that if users give away their personal information abundantly and freely (e.g., on online social networks), why not use it; those that do not want to provide their personal information should not use the offered service. Total surveillance and full privacy are the two extreme poles, of course. Hybrid forms are possible and currently reality.
 This paper offers a non-exhaustive overview of available options, how a company may address this issue."
 publication: '*1st Workshop on Green (Responsible, Ethical, Social/Sustainable) IT and IS---the Corporate Perspective*'
+publication_short: GRES-IT/IS 2016
 #url_pdf: http://epub.wu.ac.at/5578/
 url_slides: bauer-2016-taking-responsibility-slides.pdf
 ---

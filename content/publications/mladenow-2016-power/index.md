@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: Power to the (Shopping) People! Changing Traditional Customer-Vendor Interaction
-  in Online Markets by ICT-Enabled 'Group Buying'
+title: Power to the (shopping) people! Changing traditional customer-vendor interaction in online markets by ICT-enabled 'group buying'
 subtitle: ''
 summary: ''
 authors:

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: Conformity Behavior in Group Playlist Creation
+title: Conformity behavior in group playlist creation
 subtitle: ''
 summary: ''
 authors:
@@ -37,6 +37,7 @@ abstract: 'A strong research record has evidenced that individuals tend to confo
 A song was added to the playlist with an unanimous posi- tive decision only. After seeing the other group members’ ratings, participants had the opportunity to revise their own response. Results suggest different behavior for originally favored compared to disliked songs. For favored songs,
 one negative judgement by another group member was sufficient to induce participants to downvote the song. For disliked songs, in contrast, a majority of positive judgements was needed to induce participants to switch their vote.'
 publication: '*CHI Conference on Human Factors in Computing Systems*'
+publication_short: CHI EA 2020
 doi: 10.1145/3334480.3382942
 links: 
 - icon: acmdl

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: Collaboration and Locality in Crowdsourcing
+title: Collaboration and locality in crowdsourcing
 subtitle: ''
 summary: ''
 authors:
@@ -38,6 +38,7 @@ publication_types:
 abstract: "As novel forms of crowdsourcing emerge on the market, we emphasize that the important aspect of location-dependency is more complex than assumed and, thus, suggest a typology along two dimensions of locality: the first dimension refers to whether or not the crowdsourcees interact while being collocated or dispersed; the second dimension refers to the locality of the crowdsourcees in relation to the crowdsourcer's locality (local vs. remote crowd). The resulting four types of crowdsourcing are underpinned by real-world examples. Potential advantages and challenges of the four types are discussed, particularly with respect to motivation and value. The suggested categorization shall provide the necessary basis for future research, as a systematic approach is essential to enable, yield and foster sustainability in a novel interdisciplinary research field like location-based crowdsourcing."
 publication: '*7th International Conference on Intelligent Networking and Collaborative
   Systems*'
+publication_short: INCoS 2015
 doi: 10.1109/INCoS.2015.74
 url_preprint: mladenow-2015-locality-preprint.pdf
 ---

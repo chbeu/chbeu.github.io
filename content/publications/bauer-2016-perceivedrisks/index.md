@@ -39,6 +39,7 @@ abstract: 'Disclosing personal information to a crowd, with all its risks and be
 Our findings support the assumptions regarding the effect of privacy calculus on OSD: benefits and trust beliefs increase OSD, privacy concerns and risk beliefs reduce it. Furthermore, the positive effect of the former PC aspects on OSD is larger than the negative effect of the latter.
 The effects of benefits and risk beliefs on OSD are moderated by cultural differences, unlike those of privacy concerns and trust beliefs. Uncertainty avoidance and indulgence reduce the positive effect of benefits on OSD, masculinity and power distance enhance it. The negative effect of risk beliefs is reduced by uncertainty avoidance and long-term orientation, but aggravated by indulgence. In addition to advocating increased cultural awareness for online service providers, our findings support PC as a useful concept in OSD research, but suggest that the most prominent cultural dimensions might not be the most relevant ones in intercultural OSD research.'
 publication: '*24th European Conference on Information Systems*'
+publication_short: ECIS 2016
 #url_pdf: https://aisel.aisnet.org/ecis2016_rp/68/
 url_slides: bauer-2016-perceivedrisks-slides.pdf
 ---

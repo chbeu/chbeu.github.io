@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: Listener Modeling and Context-Aware Music Recommendation Based on Country Archetypes
+title: Listener modeling and context-aware music recommendation based on country archetypes
 subtitle: ''
 summary: ''
 authors:

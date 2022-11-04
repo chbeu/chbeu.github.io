@@ -39,6 +39,7 @@ First, we set out to answer which countries’ social media users are mainly con
 Our results contribute to understanding the complex social ties between people and how they are reflected in connection behavior on social media.'
 publication: '*52nd Hawaii International Conference on System Sciences*'
 url_pdf: http://hdl.handle.net/10125/59655
+publication_short: HICSS 2019
 doi: 10.24251/HICSS.2019.263
 url_slides: bauer-2019-crosscountry-connectionpatterns-slides.pdf
 ---

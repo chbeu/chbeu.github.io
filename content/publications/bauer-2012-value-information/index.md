@@ -36,6 +36,7 @@ publication_types:
 - '1'
 abstract: "In the age of Web 2.0 users contribute to platforms success by providing personal information by actively uploading information (e.g., messages, preferences, biographies) and also by leaving traces of their online behaviour as can be derived from their clicks, navigation paths, etc. While there is a market for trading such information among companies, there is little knowledge about how users actually value their personal information. In an online survey-based experiment we have asked 1.045 Facebook users how much they would be willing to pay for keeping their personal information. Surprisingly, 48.1 percent of participants are not willing to pay a single Euro, – thus, valuing their information at zero. Results indicate that people that show ‘spamming’ behaviour and users that use Facebook for ‘diary keeping’ are significantly more willing to pay a certain amount higher than zero to be able to keep their personal Facebook information. Interestingly, having analysed various kinds of user behaviour, the regression model still explains no more than 14.2 percent of variance. Additionally, this article discusses four different method manipulations for eliciting people’s willingness to pay for personal information and provides methodical guidance for future research in the field."
 publication: '*20th European Conference on Information Systems*'
+publication_short: ECIS 2012
 #url_pdf: http://aisel.aisnet.org/ecis2012/197
 url_slides: bauer-2012-value-information-slides.pdf
 ---

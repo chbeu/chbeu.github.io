@@ -36,6 +36,7 @@ publication_types:
 - '6'
 abstract: 'The market for digital signage has been growing at an accelerated pace for years. The benefits of novel approaches—such as contextualization and interaction functionalities—were soon recognized for achieving better advertising effects. However, the major types of digital signage currently in use have different requirements on the entire digital signage system. These requirements include components such as the digital signage network, digital signage exchange, scheduling, and pricing. The present paper discusses the differences between these components in depth. The core contribution of this paper is a detailed analysis of the potential of digital signage. Emphasis is placed on challenges in performance measurement and implementation, operating and using a digital signage system, display blindness, and negative externalities. Possible solutions, as well as best practices are presented. At its core, this paper provides an overview of the essentials of doing business with digital signage.'
 publication: '*Information and Communication Technologies in Organizations and Society*'
+publication_short: ICTO 2016
 doi: 10.1007/978-3-319-28907-6_19
 url_preprint: bauer-2016-business-digitalsignage-icto-2015-preprint.pdf
 url_pdf: https://rdcu.be/cNhBK

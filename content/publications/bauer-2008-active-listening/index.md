@@ -35,6 +35,7 @@ publication_types:
 - '1'
 abstract: "'Active listening' is a well-known ingredient in contexts that involve gathering information and solving problems. Demanding both verbal and nonverbal skills, this way of communication improves mutual understanding by using techniques like paraphrasing. The benefits are manifold and crucial for computer scientists. For instance, it avoids misunderstandings, as people verify they do really understand. Our study investigates active listening in an online educational setting using written communication, which is a novel asset. We explore whether active listening is effective in written online communication and examine this medium's capacity to fully exploit this concept's benefits. The study was conducted in a technology-enhanced course on 'Soft Skills for Computer Scientists'. Interestingly, analysis reveals that active listening techniques do have positive effects on communication in the analyzed setting of online communication. Furthermore, it appears that instant messaging tools facilitate to let the other completely verbalize his or her thought before responding."
 publication: '*38th ASEE/IEEE Frontiers in Education Conference*'
+publication_short: FIE 2008
 doi: 10.1109/FIE.2008.4720282
 url_preprint: bauer-2008-active-listening-preprint.pdf
 ---

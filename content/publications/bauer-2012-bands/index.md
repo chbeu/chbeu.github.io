@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: 'Bands as Virtual Organisations: Improving the Processes of Band and Event Management with Information and Communication Technologies'
+title: 'Bands as virtual organisations: improving the processes of band and event management with information and communication technologies'
 subtitle: ''
 summary: ''
 authors:

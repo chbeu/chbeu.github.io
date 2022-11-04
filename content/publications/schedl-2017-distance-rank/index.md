@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: Distance- and Rank-based Music Mainstreaminess Measurement
+title: Distance- and rank-based music mainstreaminess measurement
 subtitle: ''
 summary: ''
 authors:
@@ -37,6 +37,7 @@ abstract: "A music listener's mainstreaminess indicates the extent to which her 
 publication: '*2nd Workshop on Surprise, Opposition, and Obstruction in Adaptive and
   Personalized Systems, in conjunction with 25th International Conference on User
   Modeling, Adaptation and Personalization (UMAP 2017)*'
+publication_short: SOAP 2017
 doi: 10.1145/3099023.3099098
 links: 
 - icon: acmdl

@@ -36,6 +36,7 @@ abstract: 'Promoting diversity in the music sector is widely discussed on the me
 publication: '*1st Workshop on Designing Human-Centric Music Information Research
   Systems (wsHCMIR 2019), satellite event to 20th annual conference of the International
   Society for Music Information Retrieval (ISMIR 2019)*'
+publication_short: wsHCMIR 2019
 url_pdf: https://arxiv.org/abs/1911.05395
 url_slides: bauer-2019-equalopportunities-slides.pdf
 ---

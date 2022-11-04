@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: 'Online Music Listening Culture of Kids and Adolescents: Listening Analysis
-  and Music Recommendation Tailored to the Young'
+title: 'Online music listening culture of kids and adolescents: listening analysis and music recommendation tailored to the young'
 subtitle: ''
 summary: ''
 authors:
@@ -37,6 +36,7 @@ publication_types:
 abstract: 'In this paper, we analyze a large dataset of user-generated music listening events from Last.fm, focusing on users aged 6 to 18 years. Our contribution is two-fold. First, we study the music genre preferences of this young user group and analyze these preferences for homogeneity within more fine-grained age groups and with respect to gender and countries. Second, we investigate the performance of a collaborative filtering recommender when tailoring music recommendations to different age groups. We find that doing so improves performance for all user groups up to 18 years, but decreases performance for adult users aged 19 years and older.'
 publication: '*1st International Workshop on Children and Recommender Systems, in
   conjunction with 11th ACM Conference on Recommender Systems (RecSys 2017)*'
+publication_short: KidRec 2017
 #url_pdf: https://arxiv.org/abs/1912.11564
 url_slides: schedl-2017-kidrec-slides.pdf
 ---

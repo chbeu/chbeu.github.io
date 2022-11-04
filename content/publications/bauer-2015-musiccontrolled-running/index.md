@@ -40,6 +40,7 @@ publication_types:
 abstract: 'Music has long been acknowledged for its effects on participants in sports and exercise. For casual runners music may act as a motivator and distractor of physical strain. It may also serve as a training guide, when sensing technology is used as an enabler for adapting music to a runner’s situation in real-time. While many effects of music are known from sports science and psychology, application designers lack a consolidated knowledge base that guides them in designing a running application. This work synthesizes findings from the involved disciplines and provides 7 requirements for an application that increases casual runners’ motivation and controls training.'
 publication: '*ACM SIGCHI Extended Abstracts of Conference on Human Factors in Computing
   Systems*'
+publication_short: CHI EA 2015
 doi: 10.1145/2702613.2732736
 url_poster: bauer-2015-musiccontrolled-running-poster-A4.pdf
 links: 

@@ -40,6 +40,7 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*26th Conference on User Modeling, Adaptation and Personalization*'
+publication_short: UMAP 2018
 doi: 10.1145/3213586.3226202
 links: 
 - icon: acmdl

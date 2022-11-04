@@ -36,6 +36,7 @@ publication_types:
 - '1'
 abstract: 'Evaluation is a cornerstone in the process of developing and deploying recommender systems. The PERSPECTIVES workshop brought together academia and industry to critically reflect on the evaluation of recommender systems. Particularly, the workshop aimed to shed light on the different, and maybe even diverging or contradictory perspectives on the evaluation of recommender systems. Papers reporting a reflection on problems regarding recommender systems evaluation and lessons learned were solicited. The workshop combined flash presentations of accepted papers, a keynote from industry, and an interactive part with discussions in break-out rooms as well as in the plenum. The workshop complemented the program of the main conference as it emphasized problems and lessons learned, fostered exchange integrating various perspectives on evaluation, and sought to move the recommender systems community forward as an outcome of the workshop.'
 publication: '*15th ACM Conference on Recommender Systems*'
+publication_short: RecSys 2021
 doi: 10.1145/3460231.3470929
 links: 
 - icon: acmdl
