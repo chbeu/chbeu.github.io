@@ -39,3 +39,5 @@ publication_short: Bled eConference 2014
 url_slides: bauer-2014-sleepcompete-slides.pdf
 url_poster: bauer-2014-sleepcompete-poster.pdf
 ---
+
+{{< gallery album="bauer-2014-sleepcompete" >}}
