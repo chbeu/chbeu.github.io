@@ -40,7 +40,7 @@ tags: [talk, AIT, artificial intelligence]
 featured: false
 
 image:
-  caption: 'Image credit: AIT / Raimund Appel'
+  caption: 'Image credit: **AIT / Raimund Appel**, 2019.'
   focal_point: Right
 
 links:

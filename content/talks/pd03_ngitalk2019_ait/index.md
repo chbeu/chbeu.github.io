@@ -40,7 +40,7 @@ tags: [panel, AIT, artificial intelligence]
 featured: false
 
 image:
-  caption: 'Left to right: Patrick Ratheiser (Leftshift One), Tünde Fülöp (BMEIA), Christine Bauer (JKU), Mario Drobics (AIT)<br>Image credit: AIT / Raimund Appel'
+  caption: 'Left to right: Patrick Ratheiser (Leftshift One), Tünde Fülöp (BMEIA), Christine Bauer (JKU), Mario Drobics (AIT)<br>Image credit: **AIT / Raimund Appel**, 2019.'
   focal_point: Right
 links:
 #- icon: twitter
