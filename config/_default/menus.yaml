@@ -28,9 +28,12 @@ main:
   - name: Media
     url: 'media/'
     weight: 9
+  - name: Gallery
+    url: 'gallery/'
+    weight: 10
   - name: Contact
     url: '#contact'
-    weight: 10
+    weight: 11
  # - name: Posts
  #   url: '#posts'
  #   weight: 30
