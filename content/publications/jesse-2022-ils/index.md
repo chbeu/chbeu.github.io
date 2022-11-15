@@ -10,7 +10,7 @@ authors:
 - Mathias Jesse
 - Dietmar Jannach
 - Christine Bauer
-tags: []
+tags: [recommender systems, diversity, diversity perception, intra-list similarity, user study]
 categories: []
 date: '2022-11-15'
 lastmod: 2022-11-15T03:11:12+02:00

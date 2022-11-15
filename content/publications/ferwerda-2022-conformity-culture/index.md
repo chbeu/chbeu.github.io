@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Bruce Ferwerda
 - Christine Bauer
-tags: [conformity, music]
+tags: [conformity, music, group decision-making, flipping direction, culture]
 categories: []
 date: 2022-04-29 #25-30 April
 lastmod: 2022-02-19T03:11:12+02:00

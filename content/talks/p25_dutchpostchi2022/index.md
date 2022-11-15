@@ -35,7 +35,7 @@ all_day: true
 publishDate: "2022-06-24T00:00:00Z"
 
 #authors: ["Christine Bauer"]
-tags: [talk, conformity, culture, music playlists, chi-nl, chi]
+tags: [talk, conformity, culture, music playlists, flipping direction, chi-nl, chi]
 
 # Is this a featured talk? (true/false)
 featured: false

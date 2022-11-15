@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Christine Bauer
 - Bruce Ferwerda
-tags: [conformity, music]
+tags: [conformity, music, group decision-making, flipping direction]
 categories: []
 date: 2020-04-01 #25-30 April
 lastmod: 2021-08-08T03:11:12+02:00
@@ -19,10 +19,10 @@ profile: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: ''
+#  focal_point: ''
+#  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
