@@ -21,6 +21,9 @@ PDF
 data-filename="/publications/ferwerda-2022-conformity-culture/cite.bib">
 Cite
 &lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/fwf579/">
+Project
+&lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/ferwerda-2022-conformity-culture/ferwerda-2022-conformity-culture-poster.pdf" target="_blank" rel="noopener">
 Poster
 &lt;/a>
@@ -50,6 +53,9 @@ PDF
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/ferwerda-2022-conformity-culture/cite.bib">
 Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/fwf579/">
+Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/ferwerda-2022-conformity-culture/ferwerda-2022-conformity-culture-poster.pdf" target="_blank" rel="noopener">
 Poster

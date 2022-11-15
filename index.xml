@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Christine Bauer</title><link>https://chbeu.github.io/</link><atom:link href="https://chbeu.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Christine Bauer</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://chbeu.github.io/media/sharing.png</url><title>Christine Bauer</title><link>https://chbeu.github.io/</link></image><item><title>Gallery</title><link>https://chbeu.github.io/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/gallery/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Christine Bauer</title><link>https://chbeu.github.io/</link><atom:link href="https://chbeu.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Christine Bauer</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://chbeu.github.io/media/sharing.png</url><title>Christine Bauer</title><link>https://chbeu.github.io/</link></image><item><title>Gallery</title><link>https://chbeu.github.io/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/gallery/</guid><description>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-gallery" href="https://chbeu.github.io/media/albums/gallery/1_056_christine-bauer_fuer-liwest_by_kurt-hoerbst.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://www.hoerbst.com&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;Kurt Hörbst&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2020.">
@@ -57,7 +57,7 @@ Image credit: **AIT / Raimund Appel**, 2019." width="750" height="500">
 &lt;img src="https://chbeu.github.io/media/albums/gallery/9c_033_christine-bauer_fuer-liwest_by_kurt-hoerbst_hudd145cf6256b583d9589d2e9042a13c3_13322120_750x750_fit_q90_h2_lanczos.webp" loading="lazy" alt="Image credit: [**Kurt Hörbst**](https://www.hoerbst.com), 2020." width="750" height="500">
 &lt;/a>
 &lt;/div>
-&lt;/div></description></item><item><title>Trustworthy MIR: Creating MIR applications with values</title><link>https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/</link><pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/</guid><description/></item><item><title>Guest lecture at the Erasmus University Rotterdam</title><link>https://chbeu.github.io/post/20221024_rotterdam/</link><pubDate>Mon, 24 Oct 2022 10:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20221024_rotterdam/</guid><description>&lt;p>Last week, I had the pleasure giving a guest lecture in the scope of the minor program &amp;ldquo;&lt;a href="https://www.eur.nl/en/minor/muic" target="_blank" rel="noopener">MU$IC&amp;mdash;The Economy, Sociology and Practice of Popular Music&lt;/a>&amp;rdquo; at the &lt;a href="https://www.eur.nl/en/" target="_blank" rel="noopener">Erasmus University Rotterdam&lt;/a>. It was very inspiring to work with student from another discipline.&lt;/p>
+&lt;/div></description></item><item><title>The effect of ingroup identification on conformity behavior in group decision-making: the flipping direction matters</title><link>https://chbeu.github.io/publications/bauer-2023-conformity-ingroup/</link><pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/bauer-2023-conformity-ingroup/</guid><description/></item><item><title>Trustworthy MIR: Creating MIR applications with values</title><link>https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/</link><pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/</guid><description/></item><item><title>Intra-list similarity and human diversity perceptions of recommendations: the details matter</title><link>https://chbeu.github.io/publications/jesse-2022-ils/</link><pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/jesse-2022-ils/</guid><description/></item><item><title>Guest lecture at the Erasmus University Rotterdam</title><link>https://chbeu.github.io/post/20221024_rotterdam/</link><pubDate>Mon, 24 Oct 2022 10:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20221024_rotterdam/</guid><description>&lt;p>Last week, I had the pleasure giving a guest lecture in the scope of the minor program &amp;ldquo;&lt;a href="https://www.eur.nl/en/minor/muic" target="_blank" rel="noopener">MU$IC&amp;mdash;The Economy, Sociology and Practice of Popular Music&lt;/a>&amp;rdquo; at the &lt;a href="https://www.eur.nl/en/" target="_blank" rel="noopener">Erasmus University Rotterdam&lt;/a>. It was very inspiring to work with student from another discipline.&lt;/p>
 &lt;p>It was also a very interesting experience to be in the audience, when students started the session by introducing my research on artist gender imbalance in music recommendation.&lt;/p>
 &lt;br>
 &lt;p>
@@ -152,6 +152,9 @@ PDF
 data-filename="/publications/ferwerda-2022-conformity-culture/cite.bib">
 Cite
 &lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/fwf579/">
+Project
+&lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/ferwerda-2022-conformity-culture/ferwerda-2022-conformity-culture-poster.pdf" target="_blank" rel="noopener">
 Poster
 &lt;/a>
@@ -245,6 +248,9 @@ PDF
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/ferwerda-2022-conformity-culture/cite.bib">
 Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/fwf579/">
+Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/ferwerda-2022-conformity-culture/ferwerda-2022-conformity-culture-poster.pdf" target="_blank" rel="noopener">
 Poster
