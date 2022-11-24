@@ -41,7 +41,7 @@ publication_types:
 - '2'
 abstract: 'The diversity of the generated item suggestions can be an important quality factor of a recommender system. In offline experiments, diversity is commonly assessed with the help of the intra-list similarity (ILS) measure, which is defined as the average pairwise similarity of the items in a list. The similarity of each pair of items is often determined based on domain-specific meta-data, e.g., movie genres. While this approach is common in the literature, it in most cases remains open if a particular implementation of the ILS measure is actually a valid proxy for the human diversity perception in a given application. With this work, we address this research gap and investigate the correlation of different ILS implementations with human perceptions in the domains of movie and recipe recommendation. We conducted several user studies involving over 500 participants. Our results indicate that the particularities of the ILS metric implementation matter. While we found that the ILS metric can be a good proxy for human perceptions, it turns out that it is important to individually validate the used ILS metric implementation for a given application. On a more general level, our work points to a certain level of oversimplification in recommender systems research when it comes to the design of computational proxies for human quality perceptions and thus calls for more research regarding the validation of the corresponding metrics.'
 publication: '*User Modeling and User-Adapted Interaction*'
-#doi: 
+doi: 10.1007/s11257-022-09351-w
 #url_pdf: 
 url_preprint: jesse-2022-ils-preprint.pdf
 ---
