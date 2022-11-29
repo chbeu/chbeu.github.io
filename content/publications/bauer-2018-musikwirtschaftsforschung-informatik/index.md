@@ -36,4 +36,5 @@ abstract: 'This article takes the computer science perspective on music business
 In a deep discussion, this work exemplifies problems and research questions that the computer science perspective on music business research is confronted with. Concrete examples for research fields are (i) music recommender systems, (ii) improvement in skills to use technology, and (iii) monitoring and reporting of digital music consumption.'
 publication: '*Musikwirtschaftsforschung: Die Grundlagen einer neuen Disziplin*'
 doi: 10.1007/978-3-658-19399-7_6
+url_preprint: bauer-2018-musikwirtschaftsforschung-informatik-preprint.pdf
 ---
