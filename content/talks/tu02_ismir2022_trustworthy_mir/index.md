@@ -40,7 +40,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-06-25T00:00:00Z"
 
-#authors: [Christine Bauer, Andrés Ferraro, Emilia Gómez, Lorenzo Porcaro]
+authors: [Christine Bauer, Andrés Ferraro, Emilia Gómez, Lorenzo Porcaro]
 tags: [tutorial, ISMIR, trustworthy, values, music information retrieval, recommender systems, fairness, diversity, transparency, impact assessment]
 
 # Is this a featured talk? (true/false)
