@@ -46,23 +46,16 @@ tags: [tutorial, ISMIR, trustworthy, values, music information retrieval, recomm
 # Is this a featured talk? (true/false)
 featured: true
 
-#image:
-#  preview only: true
+image:
+  preview only: false
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
 links:
 #url_code: ""
-#url_pdf: "publications/bauer-2021-multimethods-tutorial/bauer-2021-multimethods-tutorial.pdf"
-#url_slides: "talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf"
+#url_pdf: ""
+url_slides: "https://www.slideshare.net/LorenzoPorcaro/trustworthy-mir-ismir-2022-tutorialpdf"
 #url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
