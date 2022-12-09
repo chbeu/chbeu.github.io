@@ -31,5 +31,5 @@ image:
 #projects: []
 ---
 
-It was a great pleasure to welcome Sven Müller (CEO at [AutLay](https://www.autlay.com)) in my master course on Adaptive Interactive System. In his guest lecture, Sven presented how we can use personalization in print and shared insights about their approaches at [AutLay](https://www.autlay.com). I found the use cases from retail very inspiring. And I am convinced, the students got a new perspective on the topic of adaptive systems, too.
+It was a great pleasure to welcome Sven Müller (CEO at [AutLay](https://www.autlay.com)) in my master course on Adaptive Interactive Systems. In his guest lecture, Sven presented how we can use personalization in print and shared insights about their approaches at [AutLay](https://www.autlay.com). I found the use cases from retail very inspiring. And I am convinced, the students got a new perspective on the topic of adaptive systems, too.
 
