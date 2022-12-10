@@ -50,25 +50,12 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
 # Optional filename of your slides within your event's folder or a URL.
 url_slides: "talks/it20_mediafutures2022/mediafutures2022_fairness_slides.pdf"
 url_video: "https://player.vimeo.com/video/702565366?h=233b4ebcf8"
-
 #url_code: ""
 #url_pdf:  ""
 #url_slides:  ""
-
-# Markdown Slides (optional).
-#   Associate this event with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

@@ -54,23 +54,10 @@ image:
   placement: 300
 
 #links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Tweet
-#  url: https://twitter.com/christine_bauer
-
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
 url_video: "https://youtu.be/Sm21fQEfnRc"
-
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

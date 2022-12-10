@@ -45,10 +45,6 @@ image:
   preview_only: false
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Tweet
-#  url: https://twitter.com/christine_bauer
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""

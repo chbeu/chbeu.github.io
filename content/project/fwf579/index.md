@@ -22,21 +22,10 @@ image:
   focal_point: Smart
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
 ---
 
 Having tens of millions of musical works available at a listener’s fingertips requires novel recommendation and interaction techniques for music consumption. Thereby the success of a music recommender system, a system that proposes users what to explore or listen to next, depends on its ability to propose the right music, to the right user, at the right moment (i.e., in the right context). However, this task is extremely complex, as various factors influence a user’s music preferences. Amongst others, cultural aspects and characteristics (e.g., different requirements regarding diversity of a playlist or familiarity with its music tracks) have been shown to affect music perception, preferences, and listening behavior. Calling on this, the project entitled “Fine-grained culture-aware music recommender systems” investigates how music recommender systems could and should integrate cultural aspects in order to provide better recommendations. The research findings will answer the question how music recommender systems have to be designed to reflect cultural diversity and will provide insights into cross-cultural music perception, preferences, and listening behavior.

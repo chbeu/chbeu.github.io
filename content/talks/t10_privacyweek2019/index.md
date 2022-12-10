@@ -53,22 +53,10 @@ image:
 links:
 - name: Sketchnote
   url: https://pbs.twimg.com/media/EH5JLWtXkAAeM5j?format=jpg&name=medium
-#- icon: twitter
-#  icon_pack: fab
-#  name: Tweet
-#  url: https://twitter.com/christine_bauer
 #url_code: ""
 #url_pdf: ""
 url_slides: "talks/t10_privacyweek2019/privacyweek2019_musicpersonality.pdf"
 url_video: "https://media.ccc.de/v/pw19-245-sag-mir-was-du-hrst-und-ich-sage-dir-wer-du-bist-/"
-
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -77,7 +65,6 @@ url_video: "https://media.ccc.de/v/pw19-245-sag-mir-was-du-hrst-und-ich-sage-dir
 #   Otherwise, set `projects = []`.
 #projects:
 #- internal-project
-
 ---
 
 <video controls src="https://mirrors.dotsrc.org/cdn.media.ccc.de/events/privacyweek/2019/h264-hd/pw19-245-deu-eng-Sag_mir_was_du_hoerst_-_und_ich_sage_dir_wer_du_bist_hd.mp4"></video>

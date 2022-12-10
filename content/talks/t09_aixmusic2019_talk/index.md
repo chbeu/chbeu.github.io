@@ -46,21 +46,10 @@ featured: false
 #  focal_point: Right
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Tweet
-#  url: https://twitter.com/christine_bauer
 #url_code: ""
 #url_pdf: ""
 url_slides: "talks/t09_aixmusic2019_talk/AIxMUSIC-talk_20190908.pdf"
 url_video: "https://www.dorftv.at/system/files/thek/720p/2019/31986/31986.mp4#t=1545"
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
