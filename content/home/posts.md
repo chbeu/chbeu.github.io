@@ -1,6 +1,4 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
 # This file represents a page section.
@@ -30,6 +28,10 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  archive:
+    enable: true
+    text: See all posts
+    link: post/
 
 design:
   # Choose a view for the listings:

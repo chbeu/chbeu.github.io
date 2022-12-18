@@ -1,6 +1,4 @@
 ---
-# An instance of the Featured widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 
 # This file represents a page section.
@@ -26,6 +24,10 @@ content:
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  archive:
+    enable: true
+    text: See all publications
+    link: publications/
 
 design:
   # Choose a view for the listings:

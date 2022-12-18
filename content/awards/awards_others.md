@@ -27,7 +27,7 @@ date_format: Jan 2006
 item:
 - organization: "Die Burgenländerin"
   title: "Nomination for Top Woman in Technology & Innovation"
-  description: "Nominee among the top 66 women in Burgenland<br>Nominee among as women in the category Technology & Innovation (11 nominees)"
+  description: "Nominee among the top 66 women in Burgenland<br>Nominee in the category Technology & Innovation (11 nominees)"
   #certificate_url: "https://www.dieburgenlaenderin.at/lifestyle/200702_top66_technikinnovation-200114/"
   organization_url: "https://www.dieburgenlaenderin.at/"
   url: "https://www.dieburgenlaenderin.at/lifestyle/200702_top66_technikinnovation-200114/"
