@@ -1,8 +1,5 @@
 ---
-summary: "This page lists awards and honors for reviewing activities."  # Add a page description.
-
-# An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+summary: "This page lists miscellaneous awards and honors."  # Add a page description.
 widget: accomplishments
 
 # This file represents a page section.
@@ -32,7 +29,6 @@ item:
   organization_url: "https://www.dieburgenlaenderin.at/"
   url: "https://www.dieburgenlaenderin.at/lifestyle/200702_top66_technikinnovation-200114/"
   date_start: "2020-07-01"
-
 
 design:
   columns: '2' 

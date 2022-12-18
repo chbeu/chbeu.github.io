@@ -1,8 +1,5 @@
 ---
 summary: "This page lists awards and honors for research activities."  # Add a page description.
-
-# An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
 # This file represents a page section.

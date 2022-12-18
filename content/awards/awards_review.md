@@ -1,8 +1,5 @@
 ---
 summary: "This page lists awards and honors for reviewing activities."  # Add a page description.
-
-# An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
 # This file represents a page section.
@@ -46,7 +43,7 @@ item:
   description: "27th Annual Conference on Intelligent User Interfaces (IUI 2022)"
   certificate_url: ""
   organization_url: "https://iui.acm.org/2022/"
-  #url: "https://recsys.acm.org/recsys-best-reviewers/"
+  #url: ""
   date_start: "2022-03-22"
 - organization: "RecSys 2020"
   date_end: ""

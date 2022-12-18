@@ -1,6 +1,6 @@
 ---
 title: 'Bio'
-date: 2022-01-02T18:01:34+07:00
+date: 2022-12-18
 type: page
 draft: false
 
