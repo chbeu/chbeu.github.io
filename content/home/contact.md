@@ -1,5 +1,4 @@
 ---
-# An instance of the Contact widget.
 widget: contact
 
 # This file represents a page section.
@@ -14,7 +13,6 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
 
   # Contact details (edit or remove options as required)
   email: c.bauer@uu.nl
@@ -33,7 +31,7 @@ content:
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/christine_bauer'
-  
+
 design:
   columns: '2'
 ---
