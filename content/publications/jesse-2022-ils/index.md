@@ -43,4 +43,9 @@ abstract: 'The diversity of the generated item suggestions can be an important q
 publication: '*User Modeling and User-Adapted Interaction*'
 doi: 10.1007/s11257-022-09351-w
 #url_pdf: 
+links:
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/ladychb/ils_study
 ---
