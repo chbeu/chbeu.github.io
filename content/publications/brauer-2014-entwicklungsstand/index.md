@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: 'Entwicklungsstand und Entwicklungspotenziale in der Verwendung von Facebook
@@ -39,5 +38,5 @@ publication_types:
 abstract: 'Die Bedeutung von Facebook zur Erreichung zur Unternehmenskommunikation ist bei gewinnorientierten Unternehmen wissenschaftlich im Fokus. Die Nutzung von Facebook in sozialwirtschaftlichen Organisationen ist im Gegensatz dazu bisher kaum erforscht und für den deutschsprachigen Raum liegt derzeit keine wissenschaftliche Studie vor. Um diese Forschungslücke zu schließen, wurde eine empirische Studie auf Basis einer Vollerhebung unter 517 sozialwirtschaftlichen Organisationen in Wien im Zeitraum von Januar bis Juli 2012 durchgeführt. Die Untersuchungsergebnisse veranschaulichen, dass sozialwirtschaftliche Organisationen Facebook nur wenig zur Organisationkommunikation einsetzen und viele Entwicklungspotentiale nicht ausgeschöpft werden.'
 publication: '*Multikonferenz Wirtschaftsinformatik*'
 publication_short: MKWI 2014
-url_pdf: http://nbn-resolving.de/urn:nbn:de:hbz:466:2-12778
+url_pdf: https://nbn-resolving.de/urn:nbn:de:hbz:466:2-12778
 ---

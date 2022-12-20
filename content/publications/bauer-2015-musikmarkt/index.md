@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: 'Der digitale Musikmarkt im Wandel: Marktteilnehmer, Machtverschiebungen und
@@ -36,7 +35,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*OCG Journal*'
-url_pdf: http://www.ocg.at/sites/ocg.at/files/medien/pdfs/OCG-Journal1502.pdf
+url_pdf: https://www.ocg.at/sites/ocg.at/files/medien/pdfs/OCG-Journal1502.pdf
 ---
 
 

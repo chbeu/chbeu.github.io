@@ -17,4 +17,4 @@ tags:
   - hit prediction
   - communication to the public
 ---
-Last week appeared <a href="https://derstandard.at/2000077560797/Wie-wird-ein-Song-zum-Hit" target="_blank" rel="noopener noreferrer">my first blog in the online-version of the newspaper DER STANDARD</a>. The article is about hit prediction.
+Last week appeared [my first blog in the online-version of the newspaper DER STANDARD](https://derstandard.at/2000077560797/Wie-wird-ein-Song-zum-Hit). The article is about hit prediction.

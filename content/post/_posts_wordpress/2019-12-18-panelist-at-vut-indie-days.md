@@ -19,4 +19,4 @@ tags:
   - vut indie days
   - c/o pop convention
 ---
-I am happy to announce that I will join one of the panels at <a href="https://www.vut.de/vut-indie-days/aktuelles-indie-days/artikel/details/vut-indie-days-koeln/" rel="noopener noreferrer" target="_blank">VUT Indie Days Köln</a>, taking place for the first time as part of the <a href="https://c-o-pop.de/convention/" rel="noopener noreferrer" target="_blank">c/o pop Convention 2020</a>. I am looking forward to this event already now.
+I am happy to announce that I will join one of the panels at [VUT Indie Days Köln](https://www.vut.de/vut-indie-days/aktuelles-indie-days/artikel/details/vut-indie-days-koeln/), taking place for the first time as part of the [c/o pop Convention 2020](https://c-o-pop.de/convention/). I am looking forward to this event already now.

@@ -45,12 +45,6 @@ featured: false
 #  focal_point: Right
 
 links:
-#- icon: ceur-square
-#  icon_pack: ai
-#  name: ceur-ws
-#  url: http://ceur-ws.org/Vol-2697/
-#url_code: ""
-#url_pdf:  ""
 url_slides: "talks/p25_dutchpostchi2022/p25_dutchpostchi2022-slides.pdf"
 url_poster: "publications/ferwerda-2022-conformity-culture/ferwerda-2022-conformity-culture-poster.pdf"
 

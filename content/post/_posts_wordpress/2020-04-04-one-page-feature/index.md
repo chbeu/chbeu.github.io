@@ -20,6 +20,6 @@ tags:
 image:
   preview_only: true
 ---
-There is a one-page feature about me and <a href="https://www.jku.at/en/institute-of-computational-perception/research/projects/fine-grained-culture-aware-music-recommender-systems/" rel="noopener noreferrer" target="_blank">my recent project</a> in the magazine <a href="https://www.burgenland-mitte.at/" rel="noopener noreferrer" target="_blank">Burgenland Mitte</a>. Here is a link to the <a href="https://www.burgenland-mitte.at/2020/04/die-ganze-welt-schaut-auf-sie/" rel="noopener noreferrer" target="_blank">online version of the article</a>.
+There is a one-page feature about me and [my recent project](https://www.jku.at/en/institute-of-computational-perception/research/projects/fine-grained-culture-aware-music-recommender-systems/) in the magazine [Burgenland Mitte](https://www.burgenland-mitte.at/. Here is a link to the [online version of the article](https://www.burgenland-mitte.at/2020/04/die-ganze-welt-schaut-auf-sie/).
 
 {{< figure src="20200401_Burgenland-Mitte-April-2020-Nr.-321_seite16.pdf" title="pdf file of the article in Burgenland Mitte." >}}

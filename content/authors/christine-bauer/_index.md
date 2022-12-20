@@ -76,7 +76,7 @@ social:
   link: https://github.com/ladychb
 - icon: researchgate
   icon_pack: ai
-  link: http://www.researchgate.net/profile/Christine_Bauer
+  link: https://www.researchgate.net/profile/Christine-Bauer-2
 - icon: dblp
   icon_pack: ai
   icon_title: dblp
@@ -96,7 +96,7 @@ social:
 - icon: female
   icon_pack: fas
   icon_title: Speakerinnen
-  link: http://speakerinnen.org/de/profiles/1754
+  link: https://speakerinnen.org/de/profiles/1754
         
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 

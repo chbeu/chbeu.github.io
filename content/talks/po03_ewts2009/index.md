@@ -11,14 +11,14 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 event: "Summer School of European Science Days 2009: The Economics of Art and Culture (EWTS 2009)"
-#event_url: https://complexrec2020.aau.dk
+#event_url: 
 
 location: Steyr
 address:
 #  street: 450 Serra Mall
 #  city: Steyr
 #  region: CA
-#  postcode: '94305'
+#  postcode: ''
   country: Austria
 
 summary: "Poster at the Summer School of European Science Days 2009 (EWTS 2009): The Economics of Art and Culture."
@@ -44,10 +44,6 @@ featured: false
 #  focal_point: Right
 
 links:
-#- icon: ceur-square
-#  icon_pack: ai
-#  name: ceur-ws
-#  url: http://ceur-ws.org/Vol-2697/
 #url_code: ""
 #url_pdf:  ""
 url_poster: "talks/po03_ewts2009/po03_ewts2009-poster.pdf"

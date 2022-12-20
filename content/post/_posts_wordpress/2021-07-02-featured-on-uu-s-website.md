@@ -21,9 +21,9 @@ tags:
   - CHIIR
   - voices
 ---
-What an honor that my recent work with <a href="https://andrebola.github.io" rel="noopener" target="_blank">Andrés Ferraro</a> is featured as an example for research on Equality, Diversity & Inclusion at Utrecht University's website. There is also a sneak peek to an upcoming work with <a href="https://jcdevaney.tumblr.com" rel="noopener" target="_blank">Johanna Devaney</a>.
+What an honor that my recent work with [Andrés Ferraro](https://andrebola.github.io) is featured as an example for research on Equality, Diversity & Inclusion at Utrecht University's website. There is also a sneak peek to an upcoming work with [Johanna Devaney](https://jcdevaney.tumblr.com).
 
-Read the <a href="https://www.uu.nl/en/organisation/equality-diversity-inclusion/music-recommenders-show-a-strong-gender-bias" rel="noopener" target="_blank">article based the interview with me</a>.
+Read the [article based the interview with me](https://www.uu.nl/en/organisation/equality-diversity-inclusion/music-recommenders-show-a-strong-gender-bias).
 <br>
 <br>
 

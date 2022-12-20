@@ -18,4 +18,4 @@ tags:
   - recommender systems
   - intelligent interactive systems
 ---
-In our joint effort, advocating for multi-method evaluation, <a href="https://www.evazangerle.at" rel="noopener noreferrer" target="_blank">Eva Zangerle</a> and me have set up a dedicated website: <a href="https://multimethods.info" rel="noopener noreferrer" target="_blank">https://multimethods.info</a>. On that page, we collect resources that help to apply multi-method evaluation in research and development.
+In our joint effort, advocating for multi-method evaluation, [Eva Zangerle](https://www.evazangerle.at) and me have set up a dedicated website: https://multimethods.info. On that page, we collect resources that help to apply multi-method evaluation in research and development.

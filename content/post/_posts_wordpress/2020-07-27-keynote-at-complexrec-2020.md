@@ -19,6 +19,6 @@ tags:
   - RecSys
   - ComplexRec
 ---
-I am honored to announce that I am invited to give the keynote at the <a href="https://complexrec2020.aau.dk" rel="noopener noreferrer" target="_blank">4th Workshop on Recommendation in Complex Environments (ComplexRec 2020)</a>, co-located with <a href="https://recsys.acm.org/recsys20/" rel="noopener noreferrer" target="_blank">RecSys 2020</a>. The **fancy** ;-) title of my talk is: _Ratings in, rankings out. Keep it simple, they said. But we need more than that._
+I am honored to announce that I am invited to give the keynote at the [4th Workshop on Recommendation in Complex Environments (ComplexRec 2020)](https://complexrec2020.aau.dk), co-located with [RecSys 2020](https://recsys.acm.org/recsys20/). The **fancy** ;-) title of my talk is: _Ratings in, rankings out. Keep it simple, they said. But we need more than that_.
 
 {{< cite page="bauer-2020-complexrec-keynote" view="4" >}}

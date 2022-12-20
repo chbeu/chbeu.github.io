@@ -11,15 +11,15 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 event: Workshop 'Transparency and Explainability in Adaptive Systems Through User Modelling Grounded in Psychological Theory (HUMANIZE 2021)'
-event_url: http://www.humanize-workshop.org/
+event_url: https://www.humanize-workshop.org/
 
 location: Online
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
 #  region: CA
-#  postcode: '94305'
-#  country: United States
+#  postcode: ''
+#  country: 
 
 summary: HUMANIZE 2021 Keynote.
 abstract: "We have learned that a one-size-fits-all system is frequently not the ideal solution. So we want our systems to be intelligent. They shall intelligently adapt to the users, to each user individually. We want to learn from the users’ behavior to create one user model per user. Then we 'understand' each individual user and the system can adapt to the individual user models. And so, our system is intelligent. No, it is not! Compared to a one-size-fits-all solution, an adaptive system considering user models may be more advanced and capable to address a wider scope of users more adequately. Yet, that is not the end of the story. While some user characteristics, preferences, or needs may be rather stable for a long period of time, others are highly volatile. Each user encounters various situations throughout a lifetime, even throughout a day. If we want to understand users, we need to understand their situations. And situational models could have more in common across users than our user-model thinking may suggest."

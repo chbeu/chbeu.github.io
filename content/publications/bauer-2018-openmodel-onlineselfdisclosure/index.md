@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: An open model for researching the role of culture in online self-disclosure
@@ -38,7 +37,7 @@ abstract: 'The analysis of consumers’ personal information (PI) is a significa
 We introduce an open research model for cultural OSD research, based on the privacy calculus theory. Our open research model incorporates six cultural dimensions, six predictors, and 24 structured propositions. It represents a comprehensive approach that provides a basis to explain possible cultural OSD phenomena in a systematic way.'
 publication: '*51st Hawaii International Conference on System Sciences*'
 publication_short: HICSS 2018
-url_pdf: http://hdl.handle.net/10125/50348
+url_pdf: https://hdl.handle.net/10125/50348
 doi: 10.24251/HICSS.2018.460
 
 icons:

@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: Research directions for digital signage systems in retail
@@ -37,6 +36,6 @@ publication_types:
 - '2'
 abstract: 'The emergence and on-going development of digital signage (DS) systems result in a growing number of technological capabilities of such systems. While these technological capabilities have attracted considerable research attention in informatics, studies exploring their application and impact are scarce. Marketing, and especially retailing, represents an applied science that might benefit from DS. In support of this assumption, some studies demonstrate that the presence of DS showing emotional content creates favorable shopping experiences and positively influences consumer behavior. However, so far, little is known about what could be achieved with DS including its technological capabilities at the point of sale. Thus, this paper offers a short review of extant findings related to DS in retailing. Subsequently, we elaborate on two retailing-orientated functionalities for retailing and develop two specific research questions.'
 publication: '*Procedia Computer Science*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/S1877050918317848
+#url_pdf: https://www.sciencedirect.com/science/article/pii/S1877050918317848
 doi: 10.1016/j.procs.2018.10.135
 ---

@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: Leveraging multi-method evaluation for multi-stakeholder settings
@@ -37,6 +36,6 @@ abstract: 'In this paper, we focus on recommendation settings with multiple stak
 publication: '*1st Workshop on the Impact of Recommender Systems, co-located with
   13th ACM Conference on Recommender Systems (ACM RecSys 2019)*'
 publication_short: ImpactRS 2019
-#url_pdf: http://ceur-ws.org/Vol-2462/short3.pdf
+#url_pdf: https://ceur-ws.org/Vol-2462/short3.pdf
 url_poster: bauer-2019-multimethod-multistakeholder-poster-A4.pdf
 ---

@@ -57,7 +57,7 @@ links:
 - icon: ceur-square
   icon_pack: ai
   name: ceur-ws
-  url: http://ceur-ws.org/Vol-2697/
+  url: https://ceur-ws.org/Vol-2697/
 #url_code: ""
 #url_pdf:  ""
 url_slides: "talks/kn01_complexrec2020/kn01_complexrec2020_slides.pdf"

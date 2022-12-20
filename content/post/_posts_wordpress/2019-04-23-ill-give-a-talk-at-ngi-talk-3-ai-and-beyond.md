@@ -17,8 +17,8 @@ tags:
   - talk
   - NGI
 ---
-I am happy to announce that I will give a talk at the event <a href="https://ngi.ait.ac.at/event/ngi-talk-3-ai-and-beyond/" rel="noopener noreferrer" target="_blank">NGI Talk #3: AI and beyond</a> on ''How will AI change the way we perceive and interact with computers?''
+I am happy to announce that I will give a talk at the event [NGI Talk #3: AI and beyond](https://ngi.ait.ac.at/event/ngi-talk-3-ai-and-beyond/) on ''How will AI change the way we perceive and interact with computers?''
 
 Afterwards, I will join the panel discussion.
 
-The event is organized by the <a href="https://www.ait.ac.at/" rel="noopener noreferrer" target="_blank">AIT Austrian Institute of Technology</a>. It will take place at <a href="https://www.ocg.at/" rel="noopener noreferrer" target="_blank">OCG</a> in Vienna, Austria, on 3 June 2019.
+The event is organized by the [AIT Austrian Institute of Technology](https://www.ait.ac.at/). It will take place at [OCG](https://www.ocg.at/) in Vienna, Austria, on 3 June 2019.

@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: Proceedings of the Perspectives on the Evaluation of Recommender Systems Workshop 2021
@@ -39,5 +38,5 @@ The goal of the workshop was to capture the current state of evaluation and gaug
 We received 17 paper contributions and one abstract submission for the workshop. Each paper contribution received three reviews. We selected 12 papers for publication which will also be presented during the workshop. Furthermore, we accepted one abstract submission to be presented at the workshop.
 We would like to thank the members of the program committee for their valuable reviews and suggestions. We also thank the authors for their submissions and contributions to the workshop.'
 #publication: 'Proceedings of the Perspectives on the Evaluation of Recommender Systems Workshop 2021'
-url_proceedings: 'http://ceur-ws.org/Vol-2955/'
+url_proceedings: 'https://ceur-ws.org/Vol-2955/'
 ---

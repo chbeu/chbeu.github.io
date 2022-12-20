@@ -12,4 +12,4 @@ profile: false
 categories:
   - news
 ---
-ACM Author-izer is integrated—again. There were some troubles with my ACM account, which took quite some time to solve. I am happy that it works now :-)
+ACM Author-izer is integrated---again. There were some troubles with my ACM account, which took quite some time to solve. I am happy that it works now :-)

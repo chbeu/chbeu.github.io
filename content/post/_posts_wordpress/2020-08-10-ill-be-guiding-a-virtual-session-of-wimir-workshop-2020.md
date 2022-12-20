@@ -19,10 +19,10 @@ tags:
   - teaching
   - WiMIR
 ---
-I am happy to announce that I will be guiding one of the nine virtual sessions of the <a href="https://wimir.wordpress.com" rel="noopener noreferrer" target="_blank">WiMIR workshop 2020</a> at <a href="https://ismir.github.io/ISMIR2020/" rel="noopener noreferrer" target="_blank">vISMIR2020</a>. The title of my session is: _The **best ever** recommendation & For who? And how do you know that?_
+I am happy to announce that I will be guiding one of the nine virtual sessions of the [WiMIR workshop 2020](https://wimir.wordpress.com) at [ISMIR 2020](https://ismir.github.io/ISMIR2020/). The title of my session is: _The **best ever** recommendation & For who? And how do you know that?_
 
 I am very much looking forward to it.
 
-Registration information will be announced soon. Follow <a href="https://twitter.com/Women_MIR?s=20" rel="noopener noreferrer" target="_blank">@Women_MIR</a> to not miss any news.
+Registration information will be announced soon. Follow [@Women_MIR](https://twitter.com/Women_MIR) to not miss any news.
 
 {{< tweet user="Women_MIR" id="1291735328118771714" >}}

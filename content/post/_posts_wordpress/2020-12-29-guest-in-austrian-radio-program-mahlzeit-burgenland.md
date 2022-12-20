@@ -21,6 +21,6 @@ tags:
 ---
 I had the honor being a guest at the Austrian radio program ''Mahlzeit Burgenland''. We talked about music recommenders, Austrian food, saxophones, the current Covid-19 situation, and many other things.
 
-<a href="https://burgenland.orf.at/magazin/stories/3082537/" rel="noopener" target="_blank">Mahlzeit Burgenland: Christine Bauer und Krautfleckerl (in German)</a>
+[Mahlzeit Burgenland: Christine Bauer und Krautfleckerl (in German)](https://burgenland.orf.at/magazin/stories/3082537/)   
 
-Currently the radio program is also available as <a href="https://static.orf.at/podcast/bgldmagazin/ORF_Burgenland_Mahlzeit_Burgenland.xml" rel="noopener" target="_blank">podcast</a>.
+Currently the radio program is also available as [podcast](https://static.orf.at/podcast/bgldmagazin/ORF_Burgenland_Mahlzeit_Burgenland.xml).

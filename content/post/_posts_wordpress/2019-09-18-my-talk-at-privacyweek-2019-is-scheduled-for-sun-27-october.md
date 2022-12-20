@@ -19,7 +19,7 @@ tags:
   - talk
   - privacyweek
 ---
-The program of <a href="https://privacyweek.at" rel="noopener noreferrer" target="_blank">PrivacyWeek 2019</a> is online!  
-My talk with the title <a href="https://cfp.privacyweek.at/pw19/talk/BYXCVR/" rel="noopener noreferrer" target="_blank">Sag mir, was du hörst &ndash; und ich sage dir, wer du bist!</a> (in German) is scheduled for Sunday, 27 October 2019, 15:00 &ndash; 15:45 in room ''Saal 1''.
+The program of [PrivacyWeek 2019](https://privacyweek.at) is online!  
+My talk with the title [Sag mir, was du hörst---und ich sage dir, wer du bist!](https://cfp.privacyweek.at/pw19/talk/BYXCVR/) (in German) is scheduled for Sunday, 27 October 2019, 15:00--15:45 in room ''Saal 1''.
 
 Hope to see you there!

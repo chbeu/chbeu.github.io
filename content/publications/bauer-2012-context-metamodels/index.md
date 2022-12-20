@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: A comparison and validation of 13 context meta-models
@@ -35,6 +34,6 @@ publication_types:
 abstract: "‘Context’ is a significant element in the field of context-aware and pervasive computing. Thereby, a context meta-model defines context on an abstract level. Simultaneously, a context meta-model builds the basis for specific context models that support system designers in their decisions which context variables to integrate in a particular intelligent context-adaptive system. This paper compares 13 meta-models with respect to their scope. Taking an empirical approach, we matched the meta-models against context variables used in research practice. On the one hand, the meta-models find themselves well reflected by research practice, in a sense that the models’ context categories can be described by context variables reported in research. On the other hand, the results clearly indicate that each of the 13 context meta-models fails to describe the full landscape of context. Many context variables used in reported research are not covered by any of the analysed context meta-models. Accordingly, this paper calls on the research community to advance its basic theories continuously because the research field needs theories that reflect reality."
 publication: '*20th European Conference on Information Systems*'
 publication_short: ECIS 2012
-#url_pdf: http://aisel.aisnet.org/ecis2012/17
+#url_pdf: https://aisel.aisnet.org/ecis2012/17
 url_slides: bauer-2012-context-metamodels-slides.pdf
 ---

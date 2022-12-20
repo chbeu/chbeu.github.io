@@ -17,7 +17,7 @@ tags:
   - talk
   - NGI
 ---
-You can find a nice summary (in German) of the third NGI event on ''AI and beyond'', where I gave a talk last month.  
-<a href="https://ngi.ait.ac.at/aftermath-to-ngi3-ai-and-beyond/" rel="noopener noreferrer" target="_blank">https://ngi.ait.ac.at/aftermath-to-ngi3-ai-and-beyond/</a>
+You can find a nice summary (in German) of the third NGI event on ''AI and beyond'', where I gave a talk last month: 
+https://ngi.ait.ac.at/aftermath-to-ngi3-ai-and-beyond/
 
 {{< figure src="NGI-Talk-No-3-1-1024x683-Vortragende.jpg" title="The speakers; left to right: Patrick Ratheiser, T&uuml;nde F&uuml;l&ouml;p, Christine Bauer, Mario Drobics; Copyright: AIT / Raimund Appel" >}}

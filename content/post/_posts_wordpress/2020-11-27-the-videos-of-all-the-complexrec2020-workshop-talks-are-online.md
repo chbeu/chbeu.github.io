@@ -20,7 +20,7 @@ tags:
   - RecSys
   - ComplexRec
 ---
-The videos of all <a href="https://complexrec2020.aau.dk" rel="noopener noreferrer" target="_blank">ComplexRec 2020</a> workshop talks at <a href="https://recsys.acm.org/recsys20/" rel="noopener noreferrer" target="_blank">RecSys 2020</a> &ndash; including my keynote &ndash; can now be found on the <a href="https://youtu.be/nAevW75MzQA" rel="noopener noreferrer" target="_blank">RecSys YouTube channel</a>.
+The videos of all [ComplexRec 2020](https://complexrec2020.aau.dk) workshop talks at [RecSys 2020](https://recsys.acm.org/recsys20/)---including my keynote---can now be found on the [RecSys YouTube channel](https://youtu.be/nAevW75MzQA).
 
 {{< youtube nAevW75MzQA >}}
 <br>

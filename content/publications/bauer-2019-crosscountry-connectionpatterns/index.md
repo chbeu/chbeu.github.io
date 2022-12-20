@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: A cross-country investigation of user connection patterns in online social
@@ -38,7 +37,7 @@ abstract: 'Given the global expansion, the borderless nature, and the social imp
 First, we set out to answer which countries’ social media users are mainly connected with users within their own country; and which countries are characterized by a wide spectrum of cross-country (transnational) user connections. In doing so, we also identify the “attractor” countries, being characterized by alluring a large portion of users from other countries to connect to users in the respective attractor country. Second, we compare the results between the three social media platforms under investigation and analyze and discuss differences in the cross-country connection patterns. Third, we investigate whether countries’ attractor values are correlated with cultural features (according to Hofstede).
 Our results contribute to understanding the complex social ties between people and how they are reflected in connection behavior on social media.'
 publication: '*52nd Hawaii International Conference on System Sciences*'
-url_pdf: http://hdl.handle.net/10125/59655
+url_pdf: https://hdl.handle.net/10125/59655
 publication_short: HICSS 2019
 doi: 10.24251/HICSS.2019.263
 url_slides: bauer-2019-crosscountry-connectionpatterns-slides.pdf

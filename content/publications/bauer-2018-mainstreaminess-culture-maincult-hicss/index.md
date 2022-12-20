@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: 'On the importance of considering country-specific aspects on the online-market:
@@ -37,7 +36,7 @@ publication_types:
 abstract: ''
 publication: '*51st Hawaii International Conference on System Sciences*'
 publication_short: HICSS 2018
-url_pdf: http://hdl.handle.net/10125/50349
+url_pdf: https://hdl.handle.net/10125/50349
 doi: 10.24251/HICSS.2018.461
 url_slides: bauer-2018-mainstreaminess-culture-maincult-hicss-slides.pdf
 ---

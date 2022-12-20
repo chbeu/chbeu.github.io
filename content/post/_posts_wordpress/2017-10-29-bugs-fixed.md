@@ -12,4 +12,4 @@ profile: false
 categories:
   - news
 ---
-Website should now work on https and http &ndash; hopefully!
+Website should now work on https and http---hopefully!

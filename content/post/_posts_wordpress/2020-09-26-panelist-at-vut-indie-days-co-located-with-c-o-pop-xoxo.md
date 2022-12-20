@@ -22,7 +22,7 @@ tags:
   - c/o pop convention
   - VUT Indie days
 ---
-I am happy to announce that I will be part of this year's online edition of VUT Indie Days 2020, co-located with <a href="https://c-o-pop.de/en/xoxo" rel="noopener noreferrer" target="_blank">c/o pop xoxo</a>. I will join the panel on <a href="https://c-o-pop.de/en/xoxo/program/vut-indie-days-koeln:-gender-biases-and-discrimination-in-ai-|-en-talk" rel="noopener noreferrer" target="_blank">Gender biases and discrimination in AI</a>.
+I am happy to announce that I will be part of this year's online edition of VUT Indie Days 2020, co-located with [c/o pop xoxo](https://c-o-pop.de/en/xoxo). I will join the panel on [Gender biases and discrimination in AI](https://c-o-pop.de/en/xoxo/program/vut-indie-days-koeln:-gender-biases-and-discrimination-in-ai-|-en-talk).
 
 
 {{< tweet user="copopconvention" id="1308348060779581440" >}}

@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: 'Proceedings of the perspectives on the evaluation of recommender systems workshop 2022'
@@ -39,5 +38,5 @@ The goal of the PERSPECTIVES workshop series is to capture the current state of 
 We received twelve paper contributions and three abstract submissions for the workshop. Each paper contribution received three reviews. We selected six papers for publication which will also be presented during the workshop. Furthermore, we accepted two abstract submissions to be presented at the workshop.
 We would like to thank the members of the program committee for their valuable reviews and suggestions. We also thank the authors for their submissions and contributions to the workshop.'
 #publication: 'Proceedings of the Perspectives on the Evaluation of Recommender Systems Workshop 2022'
-url_proceedings: 'http://ceur-ws.org/Vol-3228/'
+url_proceedings: 'https://ceur-ws.org/Vol-3228/'
 ---

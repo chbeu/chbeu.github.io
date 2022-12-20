@@ -19,6 +19,6 @@ tags:
   - publication
   - SIGIR
 ---
-I am glad that my summary of the <a href="https://www.ismir2020.net" rel="noopener" target="_blank">ISMIR 2020</a> special session: ''How do we—in MIR research—help artists? Do we?'' made it to the <a href="http://sigir.org/forum/issues/december-2020/" rel="noopener" target="_blank">December 2020 issue of the SIGIR Forum</a>.
+I am glad that my summary of the [ISMIR 2020](https://www.ismir2020.net) special session: ''How do we—in MIR research—help artists? Do we?'' made it to the [December 2020 issue of the SIGIR Forum](https://sigir.org/forum/issues/december-2020/).
 
 {{< cite page="bauer-2020-helpartists" view="4" >}}

@@ -19,4 +19,4 @@ tags:
   - talk
   - privacyweek
 ---
-I'm happy to announce that I will give a talk at this year's <a href="https://privacyweek.at" rel="noopener noreferrer" target="_blank">PrivacyWeek 2019 &ndash; Privat, oida!</a> organized by  <a href="https://c3w.at/" rel="noopener noreferrer" target="_blank">Chaos Computer Club Wien (C3W)</a> in October. Stay tuned!
+I'm happy to announce that I will give a talk at this year's [PrivacyWeek 2019 -- Privat, oida!](https://privacyweek.at) organized by [Chaos Computer Club Wien (C3W)](https://c3w.at/) in October. Stay tuned!

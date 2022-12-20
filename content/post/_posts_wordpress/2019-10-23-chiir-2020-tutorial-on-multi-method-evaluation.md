@@ -20,6 +20,6 @@ tags:
   - recommender systems
   - information retrieval
 ---
-I am happy to announce that I will give a tutorial with the title ''Leveraging multiple methods to answer what you were looking for'' at <a href="http://sigir.org/chiir2020/" rel="noopener noreferrer" target="_blank">CHIIR 2020</a>. Details will follow.
+I am happy to announce that I will give a tutorial with the title ''Leveraging multiple methods to answer what you were looking for'' at [CHIIR 2020](https://sigir.org/chiir2020/). Details will follow.
 
 {{< cite page="bauer-2020-chiir-tutorial-multimethods" view="4" >}}

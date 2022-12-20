@@ -16,7 +16,7 @@ tags:
   - multi-methods
   - tutorial
 ---
-Unfortunately, CHIIR 2020 was cancelled. This is really sad news. I was so much looking forward to holding the tutorial on multi-method evaluation. Meanwhile, you can have a look at <a href="https://multimethods.info" rel="noopener noreferrer" target="_blank">https://multimethods.info</a>, which I maintain with <a href="https://evazangerle.at" rel="noopener noreferrer" target="_blank">Eva Zangerle</a>. You can find a collection of useful material there.
+Unfortunately, CHIIR 2020 was cancelled. This is really sad news. I was so much looking forward to holding the tutorial on multi-method evaluation. Meanwhile, you can have a look at https://multimethods.info, which I maintain with [Eva Zangerle](https://evazangerle.at). You can find a collection of useful material there.
 
 {{< tweet user="ACM_CHIIR" id="1235811231866339329" >}}
 

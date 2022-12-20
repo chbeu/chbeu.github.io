@@ -46,15 +46,13 @@ tags: [talk, privacy, privacyweek, music, c3w]
 featured: false
 
 image:
-  caption: 'Image credit: [**Jana Wiese**](http://jasowieso.com)'
+  caption: 'Image credit: [**Jana Wiese**](https://jasowieso.com)'
   focal_point: Smart
   placement: 500
 
 links:
 - name: Sketchnote
   url: https://pbs.twimg.com/media/EH5JLWtXkAAeM5j?format=jpg&name=medium
-#url_code: ""
-#url_pdf: ""
 url_slides: "talks/t10_privacyweek2019/privacyweek2019_musicpersonality.pdf"
 url_video: "https://media.ccc.de/v/pw19-245-sag-mir-was-du-hrst-und-ich-sage-dir-wer-du-bist-/"
 

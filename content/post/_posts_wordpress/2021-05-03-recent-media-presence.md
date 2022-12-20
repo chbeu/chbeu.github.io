@@ -26,9 +26,9 @@ I am very happy that our CHIIR paper <a href="https://dl.acm.org/doi/10.1145/340
 
 It will take a while until I can integrate all the media articles (that I am aware of) in my website.  
 Here some links (articles in various languages):  
-* <a href="https://www.ft.com/content/fa53b5d6-0e79-4740-87ee-daaf8fc12212" rel="noopener" target="_blank">Financial Times&mdash;Not OK, computer: music streaming’s diversity problem</a>  
-* <a href="https://portalpopline.com.br/streaming-estudo-aponta-que-algoritmo-indica-menos-mulheres/" rel="noopener" target="_blank">POPline&mdash;Streaming: estudo aponta que algoritmo indica menos mulheres</a>  
-* <a href="https://www.computable.nl/artikel/nieuws/maatschappij/7166553/250449/algoritmes-zangeres-onvriendelijk.html" rel="noopener" target="_blank">Computable&mdash;Algoritmes zangeres-onvriendelijk</a>  
-* <a href="https://www.larepublica.cat/minut-a-minut/un-estudi-de-la-upf-troba-biaix-de-genere-en-els-algoritmes-de-recomanacio-musical/" rel="noopener" target="_blank">La República&mdash;Un estudi de la UPF troba biaix de gènere en els algoritmes de recomanació musical</a>
+* [Financial Times---Not OK, computer: music streaming’s diversity problem](https://www.ft.com/content/fa53b5d6-0e79-4740-87ee-daaf8fc12212)  
+* [POPline---Streaming: estudo aponta que algoritmo indica menos mulheres](https://portalpopline.com.br/streaming-estudo-aponta-que-algoritmo-indica-menos-mulheres/)  
+* [Computable---Algoritmes zangeres-onvriendelijk](https://www.computable.nl/artikel/nieuws/maatschappij/7166553/250449/algoritmes-zangeres-onvriendelijk.html)  
+* [La República---Un estudi de la UPF troba biaix de gènere en els algoritmes de recomanació musical](https://www.larepublica.cat/minut-a-minut/un-estudi-de-la-upf-troba-biaix-de-genere-en-els-algoritmes-de-recomanacio-musical/)
 
 {{< cite page="ferraro-2021-break-the-loop" view="4" >}}

@@ -23,7 +23,7 @@ tags:
   - c/o pop convention
   - VUT Indie days
 ---
-The recording of the panel on gender bias and discrimination in AI (in German) at the VUT Indie Days 2020 (as part of <a href="https://c-o-pop.de/en/xoxo" rel="noopener noreferrer" target="_blank">c/o pop xoxo</a>) last week is now also available on <a href="https://youtu.be/jQM2M6gMAvY" rel="noopener noreferrer" target="_blank">YouTube</a>.
+The recording of the panel on gender bias and discrimination in AI (in German) at the VUT Indie Days 2020 (as part of [c/o pop xoxo](https://c-o-pop.de/en/xoxo)) last week is now also available on [YouTube](https://youtu.be/jQM2M6gMAvY).
 
 {{< youtube jQM2M6gMAvY >}}
 

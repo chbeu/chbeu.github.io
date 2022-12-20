@@ -20,6 +20,6 @@ I am happy to announce that I recruit a PhD student (full time, 5 years) to inve
 
 **The closing date for applications is 7 February 2021.**
 
-<a href="https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs/phd-position-in-algorithmic-curation-adaptation-and-personalization-10-fte" rel="noopener" target="_blank">Full vacancy description</a>
+[Full vacancy description](https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs/phd-position-in-algorithmic-curation-adaptation-and-personalization-10-fte)  
 
-For questions, please address me directly via <a href="mailto:c.bauer@uu.nl" rel="noopener" target="_blank">e-mail</a>.
+For questions, please address me directly via e-mail.

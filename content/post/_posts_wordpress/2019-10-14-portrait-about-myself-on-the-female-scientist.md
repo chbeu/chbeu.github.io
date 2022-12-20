@@ -16,4 +16,4 @@ tags:
   - mentoring
   
 ---
-I've written a <a href="https://thefemalescientist.com/portrait/christine-bauer/2348/meet-dr-christine-bauer-who-takes-a-human-centered-approach-in-researching-interactive-intelligent-systems/" rel="noopener noreferrer" target="_blank">portrait</a> about myself for the <a href="https://thefemalescientist.com" rel="noopener noreferrer" target="_blank">The Female Scientist</a> with some personal infos about my decision to work in science and some experience with respect to being a women in science.
+I've written a [portrait](https://thefemalescientist.com/portrait/christine-bauer/2348/meet-dr-christine-bauer-who-takes-a-human-centered-approach-in-researching-interactive-intelligent-systems/) about myself for the [The Female Scientist](https://thefemalescientist.com) with some personal infos about my decision to work in science and some experience with respect to being a women in science.

@@ -12,4 +12,4 @@ profile: false
 categories:
   - news
 ---
-I recently joined the Management Committee (as Substitute Member) of the European Cooperation for Statistics of Network Data Science (COSTNET), <a href="http://www.cost.eu/COST_Actions/ca/CA15109" rel="noopener" target="_blank">CA COST Action CA15109</a>.
+I recently joined the Management Committee (as Substitute Member) of the European Cooperation for Statistics of Network Data Science (COSTNET), [CA COST Action CA15109](https://www.cost.eu/COST_Actions/ca/CA15109).

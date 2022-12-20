@@ -16,4 +16,4 @@ tags:
   - music
   - WiMIR
 ---
-Next round of <a href="https://wimir.wordpress.com/2019/01/30/wimir-mentoring-round-2019-kickoff/" target="_blank" rel="noopener noreferrer">WiMIR mentoring</a> has just started. I am looking forward to this journey, mentoring a young female researcher.
+Next round of [WiMIR mentoring](https://wimir.wordpress.com/2019/01/30/wimir-mentoring-round-2019-kickoff/) has just started. I am looking forward to this journey, mentoring a young female researcher.

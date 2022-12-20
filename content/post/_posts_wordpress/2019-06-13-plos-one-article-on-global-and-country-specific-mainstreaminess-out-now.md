@@ -18,6 +18,6 @@ tags:
   - mainstreaminess
   - culture
 ---
-I proudly present the <a href="https://doi.org/10.1371/journal.pone.0217389" rel="noopener noreferrer" target="_blank">PLOS ONE article</a> by <a href="http://www.mschedl.eu" rel="noopener noreferrer" target="_blank">Markus Schedl</a> and me: We analyze music preferences in 47 countries with respect to what is considered mainstream in a particular country. And, of course, we evaluate recommendation approaches considering users'; mainstreaminess.  
+I proudly present the [PLOS ONE article](https://doi.org/10.1371/journal.pone.0217389) by [Markus Schedl](https://www.mschedl.eu) and me: We analyze music preferences in 47 countries with respect to what is considered mainstream in a particular country. And, of course, we evaluate recommendation approaches considering users' mainstreaminess.  
 
 {{< cite page="bauer-2019-plosone-mainstreaminess" view="4" >}}

@@ -22,6 +22,6 @@ tags:
 image:
   preview_only: true
 ---
-I am nominated as one of 11 top women in technology & innovation in the magazine <a href="http://www.dieburgenlaenderin.at" rel="noopener noreferrer" target="_blank">Die Burgenland&auml;nderin</a>. The ''winner'' is determined via <a href="http://www.dieburgenlaenderin.at/lifestyle/200702_top66_technikinnovation-200114/" rel="noopener noreferrer" target="_blank">voting</a> until 9 August 2020. So, please vote now &ndash; and choose wisely ;-)
+I am nominated as one of 11 top women in technology & innovation in the magazine [Die Burgenland&auml;nderin](https://www.dieburgenlaenderin.at). The ''winner'' is determined via [voting](https://www.dieburgenlaenderin.at/lifestyle/200702_top66_technikinnovation-200114/) until 9 August 2020. So, please vote now---and choose wisely ;-)
 
-{{< figure src="votingpage.pdf" title="[Go to the voting page](http://www.dieburgenlaenderin.at/lifestyle/200702_top66_technikinnovation-200114/)" >}}
+{{< figure src="votingpage.pdf" title="[Go to the voting page](https://www.dieburgenlaenderin.at/lifestyle/200702_top66_technikinnovation-200114/)" >}}

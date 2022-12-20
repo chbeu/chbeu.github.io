@@ -20,6 +20,6 @@ tags:
   - publication
   - recommender systems
 ---
-<a href="https://andrebola.github.io/about/" rel="noopener" target="_blank">Andrés Ferraro</a> will present our joint paper at CHIIR 2021. In the paper with the title Break the Loop: Gender Imbalance in Music Recommenders, we investigate the imbalance in music recommendations with respect to the artists gender. We propose a simple re-ranking approach to mitigate the problem and show in a simulation of feedback loops how the gender (im-)balances evolves over time.
+[Andrés Ferraro](https://andrebola.github.io/about/) will present our joint paper at CHIIR 2021. In the paper with the title Break the Loop: Gender Imbalance in Music Recommenders, we investigate the imbalance in music recommendations with respect to the artists gender. We propose a simple re-ranking approach to mitigate the problem and show in a simulation of feedback loops how the gender (im-)balances evolves over time.
 
 {{< cite page="ferraro-2021-break-the-loop" view="4" >}}

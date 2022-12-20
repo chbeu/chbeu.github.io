@@ -33,7 +33,7 @@ item:
   title: "Best Paper Award"
   #paper: "C33"
   description: "15th International Conference on Advances in Mobile Computing & Multimedia"
-  organization_url: "http://www.iiwas.org/conferences/momm2017/bpa.php"
+  organization_url: "https://www.iiwas.org/conferences/momm2017/bpa.php"
   certificate_url: "../images/awards/momm2017_bestpaperaward.jpg"
   date_start: "2017-12-01"
 - organization: "Emerald"

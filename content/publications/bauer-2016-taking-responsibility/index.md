@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: "Taking responsibility for online self-disclosure: the thin line between a company's user orientation and user surveillance"
@@ -37,6 +36,6 @@ There are two sides. One side supports that companies have to respect the users'
 This paper offers a non-exhaustive overview of available options, how a company may address this issue."
 publication: '*1st Workshop on Green (Responsible, Ethical, Social/Sustainable) IT and IS---the Corporate Perspective*'
 publication_short: GRES-IT/IS 2016
-#url_pdf: http://epub.wu.ac.at/5578/
+#url_pdf: https://epub.wu.ac.at/5578/
 url_slides: bauer-2016-taking-responsibility-slides.pdf
 ---

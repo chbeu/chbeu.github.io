@@ -12,4 +12,4 @@ profile: false
 categories:
   - news
 ---
-Finally, I managed to integrate the <a href="https://www.acm.org/publications/authors/acm-author-izer-service" rel="noopener noreferrer" target="_blank">ACM-authorizer</a> wherever possible on my [publication page](https://christinebauer.eu/?page_id=28). So, you have direct and full access to my ACM papers.
+Finally, I managed to integrate the [ACM-authorizer](https://www.acm.org/publications/authors/acm-author-izer-service) wherever possible on my [publication page]({{< ref "publications" >}}). So, you have direct and full access to my ACM papers.

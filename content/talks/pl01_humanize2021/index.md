@@ -11,7 +11,7 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 event: Workshop 'Transparency and Explainability in Adaptive Systems Through User Modelling Grounded in Psychological Theory (HUMANIZE 2021)'
-event_url: http://www.humanize-workshop.org/
+event_url: https://www.humanize-workshop.org/
 
 location: Online
 #address:

@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: Ratings in, rankings out. Keep it simple, they said. But we need more than
@@ -45,5 +44,5 @@ And on the output side, we have individual items and also item bundles, compleme
 In this talk, I will reflect on the complexity of our research field, reach out to related fields such as context-aware computing and pervasive advertising for inspiration, and I will raise a lot of questions that have yet to be answered."
 publication: 'Proceedings of the Recommendation in Complex Scenarios and the Impact of Recommender Systems 2020 (ComplexRec-ImpactRS 2020)'
 publication_short: ComplexRec 2020
-url_pdf: http://ceur-ws.org/Vol-2697/invited1.pdf
+url_pdf: https://ceur-ws.org/Vol-2697/invited1.pdf
 ---

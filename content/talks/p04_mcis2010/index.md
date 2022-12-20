@@ -11,14 +11,14 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 event: International Doctoral and Junior Faculty Consortium organized at 5th Mediterranean Conference of Information Systems (MCIS 2010)
-#event_url: https://complexrec2020.aau.dk
+#event_url: 
 
 location: Tel-Aviv-Yaffo
 address:
 #  street: 450 Serra Mall
 #  city: Tel-Aviv-Yaffo
 #  region: CA
-#  postcode: '94305'
+#  postcode: ''
   country: Israel
 
 summary: Talk at the International Doctoral and Junior Faculty Consortium organized at 5th Mediterranean Conference of Information Systems (MCIS 2010).
@@ -47,12 +47,6 @@ featured: false
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
-links:
-#- icon: ceur-square
-#  icon_pack: ai
-#  name: ceur-ws
-#  url: http://ceur-ws.org/Vol-2697/
-#url_code: ""
 #url_pdf:  ""
 url_slides: "talks/p04_mcis2010/p04_mcis2010-slides.pdf"
 

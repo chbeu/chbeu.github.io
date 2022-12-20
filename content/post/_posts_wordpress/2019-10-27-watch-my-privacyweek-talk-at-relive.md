@@ -20,4 +20,4 @@ tags:
   - privacyweek
   - video
 ---
-See my PrivacyWeek talk on <a href="https://fahrplan.privacyweek.at/pw19/talk/BYXCVR/" rel="noopener noreferrer" target="_blank">Sag mir, was du hörst &ndash; und ich sage dir, wer du bist</a> at <a href="https://streaming.media.ccc.de/pw19/relive/245" rel="noopener noreferrer" target="_blank">Relive</a> until it will be archived on the <a href="https://media.ccc.de/c/pw19" rel="noopener noreferrer" target="_blank">Media Site of the Chaos Computer Club Germany</a>.
+See my PrivacyWeek talk on [Sag mir, was du hörst---und ich sage dir, wer du bist](https://fahrplan.privacyweek.at/pw19/talk/BYXCVR/) at [Relive](https://streaming.media.ccc.de/pw19/relive/245) until it will be archived on the [Media Site of the Chaos Computer Club Germany](https://media.ccc.de/c/pw19).

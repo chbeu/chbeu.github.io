@@ -20,6 +20,6 @@ tags:
   - frontiers
   - guest editor
 ---
-I'm happy to announce that I'm co-editing with <a href="https://www.bruceferwerda.com" rel="noopener" target="_blank">Bruce Ferwerda</a> a so-called research topic in <a href="https://www.frontiersin.org/journals/big-data/sections/recommender-systems" rel="noopener" target="_blank">Frontiers in Big Data (Recommender Systems)</a> on <a href="https://www.frontiersin.org/research-topics/23412/human-issues-in-recommender-systems" rel="noopener" target="_blank">Human Issues in Recommender Systems</a>.
+I'm happy to announce that I'm co-editing with [Bruce Ferwerda](https://www.bruceferwerda.com) a so-called research topic in [Frontiers in Big Data (Recommender Systems)](https://www.frontiersin.org/journals/big-data/sections/recommender-systems) on [Human Issues in Recommender Systems](https://www.frontiersin.org/research-topics/23412/human-issues-in-recommender-systems).
 
-For more information, see <a href="https://www.frontiersin.org/research-topics/23412/human-issues-in-recommender-systems" rel="noopener" target="_blank">https://www.frontiersin.org/research-topics/23412/human-issues-in-recommender-systems</a>.
+For more information, see https://www.frontiersin.org/research-topics/23412/human-issues-in-recommender-systems.
