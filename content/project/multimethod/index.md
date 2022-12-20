@@ -13,7 +13,7 @@ profile: false
 
 image:
   caption: Photo by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2023448">Gerd Altmann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2023448">Pixabay</a>
-#  focal_point: Smart
+  focal_point: Smart
 
 links:
 #url_code: ""

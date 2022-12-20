@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 
@@ -26,7 +25,7 @@ profile: false
 image:
   placement: 500
   caption: ""
-  focal_point: "Smart"
+  focal_point: Smart
   preview_only: false
   alt_text: ""
 
