@@ -7,7 +7,7 @@ summary: "Together with Eva Zangerle and Alan Said, I am Guest Editor for the Sp
 authors: 
 #authors: [Christine Bauer]
 categories: [news]
-tags: [RecSys, evaluation, recommender systems, workshop, special issue, CfP]
+tags: [RecSys, evaluation, recommender systems, workshop, special issue, CfP, TORS, perspectives]
 date: 2022-04-24T18:00:06+02:00
 lastmod: 2022-04-24T18:00:06+02:00
 featured: false
