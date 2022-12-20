@@ -7,7 +7,7 @@ summary: "Glad that we wild hold a tutorial at ISMIR 2022 on trustworthy music i
 authors: 
 #authors: [Christine Bauer]
 categories: [news]
-tags: [tutorial, ISMIR, trustworthy, values, music information retrieval, recommender systems, fairness, diversity, transparency, impact assessment]
+tags: [tutorial, ISMIR, trustworthy, values, music information retrieval, recommender systems, fairness, diversity, transparency, impact assessment, evaluation]
 date: 2022-06-25T02:00:06+02:00
 lastmod: 2022-06-25T02:00:06+02:00
 featured: false
