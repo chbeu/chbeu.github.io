@@ -29,4 +29,4 @@ profile: false
 projects: []
 ---
 
-Happy that I finally can go online with my new website. Fingers crossed that there not too many bugs. ;-)
+Happy that I finally can go online with my new website. Fingers crossed that there are not too many bugs. ;-)
