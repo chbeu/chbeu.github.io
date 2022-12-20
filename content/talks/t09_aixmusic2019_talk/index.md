@@ -60,6 +60,6 @@ url_video: "https://www.dorftv.at/system/files/thek/720p/2019/31986/31986.mp4#t=
 #- internal-project
 ---
 
-<video controls src="https://www.dorftv.at/system/files/webvideos/x264_mid/31986.mp4#t=1545"></video>
+<video controls src="https://www.dorftv.at/system/files/thek/720p/2019/31986/31986.mp4#t=1545"></video>
 
 {{< gallery album="t09_aixmusic2019_talk" >}}
