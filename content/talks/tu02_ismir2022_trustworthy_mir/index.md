@@ -55,7 +55,7 @@ links:
 #url_code: ""
 #url_pdf: ""
 url_slides: "https://www.slideshare.net/LorenzoPorcaro/trustworthy-mir-ismir-2022-tutorialpdf"
-#url_video: ""
+url_video: "https://www.youtube.com/watch?v=8fuog5WeGtE"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -65,4 +65,6 @@ url_slides: "https://www.slideshare.net/LorenzoPorcaro/trustworthy-mir-ismir-202
 #projects: []
 #- internal-project
 ---
+
+{{< youtube 8fuog5WeGtE >}}
 
