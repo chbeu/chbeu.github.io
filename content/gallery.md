@@ -17,10 +17,10 @@ gallery_item:
   image: 9c_033_christine-bauer_fuer-liwest_by_kurt-hoerbst.jpg
   caption: 'Image credit: [**Kurt Hörbst**](https://www.hoerbst.com), 2020.'
 - album: gallery
-  image: 7_050_christine-bauer_fuer-liwest_by_kurt-hoerbst.jpg
+  image: 2_050_christine-bauer_fuer-liwest_by_kurt-hoerbst.jpg
   caption: 'Image credit: [**Kurt Hörbst**](https://www.hoerbst.com), 2020.'
 - album: gallery
-  image: 4_054_christine-bauer_fuer-liwest_by_kurt-hoerbst.jpg
+  image: 6_054_christine-bauer_fuer-liwest_by_kurt-hoerbst.jpg
   caption: 'Image credit: [**Kurt Hörbst**](https://www.hoerbst.com), 2020.'
 - album: gallery
   image: 1_056_christine-bauer_fuer-liwest_by_kurt-hoerbst.jpg
@@ -32,7 +32,7 @@ gallery_item:
   image: FOTOWEINWURM0931.JPG
   caption: 'Image credit: [**Foto Weinwurm**](https://weinwurm-fotografie.at), 2019.'
 - album: gallery
-  image: 2_FOTOWEINWURM0960.JPG
+  image: 4_FOTOWEINWURM0960.JPG
   caption: 'Image credit: [**Foto Weinwurm**](https://weinwurm-fotografie.at), 2019.'
 - album: gallery
   image: 9a_FOTOWEINWURM0981.JPG
@@ -41,7 +41,7 @@ gallery_item:
   image: 8_NGI-Talk-No-3-1-1024x683-Vortragende.jpg
   caption: 'Left to right: Patrick Ratheiser (Leftshift One), Tünde Fülöp (BMEIA), Christine Bauer (JKU), Mario Drobics (AIT)<br>Image credit: **AIT / Raimund Appel**, 2019.'
 - album: gallery
-  image: 6_Teresa-Scheidt-Best-Paper-Award-ACM-RecSys-2021-Perspective-Workshop-scaled.jpg
+  image: 3_Teresa-Scheidt-Best-Paper-Award-ACM-RecSys-2021-Perspective-Workshop-scaled.jpg
   caption: 'Left to right: Alan Said, Theresa Scheidt, Christine Bauer; PERSPECTIVES 2021<br>Image credit: **Joeran Beel**, 2021.'  
 ---
 
