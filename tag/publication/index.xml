@@ -24,7 +24,9 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fdata.2022.913608" target="_blank" rel="noopener">
 DOI
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fdata.2022.913608" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.3389/fdata.2022.913608"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Publication: Constructing gender in audio</title><link>https://chbeu.github.io/post/20220506_voices/</link><pubDate>Fri, 06 May 2022 02:00:06 +0200</pubDate><guid>https://chbeu.github.io/post/20220506_voices/</guid><description>&lt;p>Finally, the chapter that I co-authored with &lt;a href="https://jcdevaney.tumblr.com" target="_blank" rel="noopener">Johanna Devaney&lt;/a> is online. In this chapter, we present how gender is constructed in audio. Based on literature on voice in music and in speech, we discuss how this construction influences our conception of gender identity.&lt;/p>
 &lt;p>Our chapter is part of the book &lt;a href="https://www.grimme-institut.de/publikationen/schriftenreihe/p/d/mediale-stimmentwuerfe" target="_blank" rel="noopener">Mediale Stimmentwürfe&amp;mdash;Perspectives of Media Voice Designs&lt;/a>.
@@ -140,7 +142,9 @@ ACM Author-izer
 &lt;i class="fab fa-github mr-1">&lt;/i>
 Code
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1145/3406522.3446033"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>CHIIR 2021 presentation: Break the Loop: Gender Imbalance in Music Recommenders</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</link><pubDate>Sun, 14 Mar 2021 21:48:39 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</guid><description>&lt;p>&lt;a href="https://andrebola.github.io/about/" target="_blank" rel="noopener">Andrés Ferraro&lt;/a> will present our joint paper at CHIIR 2021. In the paper with the title Break the Loop: Gender Imbalance in Music Recommenders, we investigate the imbalance in music recommendations with respect to the artists gender. We propose a simple re-ranking approach to mitigate the problem and show in a simulation of feedback loops how the gender (im-)balances evolves over time.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -176,7 +180,9 @@ ACM Author-izer
 &lt;i class="fab fa-github mr-1">&lt;/i>
 Code
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1145/3406522.3446033"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Summary of ISMIR 2020 Special Session Do we help artists? published in SIGIR Forum</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-01-06-summary-of-ismir-2020-special-session-do-we-help-artists-published-in-sigir-forum/</link><pubDate>Wed, 06 Jan 2021 17:33:49 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-01-06-summary-of-ismir-2020-special-session-do-we-help-artists-published-in-sigir-forum/</guid><description>&lt;p>I am glad that my summary of the &lt;a href="https://www.ismir2020.net" target="_blank" rel="noopener">ISMIR 2020&lt;/a> special session: &amp;lsquo;&amp;lsquo;How do we—in MIR research—help artists? Do we?&amp;rsquo;&amp;rsquo; made it to the &lt;a href="https://sigir.org/forum/issues/december-2020/" target="_blank" rel="noopener">December 2020 issue of the SIGIR Forum&lt;/a>.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -261,7 +267,9 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pone.0217389" target="_blank" rel="noopener">
 DOI
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0217389" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1371/journal.pone.0217389"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Position paper accepted for CompHCI 2019 Workshop @CHI 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</link><pubDate>Thu, 14 Mar 2019 20:17:04 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</guid><description>&lt;p>I am proud to announce that my position paper on &amp;lsquo;&amp;lsquo;The Potential of the Confluence of Theoretical and Algorithmic Modeling in Music Recommendation&amp;rsquo;&amp;rsquo; has been accepted for the ACM CHI 2019 Workshop on &lt;a href="https://hcicompmodeling.wordpress.com" target="_blank" rel="noopener">Computational Modeling in Human-Computer Interaction (CompHCI 2019)&lt;/a>.&lt;/p>
 &lt;p>The workshop is co-organized by Nikola Banovic, Antti Oulasvirta, and Per Ola Kristensson.&lt;/p>

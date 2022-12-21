@@ -49,7 +49,9 @@ ACM Author-izer
 &lt;i class="fab fa-github mr-1">&lt;/i>
 Code
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1145/3406522.3446033"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Recent media presence</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-05-03-recent-media-presence/</link><pubDate>Mon, 03 May 2021 20:38:21 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-05-03-recent-media-presence/</guid><description>&lt;p>I am very happy that our CHIIR paper &lt;a href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" rel="noopener" target="_blank">Break the Loop: Gender Imbalance in Music Recommenders&lt;/a> with &lt;a href="https://andrebola.github.io" rel="noopener" target="_blank">Andrés Ferraro&lt;/a> and Xavier Serra received a lot of media attention.&lt;/p>
 &lt;p>It will take a while until I can integrate all the media articles (that I am aware of) in my website.&lt;br>
@@ -93,7 +95,9 @@ ACM Author-izer
 &lt;i class="fab fa-github mr-1">&lt;/i>
 Code
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1145/3406522.3446033"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>The Conversation article on our CHIIR 2021 paper</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/</link><pubDate>Tue, 30 Mar 2021 18:01:13 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/</guid><description>&lt;p>This article is republished from &lt;a href="https://theconversation.com" target="_blank" rel="noopener">The Conversation&lt;/a> under a Creative Commons license. Read the &lt;a href="https://theconversation.com/music-recommendation-algorithms-are-unfair-to-female-artists-but-we-can-change-that-158016" target="_blank" rel="noopener">original article&lt;/a>.&lt;/p>
 &lt;!--![Logo of The Conversation UK](https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/logo-en-d7023135a67823619bfdbf3322b68dc4.png) -->
@@ -183,7 +187,9 @@ ACM Author-izer
 &lt;i class="fab fa-github mr-1">&lt;/i>
 Code
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1145/3406522.3446033"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>CHIIR 2021 presentation: Break the Loop: Gender Imbalance in Music Recommenders</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</link><pubDate>Sun, 14 Mar 2021 21:48:39 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</guid><description>&lt;p>&lt;a href="https://andrebola.github.io/about/" target="_blank" rel="noopener">Andrés Ferraro&lt;/a> will present our joint paper at CHIIR 2021. In the paper with the title Break the Loop: Gender Imbalance in Music Recommenders, we investigate the imbalance in music recommendations with respect to the artists gender. We propose a simple re-ranking approach to mitigate the problem and show in a simulation of feedback loops how the gender (im-)balances evolves over time.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -219,7 +225,9 @@ ACM Author-izer
 &lt;i class="fab fa-github mr-1">&lt;/i>
 Code
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1145/3406522.3446033"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Break the loop: gender imbalance in music recommenders</title><link>https://chbeu.github.io/publications/ferraro-2021-break-the-loop/</link><pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/ferraro-2021-break-the-loop/</guid><description/></item><item><title>Summary of ISMIR 2020 Special Session Do we help artists? published in SIGIR Forum</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-01-06-summary-of-ismir-2020-special-session-do-we-help-artists-published-in-sigir-forum/</link><pubDate>Wed, 06 Jan 2021 17:33:49 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-01-06-summary-of-ismir-2020-special-session-do-we-help-artists-published-in-sigir-forum/</guid><description>&lt;p>I am glad that my summary of the &lt;a href="https://www.ismir2020.net" target="_blank" rel="noopener">ISMIR 2020&lt;/a> special session: &amp;lsquo;&amp;lsquo;How do we—in MIR research—help artists? Do we?&amp;rsquo;&amp;rsquo; made it to the &lt;a href="https://sigir.org/forum/issues/december-2020/" target="_blank" rel="noopener">December 2020 issue of the SIGIR Forum&lt;/a>.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">

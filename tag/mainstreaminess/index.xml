@@ -23,6 +23,8 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pone.0217389" target="_blank" rel="noopener">
 DOI
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0217389" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1371/journal.pone.0217389"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Global and country-specific mainstreaminess measures: Definitions, analysis, and usage for improving personalized music recommendation systems</title><link>https://chbeu.github.io/publications/bauer-2019-plosone-mainstreaminess/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/bauer-2019-plosone-mainstreaminess/</guid><description/></item></channel></rss>

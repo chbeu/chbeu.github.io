@@ -44,7 +44,9 @@ ACM Author-izer
 &lt;i class="fab fa-github mr-1">&lt;/i>
 Code
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1145/3406522.3446033"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -76,7 +78,9 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.4793395" rel="noopener noreferrer" target="_blank">&lt;img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4793395.svg" alt="DOI">&lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-85616-8_33" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1007/978-3-030-85616-8_33"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div>
 &lt;/p></description></item><item><title>Karlijn Dinnissen presents at FAccTRec 2022</title><link>https://chbeu.github.io/post/20220902_facctrec2022/</link><pubDate>Fri, 02 Sep 2022 10:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220902_facctrec2022/</guid><description>&lt;p>As a proud supervisor, I am happy to let you know that Karlijn Dinnissen will present and discuss our joint paper &lt;a href="https://chbeu.github.io/publications/dinnissen-2022-fairness-in-music-recommender-systems">Fairness in music recommender systems: a stakeholder-centered mini review&lt;/a> at the &lt;a href="https://facctrec.github.io/facctrec2022/" target="_blank" rel="noopener">5th FAccTRec Workshop: Responsible Recommendation&lt;/a> at &lt;a href="https://recsys.acm.org/recsys22/" target="_blank" rel="noopener">RecSys 2022&lt;/a>.&lt;/p>
@@ -106,7 +110,9 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fdata.2022.913608" target="_blank" rel="noopener">
 DOI
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fdata.2022.913608" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.3389/fdata.2022.913608"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Evaluating recommender systems: survey and framework</title><link>https://chbeu.github.io/publications/zangerle-2022-fevr/</link><pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/zangerle-2022-fevr/</guid><description/></item><item><title>Featured in episode 8 of the Recsperts podcast</title><link>https://chbeu.github.io/post/20220815_recsperts/</link><pubDate>Mon, 15 Aug 2022 13:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220815_recsperts/</guid><description>&lt;p>I am happy to share that &lt;a href="https://www.recsperts.com/episodes/8-music-recommender-systems-fairness-and-evaluation-with-christine-bauer" target="_blank" rel="noopener">episode #8 of the Recsperts podcast&lt;/a> was released.
 &lt;a href="https://www.linkedin.com/in/marcel-kurovski/" target="_blank" rel="noopener">Marcel Kurovski&lt;/a>, who hosts this podcast, has invited me to talk about my research on recommender systems.&lt;/p>
@@ -138,7 +144,9 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fdata.2022.913608" target="_blank" rel="noopener">
 DOI
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fdata.2022.913608" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.3389/fdata.2022.913608"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Fairness in music recommender systems: a stakeholder-centered mini review</title><link>https://chbeu.github.io/publications/dinnissen-2022-fairness-in-music-recommender-systems/</link><pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/dinnissen-2022-fairness-in-music-recommender-systems/</guid><description/></item><item><title>Werteorientierte Empfehlungssysteme in den Medien—Realität oder Utopie?</title><link>https://chbeu.github.io/talks/it21_ucai2022_meetup/</link><pubDate>Thu, 30 Jun 2022 16:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/it21_ucai2022_meetup/</guid><description/></item><item><title>Tutorial at ISMIR 2022: Trustworthy MIR: Creating MIR applications with values</title><link>https://chbeu.github.io/post/20220625_ismir2022_tutorial/</link><pubDate>Sat, 25 Jun 2022 02:00:06 +0200</pubDate><guid>https://chbeu.github.io/post/20220625_ismir2022_tutorial/</guid><description>&lt;p>I am happy to announce that I will hold a tutorial at &lt;a href="https://ismir2022.ismir.net/" target="_blank" rel="noopener">ISMIR 2022&lt;/a> on &lt;a href="https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/">Trustworthy MIR: Creating MIR applications with values&lt;/a> together with &lt;a href="https://andrebola.github.io/about/" target="_blank" rel="noopener">Andrés Ferraro&lt;/a>, &lt;a href="https://emiliagomez.com/" target="_blank" rel="noopener">Emilia Gómez&lt;/a>, and &lt;a href="https://lorenzoporcaro.com/" target="_blank" rel="noopener">Lorenzo Porcaro&lt;/a>. The goal of the tutorial is to show how values, such as fairness and diversity, can be embedded in the life cycle of MIR systems to make them trustworthy: from algorithmic design to evaluation practices and regulatory proposals. To achieve that, we will discuss examples of, among the others, popularity bias, gender bias, algorithmic bias, music styles underrepresentation, and diversity-related phenomena (e.g. filter bubbles).&lt;/p>
 &lt;p>Naturally, I hope that you can learn a lot from the tutorial. As a very positive side effect, I am looking forward to collaborating with &lt;a href="https://andrebola.github.io/about/" target="_blank" rel="noopener">Andrés Ferraro&lt;/a>, &lt;a href="https://emiliagomez.com/" target="_blank" rel="noopener">Emilia Gómez&lt;/a>, and &lt;a href="https://lorenzoporcaro.com/" target="_blank" rel="noopener">Lorenzo Porcaro&lt;/a> on this topic. For sure, we will have a blast.&lt;/p></description></item><item><title>Special Issue 'Perspectives on Recommender Systems Evaluation' @ TORS</title><link>https://chbeu.github.io/post/20220424_si_tors/</link><pubDate>Sun, 24 Apr 2022 18:00:06 +0200</pubDate><guid>https://chbeu.github.io/post/20220424_si_tors/</guid><description>&lt;p>Together with &lt;a href="https://evazangerle.at" target="_blank" rel="noopener">Eva Zangerle&lt;/a> and &lt;a href="https://www.alansaid.com" target="_blank" rel="noopener">Alan Said&lt;/a>, I am Guest Editor of the first special issue of the new journal &lt;a href="https://dl.acm.org/journal/tors/" target="_blank" rel="noopener">ACM Transactions on Recommender Systems&lt;/a>: &amp;lsquo;Perspectives on Recommender Systems Evaluation&amp;rsquo;. The &lt;a href="TORS-CfP-SI-Evaluation.pdf">Call for Papers&lt;/a> and the submission details are already available. The deadline is &lt;em>&lt;strong>30 November 2022&lt;/strong>&lt;/em>.&lt;/p>
@@ -188,7 +196,9 @@ ACM Author-izer
 &lt;i class="fab fa-github mr-1">&lt;/i>
 Code
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1145/3406522.3446033"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Slides for UMAP 2021 tutorial</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-06-25-slides-for-umap-2021-tutorial/</link><pubDate>Fri, 25 Jun 2021 20:17:54 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-06-25-slides-for-umap-2021-tutorial/</guid><description>&lt;p>I enjoyed today&amp;rsquo;s tutorial on multi-method evaluation for adaptive systems at UMAP 2021.&lt;/p>
 &lt;p>You can access the slides from here:&lt;br>
@@ -304,7 +314,9 @@ ACM Author-izer
 &lt;i class="fab fa-github mr-1">&lt;/i>
 Code
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1145/3406522.3446033"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>The Conversation article on our CHIIR 2021 paper</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/</link><pubDate>Tue, 30 Mar 2021 18:01:13 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/</guid><description>&lt;p>This article is republished from &lt;a href="https://theconversation.com" target="_blank" rel="noopener">The Conversation&lt;/a> under a Creative Commons license. Read the &lt;a href="https://theconversation.com/music-recommendation-algorithms-are-unfair-to-female-artists-but-we-can-change-that-158016" target="_blank" rel="noopener">original article&lt;/a>.&lt;/p>
 &lt;!--![Logo of The Conversation UK](https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/logo-en-d7023135a67823619bfdbf3322b68dc4.png) -->
@@ -394,7 +406,9 @@ ACM Author-izer
 &lt;i class="fab fa-github mr-1">&lt;/i>
 Code
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1145/3406522.3446033"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Workshop PERSPECTIVES 2021 @ RecSys 2021</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-03-17-workshop-perspectives-2021-recsys-2021/</link><pubDate>Wed, 17 Mar 2021 22:32:23 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-03-17-workshop-perspectives-2021-recsys-2021/</guid><description>&lt;p>I am happy to announce that we&amp;mdash;&lt;a href="https://evazangerle.at" target="_blank" rel="noopener">Eva Zangerle&lt;/a>, [Alain Said])https://www.alansaid.com), and me&amp;mdash;will co-organize the workshop &lt;a href="https://perspectives-ws.github.io/2021/" target="_blank" rel="noopener">Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES)&lt;/a> at &lt;a href="https://recsys.acm.org/recsys21/" target="_blank" rel="noopener">RecSys 2021&lt;/a>. Finger crossed that the event can indeed happen in Amsterdam and that many of use can safely participate. There will definitely be the possibility to participate online.&lt;/p>
 &lt;p>More infos will follow soon. Stay tuned!&lt;/p></description></item><item><title>CHIIR 2021 presentation: Break the Loop: Gender Imbalance in Music Recommenders</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</link><pubDate>Sun, 14 Mar 2021 21:48:39 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</guid><description>&lt;p>&lt;a href="https://andrebola.github.io/about/" target="_blank" rel="noopener">Andrés Ferraro&lt;/a> will present our joint paper at CHIIR 2021. In the paper with the title Break the Loop: Gender Imbalance in Music Recommenders, we investigate the imbalance in music recommendations with respect to the artists gender. We propose a simple re-ranking approach to mitigate the problem and show in a simulation of feedback loops how the gender (im-)balances evolves over time.&lt;/p>
@@ -431,7 +445,9 @@ ACM Author-izer
 &lt;i class="fab fa-github mr-1">&lt;/i>
 Code
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1145/3406522.3446033"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Break the loop: gender imbalance in music recommenders</title><link>https://chbeu.github.io/publications/ferraro-2021-break-the-loop/</link><pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/ferraro-2021-break-the-loop/</guid><description/></item><item><title>UMAP tutorial on multi-method evaluation</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-02-18-umap-tutorial-on-multi-method-evaluation/</link><pubDate>Thu, 18 Feb 2021 16:13:25 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-02-18-umap-tutorial-on-multi-method-evaluation/</guid><description>&lt;p>I am looking forward to give a tutorial on &lt;a href="https://www.um.org/umap2021/program/tutorials.html#T02" target="_blank" rel="noopener">Multi-method evaluation of adaptive systems: Why and how?&lt;/a> at &lt;a href="https://www.um.org/umap2021/" target="_blank" rel="noopener">UMAP 2021&lt;/a>.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -743,7 +759,9 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pone.0217389" target="_blank" rel="noopener">
 DOI
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0217389" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1371/journal.pone.0217389"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Speaker at RecSys Summer School 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-07-01-speaker-at-recsys-summer-school-2019/</link><pubDate>Mon, 01 Jul 2019 22:45:08 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-07-01-speaker-at-recsys-summer-school-2019/</guid><description>&lt;p>I am happy to be a speaker at the &lt;a href="https://acmrecsys.github.io/rsss2019/" target="_blank" rel="noopener">ACM Summer School on Recommender Systems&lt;/a> taking place in Gothenburg, Sweden, just a week before the official &lt;a href="https://recsys.acm.org/recsys19/" target="_blank" rel="noopener">RecSys 2019&lt;/a> in Copenhagen, Denmark.&lt;/p></description></item><item><title>PLOS ONE article on global and country-specific mainstreaminess out now!</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-plos-one-article-on-global-and-country-specific-mainstreaminess-out-now/</link><pubDate>Thu, 13 Jun 2019 23:38:11 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-plos-one-article-on-global-and-country-specific-mainstreaminess-out-now/</guid><description>&lt;p>I proudly present the &lt;a href="https://doi.org/10.1371/journal.pone.0217389" target="_blank" rel="noopener">PLOS ONE article&lt;/a> by &lt;a href="https://www.mschedl.eu" target="_blank" rel="noopener">Markus Schedl&lt;/a> and me: We analyze music preferences in 47 countries with respect to what is considered mainstream in a particular country. And, of course, we evaluate recommendation approaches considering users&amp;rsquo; mainstreaminess.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -770,7 +788,9 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pone.0217389" target="_blank" rel="noopener">
 DOI
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0217389" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1371/journal.pone.0217389"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Outstanding Reviewer (Honorable Mention) at UMAP 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-outstanding-reviewer/</link><pubDate>Thu, 13 Jun 2019 23:34:05 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-outstanding-reviewer/</guid><description>&lt;p>I feel honored being among the seven &lt;strong>Outstanding Reviewers (Honorable Mentions)&lt;/strong> at &lt;a href="https://www.cyprusconferences.org/umap2019/index.html" target="_blank" rel="noopener">UMAP 2019&lt;/a>. &lt;a href="https://www.cyprusconferences.org/umap2019/pages/committee.html" target="_blank" rel="noopener">Have a look!&lt;/a>&lt;/p></description></item><item><title>Position paper accepted for CompHCI 2019 Workshop @CHI 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</link><pubDate>Thu, 14 Mar 2019 20:17:04 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</guid><description>&lt;p>I am proud to announce that my position paper on &amp;lsquo;&amp;lsquo;The Potential of the Confluence of Theoretical and Algorithmic Modeling in Music Recommendation&amp;rsquo;&amp;rsquo; has been accepted for the ACM CHI 2019 Workshop on &lt;a href="https://hcicompmodeling.wordpress.com" target="_blank" rel="noopener">Computational Modeling in Human-Computer Interaction (CompHCI 2019)&lt;/a>.&lt;/p>
 &lt;p>The workshop is co-organized by Nikola Banovic, Antti Oulasvirta, and Per Ola Kristensson.&lt;/p>

@@ -35,7 +35,9 @@ ACM Author-izer
 &lt;i class="fab fa-github mr-1">&lt;/i>
 Code
 &lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1145/3406522.3446033" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1145/3406522.3446033"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -67,7 +69,9 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.4793395" rel="noopener noreferrer" target="_blank">&lt;img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4793395.svg" alt="DOI">&lt;/a>
-&lt;span data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-030-85616-8_33" data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1007/978-3-030-85616-8_33"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
 &lt;/div>
 &lt;/p></description></item></channel></rss>
