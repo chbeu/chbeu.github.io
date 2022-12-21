@@ -1,0 +1,10 @@
+{{/* Get altmetric badge for DOI or ISBN. */}}
+<span data-badge-popover="right" data-badge-type="donut" 
+{{/* If publication has a DOI. */}}
+  {{ if .doiparent }}
+    data-doi="{{ .doiparent }}"  
+{{/* Otherwise, If publication has an ISBN. */}}
+  {{ else if .isbnparent }}
+    data-isbn="{{ .isbnparent }}"
+  {{ end }}
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style"></span>

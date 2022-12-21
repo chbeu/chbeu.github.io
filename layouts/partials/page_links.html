@@ -2,6 +2,8 @@
 {{ $page := .page }}
 {{ $link := "" }}
 {{ $doi := $page.Params.doi }}
+{{ $isbn := $page.Params.isbn }}
+
 
 {{/* ***** TODO: Deprecate `url_preprint` in favour of `url_pdf` given there's now a dedicated "Preprint" pub. type. ***** */}}
 {{ with $page.Params.url_preprint }}
@@ -177,7 +179,11 @@
   {{partial "functions/chb_get_zenodobadge"  (dict "context" . "zenodo_doi" $zenodo_doi) }}
 {{ end }}
 {{ with $page.Params.altmetric }}
-  {{partial "functions/chb_get_altmetricsbadge"  (dict "context" . "doiparent" $doi) }}
+  {{if $doi}}
+    {{partial "functions/chb_get_altmetricbadge"  (dict "context" . "doiparent" $doi) }}
+  {{else if $isbn}}
+    {{partial "functions/chb_get_altmetricbadge"  (dict "context" . "isbnparent" $isbn) }}
+  {{ end }}
 {{ end }}
 {{ with $page.Params.dimensions }}
   {{partial "functions/chb_get_dimensionsbadge"  (dict "context" . "doiparent" $doi) }}

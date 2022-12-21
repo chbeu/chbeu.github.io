@@ -42,4 +42,5 @@ links:
   name: ACM Author-izer
   url:  https://dl.acm.org/doi/10.1145/2536853.2536893?cid=81453628934
 url_slides: bauer-2013-inaccuracy-gps-slides.pdf
+altmetric: true
 ---
