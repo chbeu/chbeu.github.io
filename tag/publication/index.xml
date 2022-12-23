@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>publication | Christine Bauer</title><link>https://chbeu.github.io/tag/publication/</link><atom:link href="https://chbeu.github.io/tag/publication/index.xml" rel="self" type="application/rss+xml"/><description>publication</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Fri, 05 Aug 2022 22:00:00 +0200</lastBuildDate><image><url>https://chbeu.github.io/media/sharing.png</url><title>publication</title><link>https://chbeu.github.io/tag/publication/</link></image><item><title>Mini review on fairness in music recommender systems</title><link>https://chbeu.github.io/post/20220805_frontiers_paper/</link><pubDate>Fri, 05 Aug 2022 22:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220805_frontiers_paper/</guid><description>&lt;p>The first joint paper with Karlijn Dinnissen has just appeared in the journal &lt;a href="https://www.frontiersin.org/journals/big-data" target="_blank" rel="noopener">Frontiers in Big Data&lt;/a>. In this mini review, we take a stakeholder-centered view and discuss literature on fairness in music recommender systems from the perspective of the various stakeholders.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>publication | Christine Bauer</title><link>https://chbeu.github.io/tag/publication/</link><atom:link href="https://chbeu.github.io/tag/publication/index.xml" rel="self" type="application/rss+xml"/><description>publication</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Christine Bauer</copyright><lastBuildDate>Thu, 22 Dec 2022 02:00:06 +0200</lastBuildDate><image><url>https://chbeu.github.io/media/sharing.png</url><title>publication</title><link>https://chbeu.github.io/tag/publication/</link></image><item><title>UMUAI paper on diversity perceptions</title><link>https://chbeu.github.io/post/20222212_ils/</link><pubDate>Thu, 22 Dec 2022 02:00:06 +0200</pubDate><guid>https://chbeu.github.io/post/20222212_ils/</guid><description>&lt;p>Our UMUAI paper on human diversity perceptions is available online. In our work, we investigate the correlation of different implementations of the intra-list similarity (ILS) measure with human perceptions in the domains of movie and recipe recommendation. The results indicate that the particularities of the ILS metric implementation matter. Hence, ILS can indeed be a good proxy for human diversity perceptions. However, it depends on the details how the metric is implemented in the specific case. Thus, before using a specific metric implementation, validating it for the targeted application/domain is needed.
+&lt;br>
+&lt;br>&lt;/p>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+Mathias Jesse&lt;/span>, &lt;span >
+Dietmar Jannach&lt;/span>, &lt;span class="author-highlighted">
+Christine Bauer&lt;/span>
+&lt;/span>
+(2022).
+&lt;a href="https://chbeu.github.io/publications/jesse-2022-ils/">Intra-list similarity and human diversity perceptions of recommendations: the details matter&lt;/a>.
+&lt;em>User Modeling and User-Adapted Interaction&lt;/em>.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/jesse-2022-ils/jesse-2022-ils.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publications/jesse-2022-ils/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s11257-022-09351-w" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ladychb/ils_study" target="_blank" rel="noopener">
+&lt;i class="fab fa-github mr-1">&lt;/i>
+Code
+&lt;/a>
+&lt;/p>
+&lt;/div></description></item><item><title>Mini review on fairness in music recommender systems</title><link>https://chbeu.github.io/post/20220805_frontiers_paper/</link><pubDate>Fri, 05 Aug 2022 22:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220805_frontiers_paper/</guid><description>&lt;p>The first joint paper with Karlijn Dinnissen has just appeared in the journal &lt;a href="https://www.frontiersin.org/journals/big-data" target="_blank" rel="noopener">Frontiers in Big Data&lt;/a>. In this mini review, we take a stakeholder-centered view and discuss literature on fairness in music recommender systems from the perspective of the various stakeholders.&lt;/p>
 &lt;p>Overall, our literature review shows that the large majority of works analyze the current situation of fairness in music recommender systems, whereas only a few works propose approaches to improve it.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
