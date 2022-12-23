@@ -1,6 +1,5 @@
 ---
 type: publication
-
 title: "FairRecKit: A Web-based analysis software for recommender evaluations"
 subtitle: ''
 summary: ''
