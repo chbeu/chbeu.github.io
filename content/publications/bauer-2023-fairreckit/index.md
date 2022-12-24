@@ -40,7 +40,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [FairRecKit]
 publishDate: '2022-12-20T01:13:46.973627Z'
 publication_types:
 - '1'
