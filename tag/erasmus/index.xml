@@ -52,9 +52,6 @@ Christine Bauer&lt;/span>
 &lt;a href="https://chbeu.github.io/publications/ferraro-2021-whatisfair/">What is fair? Exploring the artists&amp;#39; perspective on the fairness of music streaming platforms&lt;/a>.
 &lt;em>18th IFIP International Conference on Human-Computer Interaction&lt;/em> (INTERACT 2021).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/ferraro-2021-whatisfair/ferraro-2021-whatisfair-preprint.pdf" target="_blank" rel="noopener">
-Preprint
-&lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://rdcu.be/cNhvN" target="_blank" rel="noopener">
 PDF
 &lt;/a>
@@ -67,6 +64,10 @@ Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-85616-8_33" target="_blank" rel="noopener">
 DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/ferraro-2021-whatisfair-preprint.pdf" >
+&lt;i class="fa fa-file mr-1">&lt;/i>
+Postprint
 &lt;/a>
 &lt;a class="btn btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.4793395" rel="noopener noreferrer" target="_blank">&lt;img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4793395.svg" alt="DOI">&lt;/a>
 &lt;span data-badge-popover="right" data-badge-type="donut"
