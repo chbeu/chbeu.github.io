@@ -38,6 +38,10 @@ abstract: 'The market for digital signage has been growing at an accelerated pac
 publication: '*Information and Communication Technologies in Organizations and Society*'
 publication_short: ICTO 2016
 doi: 10.1007/978-3-319-28907-6_19
-url_preprint: bauer-2016-business-digitalsignage-icto-2015-preprint.pdf
 url_pdf: https://rdcu.be/cNhBK
+links: 
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: bauer-2016-business-digitalsignage-icto-2015-postprint.pdf
 ---

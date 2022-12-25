@@ -37,5 +37,9 @@ abstract: "'Active listening' is a well-known ingredient in contexts that involv
 publication: '*38th ASEE/IEEE Frontiers in Education Conference*'
 publication_short: FIE 2008
 doi: 10.1109/FIE.2008.4720282
-url_preprint: bauer-2008-active-listening-preprint.pdf
+links:
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: bauer-2008-active-listening-postprint.pdf
 ---

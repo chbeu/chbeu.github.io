@@ -36,6 +36,10 @@ publication_types:
 abstract: 'Personalization can break through the information clutter in digital media and increase advertising effectiveness. However, the term personalization refers to many different adaptation strategies, each of which lead to distinct functional requirements for adaptive advertising systems: additionally, these adaptation strategies can affect consumers in different ways. Therefore, it is necessary to differentiate between them. To do so, we suggest the PERSIT matrix, which distinguishes between PERson-centric and SITuation-centric adaptation strategies. Studies in the field of digital-out-of-home advertising are structured using the six identified adaptation strategies for advertising. Furthermore, the PERSIT matrix supports users in making educated decisions by encouraging them to select an adaptation strategy that fits the desired advertising goals. The matrix establishes a common base of understanding between advertisers and system designers, allowing effective cross-domain communication.'
 publication: '*Management Review Quarterly*'
 doi: 10.1007/s11301-014-0101-0
-url_preprint: bauer-2014-adaptation-strategies-acceptedversion.pdf
 url_pdf: https://rdcu.be/cNhB5
+links:
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: bauer-2014-adaptation-strategies-acceptedversion.pdf
 ---

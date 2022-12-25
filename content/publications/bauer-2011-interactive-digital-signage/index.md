@@ -40,5 +40,9 @@ publication: '*1st International Workshop on Frontiers in Service Transformation
   Data and Web Technologies (EIDWT 2011))*'
 publication_short: FSTI 2011
 doi: 10.1109/EIDWT.2011.29
-url_preprint: bauer-2011-interactive-digital-signage-preprint.pdf
+links:
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: bauer-2011-interactive-digital-signage-postprint.pdf
 ---

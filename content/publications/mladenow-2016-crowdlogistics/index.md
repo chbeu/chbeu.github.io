@@ -44,8 +44,11 @@ Findings – The paper presents relevant theoretical background on crowd logisti
 Originality/value – The main contribution of this paper is an in-depth analysis and consolidation of innovative crowd logistics applications to provide an overview on recent implementations. The authors propose a categorization scheme and contribute with a route map for further research in the field of crowd logistics.'
 publication: '*International Journal of Web Information Systems*'
 doi: 10.1108/ijwis-04-2016-0020
-url_preprint: mladenow-2016-crowdlogistics-preprint.pdf
-
+links: 
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: mladenow-2016-crowdlogistics-postprint.pdf
 icons:
 - icon: trophy
   icon_pack: fas

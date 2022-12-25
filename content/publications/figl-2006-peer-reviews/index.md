@@ -39,5 +39,9 @@ abstract: "Peer-reviewing is gaining importance as didactic technique in compute
 publication: '*36th ASEE/IEEE Frontiers in Education Conference*'
 publication_short: FIE 2006
 doi: 10.1109/FIE.2006.322469
-url_preprint: figl-2006-peer-reviews-acceptedversion.pdf
+links: 
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: figl-2006-peer-reviews-acceptedversion.pdf
 ---

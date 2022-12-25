@@ -41,8 +41,11 @@ publication: '*19th International Conference on Human-Computer Interaction with 
 publication_short: MobileHCI 2017
 doi: 10.1145/3098279.3122130
 url_poster: kriglstein-2017-travelingsalesman-poster-A4.pdf
-url_preprint: kriglstein-2017-travelingsalesman-acceptedversion.pdf
 links: 
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: kriglstein-2017-travelingsalesman-acceptedversion.pdf
 - icon: acmdl
   icon_pack: ai
   name: ACM Author-izer

@@ -36,5 +36,9 @@ publication_types:
 abstract: 'This paper’s main objective is to consolidate the knowledge on context in the realm of intelligent systems, systems that are aware of their context and can adapt their behavior accordingly. We provide an overview and analysis of 36 context models that are heterogeneous and scattered throughout multiple fields of research. In our analysis, we identify five shared context categories: social context, location, time, physical context, and user context. In addition, we compare the context models with the context elements considered in the discourse on intelligent systems and find that the models do not properly represent the identified set of 3,741 unique context elements. As a result, we propose a consolidation of the findings from the 36 context models and the 3,741 unique context elements. The analysis reveals that there is a long tail of context categories that are considered only sporadically in context models. However, particularly these context elements in the long tail may be necessary for improving intelligent systems’ context awareness.'
 publication: '*Journal of Ambient Intelligence and Smart Environments*'
 doi: 10.3233/ais-170445
-url_preprint: bauer-2017-consolidatedview-acceptedversion.pdf
+links: 
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: bauer-2017-consolidatedview-acceptedversion.pdf
 ---

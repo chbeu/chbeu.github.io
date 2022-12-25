@@ -38,6 +38,10 @@ abstract: 'Online social networks, and Facebook in particular, have evolved from
 publication: '*1st International Conference on HCI in Business in conjunction with 16th International Conference on Human-Computer Interaction*'
 publication_short: HCIB/HCII 2014
 doi: 10.1007/978-3-319-07293-7_12
-url_preprint: brauer-2014-evaluation-scheme-preprint.pdf
 url_pdf: https://rdcu.be/cNhBS
+links: 
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: brauer-2014-evaluation-scheme-postprint.pdf
 ---

@@ -37,4 +37,9 @@ publication_types:
 abstract: "Although artists must usually be self-reliant when managing their business, an artist's education typically concentrates on artistic skills rather than managerial knowledge. This paper analyses the current curricula of 154 art institutions (public and private), focussing on the so-called DACH countries (Austria, Germany and Switzerland). The results show a deficit in the implementation of economic and, especially, business-related topics in the education of artists at art universities and institutions. A glimpse at Anglo-American countries shows that, unlike in Europe, art schools are more open-minded about implementing economic content into their curricula."
 publication: '*International Journal of Cultural Policy*'
 doi: 10.1080/10286632.2010.531716
+links:
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: bauer-2011-managementskills_postprint.pdf
 ---

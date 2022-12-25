@@ -37,6 +37,10 @@ publication_types:
 abstract: 'The core of the open innovation paradigm is based on the principle of collecting ideas from external sources into the organization, and bringing those adapted, transformed and enriched ideas to the market. However, under the constant pressure of being innovative, companies have to try harder to tap their customers’ knowledge and abilities. Crowdsourcing communities provide an arena for a vast amount of consumers to actively participate in innovation processes. However, as this kind of external participation in innovation processes is still in its infancy, organizations need guidance and analytic support to reveal the potential of the open innovation paradigm. Therefore, this paper analyses new product development using social crowd integration concepts and---as a result---points to further promising directions and subtopics to perform future research in this area.'
 publication: '*Global Journal of Flexible Systems Management*'
 doi: 10.1007/s40171-013-0053-6
-url_preprint: mladenow-2014-social-crowd-preprint.pdf
 url_pdf: https://rdcu.be/cNhBO
+links: 
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: mladenow-2014-social-crowd-postprint.pdf
 ---

@@ -37,6 +37,10 @@ publication_types:
 abstract: 'Information and communication technologies (ICT) are enablers for cooperative and collective online shopping. This novel phenomenon is also known under the terms “group buying” and “collective buying” and can be found in business-to-business (B2B) contexts as well as in business-to-consumer (B2C) shopping transactions. We investigate recent developments regarding enablers and inhibitors of ICT-based group buying concepts in various markets. In this paper, we perform a thorough analysis of group buying approaches with the intent to explain the evolution, developments, and changes of online group shopping variants. We provide an overview of approaches and derived variants of the online group buying concept highlighted with selected real-world application examples. A detailed SWOT analysis (strengths, weaknesses, opportunities, and threats) for each of the two dominant approaches (top-down and bottom-up) represents the core contribution of the paper and may build the basis for the development and improvement of future business models in the field.'
 publication: '*Blurring the Boundaries Through Digital Innovation: Individual, Organizational, and Societal Challenges*'
 doi: 10.1007/978-3-319-38974-5_16
-url_preprint: mladenow-2016-power-preprint.pdf
 url_pdf: https://rdcu.be/cNhBr
+links: 
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: mladenow-2016-power-postprint.pdf
 ---

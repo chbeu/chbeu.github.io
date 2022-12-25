@@ -42,5 +42,9 @@ abstract: 'Recommender systems are among today’s most successful application a
 publication: '*AI Magazine*'
 doi: 10.1609/aimag.v41i4.5312
 url_pdf: https://ojs.aaai.org/index.php/aimagazine/article/view/5312
-#url_preprint: jannach-2020-mcnamara-preprint.pdf
+links: 
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: jannach-2020-mcnamara-postprint.pdf
 ---

@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: 'Considering context in the design of intelligent systems: current practices and suggestions for improvement'
@@ -40,8 +39,11 @@ publication_types:
 abstract: "Ubiquitous sensing allows systems to exploit almost any kind of context, and enables the design of intelligent systems that are aware of their context and adapt their behavior accordingly. As such systems have a number of properties, which distinguish them from traditional systems, their design requires a new approach to requirements engineering and to product development. While existing contributions concentrate on individual aspects in the design process, there is a lack of a holistic perspective on the design of intelligent systems. Considering the entire design process, would allow for the creation of better functioning designs, as has been demonstrated in various fields of system design. Furthermore, little is known about how people design intelligent systems. A deep understanding about design practices is, though, a prerequisite for coming up with systematic improvements. The contribution of this paper is twofold: First, based on interviews, we analyze the design processes undertaken by designers, and present five underlying process archetypes. We focus on how designers identify, select, and consider context across the entire design process. Second, we propose an improved design process for intelligent systems that aims at supporting system designers in their design task in order to serve an organization’s, and/or users’ needs."
 publication: '*Journal of Systems and Software*'
 doi: 10.1016/j.jss.2015.10.041
-url_preprint: bauer-2016-considering-context-preprint.pdf
-
+links: 
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: bauer-2016-considering-context-postprint.pdf
 icons:
 - icon: trophy
   icon_pack: fas

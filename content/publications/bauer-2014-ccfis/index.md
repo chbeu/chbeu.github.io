@@ -35,5 +35,9 @@ publication_types:
 abstract: 'As sensing technologies advance, designers face an increasing variety of exploitable context when they create intelligent context-adaptive systems. In this opaque conglomerate of context, designers of intelligent systems find it difficult to select the elements that most effectively help a system tap into its full potential of intelligence. In emerging technology-driven areas, there is a vital need for a universally valid, flexible structure that provides the basis for target-oriented research using a shared conceptualization. In fact, such a framework is essential to enable, yield, and foster sustainability in a novel and inter-disciplinary research field. For this reason, this paper introduces a cohesive and flexible conceptual framework for conceptualizing context for intelligent systems (CCFIS). Based on an example of the pervasive advertising domain, this paper shows how designers can conceptualize context in adherence to CCFIS.'
 publication: '*Journal of Ambient Intelligence and Smart Environments*'
 doi: 10.3233/AIS-140269
-url_preprint: bauer-2014-ccfis-preprint.pdf
+links:
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: bauer-2014-ccfis-postprint.pdf
 ---

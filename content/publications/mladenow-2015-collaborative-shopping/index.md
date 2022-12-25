@@ -38,6 +38,10 @@ abstract: 'The ubiquity of information and communication technologies (ICT) stim
 publication: '*12th International Conference on Cooperative Design, Visualization & Engineering*'
 publication_short: CDVE 2015
 doi: 10.1007/978-3-319-24132-6_19
-url_preprint: cdve2015_groupshopping_preprint.pdf
 url_pdf: https://rdcu.be/cNhBN
+links: 
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: cdve2015_groupshopping_postprint.pdf
 ---

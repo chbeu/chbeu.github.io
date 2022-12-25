@@ -38,8 +38,11 @@ publication: '*19th International Conference on Information Integration and Web-
   Applications & Services*'
 publication_short: iiWAS 2017
 doi: 10.1145/3151759.3151760
-url_preprint: novotny-2017-whatdowereallytalkabout-acceptedversion.pdf
 links: 
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: novotny-2017-whatdowereallytalkabout-acceptedversion.pdf
 - icon: acmdl
   icon_pack: ai
   name: ACM Author-izer

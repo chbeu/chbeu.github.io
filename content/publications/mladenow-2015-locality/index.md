@@ -40,5 +40,9 @@ publication: '*7th International Conference on Intelligent Networking and Collab
   Systems*'
 publication_short: INCoS 2015
 doi: 10.1109/INCoS.2015.74
-url_preprint: mladenow-2015-locality-preprint.pdf
+links: 
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: mladenow-2015-locality-postprint.pdf
 ---

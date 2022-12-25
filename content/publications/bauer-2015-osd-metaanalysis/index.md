@@ -37,6 +37,10 @@ abstract: 'Using the Internet increasingly requires people to disclose personal 
 publication: '*48th Hawaii International Conference on System Sciences*'
 publication_short: HICSS 2015
 doi: 10.1109/HICSS.2015.435
-url_preprint: bauer-2015-osd-metaanalysis-acceptedversion.pdf
 url_slides: bauer-2015-osd-metaanalysis-slides.pdf
+links:
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: bauer-2015-osd-metaanalysis-acceptedversion.pdf
 ---

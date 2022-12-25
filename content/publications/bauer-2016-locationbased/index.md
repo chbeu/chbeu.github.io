@@ -36,6 +36,10 @@ publication_types:
 abstract: 'Location-based advertising (LBA) allows the delivery of advertising messages to consumers in places that are known for their particular high and positive advertising effect. While LBA is recognized for static roadside billboards and the Web, LBA can now be found on mobile devices. This mobile advertising adds valuable opportunities for companies: It allows consumers to be addressed (i) individually, (ii) based on their current location, and (iii) dynamically in real-time; furthermore, (iv) content may be replaced quickly by remote access. Accordingly, within the mobile marketing domain, LBA on mobile devices turns over a new leaf. This young research field is interdisciplinary at its core and marketing and technical experts expect major impetus. To contribute to this growing field, we systematically analyze and evaluate existing literature in the field of LBA on mobile devices, and present the results of six analyses. By building bridges between the involved disciplines, we present existing research in a condensed, concise and evaluating form which will support researchers in orienting for future research in the field. Furthermore, we pinpoint selected “white spots” in research and draw attention to promising areas for future research and directions of future development trends.'
 publication: '*Management Review Quarterly*'
 doi: 10.1007/s11301-015-0118-z
-url_preprint: bauer-2016-locationbased-preprint.pdf
 url_pdf: https://rdcu.be/cNhBv
+links: 
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: bauer-2016-locationbased-postprint.pdf
 ---
