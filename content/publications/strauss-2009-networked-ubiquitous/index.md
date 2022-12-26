@@ -41,4 +41,9 @@ publication: '*International Workshop on Design, Optimization and Management of 
   Processing (ICPP-2009)*'
 publication_short: DOM-HetNetS 2009
 doi: 10.1109/ICPPW.2009.79
+links:
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: strauss-2009-networked-ubiquitous-postprint.pdf
 ---

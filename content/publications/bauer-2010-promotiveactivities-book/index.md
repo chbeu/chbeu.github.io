@@ -48,5 +48,10 @@ Finally, the work draws up general recommendations concerning promotive activiti
 publication: '*Peter Lang*'
 isbn: "978-3-631-58809-3"
 altmetric: true
+links:
+- icon: book
+  icon_pack: fa
+  name: Google Books
+  url: https://books.google.at/books?id=rs2jThNNmzIC&lpg=PA1&ots=3YDA3Jm1km&dq=Promotive%20activities%20in%20technology-enhanced%20learning%3A%20the%20impact%20of%20media%20selection%20on%20peer%20review%2C%20active%20listening%20and%20motivational%20aspects&lr&pg=PP1#v=onepage&q&f=false
 ---
 
