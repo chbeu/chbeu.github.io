@@ -31,6 +31,7 @@ Slides
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.24251/HICSS.2018.460" target="_blank" rel="noopener">
 DOI
 &lt;/a>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JOURQUAL3: C &lt;/span>
 &lt;i class="fas fa-award mr-1">&lt;/i>
 nominated for Best Paper Award
 &lt;/p>
@@ -67,6 +68,7 @@ DOI
 &lt;i class="ai ai-acmdl mr-1">&lt;/i>
 ACM Author-izer
 &lt;/a>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2021: B &lt;/span>
 &lt;i class="fas fa-trophy mr-1">&lt;/i>
 Best Paper Award
 &lt;/p>

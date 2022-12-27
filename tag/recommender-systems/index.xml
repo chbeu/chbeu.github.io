@@ -79,6 +79,7 @@ DOI
 Postprint
 &lt;/a>
 &lt;a class="btn btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.4793395" rel="noopener noreferrer" target="_blank">&lt;img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4793395.svg" alt="DOI">&lt;/a>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2021: B &lt;/span>
 &lt;span data-badge-popover="right" data-badge-type="donut"
 data-doi="10.1007/978-3-030-85616-8_33"
 data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
@@ -760,7 +761,7 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pone.0217389" target="_blank" rel="noopener">
 DOI
 &lt;/a>
-&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif"> JIF 2021: 3.24 &lt;/span>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JIF 2021: 3.24 &lt;/span>
 &lt;span data-badge-popover="right" data-badge-type="donut"
 data-doi="10.1371/journal.pone.0217389"
 data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
@@ -790,7 +791,7 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pone.0217389" target="_blank" rel="noopener">
 DOI
 &lt;/a>
-&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif"> JIF 2021: 3.24 &lt;/span>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JIF 2021: 3.24 &lt;/span>
 &lt;span data-badge-popover="right" data-badge-type="donut"
 data-doi="10.1371/journal.pone.0217389"
 data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
@@ -848,6 +849,7 @@ Slides
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.24251/HICSS.2019.263" target="_blank" rel="noopener">
 DOI
 &lt;/a>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JOURQUAL3: C &lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Global and country-specific mainstreaminess measures: Definitions, analysis, and usage for improving personalized music recommendation systems</title><link>https://chbeu.github.io/publications/bauer-2019-plosone-mainstreaminess/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/publications/bauer-2019-plosone-mainstreaminess/</guid><description/></item><item><title>Den richtigen Inhalt für den richtigen User im richtigen Moment: Musikempfehlungssysteme jetzt und in der Zukunft</title><link>https://chbeu.github.io/talks/t07_rotaryclub2018/</link><pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t07_rotaryclub2018/</guid><description/></item><item><title>Best Reviewer – Runner-Up at RecSys 2018</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-10-06-best-reviewer-runner-up-at-recsys-2018/</link><pubDate>Sat, 06 Oct 2018 13:31:03 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-10-06-best-reviewer-runner-up-at-recsys-2018/</guid><description>&lt;p>I am honored being runner-up for the Best Reviewer Award at RecSys 2018.&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">&lt;a href="https://twitter.com/christine_bauer?ref_src=twsrc%5Etfw">@christine_bauer&lt;/a> congrats, runner-up &lt;a href="https://t.co/5k0trWQHMC">pic.twitter.com/5k0trWQHMC&lt;/a>&lt;/p>&amp;mdash; Marko Tkalčič (@RecSysMare) &lt;a href="https://twitter.com/RecSysMare/status/1048087921973055489?ref_src=twsrc%5Etfw">October 5, 2018&lt;/a>&lt;/blockquote>
@@ -971,6 +973,7 @@ DOI
 &lt;i class="ai ai-acmdl mr-1">&lt;/i>
 ACM Author-izer
 &lt;/a>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2021: B &lt;/span>
 &lt;i class="fas fa-trophy mr-1">&lt;/i>
 Best Paper Award
 &lt;/p>

@@ -27,7 +27,8 @@ DOI
 &lt;i class="fab fa-github mr-1">&lt;/i>
 Code
 &lt;/a>
-&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif"> JIF 2021: 4.23 &lt;/span>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JIF 2021: 4.23 &lt;/span>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2020: A* &lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Mini review on fairness in music recommender systems</title><link>https://chbeu.github.io/post/20220805_frontiers_paper/</link><pubDate>Fri, 05 Aug 2022 22:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220805_frontiers_paper/</guid><description>&lt;p>The first joint paper with Karlijn Dinnissen has just appeared in the journal &lt;a href="https://www.frontiersin.org/journals/big-data" target="_blank" rel="noopener">Frontiers in Big Data&lt;/a>. In this mini review, we take a stakeholder-centered view and discuss literature on fairness in music recommender systems from the perspective of the various stakeholders.&lt;/p>
 &lt;p>Overall, our literature review shows that the large majority of works analyze the current situation of fairness in music recommender systems, whereas only a few works propose approaches to improve it.&lt;/p>
@@ -298,7 +299,7 @@ Project
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pone.0217389" target="_blank" rel="noopener">
 DOI
 &lt;/a>
-&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif"> JIF 2021: 3.24 &lt;/span>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JIF 2021: 3.24 &lt;/span>
 &lt;span data-badge-popover="right" data-badge-type="donut"
 data-doi="10.1371/journal.pone.0217389"
 data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
@@ -387,6 +388,7 @@ Slides
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.24251/HICSS.2019.263" target="_blank" rel="noopener">
 DOI
 &lt;/a>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JOURQUAL3: C &lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Paper on digital signage for retail is online</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-11-08-paper-on-digital-signage-for-retail-online/</link><pubDate>Thu, 08 Nov 2018 18:47:08 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-11-08-paper-on-digital-signage-for-retail-online/</guid><description>&lt;p>I like interdisciplinary work. The paper on &amp;lsquo;&amp;lsquo;Research directions for digital signage systems in retail&amp;rsquo;&amp;rsquo; is joint efforts from informatics, (e-)business, marketing, and consumer behavior.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -511,6 +513,7 @@ Slides
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.24251/HICSS.2018.460" target="_blank" rel="noopener">
 DOI
 &lt;/a>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JOURQUAL3: C &lt;/span>
 &lt;i class="fas fa-award mr-1">&lt;/i>
 nominated for Best Paper Award
 &lt;/p>
@@ -547,6 +550,7 @@ DOI
 &lt;i class="ai ai-acmdl mr-1">&lt;/i>
 ACM Author-izer
 &lt;/a>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2021: B &lt;/span>
 &lt;i class="fas fa-trophy mr-1">&lt;/i>
 Best Paper Award
 &lt;/p>
