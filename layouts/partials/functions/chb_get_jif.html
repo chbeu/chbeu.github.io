@@ -1,0 +1,11 @@
+{{/* Get JIF 2021 for journal name. */}}
+
+{{ $url := "assets/csv/jif.csv" }}	
+    {{ $sep := "," }}
+    {{ range $i, $r := getCSV $sep $url  }} <!-- (dict "jif" (slice "journal" "jif2021")) -->
+        {{ if ne $i 0 }}<!-- skip first row -->
+        {{ if strings.Contains  $.publication (index $r 0) }} <span class="btn btn-outline-primary btn-page-header btn-sm jif"> JIF 2021: {{ index . 1}} </span>{{ end }}
+    {{ end }}
+    {{end}}
+
+

@@ -5,8 +5,8 @@
 /* twitter */
 
 .twitter-follow-button {
-	margin: 0px 0px -490px 0px;
-  padding: 0px;
+    margin: 0px 0px -490px 0px;
+    padding: 0px;
 }
 
 /* acm authorizer adapt */
@@ -15,22 +15,22 @@
 .multi-search .issue-item {
     padding: 15px;
     background: #fff;
-	  padding-bottom: 25px;
-  	margin: 0px 0px -280px 0px;
+    padding-bottom: 25px;
+    margin: 0px 0px -280px 0px;
 }
 
 
 .multi-search .issue-item__detail {
     margin: 0px 0px 0px 0px;
-	  padding: 0px;
+      padding: 0px;
 }
 
 
 .multi-search .issue-item__abstract {
-	  margin-top: 0px;
+    margin-top: 0px;
     margin-bottom: 10px;
-	  padding-top: 0px;
-	  height: 20px;
+    padding-top: 0px;
+      height: 20px;
 }
 
 
@@ -42,54 +42,58 @@
 /* altmetric style adapt */
 
 .altmetric-style {
-	vertical-align:top;
-	display:inline-block;
-	margin-left:20px;
-	margin-bottom:50px;
-
+    vertical-align:top;
+    display:inline-block;
+    margin-left:20px;
+    margin-bottom:50px;
 }
 
 
 /* plumx */
 .plumx{
-	display:inline-block;
-	margin-left:30px;
-	vertical-align: top;
-	clear:none;
+    display:inline-block;
+    margin-left:30px;
+    vertical-align: top;
+    clear:none;
 }
 
 
 /* dimensions.ai */
 
 .__dimensions_badge_embed__{
-	display:inline-block;
-	margin-left:30px;
-	vertical-align: top;
-	clear:none;
+    display:inline-block;
+    margin-left:30px;
+    vertical-align: top;
+    clear:none;
 }
 
 
 /* chb stylesheet*/
 
 .scimago {
-	height:90px;
-	width:90px;
-	margin-left:30px;
-	vertical-align:top;
+    height:90px;
+    width:90px;
+    margin-left:30px;
+    vertical-align:top;
 }
 
 table {
-  display: block;
-  overflow-x: auto;
+    display: block;
+    overflow-x: auto;
 }
 th{
-  font-weight: normal;
+    font-weight: normal;
 }
 
 tbody tr:nth-child(odd){
-  background-color: #EBEBEB;
+    background-color: #EBEBEB;
 }
 
 tbody td{
-  border-right: 1px dotted #D6D6D6;
+    border-right: 1px dotted #D6D6D6;
+}
+
+.jif {
+    background-color: #0088CC;
+    color: #FFFFFF;
 }
