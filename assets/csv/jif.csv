@@ -1,10 +1,29 @@
-﻿journal,JIF2021
-International Journal of Cultural Policy,1.685
-ACM Computing Surveys,14.324
-IEEE Transactions on Industrial Informatics,10.215
-User Modeling and User-Adapted Interaction,4.23
-PLOS ONE,3.24
-EPJ Data Science,3.184
-Journal of Systems and Software,2.829
-Journal of Ambient Intelligence and Smart Environments,2.759
-Information and Software Technology,2.73
+﻿journal,JIF 2021,CORE 2020,CORE 2021,JOURQUAL3
+International Journal of Cultural Policy,1.685,,,
+ACM Computing Surveys,14.324,A*,,B
+IEEE Transactions on Industrial Informatics,10.215,,,
+User Modeling and User-Adapted Interaction,4.23,A*,,
+PLOS ONE,3.24,,,
+EPJ Data Science,3.184,,,
+Journal of Systems and Software,2.829,A,,
+Journal of Ambient Intelligence and Smart Environments,2.759,,,
+Information and Software Technology,2.73,A,,
+AI Magazine,1.094,C,,
+Journal of Mobile Multimedia,,C,,
+International Journal of Web Information Systems,,C,,
+iiWAS,,,C,
+INTERACT,,,B,
+MoMM,,,B,
+MobileHCI,,,B,
+DocEng,,,B,
+FIE,,,C,
+ED-MEDIA,,,B,
+Management Review Quarterly,,,,C
+LNCS,,,,C
+LNI,,,,C
+HICSS,,,,C
+ECIS,,,,B
+MKWI,,,,D
+ICIS,,,,A
+AMCIS,,,,D
+WI,,,,C

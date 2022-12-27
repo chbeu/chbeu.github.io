@@ -4,6 +4,7 @@
 {{ $doi := $page.Params.doi }}
 {{ $isbn := $page.Params.isbn }}
 {{ $publication := $page.Params.publication }}
+{{ $publication_short := $page.Params.publication_short }}
 
 
 {{/* ***** TODO: Deprecate `url_preprint` in favour of `url_pdf` given there's now a dedicated "Preprint" pub. type. ***** */}}
@@ -175,11 +176,13 @@
     {{ with .name }}{{ . | safeHTML }}{{end}}
   </a>
 {{ end }}
-{{partial "functions/chb_get_jif"  (dict "context" . "publication" $publication) }}
 {{ with $page.Params.zenodo }}
   {{ $zenodo_doi := $page.Params.zenodo }}
   {{partial "functions/chb_get_zenodobadge"  (dict "context" . "zenodo_doi" $zenodo_doi) }}
 {{ end }}
+
+{{partial "functions/chb_get_publication_rating"  (dict "context" . "publication" $publication "publication_short" $publication_short) }}
+
 {{ with $page.Params.altmetric }}
   {{if $doi}}
     {{partial "functions/chb_get_altmetricbadge"  (dict "context" . "doiparent" $doi) }}

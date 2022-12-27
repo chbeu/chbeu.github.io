@@ -96,4 +96,5 @@ tbody td{
 .jif {
     background-color: #0088CC;
     color: #FFFFFF;
+    pointer-events: none;
 }
