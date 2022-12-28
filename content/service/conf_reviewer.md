@@ -1,10 +1,6 @@
 ---
 summary: "This page lists my reviewing activities."
-# An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-#widget: accomplishments
 widget: blank
-
 
 # This file represents a page section.
 headless: true
@@ -15,7 +11,6 @@ weight: 50
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Reviewing activities'
 subtitle: 'Reviewer for a conference'
-
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -34,9 +29,9 @@ design:
 
 BIAS 2023  
 IUI 2023, 2022  
+SIGIR 2023, 2022  
 HICSS 2023, 2018, 2015  
 UMAP 2023, 2022, 2021, 2020, 2019, 2018, 2017  
-SIGIR 2022  
 HT 2022  
 GMAP 2022  
 RecSys 2022, 2021, 2020, 2019, 2018, 2017  
