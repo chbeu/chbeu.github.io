@@ -93,10 +93,15 @@ social:
   icon_pack: ai
   icon_title: Zotero
   link: https://www.zotero.org/christine_bauer/cv
+- icon: circle-notch
+  icon_pack: fas
+  icon_title: rescognito
+  link: https://rescognito.com/0000-0001-5724-1137
 - icon: female
   icon_pack: fas
   icon_title: Speakerinnen
   link: https://speakerinnen.org/de/profiles/1754
+
         
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
