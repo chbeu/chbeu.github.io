@@ -47,6 +47,7 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/andrebola/gender-recs
+zenodo: 10.5281/zenodo.3748786
 altmetric: true
 plumx: false
 dimensions: false
