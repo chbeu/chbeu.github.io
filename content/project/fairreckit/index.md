@@ -1,7 +1,7 @@
 ---
 title: "FairRecKit"
 summary: "*FairRecKit* is a web-based analysis software that supports researchers in performing, analyzing, and understanding recommendation computations. The idea behind *FairRecKit* is to facilitate the in-depth analysis of recommendation outcomes considering fairness aspects. With (nested) filters on user or item attributes, metrics can easily be compared across user and item subgroups."
-tags:
+
 tags: [FairRecKit, resource, toolkit, analysis software, web-based, evaluation, analysis, recommender systems, music, movies]
 date: "2022-03-01T00:00:00Z"
 profile: false
@@ -11,6 +11,7 @@ profile: false
 
 image:
   focal_point: Smart
+  preview_only: false
 
 url_video: https://www.youtube.com/watch?v=6C1cRpy4b44
 links:
