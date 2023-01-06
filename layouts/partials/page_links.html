@@ -5,7 +5,7 @@
 {{ $isbn := $page.Params.isbn }}
 {{ $publication := $page.Params.publication }}
 {{ $publication_short := $page.Params.publication_short }}
-
+{{ $publication_short := strings.TrimRight "1234567890 " $publication_short  }}
 
 {{/* ***** TODO: Deprecate `url_preprint` in favour of `url_pdf` given there's now a dedicated "Preprint" pub. type. ***** */}}
 {{ with $page.Params.url_preprint }}

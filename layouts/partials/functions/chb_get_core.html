@@ -9,8 +9,8 @@
 		{{ $rankingtitle_journal = ( index  $r 2 ) }}
 		{{ $rankingtitle_conf = ( index  $r 3 ) }}
 	{{end}}
-	{{ if and (strings.Contains  $.publication (index $r 0)) (index $r 2) }} <span class="btn btn-outline-primary btn-page-header btn-sm jif">{{ $rankingtitle_journal }}: {{ index . 2}} </span>{{ end }}
-        {{ if and (strings.Contains  $.publication_short (index $r 0)) (index $r 3) }} <span class="btn btn-outline-primary btn-page-header btn-sm jif">{{ $rankingtitle_conf}}:  {{ index . 3}} </span>{{ end }}
+	{{ if and (strings.Contains  $.publication (index $r 0)) (index $r 2) }}<span class="btn btn-outline-primary btn-page-header btn-sm jif">{{ $rankingtitle_journal }}: {{ index . 2}} </span>{{ end }}
+      {{ if and (eq $.publication_short (index $r 0)) (index $r 3) }}<span class="btn btn-outline-primary btn-page-header btn-sm jif">{{ $rankingtitle_conf}}: {{index . 3}} </span>{{ end }}
     {{end}}
 
 
