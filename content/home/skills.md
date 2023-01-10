@@ -17,7 +17,7 @@ title: Portfolio
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - name: Central theme
-  description: Interactive intelligent systems<br>at the intersection of human-centered computing, artificial intelligence, and data science
+  description: Interactive intelligent systems<br>at the intersection of human-centered computing, data science, and artificial intelligence
   icon: bullseye
   icon_pack: fa
 - name: Academic indices
