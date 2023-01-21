@@ -25,10 +25,10 @@ experience:
   - workshop: "Dagstuhl 23031"
     role: Dagstuhl Seminar Co-Organizer
     date_start: "2023-01-15"
-    #date_end: "2023-01-20"
+    date_end: "2023-01-20"
     longtitle: "Frontiers of Information Access Experimentation for Research and Education"
     description: "with Ben Carterette, Nicola Ferro, and Norbert Fuhr"
-    workshop_url: "https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=23031"
+    workshop_url: "https://www.dagstuhl.de/23031"
   - workshop: "PERSPECTIVES 2022"
     role: Workshop Co-Organizer
     date_start: "2022-09-25"
