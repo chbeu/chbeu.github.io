@@ -48,5 +48,5 @@ links:
 - icon: file
   icon_pack: fa
   name: Postprint
-  url: ferraro-2021-whatisfair-preprint.pdf
+  url: ferraro-2021-whatisfair-postprint.pdf
 ---
