@@ -11,7 +11,7 @@ authors:
 - Alan Said
 tags: [perspectives, evaluation, RecSys]
 categories: []
-date: '2021-12-01'
+date: '2022-02-01'
 lastmod: 2022-02-03T03:11:11+02:00
 featured: false
 draft: false
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [multimethod]
-publishDate: '2021-12-01T01:13:45.839142Z'
+publishDate: '2022-02-01T01:13:45.839142Z'
 publication_types:
 - '1'
 abstract: 'Evaluation is a central step when it comes to developing, optimizing, and deploying recommender systems. The PERSPECTIVES 2021 workshop at the 15th ACM Conference on Recommender Systems brought together academia and industry to critically reflect on the evaluation of recommender systems. The primary goal of the workshop was to capture the current state of evaluation from different, and maybe even diverging or contradictory perspectives.'
