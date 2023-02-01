@@ -11,8 +11,8 @@ authors:
 - Alan Said
 tags: [perspectives, evaluation, RecSys]
 categories: []
-date: '2022-12-01'
-lastmod: 2022-12-01T03:11:11+02:00
+date: '2023-02-01'
+lastmod: 2023-02-01T03:11:11+02:00
 featured: false
 draft: false
 profile: false
@@ -31,16 +31,18 @@ profile: false
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [multimethod]
-publishDate: '2022-12-01T01:13:45.839142Z'
+publishDate: '2023-02-01T01:13:45.839142Z'
 publication_types:
 - '1'
-abstract: 'Evaluation is a central step when it comes to developing, optimizing, and deploying recommender systems. The PERSPECTIVES 2022 workshop at the 16th ACM Conference on Recommender Systems brought together academia and industry to critically reflect on the evaluation of recommender systems. The primary goal of the workshop was to capture the current state of evaluation from different, and maybe even diverging or contradictory perspectives.'
+abstract: 'Evaluation is a central step when it comes to developing, optimizing, and deploying recommender systems. The PERSPECTIVES 2022 workshop at the 16th ACM Conference on Recommender Systems brought together academia and industry to critically reflect on the evaluation of recommender systems. The primary goal of the workshop was to capture the current state of evaluation from different, and maybe even diverging or contradictory perspectives.<br>
+Date: 22 September, 2022.<br>
+Website: https://perspectives-ws.github.io/2022/'
 publication: '*SIGIR Forum*'
-#doi: 
-#links: 
-#- icon: acmdl
-#  icon_pack: ai
-#  name: ACM Author-izer
-#  url: https://dl.acm.org/doi/10.1145/3527546.3527565?cid=81453628934
+doi: 10.1145/3582900.3582919
+links: 
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url: https://dl.acm.org/doi/10.1145/3582900.3582919?cid=81453628934
 
 ---
