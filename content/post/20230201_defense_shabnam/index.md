@@ -23,10 +23,10 @@ image:
 projects: []
 ---
 
-Today, Shabnam Najafian successfully defended her PhD thesis with the title "User Modeling for Privacy-preserving Explanations in Group Recommendations" at TU Delft. I had the honor to serve on her PhD committee.
+Today, Shabnam Najafian successfully defended her  [PhD thesis with the title "User Modeling for Privacy-preserving Explanations in Group Recommendations"](https://doi.org/10.4233/uuid:8197cbd9-64e2-4eae-b424-f2af9ad83641) at TU Delft. I had the honor to serve on her PhD committee.
 
-Beyond asking challenging questions and Shabnam nicely defending her work, it was also a very special experience for me because it was the first time I attended the Dutch PhD defense which happens to be very different defenses I know (e.g., from Austria). There is a very (!) strict dress code. And already understanding the dress code regulations requires a PhD---minimum! ;-)
-Also, there is a strict protocol to follow concerning where to sit, where to walk, when to walk, and in which order, etc. BTW---lots of walking involved. The senate room has four doors and we used three of those for entering and leaving and re-entering. Very confusing was also that the defense comes without a presentation of the thesis. Well, it comes with a brief "layperson presentation" for the general audience. But members of the PhD committee are considered experts and have read the thesis; so, the committee is not even present in the senate room while the candidate is presenting. 
+Beyond asking challenging questions and Shabnam nicely defending her work, it was also a very special experience for me because it was the first time I attended a Dutch PhD defense which happens to be very different to defenses I know (e.g., from Austria). There is a very (!) strict dress code. And already understanding the dress code regulations requires a PhD---minimum! ;-)
+Also, there is a strict protocol concerning where to sit, where to walk, when to walk, and in which order, etc. BTW---lots of walking involved. The senate room has four doors and we used three of those for entering and leaving and re-entering. Very confusing was also that the defense comes without a presentation of the thesis. Well, it comes with a brief "layperson presentation" for the general audience. But members of the PhD committee are considered experts and have read the thesis; so, the committee is not even present in the senate room while the candidate is presenting. 
 
 All in all---a very interesting experience.
 
