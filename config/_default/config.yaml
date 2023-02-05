@@ -48,14 +48,14 @@ outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
-  resampleFilter: lanczos
-  quality: 90
-  anchor: smart
+  resampleFilter: MitchellNetravali
+  quality: 95
+  anchor: Smart
 timeout: 600000
 taxonomies:
   tag: tags
   category: categories
-  publication_type: publication_types
+  publication_types: publication_types
   author: authors
 markup:
   _merge: deep
