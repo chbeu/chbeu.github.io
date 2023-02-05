@@ -1,6 +1,6 @@
 ---
 summary: "This page lists my activities as organizer of workshops and meetups."  # Add a page description.
-widget: chb_services
+widget: experience
 
 # This file represents a page section.
 headless: true
@@ -22,51 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - workshop: "Dagstuhl 23031"
-    role: Dagstuhl Seminar Co-Organizer
+  - company: "Dagstuhl 23031: Frontiers of Information Access Experimentation for Research and Education"
+    title: Dagstuhl Seminar Co-Organizer
     date_start: "2023-01-15"
     date_end: "2023-01-20"
-    longtitle: "Frontiers of Information Access Experimentation for Research and Education"
     description: "with Ben Carterette, Nicola Ferro, and Norbert Fuhr"
-    workshop_url: "https://www.dagstuhl.de/23031"
-  - workshop: "PERSPECTIVES 2022"
-    role: Workshop Co-Organizer
+    company_url: "https://www.dagstuhl.de/23031"
+  - company: "PERSPECTIVES 2022: 2nd Workshop on the Perspectives on the Evaluation of Recommender Systems"
+    title: Workshop Co-Organizer
     date_start: "2022-09-25"
     date_end: "2022-09-25"
-    longtitle: "2nd Workshop on the Perspectives on the Evaluation of Recommender Systems"
-    description: "with Eva Zangerle and Alan Said"
-    conf: "16th ACM Conference on Recommender Systems (RecSys 2022)"
-    workshop_url: "https://perspectives-ws.github.io/2022/"
-    conf_url: "https://recsys.acm.org/recsys22/"
-    proceedings_url: "https://ceur-ws.org/Vol-3228/"
-  - workshop: "PERSPECTIVES 2021"
-    role: Workshop Co-Organizer
+    description: "co-located with [16th ACM Conference on Recommender Systems (RecSys 2022)](https://recsys.acm.org/recsys22/)<br><br>with Eva Zangerle and Alan Said<br><br>[See proceedings](https://ceur-ws.org/Vol-3228/)"
+    company_url: "https://perspectives-ws.github.io/2022/"
+  - company: "PERSPECTIVES 2021: Workshop on the Perspectives on the Evaluation of Recommender Systems"
+    title: Workshop Co-Organizer
     date_start: "2021-09-25"
     date_end: "2021-10-01"
-    longtitle: "Workshop on the Perspectives on the Evaluation of Recommender Systems"
-    description: "with Eva Zangerle and Alan Said"
-    conf: "15th ACM Conference on Recommender Systems (RecSys 2021)"
-    workshop_url: "https://perspectives-ws.github.io/2021/"
-    conf_url: "https://recsys.acm.org/recsys21/"
-    proceedings_url: "https://ceur-ws.org/Vol-2955/"
-  - workshop: ""
+    description: "co-located with [15th ACM Conference on Recommender Systems (RecSys 2021)](https://recsys.acm.org/recsys21/)<br><br>with Eva Zangerle and Alan Said<br><br>[See proceedings](https://ceur-ws.org/Vol-2955/)"
+    company_url: "https://perspectives-ws.github.io/2021/"
+  - company: "ISMIR Meetup: How do we—in MIR research—help artists? Do we?"
     date_start: "2020-10-15"
     date_end: "2020-10-15"
-    longtitle: "How do we—in MIR research—help artists? Do we?"
-    role: Meetup Organizer
-    conf: "21st International Society for Music Information Retrieval Conference (ISMIR 2020)"
-    conf_url: "https://www.ismir2020.net"
-  - workshop: "IUadaptMe 2018"
-    longtitle: "Workshop on Intelligent User-Adapted Interfaces: Design and Multi-Modal Evaluation"
-    role: Workshop Co-Organizer
-    description: "with Ilknur Celik, Ilaria Torre, Frosina Koceva, Eva Zangerle, and Bart Knijnenburg"
-    conf: "26th Conference on User Modeling, Adaptation and Personalization (UMAP 2018)"
-    #proceedings_url: ""
-    conf_url: "https://www.um.org/umap2018/"
-    workshop_url: "https://multimethods.info/"
+    title: Meetup Organizer
+    description: "co-located with [21st International Society for Music Information Retrieval Conference (ISMIR 2020)](https://www.ismir2020.net)"
+  - company: "IUadaptMe 2018: Workshop on Intelligent User-Adapted Interfaces: Design and Multi-Modal Evaluation"
+    title: Workshop Co-Organizer
+    description: "co-located with [26th Conference on User Modeling, Adaptation and Personalization (UMAP 2018)](https://www.um.org/umap2018/)<br><br>with Ilknur Celik, Ilaria Torre, Frosina Koceva, Eva Zangerle, and Bart Knijnenburg"
+    company_url: "https://multimethods.info/"
     date_start: "2018-07-08"
     date_end: "2018-07-08"
-
 
 design:
   columns: '2'
