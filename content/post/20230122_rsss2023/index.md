@@ -1,12 +1,12 @@
 ---
 title: "Recommender Systems Summer School 2023"
 subtitle: ""
-summary: "A successful Dagstuhl seminar on the 'Frontiers of Information Access Experimentation for Research and Education'."
+summary: "There will be a Recommender Systems Summer School in 2023."
 authors: 
 categories: [news]
 tags: [recommender systems, RecSys, summer school]
 date: 2023-01-22T02:00:06+02:00
-lastmod: 2023-01-22T02:00:06+02:00
+lastmod: 2023-02-05T02:00:06+02:00
 featured: false
 draft: false
 profile: false
