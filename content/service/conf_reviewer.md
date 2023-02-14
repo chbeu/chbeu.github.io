@@ -29,14 +29,14 @@ design:
 
 ICWSM 2023  
 BIAS 2023  
-IUI 2023, 2022  
+IUI 2023, 2022 {{< icon name="award" pack="fas" >}}   
 HICSS 2023, 2018, 2015  
-UMAP 2023, 2022, 2021, 2020, 2019, 2018, 2017  
+UMAP 2023 {{< icon name="trophy" pack="fas" >}}, 2022, 2021, 2020, 2019 {{< icon name="award" pack="fas" >}}, 2018, 2017  
 SIGIR 2022  
 HT 2022  
 GMAP 2022  
-RecSys 2022, 2021, 2020, 2019, 2018, 2017  
-CHI 2022, 2020, 2019, 2018, 2015, 2014, 2013, 2012, 2011   
+RecSys 2022 {{< icon name="award" pack="fas" >}}, 2021, 2020 {{< icon name="award" pack="fas" >}}, 2019 {{< icon name="trophy" pack="fas" >}}, 2018 {{< icon name="award" pack="fas" >}}, 2017  
+CHI 2022, 2020 {{< icon name="award" pack="fas" >}}, 2019, 2018, 2015, 2014, 2013, 2012, 2011   
 ComplexRec 2021  
 CSCW 2021, 2018  
 INTERACT 2021, 2019  
