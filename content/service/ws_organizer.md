@@ -22,6 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - company: "Dagstuhl 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education"
+    title: Dagstuhl Seminar Co-Organizer
+    date_start: "2024-05-20"
+    date_end: "2024-05-24"
+    description: "with Alan Said and Eva Zangerle"
+    company_url: "https://www.dagstuhl.de/24211"
   - company: "Dagstuhl 23031: Frontiers of Information Access Experimentation for Research and Education"
     title: Dagstuhl Seminar Co-Organizer
     date_start: "2023-01-15"
