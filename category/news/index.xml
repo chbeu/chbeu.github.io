@@ -41,6 +41,7 @@ Cite
 Project
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JOURQUAL3: C &lt;/span>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">GGS 2021: A &lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>UMUAI paper on diversity perceptions</title><link>https://chbeu.github.io/post/20222212_ils/</link><pubDate>Thu, 22 Dec 2022 02:00:06 +0200</pubDate><guid>https://chbeu.github.io/post/20222212_ils/</guid><description>&lt;p>Our UMUAI paper on human diversity perceptions is available online. In our work, we investigate the correlation of different implementations of the intra-list similarity (ILS) measure with human perceptions in the domains of movie and recipe recommendation. The results indicate that the particularities of the ILS metric implementation matter. Hence, ILS can indeed be a good proxy for human diversity perceptions. However, it depends on the details how the metric is implemented in the specific case. Thus, before using a specific metric implementation, validating it for the targeted application/domain is needed.
 &lt;br>
@@ -151,6 +152,7 @@ Postprint
 &lt;/a>
 &lt;a class="btn btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.4793395" rel="noopener noreferrer" target="_blank">&lt;img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4793395.svg" alt="DOI">&lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2021: B &lt;/span>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">GGS 2021: B &lt;/span>
 &lt;span data-badge-popover="right" data-badge-type="donut"
 data-doi="10.1007/978-3-030-85616-8_33"
 data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
@@ -1059,6 +1061,7 @@ Slides
 DOI
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JOURQUAL3: C &lt;/span>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">GGS 2021: A &lt;/span>
 &lt;/p>
 &lt;/div></description></item><item><title>Paper on digital signage for retail is online</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-11-08-paper-on-digital-signage-for-retail-online/</link><pubDate>Thu, 08 Nov 2018 18:47:08 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-11-08-paper-on-digital-signage-for-retail-online/</guid><description>&lt;p>I like interdisciplinary work. The paper on &amp;lsquo;&amp;lsquo;Research directions for digital signage systems in retail&amp;rsquo;&amp;rsquo; is joint efforts from informatics, (e-)business, marketing, and consumer behavior.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -1276,6 +1279,7 @@ Slides
 DOI
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JOURQUAL3: C &lt;/span>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">GGS 2021: A &lt;/span>
 &lt;i class="fas fa-award mr-1">&lt;/i>
 nominated for Best Paper Award
 &lt;/p>
