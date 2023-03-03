@@ -32,6 +32,7 @@ design:
   flip_alt_rows: false
 ---
 
+RecSys 2023  
 SIGIR 2023  
 CHI 2023, 2021, 2020  
 ECIS 2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015  

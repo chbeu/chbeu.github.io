@@ -27,7 +27,7 @@ feature:
   icon: chalkboard-teacher
   icon_pack: fas
 - name: Community service
-  description: AE at TORS<br>Conf. Co-Chair (e.g., RecSys, CHI, CIKM)<br>Meta-Reviewer (e.g., CHI, SIGIR, ISMIR)<br>Reviewer for >25 journals and >100 conferences<br>Workshop Organizer
+  description: AE at TORS<br>Conf. Co-Chair (e.g., RecSys, CHI, CIKM)<br>Meta-Reviewer (e.g., CHI, RecSys, SIGIR, ISMIR)<br>Reviewer for >25 journals and >100 conferences<br>Workshop Organizer
   icon: users
   icon_pack: fas
 - name: International experience
