@@ -44,7 +44,7 @@ experience:
   company_logo: chi_2023
   date_end: ""
   title: "Allyship Co-Chair"
-  description: "with Siobahn Day Grady <br>SIGCHI Conference on Human Factors in Computing Systems (CHI 2023)"
+  description: "with Siobahn Day Grady, assisted by Anouk van Kasteren<br>SIGCHI Conference on Human Factors in Computing Systems (CHI 2023)"
   company_url: "https://chi2023.acm.org"
   #url: ""
   date_start: "2023-04-01"
