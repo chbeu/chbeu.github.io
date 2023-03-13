@@ -53,7 +53,8 @@ experience:
     #location: Austria
     date_start: '2021-06-01'
     date_end: '2022-05-31'
-    description:  with Bruce Ferwerda<br>[Link to Research Topic](https://www.frontiersin.org/research-topics/23412/human-issues-in-recommender-systems#overview)
+    description:  with Bruce Ferwerda
+    #<br>[Link to Research Topic](https://www.frontiersin.org/research-topics/23412/human-issues-in-recommender-systems#overview)
     
 
 design:
