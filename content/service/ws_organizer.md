@@ -28,6 +28,12 @@ experience:
     date_end: "2024-05-24"
     description: "with Alan Said and Eva Zangerle"
     company_url: "https://www.dagstuhl.de/24211"
+  - company: "PERSPECTIVES 2023: 3rd Workshop on the Perspectives on the Evaluation of Recommender Systems"
+    title: Workshop Co-Organizer
+    date_start: "2023-09-18"
+    date_end: "2023-09-22"
+    description: "co-located with [17th ACM Conference on Recommender Systems (RecSys 2023)](https://recsys.acm.org/recsys23/)<br><br>with Alan Said and Eva Zangerle"
+    company_url: "https://perspectives-ws.github.io/2023/"
   - company: "Dagstuhl 23031: Frontiers of Information Access Experimentation for Research and Education"
     title: Dagstuhl Seminar Co-Organizer
     date_start: "2023-01-15"

@@ -33,7 +33,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-08-01T00:00:00Z"
 
-#authors: ["Christine Bauer",]
+authors: [Christine Bauer, Stephan Baumann, Amélie Heldt, Ronny Krieger]
 tags: [panel, VUT Indie Days, music, gender bias, discrimination, artificial intelligence]
 
 # Is this a featured talk? (true/false)
