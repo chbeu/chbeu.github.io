@@ -32,6 +32,7 @@ design:
   flip_alt_rows: false
 ---
 
+Information Systems Research  
 ACM Transactions on Interactive Intelligent Systems (TiiS)  
 Human-Computer Interaction  
 ACM Transactions on Recommender Systems (TORS)  
