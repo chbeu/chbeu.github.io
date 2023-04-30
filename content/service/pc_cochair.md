@@ -48,6 +48,7 @@ experience:
   company_url: "https://chi2023.acm.org"
   #url: ""
   date_start: "2023-04-01"
+  date_end: "2023-04-28"
 - company: "CHI 2022"
   company_logo: chi_2022
   title: "Allyship Co-Chair"
