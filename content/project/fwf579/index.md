@@ -1,6 +1,6 @@
 ---
 title: Fine-grained culture-aware music recommender systems
-summary: This FWF-funded project (2017-2020) aimed to design and implement music recommender systems that are able to meet those requirements by considering different granularity levels of cultural aspects in a comprehensive way.
+summary: This FWF-funded project (2017--2020) aimed to design and implement music recommender systems that are able to meet those requirements by considering different granularity levels of cultural aspects in a comprehensive way.
 tags:
 - music recommender systems
 - cultural aspects
