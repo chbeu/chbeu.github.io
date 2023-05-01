@@ -16,12 +16,12 @@ content:
 
   # Contact details (edit or remove options as required)
   email: c.bauer@uu.nl
-#  address:
-#    street: Princetonplein 5
-#    city: Utrecht
-#    postcode: '3584 CC'
-#    country: The Netherlands
-#    country_code: NL
+  address:
+    street: Jakob-Haringer-Strasse 2
+    city: Salzburg
+    postcode: '5020'
+    country: Austria
+    country_code: AT
 #  directions: Enter BBG and take the stairs to Office 4.21 on Floor 4
 #  office_hours:
 #    - 'Monday-Friday 10:00 to 17:00'
