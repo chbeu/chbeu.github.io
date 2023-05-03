@@ -15,7 +15,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: c.bauer@uu.nl
+  email: christine.bauer@plus.ac.at
   address:
     street: Jakob-Haringer-Strasse 2
     city: Salzburg
