@@ -5,7 +5,7 @@ summary: "University of Salzburg made a news entry to announce my start."
 authors: 
 #authors: [Christine Bauer]
 categories: [news]
-tags: [new position, salzburg]
+tags: [new position, salzburg, EXDIGIT]
 date: 2023-05-05T09:00:00+02:00
 featured: false
 draft: false
@@ -18,7 +18,7 @@ image:
 #  caption: ""
 #  focal_point: "Smart"
 #  preview_only: false
-  placement: 300
+  placement: 1
 
 
 # Projects (optional).
