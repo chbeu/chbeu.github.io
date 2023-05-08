@@ -62,3 +62,5 @@ image:
 #projects:
 #- internal-project
 ---
+
+[Summary of the event (in German](https://www.musicaustria.at/wir-sind-ein-land-der-musik-wenn-man-uns-spielen-laesst/)
