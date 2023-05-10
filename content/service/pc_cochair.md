@@ -26,6 +26,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 - company: "CIKM 2023"
+  company_logo: cikm_2023
   date_end: ""
   title: "PhD Symposium Co-Chair"
   description: "with Haiming Liu <br>32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)"
