@@ -44,7 +44,7 @@ authors: [Christine Bauer, Andrés Ferraro, Emilia Gómez, Lorenzo Porcaro]
 tags: [tutorial, ISMIR, trustworthy, values, music information retrieval, recommender systems, fairness, diversity, transparency, impact assessment]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   preview only: false
