@@ -38,7 +38,7 @@ experience:
     title: Dagstuhl Seminar Co-Organizer
     date_start: "2023-01-15"
     date_end: "2023-01-20"
-    description: "with Ben Carterette, Nicola Ferro, and Norbert Fuhr"
+    description: "with Ben Carterette, Nicola Ferro, and Norbert Fuhr<br><br>[See preprint of the Dagstuhl report on arXiv](https://arxiv.org/abs/2305.01509)"
     company_url: "https://www.dagstuhl.de/23031"
   - company: "PERSPECTIVES 2022: 2nd Workshop on the Perspectives on the Evaluation of Recommender Systems"
     title: Workshop Co-Organizer
