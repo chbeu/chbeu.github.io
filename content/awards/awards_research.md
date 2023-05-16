@@ -70,7 +70,7 @@ item:
   description: "Computers Privacy & Data Protection (CPDP 2013)"
   organization_url: ""
   certificate_url: "../images/awards/cpdp2013_award.jpg"
-  date_start: "2013-03-01"
+  date_start: "2013-01-01"
 - organization: "Dr. Maria Schaumayer Stiftung"
   title: "Dr. Maria Schaumayer Prize 2011"
   #paper: "Master thesis"
