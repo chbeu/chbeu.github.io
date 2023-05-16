@@ -95,10 +95,10 @@ item:
 - organization: "IADIS 2008"
   title: "Best Research Paper Award"
   #paper: "C33"
-  description: " IADIS International Conference e-Learning 2008 (e-Learning 2008) part of MCCSIS 2008"
+  description: " IADIS International Conference e-Learning 2008 (IADIS e-Learning 2008) part of MCCSIS 2008"
   organization_url: ""
   certificate_url: "../images/awards/elearning2008_bestresearchpaper.jpeg"
-  date_start: "2008-08-01"
+  date_start: "2008-07-05"
 
 design:
   columns: '2' 
