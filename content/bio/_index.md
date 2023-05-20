@@ -23,7 +23,7 @@ image:
   alt_text: ""
 ---
 
-Christine Bauer is a professor at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the University of Salzburg, Austria.
+Christine Bauer is a professor at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the Paris Lodron University Salzburg, Austria.
 
 <!--Her research vision is to leverage intelligent systems and embed them into socio-technical ecosystems to benefit humans and society. -->
 Her research activities center on interactive intelligent systems, where she integrates research on intelligent technologies, the interaction of humans with intelligent systems, and heir interplay. Thereby, she takes a human-centered computing approach, where technology follows humans’ and society’s needs. Central themes in her research are context and context-adaptivity. In recent years, she worked on context-aware recommender systems in the music and media domains. Core interests in her research activities are fairness and multi-method evaluations. Further interests span various fields such as online self-disclosure and privacy, methods for designing context-adaptive systems, and the creative industries, particularly the music sector.

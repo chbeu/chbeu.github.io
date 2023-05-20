@@ -16,7 +16,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: christine.bauer@plus.ac.at
-  address:
+  address: 
     street: Jakob-Haringer-Strasse 6
     city: Salzburg
     postcode: '5020'
