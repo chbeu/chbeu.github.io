@@ -10,11 +10,11 @@ last_name: Bauer
 superuser: true
 
 # Role/position/tagline
-#role: Professor in Human-Centered Computing
+#role: EXDIGIT Professor for<br> Interactive Intelligent Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Salzburg
+- name: Paris Lodron University Salzburg
   url: https://www.plus.ac.at
 
 # Short bio (displayed in user profile at end of posts)
