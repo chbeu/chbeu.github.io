@@ -42,7 +42,7 @@ featured: false
 image:
   #caption: 'Image credit:'
   focal_point: Smart
-  placement: 100
+  placement: 300
 
 
 # Projects (optional).
