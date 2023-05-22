@@ -1,11 +1,11 @@
 ---
-title: "Appointment at the University of Salzburg "
+title: "Appointment at the Paris Lodron University Salzburg "
 subtitle: ""
-summary: "As of today, I am appointed professor at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the University of Salzburg, Austria."
+summary: "As of today, I am appointed professor at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the Paris Lodron University Salzburg, Austria."
 authors: 
 #authors: [Christine Bauer]
 categories: [news]
-tags: [new position, salzburg]
+tags: [new position, salzburg, EXDIGIT]
 date: 2023-05-01T09:00:00+02:00
 featured: false
 draft: false
@@ -29,5 +29,5 @@ image:
 #projects: []
 ---
 
-I am very happy to share thatI am appointed professor at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the University of Salzburg, Austria, as of today.
-With this appointment, I will join the project EXDIGIT (Excellence in Digital Sciences and Interdisciplinary Technologies).
+I am very happy to share that I am appointed professor at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the Paris Lodron University Salzburg, Austria, as of today.
+With this appointment, I will join the project [EXDIGIT (Excellence in Digital Sciences and Interdisciplinary Technologies)](https://uni-salzburg.elsevierpure.com/en/projects/excellence-in-digital-sciences-and-interdisciplinary-technologies).
