@@ -22,7 +22,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Intelligent interactive systems
+- Interactive intelligent systems
 - Recommender systems
 - Context-adaptive systems
 - Human-centered computing
