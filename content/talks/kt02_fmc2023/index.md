@@ -63,5 +63,16 @@ url_program: "https://www.futuremusiccamp.de/programm/"
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 #projects: []
+
+gallery_item:
+- album: kt02_fmc2023
+  image: 6_IMG_6795.jpeg
+  caption: 'Opening performance by Halli Kalli'
+- album: kt02_fmc2023
+  image: 3_IMG_6823a.JPG
+  caption: "'Master of Ceremony' David Stammer introducing my keynote"
 ---
+
+
+{{< gallery album="kt02_fmc2023" >}}
 
