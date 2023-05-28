@@ -1,5 +1,5 @@
 ---
-title: "TBA"
+title: "Three views of a secret: Embracing multiple perspectives in the evaluation of information retrieval and recommender systems"
 cms_exclude: true
 type: talk
 
@@ -22,7 +22,7 @@ address:
   country: Italy
 
 summary: IIR 2023 Keynote.
-abstract: ""
+abstract: "As users are increasingly confronted with information and choice overload, we need the ‘right’ information, at the ‘right’ time, in the ‘right’ place, in the ‘right’ way, to the ‘right’ person. Information retrieval and recommender systems are effective means to address this goal. When optimizing and evaluating such systems, we often disregard that a ‘typical’ user is not the only stakeholder interested in a well-functioning system. Beyond ignoring the needs of specific stakeholders, this eventually leads to a malfunctioning system for anyone. In this talk, I will demonstrate that we need to consider the demands of the various stakeholders and provide insights into how we can embrace those needs when evaluating our systems."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -62,4 +62,4 @@ links:
 
 
 <br>
-Christine Bauer (2023). TBA. Keynote at the 13th Italian Information Retrieval Workshop (IIR 2023). Pisa, Italy, 9 June.
+Christine Bauer (2023). Three views of a secret: Embracing multiple perspectives in the evaluation of information retrieval and recommender systems. Keynote at the 13th Italian Information Retrieval Workshop (IIR 2023). Pisa, Italy, 9 June.
