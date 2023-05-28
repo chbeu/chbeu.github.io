@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Christine Bauer
-tags: []
+tags: [evaluation, multimethod, adaptive systems, personalization, recommender systems]
 categories: []
 date: 2021-06-21 #21-25 June
 lastmod: 2021-08-08T03:11:12+02:00

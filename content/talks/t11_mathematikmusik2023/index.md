@@ -34,7 +34,7 @@ all_day: true
 publishDate: "2023-05-17T00:00:00Z"
 
 authors: []
-tags: [talk, music, recommender systems, fairness, artists]
+tags: [talk, music, recommender systems, fairness, artists, music recommender systems]
 
 # Is this a featured talk? (true/false)
 featured: false

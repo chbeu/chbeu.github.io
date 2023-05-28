@@ -34,7 +34,7 @@ all_day: true
 publishDate: "2023-05-12T00:00:00Z"
 
 #authors: ["Christine Bauer"]
-tags: [keynote, talk, humanize, adaptation, personalization, situationalization]
+tags: [keynote, talk, IIR, evaluation, recommender systems, information retrieval, multimethods, mutli-stakeholder]
 
 # Is this a featured talk? (true/false)
 featured: true

@@ -3,8 +3,7 @@
 
 title: "Publication: Constructing gender in audio"
 subtitle: ""
-summary: "New publication is online. Constructing gender in audio: Exploring how the curation of the voice in music
-  and speech influences our conception of gender identity."
+summary: "New publication is online. Constructing gender in audio: Exploring how the curation of the voice in music  and speech influences our conception of gender identity."
 authors: 
 #authors: [Christine Bauer]
 categories: [news]

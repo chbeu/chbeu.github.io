@@ -6,6 +6,7 @@ tags:
 - artists
 - fairness
 - algorithmic decision-making
+- recommender systems
 date: "2019-09-01T00:00:00Z"
 profile: false
 

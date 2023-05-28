@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: []
 categories: [news]
-tags: [recommender systems, kick-off, value-driven, project, news, DPG Media]
+tags: [recommender systems, kick-off, value-driven, project, news, DPG Media, news recommendation]
 date: 2022-03-01T23:10:18+01:00
 lastmod: 2022-03-15T23:10:18+01:00
 featured: false

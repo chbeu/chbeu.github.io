@@ -34,7 +34,7 @@ all_day: true
 publishDate: "2022-09-18T00:00:00Z"
 
 authors: [Christine Bauer, Robin Burke, Tara Safavi, Tao Ye, Yi Zhang]
-tags: [panel, RecSys, PhD, career, mentoring]
+tags: [panel, RecSys, PhD, career, mentoring, doctoral symposium]
 
 # Is this a featured talk? (true/false)
 featured: false

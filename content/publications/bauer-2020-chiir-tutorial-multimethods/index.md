@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Christine Bauer
-tags: [evaluation, CHIIR, tutorial, multimethods]
+tags: [evaluation, CHIIR, tutorial, multimethod]
 categories: []
 date: 2020-03-14 #14-18 March
 lastmod: 2021-08-08T03:11:13+02:00

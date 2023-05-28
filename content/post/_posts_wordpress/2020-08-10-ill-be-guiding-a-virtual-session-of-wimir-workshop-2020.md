@@ -18,6 +18,7 @@ tags:
   - talk
   - teaching
   - WiMIR
+  - music information retrieval
 ---
 I am happy to announce that I will be guiding one of the nine virtual sessions of the [WiMIR workshop 2020](https://wimir.wordpress.com) at [ISMIR 2020](https://ismir.github.io/ISMIR2020/). The title of my session is: _The **best ever** recommendation & For who? And how do you know that?_
 

@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Eva Zangerle
 - Christine Bauer
-tags: [evaluation, recommender systems, FEVR, survey]
+tags: [evaluation, recommender systems, FEVR, survey, multimethod, framework]
 categories: []
 date: '2022-08-19'
 lastmod: 2022-08-21T03:11:11+02:00

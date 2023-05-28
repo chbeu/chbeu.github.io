@@ -7,7 +7,7 @@ summary: "PERSPECTIVES 2022: The workshop 'Perspectives on the Evaluation of Rec
 authors: 
 #authors: [Christine Bauer]
 categories: [news]
-tags: [RecSys, evaluation, recommender systems, workshop, CfP]
+tags: [RecSys, evaluation, recommender systems, workshop, CfP, PERSPECTIVES]
 date: 2022-04-14T17:35:06+02:00
 lastmod: 2022-04-14T17:35:06+02:00
 featured: false

@@ -5,7 +5,7 @@ summary: "Interview on music recommender systems and how they influence the musi
 authors: 
 #authors: [Christine Bauer]
 categories: [news]
-tags: [interview, recommender systems, music, recommender systems, media, implications]
+tags: [interview, recommender systems, music, recommender systems, media, implications, future music camp]
 date: 2023-05-12T10:00:00+02:00
 featured: false
 draft: false

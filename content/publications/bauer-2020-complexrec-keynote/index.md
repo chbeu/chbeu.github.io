@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Christine Bauer
-tags: []
+tags: [keynote, ComplexRec, RecSys, recommender systems, context]
 categories: []
 date: 2020-09-25
 lastmod: 2021-08-08T03:11:12+02:00

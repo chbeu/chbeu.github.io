@@ -34,7 +34,7 @@ date_end: "2021-10-07T21:00:00Z"
 publishDate: "2021-08-01T00:00:00Z"
 
 #authors: []
-tags: [panel, Impakt TV, music, algorithms, dutch media week]
+tags: [panel, Impakt TV, music, algorithms, dutch media week, media, music recommender systems]
 
 # Is this a featured talk? (true/false)
 featured: false

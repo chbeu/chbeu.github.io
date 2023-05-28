@@ -17,6 +17,7 @@ tags:
   - recommender systems
   - workshop
   - RecSys
+  - PERSPECTIVES
 ---
 I am happy to announce that we---[Eva Zangerle](https://evazangerle.at), [Alain Said])https://www.alansaid.com), and me---will co-organize the workshop [Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES)](https://perspectives-ws.github.io/2021/) at [RecSys 2021](https://recsys.acm.org/recsys21/). Finger crossed that the event can indeed happen in Amsterdam and that many of use can safely participate. There will definitely be the possibility to participate online.
 

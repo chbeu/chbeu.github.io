@@ -5,6 +5,7 @@ A single evaluation method or measure is not able to evaluate all relevant aspec
 tags:
 - evaluation
 - methods
+- multimethod
 date: "2018-03-01T00:00:00Z"
 profile: false
 

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Christine Bauer
 - Eva Zangerle
-tags: []
+tags: [evaluation, multimethod, multi-stakeholder]
 categories: []
 date: 2019-09-19
 lastmod: 2021-08-08T03:11:13+02:00

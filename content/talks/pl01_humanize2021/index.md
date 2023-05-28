@@ -34,7 +34,7 @@ all_day: true
 publishDate: "2021-08-01T00:00:00Z"
 
 authors: [Christine Bauer, Peter Knees, Elisabeth Lex, Dimitris Sacharidis]
-tags: [panel, humanize, human-centered ai, artificial intelligence]
+tags: [panel, humanize, human-centered ai, artificial intelligence, IUI]
 
 # Is this a featured talk? (true/false)
 featured: false

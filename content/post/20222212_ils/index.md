@@ -4,7 +4,7 @@ subtitle: ""
 summary: "New UMUAI paper is online: \"Intra-list similarity and human diversity perceptions of recommendations: the details matter\""
 authors: 
 categories: [news]
-tags: [ILS, intra-list similarity, diversity, perception, publication, UMUAI]
+tags: [ILS, intra-list similarity, diversity, perception, publication, UMUAI, recommender systems]
 date: 2022-12-22T02:00:06+02:00
 lastmod: 2022-12-22T02:00:06+02:00
 featured: false

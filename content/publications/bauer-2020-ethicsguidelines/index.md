@@ -15,7 +15,7 @@ authors:
 - Courtney Reed
 - Sertan Şentürk
 - Gissel Velarde
-tags: []
+tags: [ISMIR, music information retrieval, WiMIR, ethics]
 categories: []
 date: 2019-11-03
 lastmod: 2021-08-08T03:11:12+02:00

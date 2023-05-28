@@ -9,7 +9,7 @@ authors:
 - Eva Zangerle
 - Christine Bauer
 - Alan Said
-tags: [evaluation, RecSys]
+tags: [PERSPECTIVES, evaluation, RecSys]
 categories: []
 date: '2021-09-25' #25 September - 1 October
 lastmod: 2021-08-08T03:11:11+02:00

@@ -8,7 +8,7 @@ authors:
 - Eva Zangerle
 - Christine Bauer
 - Alan Said
-tags: [perspectives, evaluation, RecSys]
+tags: [PERSPECTIVES, evaluation, RecSys]
 categories: []
 date: '2022-10-03' 
 lastmod: 2022-10-03T03:11:11+02:00
