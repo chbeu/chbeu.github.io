@@ -63,4 +63,6 @@ image:
 #- internal-project
 ---
 
-[Summary of the event (in German](https://www.musicaustria.at/wir-sind-ein-land-der-musik-wenn-man-uns-spielen-laesst/)
+[Summary of the event (in German)](https://www.musicaustria.at/wir-sind-ein-land-der-musik-wenn-man-uns-spielen-laesst/)
+
+[Photo gallery on Flickr](https://www.flickr.com/photos/wirtschaftskammer/albums/72177720308506988)
