@@ -69,8 +69,30 @@ gallery_item:
   image: 6_IMG_6795.jpeg
   caption: 'Opening performance by Halli Kalli'
 - album: kt02_fmc2023
-  image: 3_IMG_6823a.JPG
+  image: 4a_IMG_6823a.JPG
   caption: "'Master of Ceremony' David Stammer introducing my keynote"
+- album: kt02_fmc2023
+  image: 3a_Credits_CAPADOL_230526_HighRes_08479.jpg
+  caption: 'Image credit: [**CAPADOL**](https://capadol.de), 2023.'
+- album: kt02_fmc2023
+  image: 3b_Credits_CAPADOL_230526_HighRes_08565.jpg
+  caption: 'Image credit: [**CAPADOL**](https://capadol.de), 2023.'
+- album: kt02_fmc2023
+  image: 3c_Credits_CAPADOL_230526_HighRes_08516.jpg
+  caption: 'Image credit: [**CAPADOL**](https://capadol.de), 2023.'
+- album: kt02_fmc2023
+  image: 3d_Credits_CAPADOL_230526_HighRes_08495.jpg
+  caption: 'Image credit: [**CAPADOL**](https://capadol.de), 2023.'
+- album: kt02_fmc2023
+  image: 97_Credits_CAPADOL_230526_HighRes_08537.jpg
+  caption: 'Image credit: [**CAPADOL**](https://capadol.de), 2023.' 
+- album: kt02_fmc2023
+  image: 98_Credits_CAPADOL_230526_HighRes_5374.jpg
+  caption: 'Image credit: [**CAPADOL**](https://capadol.de), 2023.' 
+- album: kt02_fmc2023
+  image: 99_Credits_CAPADOL_230525_HighRes_06941.jpg
+  caption: 'Image credit: [**CAPADOL**](https://capadol.de), 2023.' 
+  
 ---
 
 

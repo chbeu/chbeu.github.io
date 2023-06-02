@@ -61,8 +61,25 @@ image:
 #   Otherwise, set `projects = []`.
 #projects:
 #- internal-project
+
+gallery_item:
+- album: pd08_bzzzz2023
+  image: 1_52919135521_f3e3272484_o.jpg
+  caption: 'Image credit: **Patricia Weisskirchner**, 2023.'
+- album: pd08_bzzzz2023
+  image: 2_52918556032_af6c69a3f8_o.jpg
+  caption: 'Image credit: **Patricia Weisskirchner**, 2023.'
+- album: pd08_bzzzz2023
+  image: 3_52919294529_df2a97b0c3_o.jpg
+  caption: 'Image credit: **Patricia Weisskirchner**, 2023.'
+- album: pd08_bzzzz2023
+  image: 4_52919523230_e3351cc7d8_o.jpg
+  caption: 'Image credit: **Patricia Weisskirchner**, 2023.'
 ---
 
 [Summary of the event (in German)](https://www.musicaustria.at/wir-sind-ein-land-der-musik-wenn-man-uns-spielen-laesst/)
 
 [Photo gallery on Flickr](https://www.flickr.com/photos/wirtschaftskammer/albums/72177720308506988)
+
+{{< gallery album="pd08_bzzzz2023" >}}
+
