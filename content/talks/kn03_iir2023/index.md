@@ -58,8 +58,20 @@ links:
 #   Otherwise, set `projects = []`.
 #projects:
 #- internal-project
+
+
+gallery_item:
+- album: kn03_iir2023
+  image: 1.jpeg
+  caption: 'Image credit: Nicola Tonellotto, 2023.'
+- album: kn03_iir2023
+  image: 2.jpeg
+  caption: 'Image credit: Nicola Tonellotto, 2023.'
 ---
+
+<br>
+{{< gallery album="kn03_iir2023" >}}
 
 
 <br>
-Christine Bauer (2023). Three views of a secret: Embracing multiple perspectives in the evaluation of information retrieval and recommender systems. Keynote at the 13th Italian Information Retrieval Workshop (IIR 2023). Pisa, Italy, 9 June.
+Christine Bauer (2023). Three views of a secret: embracing multiple perspectives in the evaluation of information retrieval and recommender systems. Keynote at the 13th Italian Information Retrieval Workshop (IIR 2023). Pisa, Italy, 9 June.
