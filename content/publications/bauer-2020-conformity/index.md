@@ -12,7 +12,7 @@ tags: [conformity, music, group decision-making, flipping direction]
 categories: []
 date: 2020-04-01 #25-30 April
 lastmod: 2022-12-10T03:11:12+02:00
-featured: false
+featured: true
 draft: false
 profile: false
 
