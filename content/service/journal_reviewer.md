@@ -32,7 +32,7 @@ design:
   flip_alt_rows: false
 ---
 
-Information Systems Research  
+Information Systems Research (ISR)  
 ACM Transactions on Interactive Intelligent Systems (TiiS)  
 Human-Computer Interaction  
 ACM Transactions on Recommender Systems (TORS)  
