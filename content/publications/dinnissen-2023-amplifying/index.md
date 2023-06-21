@@ -39,8 +39,16 @@ abstract: "The majority of music consumption nowadays takes place on music strea
 publication: '*31st ACM Conference on User Modeling, Adaptation and Personalization*'
 publication_short: UMAP 2023
 doi: 10.1145/3565472.3592960
+
+links:
+- icon: acmdl
+  icon_pack: ai
+  name: ACM Author-izer
+  url:  https://dl.acm.org/doi/10.1145/3565472.3592960?cid=81453628934
+
 zenodo: 10.5281/zenodo.7883507
-altmetric: false
+altmetric: true
 plumx: false
 dimensions: false
+
 ---
