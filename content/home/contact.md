@@ -25,7 +25,7 @@ content:
 #  directions: Enter BBG and take the stairs to Office 4.21 on Floor 4
 #  office_hours:
 #    - 'Monday-Friday 10:00 to 17:00'
-#  appointment_url: https://outlook.office365.com/owa/calendar/MeetingswithChristineBauer@solisservices.onmicrosoft.com/bookings/
+  appointment_url: https://calendly.com/christine_bauer?hide_gdpr_banner=1&primary_color=3399cc
   contact_links:
     - icon: twitter
       icon_pack: fab
@@ -35,3 +35,9 @@ content:
 design:
   columns: '2'
 ---
+
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/christine_bauer/30min?hide_gdpr_banner=1&primary_color=3399cc'});return false;"></a>
+<!-- Calendly link widget end -->
