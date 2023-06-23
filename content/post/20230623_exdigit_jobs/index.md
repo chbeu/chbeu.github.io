@@ -37,7 +37,7 @@ I expect the ability and interest to employ both, **computational research appro
 
 **The closing date for applications is 31 July 2023.**
 
-[Full vacancy description (in German)](https://www.plus.ac.at/wp-content/uploads/2023/06/EXDIGIT_C4C_ResearchCollege_deutsch.pdf)  
+[Full vacancy description (in German)](./EXDIGIT_C4C_ResearchCollege_deutsch.pdf)  
 [Full vacancy description (in English)](./C4C_ResearchCollege_final_EN.pdf)  
 
 For questions, please address me directly via e-mail.
