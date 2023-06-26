@@ -30,10 +30,10 @@ profile: false
 ---
 
 I am happy to announce that we have several vacant positions (at PhD and Postdoc level) to work with us within the framework of the EXDIGIT Research College at the Paris-Lodron University of Salzburg.
-EXDIGIT stands for "Excellence in Digital Sciences and Interdisciplinary Technologies". In this interdisciplinary endeavor, we put a particular emphasis on bridging the existing research areas and represented disciplines at the faculty. 
+EXDIGIT stands for "Excellence in Digital Sciences and Interdisciplinary Technologies". In this interdisciplinary endeavor, we emphasize bridging the existing research areas and represented disciplines at the faculty. 
 
-I am particularly seeking for candidates to work with me on topics related to **fairness of algorithmic decision-making** and **adaptation and personalization**---specifically in the **recommender systems** field. Interest in the researching these topics in the music or media sector is a particular asset.
-I expect the ability and interest to employ both, **computational research approaches** (e.g., offline evaluation in recommender systems research, data analysis of large data sets) as well **experimental (user) studies** (e.g., controlled experiments in the lab or in online settings).
+I seek candidates to work with me on topics related to **fairness of algorithmic decision-making** and **adaptation and personalization**---specifically in the **recommender systems** field. Interest in researching these topics in the music or media sector is a particular asset.
+I expect the ability and interest to employ both **computational research approaches** (e.g., offline evaluation in recommender systems research, data analysis of large data sets) as well as **experimental (user) studies** (e.g., controlled experiments in the lab or online settings).
 
 **The closing date for applications is 31 July 2023.**
 
