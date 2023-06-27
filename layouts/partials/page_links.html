@@ -183,6 +183,17 @@
 
 {{partial "functions/chb_get_publication_rating"  (dict "context" . "publication" $publication "publication_short" $publication_short) }}
 
+{{ range $page.Params.icons }}
+  {{ $pack := or .icon_pack "fas" }}
+  {{ $pack_prefix := $pack }}
+  {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+    {{ $pack_prefix = "fa" }}
+  {{ end }}
+    {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}
+    {{ with .name }}<b>{{ . }}</b>{{end}}
+{{ end }}
+
+
 {{ with $page.Params.altmetric }}
   {{if $doi}}
     {{partial "functions/chb_get_altmetricbadge"  (dict "context" . "doiparent" $doi) }}
@@ -196,12 +207,5 @@
 {{ with $page.Params.plumx }}
   {{partial "functions/chb_get_plumxbadge"  (dict "context" . "doiparent" $doi) }}
 {{ end }}
-{{ range $page.Params.icons }}
-  {{ $pack := or .icon_pack "fas" }}
-  {{ $pack_prefix := $pack }}
-  {{ if in (slice "fab" "fas" "far" "fal") $pack }}
-    {{ $pack_prefix = "fa" }}
-  {{ end }}
-    {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}
-    {{ with .name }}{{ . }}{{end}}
-{{ end }}
+
+
