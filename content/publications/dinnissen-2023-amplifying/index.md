@@ -46,6 +46,11 @@ links:
   name: ACM Author-izer
   url:  https://dl.acm.org/doi/10.1145/3565472.3592960?cid=81453628934
 
+icons:
+- icon: award
+  icon_pack: fas
+  name: nominated for Best Paper Award
+
 zenodo: 10.5281/zenodo.7883507
 altmetric: true
 plumx: false
