@@ -40,4 +40,8 @@ I expect the ability and interest to employ both **computational research approa
 [Full vacancy description (in German)](./EXDIGIT_C4C_ResearchCollege_deutsch.pdf)  
 [Full vacancy description (in English)](./C4C_ResearchCollege_final_EN.pdf)  
 
-For questions, please address me directly via e-mail.
+For questions related to the positions on my topics, please address me directly via e-mail.
+
+***
+
+In addition to positions related to my favorite research topics, the EXDIGIT Research College has further vacancies on a wide set of topics (both at PhD and Postdoc level). For details, please refer to the full vacancy description.
