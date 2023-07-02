@@ -54,7 +54,7 @@ image:
 #url_code: ""
 #url_pdf:  ""
 #url_slides:  ""
-#url_video: ""
+url_video: "https://youtu.be/Q63NUsg8xr4"
 url_program: "https://www.futuremusiccamp.de/programm/"
 
 # Projects (optional).
@@ -95,6 +95,9 @@ gallery_item:
   
 ---
 
+{{< youtube Q63NUsg8xr4 >}}
+<br>
+<br>
 
 {{< gallery album="kt02_fmc2023" >}}
 
