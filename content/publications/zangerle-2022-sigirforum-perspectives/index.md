@@ -35,7 +35,7 @@ publishDate: '2022-02-01T01:13:45.839142Z'
 publication_types:
 - '1'
 abstract: 'Evaluation is a central step when it comes to developing, optimizing, and deploying recommender systems. The PERSPECTIVES 2021 workshop at the 15th ACM Conference on Recommender Systems brought together academia and industry to critically reflect on the evaluation of recommender systems. The primary goal of the workshop was to capture the current state of evaluation from different, and maybe even diverging or contradictory perspectives.'
-publication: '*SIGIR Forum*'
+publication: '*ACM SIGIR Forum*'
 doi: 10.1145/3527546.3527565
 links: 
 - icon: acmdl
