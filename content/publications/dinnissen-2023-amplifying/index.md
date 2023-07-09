@@ -49,7 +49,7 @@ links:
 icons:
 - icon: award
   icon_pack: fas
-  name: nominated for Best Paper Award
+  name: nominated for Best Student Paper Award
 
 zenodo: 10.5281/zenodo.7883507
 altmetric: true
