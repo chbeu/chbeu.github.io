@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - organization: "UMAP 2023"
-  title: "Nomination for Best Paper Award"
+  title: "Nomination for Best Student Paper Award"
   description: '31st ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2023)<br>{{< cite page="dinnissen-2023-amplifying" view="4" >}}'
   #organization_url: ""
   #certificate_url: ""
   date_start: "2023-06-27"
 - organization: "HICSS 2018"
-  title: "Nomination for Best Student Paper Award"
+  title: "Nomination for Best Paper Award"
   description: '51st Hawaii International Conference on System Sciences (HICSS 2018)<br>{{< cite page="bauer-2018-openmodel-onlineselfdisclosure" view="4" >}}'
   #organization_url: ""
   #certificate_url: ""
