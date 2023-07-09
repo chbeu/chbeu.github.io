@@ -34,7 +34,7 @@ ICWSM 2023
 BIAS 2023  
 IUI 2023, 2022 {{< icon name="award" pack="fas" >}}   
 HICSS 2023, 2018, 2015  
-UMAP 2023 {{< icon name="trophy" pack="fas" >}}, 2022, 2021, 2020, 2019 {{< icon name="award" pack="fas" >}}, 2018, 2017  
+UMAP 2023 {{< icon name="award" pack="fas" >}}, 2022 {{< icon name="trophy" pack="fas" >}}, 2021, 2020, 2019 {{< icon name="award" pack="fas" >}}, 2018, 2017  
 SIGIR 2022  
 HT 2022  
 GMAP 2022  
