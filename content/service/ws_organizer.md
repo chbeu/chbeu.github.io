@@ -22,6 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - company: "Dagstuhl Perspectives Workshop: Conversational Agents: A Framework for Evaluation (CAFE)"
+    title: Dagstuhl Perspectives Workshop Co-Organizer
+    date_start: "2024-08-25"
+#    date_end: "2024-09-30"
+    description: "with Li Chen, Nicola Ferro, and Norbert Fuhr"
+    #company_url: "https://www.dagstuhl.de/"
   - company: "Dagstuhl 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education"
     title: Dagstuhl Seminar Co-Organizer
     date_start: "2024-05-20"
@@ -30,15 +36,15 @@ experience:
     company_url: "https://www.dagstuhl.de/24211"
   - company: "PERSPECTIVES 2023: 3rd Workshop on the Perspectives on the Evaluation of Recommender Systems"
     title: Workshop Co-Organizer
-    date_start: "2023-09-18"
-#    date_end: "2023-09-22"
+    date_start: "2023-09-19"
+#    date_end: "2023-09-19"
     description: "co-located with [17th ACM Conference on Recommender Systems (RecSys 2023)](https://recsys.acm.org/recsys23/)<br><br>with Alan Said and Eva Zangerle"
     company_url: "https://perspectives-ws.github.io/2023/"
   - company: "Dagstuhl 23031: Frontiers of Information Access Experimentation for Research and Education"
     title: Dagstuhl Seminar Co-Organizer
     date_start: "2023-01-15"
     date_end: "2023-01-20"
-    description: "with Ben Carterette, Nicola Ferro, and Norbert Fuhr<br><br>[See preprint of the Dagstuhl report on arXiv](https://arxiv.org/abs/2305.01509)"
+    description: "with Ben Carterette, Nicola Ferro, and Norbert Fuhr<br><br>[See the Dagstuhl report](/publications/bauer-2023-dagstuhl/)<br>[See event report in SIGIR Forum](/publications/bauer-2023-sigir-dagstuhl/)"
     company_url: "https://www.dagstuhl.de/23031"
   - company: "PERSPECTIVES 2022: 2nd Workshop on the Perspectives on the Evaluation of Recommender Systems"
     title: Workshop Co-Organizer
@@ -56,7 +62,7 @@ experience:
     date_start: "2020-10-15"
     date_end: "2020-10-15"
     title: Meetup Organizer
-    description: "co-located with [21st International Society for Music Information Retrieval Conference (ISMIR 2020)](https://www.ismir2020.net)"
+    description: "co-located with [21st International Society for Music Information Retrieval Conference (ISMIR 2020)](https://www.ismir2020.net)<br><br>[See event report in SIGIR Forum](/publications/bauer-2020-helpartists/)"
   - company: "IUadaptMe 2018: Workshop on Intelligent User-Adapted Interfaces: Design and Multi-Modal Evaluation"
     title: Workshop Co-Organizer
     description: "co-located with [26th Conference on User Modeling, Adaptation and Personalization (UMAP 2018)](https://www.um.org/umap2018/)<br><br>with Ilknur Celik, Ilaria Torre, Frosina Koceva, Eva Zangerle, and Bart Knijnenburg"
