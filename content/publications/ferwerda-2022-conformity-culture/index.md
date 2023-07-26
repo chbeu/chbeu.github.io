@@ -20,8 +20,9 @@ profile: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  #caption: ''
+  placement: 500
+  focal_point: Smart
   preview_only: false
 
 # Projects (optional).

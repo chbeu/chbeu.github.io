@@ -20,7 +20,8 @@ profile: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  placement: 300
+  focal_point: Snart
   preview_only: false
 
 # Projects (optional).
