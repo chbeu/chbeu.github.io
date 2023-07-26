@@ -1,5 +1,5 @@
 ---
-title: "SpART: Spotlight on Artists in Recommenders Systems"
+title: "SpART: Spotlight on Artists in Recommender Systems"
 summary: The purpose of this project is to understand how current systems used to recommend music affect artists and to propose alternative solutions that could benefit the artists. The goal is to identify potential problems that affect artists, and to draw on the artists' perspective about how future recommender systems could work. 
 tags:
 - music recommender systems

@@ -33,7 +33,7 @@ experience:
     date_start: '2022-04-01'
     #date_end: '2024-03-31'
     description: |2-
-        Affiliation: Utrecht University<br>
+        Affiliation: Utrecht University & Paris Lodron University Salzburg<br>
         Partner: DPG Media
         * Co-Principal investigator, with Karin van Es
         * Project: Beyond Clicks: Value Driven Recommendations
