@@ -34,7 +34,7 @@ all_day: true
 publishDate: "2023-05-12T00:00:00Z"
 
 #authors: ["Christine Bauer"]
-tags: [keynote, talk, IIR, evaluation, recommender systems, information retrieval, multimethods, mutli-stakeholder]
+tags: [keynote, talk, IIR, evaluation, recommender systems, information retrieval, multimethods, multi-stakeholder]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -51,13 +51,7 @@ links:
 #url_slides: ""
 #url_video: ""
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects:
-#- internal-project
+projects: []
 
 
 gallery_item:
@@ -74,4 +68,4 @@ gallery_item:
 
 
 <br>
-Christine Bauer (2023). Three views of a secret: embracing multiple perspectives in the evaluation of information retrieval and recommender systems. Keynote at the 13th Italian Information Retrieval Workshop (IIR 2023). Pisa, Italy, 9 June.
+{{< cite  page="bauer-2023-three-views" view="4" >}}
