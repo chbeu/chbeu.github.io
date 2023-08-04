@@ -32,7 +32,7 @@ image:
 projects: [multimethod]
 publishDate: '2021-10-19T01:13:45.839142Z'
 publication_types:
-- '0'
+- '9'
 abstract: 'This volume of CEUR-WS proceedings includes papers of the Perspectives on the Evaluation of Recommender Systems Workshop 2021. The workshop is co-located with the ACM Recommender Systems Conference 2021 in Amsterdam, The Netherlands.
 The goal of the workshop was to capture the current state of evaluation and gauge whether there is—or should be—a different target that recommender systems evaluation should strive for. The workshop primarily addressed the question: “Where should we go from here as a community?” and aimed at coming up with concrete steps for action.
 We received 17 paper contributions and one abstract submission for the workshop. Each paper contribution received three reviews. We selected 12 papers for publication which will also be presented during the workshop. Furthermore, we accepted one abstract submission to be presented at the workshop.

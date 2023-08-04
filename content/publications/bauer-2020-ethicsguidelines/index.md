@@ -39,7 +39,7 @@ image:
 projects: []
 publishDate: '2021-08-08T01:13:47.114655Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
 publication: '*WiMIR workshop*'
 links: 

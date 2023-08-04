@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2021-08-08T01:13:47.437165Z'
 publication_types:
-- '1'
+- '10'
 abstract: "Among the many viable research questions in the field of recommender systems, a frequently addressed problem is to accurately predict the relevance of individual items to users, with the goal of presenting the assumedly most relevant ones as recommendations. Typically, we have users’ (explicit or implicit) ratings as input and rankings of items as output. Complex enough, yet too simplistic to reflect reality and indeed meet the various demands in practice.
 
 
