@@ -33,7 +33,7 @@ profile: false
 projects: [multimethod]
 publishDate: '2023-02-01T01:13:45.839142Z'
 publication_types:
-- '1'
+- '4'
 abstract: 'Evaluation is a central step when it comes to developing, optimizing, and deploying recommender systems. The PERSPECTIVES 2022 workshop at the 16th ACM Conference on Recommender Systems brought together academia and industry to critically reflect on the evaluation of recommender systems. The primary goal of the workshop was to capture the current state of evaluation from different, and maybe even diverging or contradictory perspectives.<br>
 Date: 22 September, 2022.<br>
 Website: https://perspectives-ws.github.io/2022/'
