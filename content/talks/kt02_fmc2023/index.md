@@ -1,5 +1,5 @@
 ---
-title: "K.I. in der Musikbranche: Last oder Lösung?—Ethische Fragen im Zusammenhang mit Algorithmen"
+title: "Keynote: K.I. in der Musikbranche: Last oder Lösung?—Ethische Fragen im Zusammenhang mit Algorithmen"
 cms_exclude: true
 type: talk
 

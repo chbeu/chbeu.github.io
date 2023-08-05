@@ -1,5 +1,5 @@
 ---
-title: "Celebrating an engaged music community and breaking the bias"
+title: "Keynote: Celebrating an engaged music community and breaking the bias"
 cms_exclude: true
 type: talk
 

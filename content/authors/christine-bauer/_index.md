@@ -10,7 +10,7 @@ last_name: Bauer
 superuser: true
 
 # Role/position/tagline
-role: EXDIGIT Professor of<br> Interactive Intelligent Systems
+role: EXDIGIT Professor of <br>Interactive Intelligent Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
