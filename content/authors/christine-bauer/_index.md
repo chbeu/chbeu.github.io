@@ -83,10 +83,10 @@ social:
   icon_pack: ai
   icon_title: dblp
   link: https://dblp.uni-trier.de/pid/41/819.html
-#- icon: scopus
-#  icon_pack: ai
-#  icon_title: Scopus
-#  link: https://www.scopus.com/authid/detail.uri?authorId=24491705100
+- icon: scopus
+  icon_pack: ai
+  icon_title: Scopus
+  link: https://www.scopus.com/authid/detail.uri?authorId=24491705100
 - icon: semantic-scholar
   icon_pack: ai
   icon_title: SematicScholar
@@ -95,10 +95,10 @@ social:
   icon_pack: ai
   icon_title: Zotero
   link: https://www.zotero.org/christine_bauer/cv
-- icon: circle-notch
-  icon_pack: fas
-  icon_title: rescognito
-  link: https://rescognito.com/0000-0001-5724-1137
+#- icon: circle-notch
+#  icon_pack: fas
+#  icon_title: rescognito
+#  link: https://rescognito.com/0000-0001-5724-1137
 - icon: female
   icon_pack: fas
   icon_title: Speakerinnen
