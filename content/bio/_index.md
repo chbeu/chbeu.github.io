@@ -1,7 +1,7 @@
 ---
 title: 'Bio'
 date: 2022-12-18
-type: page
+type: chbpage
 draft: false
 
 reading_time: true  # Show estimated reading time?
