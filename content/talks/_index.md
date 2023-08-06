@@ -2,6 +2,8 @@
 title: Recent & Upcoming Talks
 cms_exclude: true
 
+type: chbpage
+
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
