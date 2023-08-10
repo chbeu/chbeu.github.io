@@ -28,9 +28,9 @@ We have a particularly strong commitment to invite and integrate researchers at 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-09-19"
-date_end: "2023-09-19"
-all_day: true
+date: "2023-09-19T09:00:00" #-05:00
+date_end: "2023-09-19T12:35:00"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-03-29T00:00:00Z"
