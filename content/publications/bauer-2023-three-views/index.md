@@ -22,10 +22,10 @@ profile: false
 #  preview_only: false
 
 projects: []
-publishDate: '2023-08-04T01:13:46.973627Z'
+publishDate: '2023-08-04T01:13:46'
 publication_types:
 - '10'
-abstract: "As users are increasingly confronted with information and choice overload, we need the 'right' information, at the 'right' time, in the 'right' place, in the 'right' way, to the `’right' person. Information retrieval and recommender systems are effective means to address this goal. When optimizing and evaluating such systems, we often disregard that a 'typical' user is not the only stakeholder interested in a well-functioning system. Beyond ignoring the needs of specific stakeholders, this eventually leads to a malfunctioning system for anyone. In this talk, I will demonstrate that we need to consider the demands of the various stakeholders and provide insights into how we can embrace those needs when evaluating our systems."
+abstract: "As users are increasingly confronted with information and choice overload, we need the 'right' information, at the 'right' time, in the 'right' place, in the 'right' way, to the 'right' person. Information retrieval and recommender systems are effective means to address this goal. When optimizing and evaluating such systems, we often disregard that a 'typical' user is not the only stakeholder interested in a well-functioning system. Beyond ignoring the needs of specific stakeholders, this eventually leads to a malfunctioning system for anyone. In this talk, I will demonstrate that we need to consider the demands of the various stakeholders and provide insights into how we can embrace those needs when evaluating our systems."
 publication: '*13th Italian Information Retrieval Workshop*'
 publication_short: IIR 2023
 url_pdf: https://ceur-ws.org/Vol-3448/keynote-02.pdf
