@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - company: "Dagstuhl Perspectives Workshop: Conversational Agents: A Framework for Evaluation (CAFE)"
+  - company: "Dagstuhl Perspectives Workshop 24352: Dagstuhl Perspectives Workshop: Conversational Agents: A Framework for Evaluation (CAFE)"
     title: Dagstuhl Perspectives Workshop Co-Organizer
     date_start: "2024-08-25"
 #    date_end: "2024-09-30"
     description: "with Li Chen, Nicola Ferro, and Norbert Fuhr"
-    #company_url: "https://www.dagstuhl.de/"
-  - company: "Dagstuhl 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education"
+    company_url: "https://www.dagstuhl.de/24352"
+  - company: "Dagstuhl Seminar 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education"
     title: Dagstuhl Seminar Co-Organizer
     date_start: "2024-05-20"
 #    date_end: "2024-05-24"
@@ -40,7 +40,7 @@ experience:
 #    date_end: "2023-09-19"
     description: "co-located with [17th ACM Conference on Recommender Systems (RecSys 2023)](https://recsys.acm.org/recsys23/)<br><br>with Alan Said and Eva Zangerle"
     company_url: "https://perspectives-ws.github.io/2023/"
-  - company: "Dagstuhl 23031: Frontiers of Information Access Experimentation for Research and Education"
+  - company: "Dagstuhl Seminar 23031: Frontiers of Information Access Experimentation for Research and Education"
     title: Dagstuhl Seminar Co-Organizer
     date_start: "2023-01-15"
     date_end: "2023-01-20"
