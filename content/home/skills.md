@@ -22,21 +22,25 @@ feature:
   description: '[Citations 2079<br>h-index 25<br>i10-index 51](https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en)'
   icon: google-scholar-square
   icon_pack: ai
+- name: Awards & Honors
+  description: Elise Richter laureate (FWF)<br>5 best paper awards, 5 additional nominations<br>5 awards for reviewing activities, 6 special recognitions for outstanding reviews
+  icon: award
+  icon_pack: fas
 - name: Teaching
   description: 24 different courses across 15 institutions<br>RecSys Summer School, Italian National PhD Program of AI<br>Tutorials at UMAP and ISMIR<br>Supervision of >70 theses
   icon: chalkboard-teacher
   icon_pack: fas
 - name: Community service
-  description: AE at TORS<br>Conf. Co-Chair (e.g., RecSys, CHI, CIKM)<br>Meta-Reviewer (e.g., CHI, RecSys, SIGIR, ISMIR)<br>Reviewer for >25 journals and >100 conferences<br>Workshop Organizer
+  description: AE at TORS<br>Conf. Org. (e.g., RecSys, CHI, CIKM)<br>Meta-Reviewer (e.g., CHI, RecSys, SIGIR, ISMIR)<br>Reviewer for >25 journals and >100 conferences<br>Workshop Organizer
   icon: users
-  icon_pack: fas
-- name: International experience
-  description: Research experience in 4 countries (AT, DE, NL, US)<br>Teaching experience in 6 countries (AT, DE, IT, NL, SE, US)
-  icon: globe
   icon_pack: fas
 - name: Outreach
   description: Repeatedly speaker and panelist at non-scientific events (e.g., Ars Electronica Festival, Dutch Media Week, VUT Indie Days)<br>Substantial media coverage (e.g., Financial Times, El País)<br>Radio interviews (e.g., SWR 2, Ö1, FM4, NPO Radio 1)
   icon: bullhorn
+  icon_pack: fas
+- name: International experience
+  description: Research experience in 4 countries (AT, DE, NL, US)<br>Teaching experience in 6 countries (AT, DE, IT, NL, SE, US)
+  icon: globe
   icon_pack: fas
 - name: Mentoring
   description: WiMIR Mentoring since 2018<br>Queen Mary University of London since 2021<br>Allyship Co-Chair at CHI 2022+2023<br>Doctoral/PhD Symposium Co-Chair at RecSys 2021+2023 and CIKM 2023

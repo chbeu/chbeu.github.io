@@ -24,12 +24,13 @@ organizations:
 interests:
 - Interactive intelligent systems
 - Recommender systems
-- Context-adaptive systems
-- Human-centered computing
 - Fairness
+- Human-centered computing
 - Multi-method evaluation
 - Music recommender systems
 - Societal implications of algorithmic decision-making
+- Context-adaptive systems
+
 
 # Education to show in About widget
 education:

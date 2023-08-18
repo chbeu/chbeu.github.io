@@ -22,6 +22,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- organization: "Women in RecSys 2023"
+  title: "Women in RecSys Journal Paper of the Year Award 2023, Senior category"
+  description: '17th ACM Conference on Recommender Systems (RecSys 2023)<br>{{< cite page="zangerle-2022-fevr" view="4" >}}'
+  #organization_url: "https://recsys.acm.org/women-in-recsys-awards/"
+  #certificate_url: ""
+  date_start: "2023-09-22"
 - organization: "UMAP 2023"
   title: "Nomination for Best Student Paper Award"
   description: '31st ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2023)<br>{{< cite page="dinnissen-2023-amplifying" view="4" >}}'
@@ -67,9 +73,9 @@ item:
 - organization: "CPDP 2013"
   title: "Multidisciplinary Privacy Research Award"
   description: 'Computers Privacy & Data Protection (CPDP 2013)<br>{{< cite page="spiekermann-2012-psychology-of-ownership" view="4" >}}'
-  organization_url: ""
+  organization_url: "https://global-uploads.webflow.com/5b631f134427333fc998ad36/5b8d161586d7e62cf9083d31_cpdp2013.pdf"
   certificate_url: "../images/awards/cpdp2013_award.jpg"
-  date_start: "2013-01-01"
+  date_start: "2013-01-23"
 - organization: "Dr. Maria Schaumayer Stiftung"
   title: "Dr. Maria Schaumayer Prize 2011"
   description: 'Prize for Master thesis<br>{{< cite page="bauer-2011_blackbox_tu_master" view="4" >}}'

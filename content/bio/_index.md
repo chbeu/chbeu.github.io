@@ -16,11 +16,11 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  placement: 1
+  placement: 500
   caption: 'Image credit: [**Kurt Hörbst**](https://www.hoerbst.com), 2020.' 
   focal_point: "Smart"
   preview_only: false
-  alt_text: ""
+  alt_text: "Portrait of Christine Bauer"
 ---
 
 Christine Bauer is EXDIGIT Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the Paris Lodron University Salzburg, Austria.
@@ -39,5 +39,5 @@ She is an experienced teacher in a broad spectrum of topics in computing and inf
 
 She is on the Editorial Board of ACM Transactions on Recommender Systems (TORS). She has co-organized the workshop series Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES) at RecSys 2021--2023, and the Workshop on Intelligent User-Adapted Interfaces: Design and Multi-Modal Evaluation (IUadaptMe 2019) at UMAP 2019. She has co-organized Dagstuhl seminars related to evaluation in the fields of of recommender systems and information retrieval. She was a speaker at the ACM Summer School on Recommender Systems 2019 and 2023 on topics related to evaluation and fairness. She gave tutorials on related topics at UMAP 2021 and ISMIR 2022. Furthermore, she was a co-chair of the Doctoral Symposium at RecSys 2021; she is currently serving in the same role at RecSys 2023 and the PhD Symposium at CIKM 2023. Additionally, she engages in initiatives such as Women in Music Information Retrieval (WiMIR) and the Elise Richter Network. At CHI 2022 and 2023, she served as an Allyship Co-Chair. Moreover, she is repeatedly invited as a speaker or panelist at scientific and non-scientific events.
 
-She has co-authored more than 110 publications. Three of them were awarded as best research papers, one received an award of excellence (highly commended paper), and five had additional nominations for best paper awards. She is a laureate of the prestigious Elise Richter grant for the project “Fine-grained Culture-aware Music Recommender Systems” (2017--2020), an excellence program sponsored by the Austrian Science Fund (FWF). She holds five awards as a best reviewer or outstanding reviewer (UMAP 2019 and 2022, RecSys 2018, 2019, and 2022). Further, Special Recognition for Outstanding Review at RecSys 2022 (for 3 reviews), IUI 2022, CHI 2020, and RecSys 2020. She received the Dr. Maria Schaumayer prize for her dissertation and Master’s thesis. 
+She has co-authored more than 110 publications. Three of them were awarded as best research papers, one received an award of excellence (highly commended paper), one received a journal paper of the year award, and five had additional nominations for best paper awards. She is a laureate of the prestigious Elise Richter grant for the project “Fine-grained Culture-aware Music Recommender Systems” (2017--2020), an excellence program sponsored by the Austrian Science Fund (FWF). She holds five awards as a best reviewer or outstanding reviewer (UMAP 2019 and 2022, RecSys 2018, 2019, and 2022). Further, Special Recognition for Outstanding Review at RecSys 2022 (for 3 reviews), IUI 2022, CHI 2020, and RecSys 2020. She received the Dr. Maria Schaumayer prize for her dissertation and Master’s thesis. 
 <!--Furthermore, she received a scholarship for the Summer School of European Science Days 2009: "The Economics of Art and Culture", in Steyr, Austria. -->

@@ -23,6 +23,9 @@ view: 2
 #  image: ""
 
 image:
+  placement: 1
   caption: 'Image credit: [**Kurt Hörbst**](https://www.hoerbst.com), 2020.' 
+  focal_point: "Smart"
+  alt_text: "Portrait of Christine Bauer"
 
 ---
