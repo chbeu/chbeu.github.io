@@ -104,6 +104,10 @@ social:
   icon_pack: fas
   icon_title: Speakerinnen
   link: https://speakerinnen.org/de/profiles/1754
+- icon: youtube
+  icon_pack: fab
+  icon_title: YouTube
+  link: https://youtube.com/playlist?list=PLqbYVfUvEtIM-f6VGvzTBrhUsFDCufKXQ
 
         
 # Link to a PDF of your resume/CV.
