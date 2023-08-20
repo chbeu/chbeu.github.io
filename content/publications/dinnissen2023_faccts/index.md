@@ -48,7 +48,10 @@ links:
   icon_pack: ai
   name: ACM Author-izer
   url:  https://dl.acm.org/doi/10.1145/3609987.3610011?cid=81453628934
-
+- icon: file
+  icon_pack: fa
+  name: Postprint
+  url: dinnissen2023_faccts_acceptedversion.pdf
 
 zenodo: 10.5281/zenodo.8185736
 altmetric: false
