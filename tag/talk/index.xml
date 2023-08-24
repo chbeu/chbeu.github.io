@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>talk | Christine Bauer</title><link>https://chbeu.github.io/tag/talk/</link><atom:link href="https://chbeu.github.io/tag/talk/index.xml" rel="self" type="application/rss+xml"/><description>talk</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate><image><url>https://chbeu.github.io/media/sharing.png</url><title>talk</title><link>https://chbeu.github.io/tag/talk/</link></image><item><title>Keynote: Three views of a secret: Embracing multiple perspectives in the evaluation of information retrieval and recommender systems</title><link>https://chbeu.github.io/talks/kn03_iir2023/</link><pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/kn03_iir2023/</guid><description>&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>talk | Christine Bauer</title><link>https://chbeu.github.io/tag/talk/</link><atom:link href="https://chbeu.github.io/tag/talk/index.xml" rel="self" type="application/rss+xml"/><description>talk</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Fri, 22 Sep 2023 16:05:00 +0000</lastBuildDate><image><url>https://chbeu.github.io/media/sharing.png</url><title>talk</title><link>https://chbeu.github.io/tag/talk/</link></image><item><title>Evaluating recommender systems: survey and framework</title><link>https://chbeu.github.io/talks/it26_womeninrecsys2023_fevr/</link><pubDate>Fri, 22 Sep 2023 16:05:00 +0000</pubDate><guid>https://chbeu.github.io/talks/it26_womeninrecsys2023_fevr/</guid><description>&lt;br>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+Eva Zangerle&lt;/span>, &lt;span class="author-highlighted">
+Christine Bauer&lt;/span>
+&lt;/span>
+(2022).
+&lt;a href="https://chbeu.github.io/publications/zangerle-2022-fevr/">Evaluating recommender systems: survey and framework&lt;/a>.
+&lt;em>ACM Computing Surveys&lt;/em>.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/zangerle-2022-fevr/zangerle-2022-fevr.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publications/zangerle-2022-fevr/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/multimethod/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3556536" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3556536?cid=81453628934" target="_blank" rel="noopener">
+&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+ACM Author-izer
+&lt;/a>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JIF 2021: 14.324 &lt;/span>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2020: A* &lt;/span>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JOURQUAL3: B &lt;/span>
+&lt;i class="fas fa-trophy mr-1">&lt;/i>
+&lt;b>Women in RecSys Journal Paper of the Year Award 2023, Senior category&lt;/b>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1145/3556536"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;/p>
+&lt;/div></description></item><item><title>Keynote: Three views of a secret: Embracing multiple perspectives in the evaluation of information retrieval and recommender systems</title><link>https://chbeu.github.io/talks/kn03_iir2023/</link><pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/kn03_iir2023/</guid><description>&lt;br>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-kn03_iir2023" href="https://chbeu.github.io/media/albums/kn03_iir2023/1.jpeg" data-caption="Image credit: Nicola Tonellotto, 2023.">
