@@ -28,7 +28,7 @@ We have a particularly strong commitment to invite and integrate researchers at 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-08-19T09:00:00" #-05:00"
+date: "2023-09-19T09:00:00" #-05:00"
 date_end: "2023-09-19T12:35:00" #-05:00"
 all_day: false
 
