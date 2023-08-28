@@ -35,7 +35,7 @@ all_day: false
 publishDate: 2023-08-24T00:00:00+01:00
 
 authors: ["Eva Zangerle", "Christine Bauer"]
-tags: [talk, RecSys, WomenInRecSys, evaluation, recommender systems, FEVR, survey, multimethod, framework]
+tags: [talk, RecSys, Women in RecSys, evaluation, recommender systems, FEVR, survey, multimethod, framework]
 
 # Is this a featured event? (true/false)
 featured: false

@@ -6,7 +6,7 @@ title: "Keynote at Women in RecSys 2023"
 #summary: "I will give a keynote at the Women in RecSys 2023 Keynote Series on 30 August 2023."
 #authors: [Christine Bauer]
 categories: [news]
-tags: [WomenInRecSys, RecSys, talk, keynote, recommender systems]
+tags: [Women in RecSys, RecSys, talk, keynote, recommender systems, big picture, career]
 date: 2023-07-09T13:40:00+02:00
 lastmod: 2023-07-09T13:40:00+02:00
 featured: false

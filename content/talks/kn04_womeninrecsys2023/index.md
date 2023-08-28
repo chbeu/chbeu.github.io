@@ -10,7 +10,7 @@ profile: false  # Show author profile?
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
-event: Women in RecSys 2023
+event: Women in RecSys Keynote Series 2023
 event_url: https://recsys.acm.org/recsys23/women-in-recsys/#content-tab-1-2-tab
 
 location: Online
@@ -34,7 +34,7 @@ all_day: false
 publishDate: "2023-08-25T00:00:00Z"
 
 #authors: ["Christine Bauer"]
-tags: [keynote, talk, full picture, WomenInRecSys, recommender systems, RecSys, career, multimethods]
+tags: [keynote, talk, Women in RecSys, recommender systems, RecSys, career, big picture]
 
 # Is this a featured talk? (true/false)
 featured: true
