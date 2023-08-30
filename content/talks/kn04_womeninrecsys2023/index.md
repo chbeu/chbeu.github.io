@@ -48,9 +48,12 @@ image:
 links:
 #url_code: ""
 #url_pdf: ""
-#url_slides: ""
+url_slides: "20230830_womeninrecsys2023.pdf"
 #url_video: ""
 
 projects: []
 
 ---
+
+
+{{< tweet user="DrCh0le" id="1696904601251795420" >}}
