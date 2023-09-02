@@ -1,7 +1,7 @@
 ---
 type: publication
 
-title: 'Proceedings of the perspectives on the evaluation of recommender systems workshop 2022'
+title: Proceedings of the Perspectives on the Evaluation of Recommender Systems Workshop 2022
 subtitle: ''
 summary: ''
 authors:
@@ -11,7 +11,6 @@ authors:
 tags: [PERSPECTIVES, evaluation, RecSys]
 categories: []
 date: '2022-10-03' 
-lastmod: 2022-10-03T03:11:11+02:00
 featured: false
 draft: false
 profile: false
