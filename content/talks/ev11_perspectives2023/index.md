@@ -50,7 +50,7 @@ links:
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
-#url_proceedings: '
+url_proceedings: https://ceur-ws.org/Vol-3476/
 
 projects: [multimethod]
 ---
