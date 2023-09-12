@@ -31,12 +31,12 @@ image:
 
 To strengthen our interdisciplinary research team, we are seeking a full-time PostDoc for 4 years.  
 This position is part of a collaboration of [Salzburg Research](https://www.salzburgresearch.at/en/) and the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at Paris Lodron University Salzburg---as part of the 'Excellence in Digital Sciences and Interdisciplinary Technologies' (EXDIGIT) initiative.  
-We are working together at the interface of digitalisation, recommender systems, and psychological models and techniques of behavioral change. In an application-oriented basic research endeavor, this position is intended to put a particular focus on questions regarding sustainable and effective mobility and/or tourism.
+We are working together at the interface of digitalization, recommender systems, and psychological models and techniques of behavioral change. In an application-oriented basic research endeavor, this position is intended to put a particular focus on questions regarding sustainable and effective mobility and/or tourism.
 
 This position is embedded in the the EXDIGIT Research College with ample room for interdisciplinary collaborations beyond the mentioned focus.
 
 [Full vacancy description (in English)](./job_postdoc.pdf) 
 ![Pic of full vacancy description; full text in the linked pdf above.](./job_postdoc_featured.png)
 
-For questions related to the position, feel free to address me directly via e-mail or talk to me at the RecSys conference.  
+For questions related to the position, feel free to address me directly via e-mail. I am happy to chat if you are at RecSys 2023 and interested in the position.  
 Applications have to be sent to the e-mail address as specified in the job description.
