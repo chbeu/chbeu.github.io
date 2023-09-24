@@ -37,6 +37,7 @@ Information Systems Research (ISR)
 ACM Transactions on Interactive Intelligent Systems (TiiS)  
 Human-Computer Interaction  
 ACM Transactions on Recommender Systems (TORS)  
+ACM Transactions on Information Systems (TOIS)  
 IEEE Transactions on Knowledge and Data Engineering (TKDE)  
 AI Magazine  
 User Modeling and User-Adapted Interaction (UMUAI)  

@@ -40,5 +40,5 @@ The seminar brought together experts from various sub-fields of information acce
 The seminar featured a series of long and short talks delivered by participants, who helped in setting a common ground and in letting emerge topics of interest to be explored as the main output of the seminar. This led to the definition of five groups which investigated challenges, opportunities, and next steps in the following areas: reality check, i.e. conducting real-world studies, human-machine-collaborative relevance judgment frameworks, overcoming methodological challenges in information retrieval and recommender systems through awareness and education, results-blind reviewing, and guidance for authors."
 publication: '*Dagstuhl Reports*'
 altmetric: true
-doi: https://doi.org/10.4230/DagRep.13.1.68
+doi: 10.4230/DagRep.13.1.68
 ---
