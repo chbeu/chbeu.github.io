@@ -27,6 +27,16 @@ date_format:  Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Associate Editor
+    company: ACM Transactions on Information Systems
+    company_url: 'https://dl.acm.org/journal/tois'
+    company_logo: acm
+    #location: Austria
+    date_start: '2023-09-26'
+    #date_end: '2020-01-31'
+    #description:  Associate Editor
+ 
+ 
   - title: "Guest Editor: Special Issue 'Perspectives on Recommender Systems Evaluation'"
     company: ACM Transactions on Recommender Systems
     company_url: 'https://dl.acm.org/journal/tors'

@@ -17,12 +17,12 @@ content:
   # Contact details (edit or remove options as required)
   email: christine.bauer@plus.ac.at
   address: 
-    street: Jakob-Haringer-Strasse 6 | Techno 6
+    street: Jakob-Haringer-Strasse 1 | Techno 1
     city: Salzburg
     postcode: '5020'
     country: Austria
     country_code: AT
-#  directions: Enter BBG and take the stairs to Office 4.21 on Floor 4
+  directions: Enter Techno 1 and take the stairs to EXDIGIT on Floor 3
 #  office_hours:
 #    - 'Monday-Friday 10:00 to 17:00'
   appointment_url: https://calendly.com/christine_bauer?hide_gdpr_banner=1&primary_color=3399cc
