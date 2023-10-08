@@ -24,7 +24,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 | Course                                                            | Note | Level | Language | Institution |                      ST 2008 | WT 2008/09 | ST 2009 | WT 2009/10 | ST 2010 | WT 2010/11 | ST 2011 | WT 2011/12 | SS 2012 | WT 2012/13 | ST 2013 | WT 2013/14 | ST 2014 | WT 2014/15 | ST 2015 | WT 2015/16 | ST 2016 | WT 2016/17 | WT 2017/18 | ST 2018 | ST 2019 | WT 2019/20 | ST 2020 | WT 2020/21 | SS 2001 | WT 2021/22 | ST 2022 | WT 2022/23 |            WT 2023/24 |            |
 |-------------------------------------------------------------------|:----:|:-----:|:--------:|:-----------:|-----------------------------:|-----------:|--------:|-----------:|--------:|-----------:|--------:|-----------:|--------:|-----------:|--------:|-----------:|--------:|-----------:|--------:|-----------:|--------:|-----------:|-----------:|--------:|--------:|-----------:|--------:|-----------:|--------:|-----------:|--------:|-----------:|-----------:|-----------:|
 |                                                                   |      |       |          |             | ECTS per course per semester |            |         |            |         |            |         |            |         |            |         |            |         |            |         |            |         |            |            |         |         |            |         |            |         |            |         |            |             |Total ECTS |
-| Advanced Contextual Interfaces                                    | +    | M     | EN       | PLUS        |                              |            |         |            |         |            |         |            |         |            |         |            |         |            |         |            |         |            |            |         |         |            |         |            |         |            |         |            | 3          | 3          |
+| Advanced Contextual Interfaces                                    | +    | M     | EN       | PLUS+FHS        |                              |            |         |            |         |            |         |            |         |            |         |            |         |            |         |            |         |            |            |         |         |            |         |            |         |            |         |            | 3          | 3          |
 | Advanced HCI Quantitative Research Methods                        |   *  |   M   |    EN    |      UU     |                              |            |         |            |         |            |         |            |         |            |         |            |         |            |         |            |         |            |            |         |         |            |         |            |     7.5 |            |     7.5 |            |             |        15 |
 | Adaptive Interactive Systems                                      |   *  |   M   |    EN    |      UU     |                              |            |         |            |         |            |         |            |         |            |         |            |         |            |         |            |         |            |            |         |         |            |         |            |         |        7.5 |         |        7.5 |             |        15 |
 | Adaptive Interactive Systems                                      |   +  |   M   |    EN    |      UU     |                              |            |         |            |         |            |         |            |         |            |         |            |         |            |         |            |         |            |            |         |         |            |         |        7.5 |         |            |         |            |            |        7.5 |
@@ -71,14 +71,15 @@ EN	…	English
 
 DUK	…	Danube University Krems, Austria  
 FFH	…	Ferdinand Porsche FernFH Studiengänge (University of Applied Sciences), Vienna, Austria  
+FFH	…	FH Salzburg, Austria  
 HBA	…	Humboldt Business Academia, Vienna, Austria  
-IBK	…	Universität Innsbruck, Austria  
+IBK	…	University of Innsbruck, Austria  
 JKU	…	Johannes Kepler University Linz, Austria  
 JU	…	Jönköping University, Sweden  
 PLUS	…	Paris Lodron University Salzburg, Austria  
 POP	…	University of Popular Music and Music Business (Popakademie), Mannheim, Germany  
 Tech	…	University of Applied Sciences Technikum Wien, Vienna, Austria  
-TUW	…	TU Wien, Austria  
+TUW	…	TU Wien, Vienna, Austria  
 UU	…	Utrecht University, The Netherlands  
 UzK	…	University of Cologne, Germany  
 VIE	…	University of Vienna, Austria  

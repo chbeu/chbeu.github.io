@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Christine Bauer' # Website name
-baseurl: 'https://chbeu.github.io/' #'www.christinebauer.eu' # 'https://chbeu.github.io/' # Website URL
+baseurl: 'https://christinebauer.eu' #https://chbeu.github.io/' #'www.christinebauer.eu' # 'https://chbeu.github.io/' # Website URL
 copyright: '© {year} Christine Bauer' # Footer text, e.g. '© {year} Me'
 
 ############################

@@ -3,8 +3,8 @@ module github.com/chbeu/chbeu.github.io
 go 1.21
 
 require (
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.1-0.20230915150839-cbdf3e42b1d7
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms v1.0.1-0.20230915150839-cbdf3e42b1d7
+	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.1-0.20231005175211-f6330d58f5e4
+	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms v1.0.1-0.20231005175211-f6330d58f5e4
 	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal v0.0.0-20221029143146-ff4b7b1193fa
 	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.8.1
 )

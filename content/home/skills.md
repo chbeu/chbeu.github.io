@@ -25,7 +25,7 @@ feature:
   icon: award
   icon_pack: fas
 - name: Teaching
-  description: 24 different courses across 15 institutions<br>RecSys Summer School, Italian National PhD Program of AI<br>Tutorials at UMAP and ISMIR<br>Supervision of >70 theses
+  description: 24 different courses across 17 institutions<br>RecSys Summer School, Italian National PhD Program of AI<br>Tutorials at UMAP and ISMIR<br>Supervision of >70 theses
   icon: chalkboard-teacher
   icon_pack: fas
 - name: Community service
