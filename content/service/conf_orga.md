@@ -37,7 +37,7 @@ experience:
   company_logo: recsys_2023
   date_end: "2023-09-23"
   title: "Doctoral Symposium Co-Chair"
-  description: "with Cataldo Musto and Xiangnan He <br>17th ACM Conference on Recommender Systems (RecSys 2023)"
+  description: "with Cataldo Musto and Xiangnan He <br>17th ACM Conference on Recommender Systems (RecSys 2023)<br><br><img src=\"/images/variouspics/recsys2023_ds_group.jpg\"  alt=\"Group photo of the RecSys 2023 Doctoral Symposium\">"
   company_url: "https://recsys.acm.org/recsys23/"
   url: "https://recsys.acm.org/recsys23/call/#content-tab-1-4-tab"
   date_start: "2023-09-01"

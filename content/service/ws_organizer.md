@@ -44,7 +44,7 @@ experience:
     title: Dagstuhl Seminar Co-Organizer
     date_start: "2023-01-15"
     date_end: "2023-01-20"
-    description: "with Ben Carterette, Nicola Ferro, and Norbert Fuhr<br><br>[See the Dagstuhl report](/publications/bauer-2023-dagstuhl/)<br>[See event report in SIGIR Forum](/publications/bauer-2023-sigir-dagstuhl/)"
+    description: "with Ben Carterette, Nicola Ferro, and Norbert Fuhr<br><br>[See the Dagstuhl report](/publications/bauer-2023-dagstuhl/)<br>[See event report in SIGIR Forum](/publications/bauer-2023-sigir-dagstuhl/)<br><br><img src=\"/images/variouspics/dagstuhl2023_23031.jpg\"  alt=\"Group photo of the Dagstuhl Seminar 23031 participants\">"
     company_url: "https://www.dagstuhl.de/23031"
   - company: "PERSPECTIVES 2022: 2nd Workshop on the Perspectives on the Evaluation of Recommender Systems"
     title: Workshop Co-Organizer
