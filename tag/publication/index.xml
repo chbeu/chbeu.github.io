@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>publication | Christine Bauer</title><link>https://chbeu.github.io/tag/publication/</link><atom:link href="https://chbeu.github.io/tag/publication/index.xml" rel="self" type="application/rss+xml"/><description>publication</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Thu, 22 Dec 2022 02:00:06 +0200</lastBuildDate><image><url>https://chbeu.github.io/media/sharing.png</url><title>publication</title><link>https://chbeu.github.io/tag/publication/</link></image><item><title>UMUAI paper on diversity perceptions</title><link>https://chbeu.github.io/post/20222212_ils/</link><pubDate>Thu, 22 Dec 2022 02:00:06 +0200</pubDate><guid>https://chbeu.github.io/post/20222212_ils/</guid><description>&lt;p>Our UMUAI paper on human diversity perceptions is available online. In our work, we investigate the correlation of different implementations of the intra-list similarity (ILS) measure with human perceptions in the domains of movie and recipe recommendation. The results indicate that the particularities of the ILS metric implementation matter. Hence, ILS can indeed be a good proxy for human diversity perceptions. However, it depends on the details how the metric is implemented in the specific case. Thus, before using a specific metric implementation, validating it for the targeted application/domain is needed.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>publication | Christine Bauer</title><link>https://christinebauer.eu/tag/publication/</link><atom:link href="https://christinebauer.eu/tag/publication/index.xml" rel="self" type="application/rss+xml"/><description>publication</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Thu, 22 Dec 2022 02:00:06 +0200</lastBuildDate><image><url>https://christinebauer.eu/media/sharing.png</url><title>publication</title><link>https://christinebauer.eu/tag/publication/</link></image><item><title>UMUAI paper on diversity perceptions</title><link>https://christinebauer.eu/post/20222212_ils/</link><pubDate>Thu, 22 Dec 2022 02:00:06 +0200</pubDate><guid>https://christinebauer.eu/post/20222212_ils/</guid><description>&lt;p>Our UMUAI paper on human diversity perceptions is available online. In our work, we investigate the correlation of different implementations of the intra-list similarity (ILS) measure with human perceptions in the domains of movie and recipe recommendation. The results indicate that the particularities of the ILS metric implementation matter. Hence, ILS can indeed be a good proxy for human diversity perceptions. However, it depends on the details how the metric is implemented in the specific case. Thus, before using a specific metric implementation, validating it for the targeted application/domain is needed.
 &lt;br>
 &lt;br>&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -10,10 +10,10 @@ Dietmar Jannach&lt;/span>, &lt;span class="author-highlighted">
 Christine Bauer&lt;/span>
 &lt;/span>
 (2022).
-&lt;a href="https://chbeu.github.io/publications/jesse-2022-ils/">Intra-list similarity and human diversity perceptions of recommendations: the details matter&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/jesse-2022-ils/">Intra-list similarity and human diversity perceptions of recommendations: the details matter&lt;/a>.
 &lt;em>User Modeling and User-Adapted Interaction&lt;/em>.
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/jesse-2022-ils/jesse-2022-ils.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/jesse-2022-ils/jesse-2022-ils.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
@@ -30,7 +30,7 @@ Code
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JIF 2021: 4.23 &lt;/span>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2020: A &lt;/span>
 &lt;/p>
-&lt;/div></description></item><item><title>Mini review on fairness in music recommender systems</title><link>https://chbeu.github.io/post/20220805_frontiers_paper/</link><pubDate>Fri, 05 Aug 2022 22:00:00 +0200</pubDate><guid>https://chbeu.github.io/post/20220805_frontiers_paper/</guid><description>&lt;p>The first joint paper with Karlijn Dinnissen has just appeared in the journal &lt;a href="https://www.frontiersin.org/journals/big-data" target="_blank" rel="noopener">Frontiers in Big Data&lt;/a>. In this mini review, we take a stakeholder-centered view and discuss literature on fairness in music recommender systems from the perspective of the various stakeholders.&lt;/p>
+&lt;/div></description></item><item><title>Mini review on fairness in music recommender systems</title><link>https://christinebauer.eu/post/20220805_frontiers_paper/</link><pubDate>Fri, 05 Aug 2022 22:00:00 +0200</pubDate><guid>https://christinebauer.eu/post/20220805_frontiers_paper/</guid><description>&lt;p>The first joint paper with Karlijn Dinnissen has just appeared in the journal &lt;a href="https://www.frontiersin.org/journals/big-data" target="_blank" rel="noopener">Frontiers in Big Data&lt;/a>. In this mini review, we take a stakeholder-centered view and discuss literature on fairness in music recommender systems from the perspective of the various stakeholders.&lt;/p>
 &lt;p>Overall, our literature review shows that the large majority of works analyze the current situation of fairness in music recommender systems, whereas only a few works propose approaches to improve it.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
@@ -40,17 +40,17 @@ Karlijn Dinnissen&lt;/span>, &lt;span class="author-highlighted">
 Christine Bauer&lt;/span>
 &lt;/span>
 (2022).
-&lt;a href="https://chbeu.github.io/publications/dinnissen-2022-fairness-in-music-recommender-systems/">Fairness in music recommender systems: a stakeholder-centered mini review&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/dinnissen-2022-fairness-in-music-recommender-systems/">Fairness in music recommender systems: a stakeholder-centered mini review&lt;/a>.
 &lt;em>Frontiers in Big Data&lt;/em>.
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/dinnissen-2022-fairness-in-music-recommender-systems/dinnissen-2022-fairness-in-music-recommender-systems.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/dinnissen-2022-fairness-in-music-recommender-systems/dinnissen-2022-fairness-in-music-recommender-systems.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/dinnissen-2022-fairness-in-music-recommender-systems/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/spart2020/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/spart2020/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fdata.2022.913608" target="_blank" rel="noopener">
@@ -60,7 +60,7 @@ DOI
 data-doi="10.3389/fdata.2022.913608"
 data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
-&lt;/div></description></item><item><title>Publication: Constructing gender in audio</title><link>https://chbeu.github.io/post/20220506_voices/</link><pubDate>Fri, 06 May 2022 02:00:06 +0200</pubDate><guid>https://chbeu.github.io/post/20220506_voices/</guid><description>&lt;p>Finally, the chapter that I co-authored with &lt;a href="https://jcdevaney.tumblr.com" target="_blank" rel="noopener">Johanna Devaney&lt;/a> is online. In this chapter, we present how gender is constructed in audio. Based on literature on voice in music and in speech, we discuss how this construction influences our conception of gender identity.&lt;/p>
+&lt;/div></description></item><item><title>Publication: Constructing gender in audio</title><link>https://christinebauer.eu/post/20220506_voices/</link><pubDate>Fri, 06 May 2022 02:00:06 +0200</pubDate><guid>https://christinebauer.eu/post/20220506_voices/</guid><description>&lt;p>Finally, the chapter that I co-authored with &lt;a href="https://jcdevaney.tumblr.com" target="_blank" rel="noopener">Johanna Devaney&lt;/a> is online. In this chapter, we present how gender is constructed in audio. Based on literature on voice in music and in speech, we discuss how this construction influences our conception of gender identity.&lt;/p>
 &lt;p>Our chapter is part of the book &lt;a href="https://www.grimme-institut.de/publikationen/schriftenreihe/p/d/mediale-stimmentwuerfe" target="_blank" rel="noopener">Mediale Stimmentwürfe&amp;mdash;Perspectives of Media Voice Designs&lt;/a>.
 &lt;br>
 &lt;br>&lt;/p>
@@ -72,10 +72,10 @@ Christine Bauer&lt;/span>, &lt;span >
 Johanna Devaney&lt;/span>
 &lt;/span>
 (2022).
-&lt;a href="https://chbeu.github.io/publications/bauer-2022-voices/">Constructing gender in audio: exploring how the curation of the voice in music and speech influences our conception of gender identity&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2022-voices/">Constructing gender in audio: exploring how the curation of the voice in music and speech influences our conception of gender identity&lt;/a>.
 &lt;em>Mediale Stimmentwürfe: perspectives of media voice designs&lt;/em>.
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2022-voices/bauer-2022-voices.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2022-voices/bauer-2022-voices.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
@@ -86,7 +86,7 @@ Cite
 Book
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>The Conversation article on our CHIIR 2021 paper</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/</link><pubDate>Tue, 30 Mar 2021 18:01:13 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/</guid><description>&lt;p>This article is republished from &lt;a href="https://theconversation.com" target="_blank" rel="noopener">The Conversation&lt;/a> under a Creative Commons license. Read the &lt;a href="https://theconversation.com/music-recommendation-algorithms-are-unfair-to-female-artists-but-we-can-change-that-158016" target="_blank" rel="noopener">original article&lt;/a>.&lt;/p>
+&lt;/div></description></item><item><title>The Conversation article on our CHIIR 2021 paper</title><link>https://christinebauer.eu/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/</link><pubDate>Tue, 30 Mar 2021 18:01:13 +0000</pubDate><guid>https://christinebauer.eu/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/</guid><description>&lt;p>This article is republished from &lt;a href="https://theconversation.com" target="_blank" rel="noopener">The Conversation&lt;/a> under a Creative Commons license. Read the &lt;a href="https://theconversation.com/music-recommendation-algorithms-are-unfair-to-female-artists-but-we-can-change-that-158016" target="_blank" rel="noopener">original article&lt;/a>.&lt;/p>
 &lt;!--![Logo of The Conversation UK](https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/logo-en-d7023135a67823619bfdbf3322b68dc4.png) -->
 &lt;h1 id="music-recommendation-algorithms-are-unfair-to-female-artists-but-we-can-change-that">Music recommendation algorithms are unfair to female artists, but we can change that.&lt;/h1>
 &lt;figure id="figure-algorithms-help-lots-of-people-discover-new-musicimagehttpspixabaycomphotosadult-music-listening-sound-woman-3086302-by-omar-medina-filmshttpspixabaycomusersomarmedinafilms-818453utm_sourcelink-attributionutm_mediumreferralutm_campaignimageutm_content3086302-from-pixabayhttpspixabaycomutm_sourcelink-attributionutm_mediumreferralutm_campaignimageutm_content3086302">
@@ -95,7 +95,7 @@ Book
 /post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_5317b2fb7c4507e44cdf2ae765415039.webp 400w,
 /post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_5cf8ab565108eba28955e351378029d5.webp 760w,
 /post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_1200x1200_fit_q95_h2_mitchellnetravali.webp 1200w"
-src="https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_5317b2fb7c4507e44cdf2ae765415039.webp"
+src="https://christinebauer.eu/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_musiclistening_adult-3086302_1920_hu2c574e768ad21f62cc5af56e3be108db_275283_5317b2fb7c4507e44cdf2ae765415039.webp"
 width="760"
 height="507"
 loading="lazy" data-zoomable />&lt;/div>
@@ -121,7 +121,7 @@ Algorithms help lots of people discover new music.&lt;br>&lt;a href="https://pix
 /post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_0b6a97a66a781f1c2a0a48fb4267a369.webp 400w,
 /post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_98f0622610f7441a4942ff7272b40811.webp 760w,
 /post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_1200x1200_fit_q95_h2_mitchellnetravali.webp 1200w"
-src="https://chbeu.github.io/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_0b6a97a66a781f1c2a0a48fb4267a369.webp"
+src="https://christinebauer.eu/post/_posts_wordpress/2021-03-30-the-conversation-article-on-our-chiir-2021-paper/pixabay_xbox_musix_windows-phone-1092785_1920_hudfde3ddf9becbd82c60061fe57e9990a_605747_0b6a97a66a781f1c2a0a48fb4267a369.webp"
 width="760"
 height="503"
 loading="lazy" data-zoomable />&lt;/div>
@@ -150,17 +150,17 @@ Xavier Serra&lt;/span>, &lt;span class="author-highlighted">
 Christine Bauer&lt;/span>
 &lt;/span>
 (2021).
-&lt;a href="https://chbeu.github.io/publications/ferraro-2021-break-the-loop/">Break the loop: gender imbalance in music recommenders&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/ferraro-2021-break-the-loop/">Break the loop: gender imbalance in music recommenders&lt;/a>.
 &lt;em>6th ACM SIGIR Conference on Human Information Interaction and Retrieval&lt;/em> (CHIIR 2021).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/ferraro-2021-break-the-loop/ferraro-2021-break-the-loop.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/ferraro-2021-break-the-loop/ferraro-2021-break-the-loop.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/ferraro-2021-break-the-loop/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/spart2020/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/spart2020/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3406522.3446033" target="_blank" rel="noopener">
@@ -179,7 +179,7 @@ Code
 data-doi="10.1145/3406522.3446033"
 data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
-&lt;/div></description></item><item><title>CHIIR 2021 presentation: Break the Loop: Gender Imbalance in Music Recommenders</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</link><pubDate>Sun, 14 Mar 2021 21:48:39 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</guid><description>&lt;p>&lt;a href="https://andrebola.github.io/about/" target="_blank" rel="noopener">Andrés Ferraro&lt;/a> will present our joint paper at CHIIR 2021. In the paper with the title Break the Loop: Gender Imbalance in Music Recommenders, we investigate the imbalance in music recommendations with respect to the artists gender. We propose a simple re-ranking approach to mitigate the problem and show in a simulation of feedback loops how the gender (im-)balances evolves over time.&lt;/p>
+&lt;/div></description></item><item><title>CHIIR 2021 presentation: Break the Loop: Gender Imbalance in Music Recommenders</title><link>https://christinebauer.eu/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</link><pubDate>Sun, 14 Mar 2021 21:48:39 +0000</pubDate><guid>https://christinebauer.eu/post/_posts_wordpress/2021-03-14-chiir-2021-presentation-break-the-loop-gender-imbalance-in-music-recommenders/</guid><description>&lt;p>&lt;a href="https://andrebola.github.io/about/" target="_blank" rel="noopener">Andrés Ferraro&lt;/a> will present our joint paper at CHIIR 2021. In the paper with the title Break the Loop: Gender Imbalance in Music Recommenders, we investigate the imbalance in music recommendations with respect to the artists gender. We propose a simple re-ranking approach to mitigate the problem and show in a simulation of feedback loops how the gender (im-)balances evolves over time.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
@@ -189,17 +189,17 @@ Xavier Serra&lt;/span>, &lt;span class="author-highlighted">
 Christine Bauer&lt;/span>
 &lt;/span>
 (2021).
-&lt;a href="https://chbeu.github.io/publications/ferraro-2021-break-the-loop/">Break the loop: gender imbalance in music recommenders&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/ferraro-2021-break-the-loop/">Break the loop: gender imbalance in music recommenders&lt;/a>.
 &lt;em>6th ACM SIGIR Conference on Human Information Interaction and Retrieval&lt;/em> (CHIIR 2021).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/ferraro-2021-break-the-loop/ferraro-2021-break-the-loop.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/ferraro-2021-break-the-loop/ferraro-2021-break-the-loop.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/ferraro-2021-break-the-loop/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/spart2020/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/spart2020/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3406522.3446033" target="_blank" rel="noopener">
@@ -218,7 +218,7 @@ Code
 data-doi="10.1145/3406522.3446033"
 data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
-&lt;/div></description></item><item><title>Summary of ISMIR 2020 Special Session Do we help artists? published in SIGIR Forum</title><link>https://chbeu.github.io/post/_posts_wordpress/2021-01-06-summary-of-ismir-2020-special-session-do-we-help-artists-published-in-sigir-forum/</link><pubDate>Wed, 06 Jan 2021 17:33:49 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2021-01-06-summary-of-ismir-2020-special-session-do-we-help-artists-published-in-sigir-forum/</guid><description>&lt;p>I am glad that my summary of the &lt;a href="https://www.ismir2020.net" target="_blank" rel="noopener">ISMIR 2020&lt;/a> special session: &amp;lsquo;&amp;lsquo;How do we—in MIR research—help artists? Do we?&amp;rsquo;&amp;rsquo; made it to the &lt;a href="https://sigir.org/forum/issues/december-2020/" target="_blank" rel="noopener">December 2020 issue of the ACM SIGIR Forum&lt;/a>.&lt;/p>
+&lt;/div></description></item><item><title>Summary of ISMIR 2020 Special Session Do we help artists? published in SIGIR Forum</title><link>https://christinebauer.eu/post/_posts_wordpress/2021-01-06-summary-of-ismir-2020-special-session-do-we-help-artists-published-in-sigir-forum/</link><pubDate>Wed, 06 Jan 2021 17:33:49 +0000</pubDate><guid>https://christinebauer.eu/post/_posts_wordpress/2021-01-06-summary-of-ismir-2020-special-session-do-we-help-artists-published-in-sigir-forum/</guid><description>&lt;p>I am glad that my summary of the &lt;a href="https://www.ismir2020.net" target="_blank" rel="noopener">ISMIR 2020&lt;/a> special session: &amp;lsquo;&amp;lsquo;How do we—in MIR research—help artists? Do we?&amp;rsquo;&amp;rsquo; made it to the &lt;a href="https://sigir.org/forum/issues/december-2020/" target="_blank" rel="noopener">December 2020 issue of the ACM SIGIR Forum&lt;/a>.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
@@ -226,17 +226,17 @@ data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 Christine Bauer&lt;/span>
 &lt;/span>
 (2020).
-&lt;a href="https://chbeu.github.io/publications/bauer-2020-helpartists/">Report on the ISMIR 2020 special session: How do we help artists?&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2020-helpartists/">Report on the ISMIR 2020 special session: How do we help artists?&lt;/a>.
 &lt;em>ACM SIGIR Forum&lt;/em>.
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2020-helpartists/bauer-2020-helpartists.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2020-helpartists/bauer-2020-helpartists.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/bauer-2020-helpartists/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/spart2020/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/spart2020/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3483382.3483398" target="_blank" rel="noopener">
@@ -247,7 +247,7 @@ DOI
 ACM Author-izer
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>CHIIR 2020 tutorial paper on multi-method evaluation is online</title><link>https://chbeu.github.io/post/_posts_wordpress/2020-03-14-chiir-2020-tutorial-paper-on-multi-method-evaluation-is-online/</link><pubDate>Sat, 14 Mar 2020 10:36:37 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2020-03-14-chiir-2020-tutorial-paper-on-multi-method-evaluation-is-online/</guid><description>&lt;p>While &lt;a href="https://sigir.org/chiir2020/" target="_blank" rel="noopener">CHIIR 2020&lt;/a> had to be cancelled due to the current global situation with Covid-19, the paper accompanying the tutorial on multi-method evaluation (that I would have held there) is published.&lt;/p>
+&lt;/div></description></item><item><title>CHIIR 2020 tutorial paper on multi-method evaluation is online</title><link>https://christinebauer.eu/post/_posts_wordpress/2020-03-14-chiir-2020-tutorial-paper-on-multi-method-evaluation-is-online/</link><pubDate>Sat, 14 Mar 2020 10:36:37 +0000</pubDate><guid>https://christinebauer.eu/post/_posts_wordpress/2020-03-14-chiir-2020-tutorial-paper-on-multi-method-evaluation-is-online/</guid><description>&lt;p>While &lt;a href="https://sigir.org/chiir2020/" target="_blank" rel="noopener">CHIIR 2020&lt;/a> had to be cancelled due to the current global situation with Covid-19, the paper accompanying the tutorial on multi-method evaluation (that I would have held there) is published.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
@@ -255,17 +255,17 @@ ACM Author-izer
 Christine Bauer&lt;/span>
 &lt;/span>
 (2020).
-&lt;a href="https://chbeu.github.io/publications/bauer-2020-chiir-tutorial-multimethods/">Multi-method evaluation: leveraging multiple methods to answer what you were looking for&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2020-chiir-tutorial-multimethods/">Multi-method evaluation: leveraging multiple methods to answer what you were looking for&lt;/a>.
 &lt;em>2020 Conference on Human Information Interaction and Retrieval&lt;/em> (CHIIR 2020).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2020-chiir-tutorial-multimethods/bauer-2020-chiir-tutorial-multimethods.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2020-chiir-tutorial-multimethods/bauer-2020-chiir-tutorial-multimethods.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/bauer-2020-chiir-tutorial-multimethods/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/multimethod/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/multimethod/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3343413.3378015" target="_blank" rel="noopener">
@@ -276,7 +276,7 @@ DOI
 ACM Author-izer
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>PLOS ONE article on global and country-specific mainstreaminess out now!</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-plos-one-article-on-global-and-country-specific-mainstreaminess-out-now/</link><pubDate>Thu, 13 Jun 2019 23:38:11 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-06-13-plos-one-article-on-global-and-country-specific-mainstreaminess-out-now/</guid><description>&lt;p>I proudly present the &lt;a href="https://doi.org/10.1371/journal.pone.0217389" target="_blank" rel="noopener">PLOS ONE article&lt;/a> by &lt;a href="https://www.mschedl.eu" target="_blank" rel="noopener">Markus Schedl&lt;/a> and me: We analyze music preferences in 47 countries with respect to what is considered mainstream in a particular country. And, of course, we evaluate recommendation approaches considering users&amp;rsquo; mainstreaminess.&lt;/p>
+&lt;/div></description></item><item><title>PLOS ONE article on global and country-specific mainstreaminess out now!</title><link>https://christinebauer.eu/post/_posts_wordpress/2019-06-13-plos-one-article-on-global-and-country-specific-mainstreaminess-out-now/</link><pubDate>Thu, 13 Jun 2019 23:38:11 +0000</pubDate><guid>https://christinebauer.eu/post/_posts_wordpress/2019-06-13-plos-one-article-on-global-and-country-specific-mainstreaminess-out-now/</guid><description>&lt;p>I proudly present the &lt;a href="https://doi.org/10.1371/journal.pone.0217389" target="_blank" rel="noopener">PLOS ONE article&lt;/a> by &lt;a href="https://www.mschedl.eu" target="_blank" rel="noopener">Markus Schedl&lt;/a> and me: We analyze music preferences in 47 countries with respect to what is considered mainstream in a particular country. And, of course, we evaluate recommendation approaches considering users&amp;rsquo; mainstreaminess.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
@@ -285,17 +285,17 @@ Christine Bauer&lt;/span>, &lt;span >
 Markus Schedl&lt;/span>
 &lt;/span>
 (2019).
-&lt;a href="https://chbeu.github.io/publications/bauer-2019-plosone-mainstreaminess/">Global and country-specific mainstreaminess measures: Definitions, analysis, and usage for improving personalized music recommendation systems&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2019-plosone-mainstreaminess/">Global and country-specific mainstreaminess measures: Definitions, analysis, and usage for improving personalized music recommendation systems&lt;/a>.
 &lt;em>PLOS ONE&lt;/em>.
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2019-plosone-mainstreaminess/bauer-2019-plosone-mainstreaminess.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2019-plosone-mainstreaminess/bauer-2019-plosone-mainstreaminess.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/bauer-2019-plosone-mainstreaminess/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/fwf579/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/fwf579/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pone.0217389" target="_blank" rel="noopener">
@@ -306,7 +306,7 @@ DOI
 data-doi="10.1371/journal.pone.0217389"
 data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
-&lt;/div></description></item><item><title>Position paper accepted for CompHCI 2019 Workshop @CHI 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</link><pubDate>Thu, 14 Mar 2019 20:17:04 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</guid><description>&lt;p>I am proud to announce that my position paper on &amp;lsquo;&amp;lsquo;The Potential of the Confluence of Theoretical and Algorithmic Modeling in Music Recommendation&amp;rsquo;&amp;rsquo; has been accepted for the ACM CHI 2019 Workshop on &lt;a href="https://hcicompmodeling.wordpress.com" target="_blank" rel="noopener">Computational Modeling in Human-Computer Interaction (CompHCI 2019)&lt;/a>.&lt;/p>
+&lt;/div></description></item><item><title>Position paper accepted for CompHCI 2019 Workshop @CHI 2019</title><link>https://christinebauer.eu/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</link><pubDate>Thu, 14 Mar 2019 20:17:04 +0000</pubDate><guid>https://christinebauer.eu/post/_posts_wordpress/2019-03-14-position-paper-accepted-for-comphci-2019-workshop-chi-2019/</guid><description>&lt;p>I am proud to announce that my position paper on &amp;lsquo;&amp;lsquo;The Potential of the Confluence of Theoretical and Algorithmic Modeling in Music Recommendation&amp;rsquo;&amp;rsquo; has been accepted for the ACM CHI 2019 Workshop on &lt;a href="https://hcicompmodeling.wordpress.com" target="_blank" rel="noopener">Computational Modeling in Human-Computer Interaction (CompHCI 2019)&lt;/a>.&lt;/p>
 &lt;p>The workshop is co-organized by Nikola Banovic, Antti Oulasvirta, and Per Ola Kristensson.&lt;/p>
 &lt;p>I am looking forward to participate in the workshop to discuss the developments in the field.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -316,21 +316,21 @@ data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 Christine Bauer&lt;/span>
 &lt;/span>
 (2019).
-&lt;a href="https://chbeu.github.io/publications/bauer-2019-confluence-modeling/">The potential of the confluence of theoretical and algorithmic modeling in music recommendation&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2019-confluence-modeling/">The potential of the confluence of theoretical and algorithmic modeling in music recommendation&lt;/a>.
 &lt;em>ACM CHI 2019 Workshop on Computational Modeling in Human-Computer Interaction&lt;/em> (CompHCI 2019).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2019-confluence-modeling/bauer-2019-confluence-modeling.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2019-confluence-modeling/bauer-2019-confluence-modeling.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/bauer-2019-confluence-modeling/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/fwf579/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/fwf579/">
 Project
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>LBW paper accepted for CHI 2019</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-02-11-lbr-paper-accepted-for-chi-2019/</link><pubDate>Mon, 11 Feb 2019 13:52:03 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-02-11-lbr-paper-accepted-for-chi-2019/</guid><description>&lt;p>I am proud to announce that the late breaking work paper on &amp;lsquo;&amp;lsquo;Cross-country user connections in an online social network for music&amp;rsquo;&amp;rsquo; that I co-authored with Markus Schedl has been accepted for CHI 2019.&lt;/p>
+&lt;/div></description></item><item><title>LBW paper accepted for CHI 2019</title><link>https://christinebauer.eu/post/_posts_wordpress/2019-02-11-lbr-paper-accepted-for-chi-2019/</link><pubDate>Mon, 11 Feb 2019 13:52:03 +0000</pubDate><guid>https://christinebauer.eu/post/_posts_wordpress/2019-02-11-lbr-paper-accepted-for-chi-2019/</guid><description>&lt;p>I am proud to announce that the late breaking work paper on &amp;lsquo;&amp;lsquo;Cross-country user connections in an online social network for music&amp;rsquo;&amp;rsquo; that I co-authored with Markus Schedl has been accepted for CHI 2019.&lt;/p>
 &lt;p>I am looking forward to participate in this conferences. And with meeting a lot of great people there, I am sure that we will have a great time at CHI in Glasgow!&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
@@ -340,17 +340,17 @@ Christine Bauer&lt;/span>, &lt;span >
 Markus Schedl&lt;/span>
 &lt;/span>
 (2019).
-&lt;a href="https://chbeu.github.io/publications/bauer-2019-crosscountry-userconnections/">Cross-country user connections in an online social network for music&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2019-crosscountry-userconnections/">Cross-country user connections in an online social network for music&lt;/a>.
 &lt;em>2019 CHI Conference on Human Factors in Computing Systems&lt;/em> (CHI EA 2019).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2019-crosscountry-userconnections/bauer-2019-crosscountry-userconnections.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2019-crosscountry-userconnections/bauer-2019-crosscountry-userconnections.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/bauer-2019-crosscountry-userconnections/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/fwf579/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/fwf579/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3290607.3312831" target="_blank" rel="noopener">
@@ -361,7 +361,7 @@ DOI
 ACM Author-izer
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>HICSS 2019 paper online</title><link>https://chbeu.github.io/post/_posts_wordpress/2019-01-03-hicss-2019-paper-online/</link><pubDate>Thu, 03 Jan 2019 12:20:36 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2019-01-03-hicss-2019-paper-online/</guid><description>&lt;p>Our HICSS paper is online! &lt;a href="https://hdl.handle.net/10125/59655" target="_blank" rel="noopener">https://hdl.handle.net/10125/59655&lt;/a>&lt;/p>
+&lt;/div></description></item><item><title>HICSS 2019 paper online</title><link>https://christinebauer.eu/post/_posts_wordpress/2019-01-03-hicss-2019-paper-online/</link><pubDate>Thu, 03 Jan 2019 12:20:36 +0000</pubDate><guid>https://christinebauer.eu/post/_posts_wordpress/2019-01-03-hicss-2019-paper-online/</guid><description>&lt;p>Our HICSS paper is online! &lt;a href="https://hdl.handle.net/10125/59655" target="_blank" rel="noopener">https://hdl.handle.net/10125/59655&lt;/a>&lt;/p>
 &lt;p>The presentation is scheduled for Friday, 11 January 2019, 8:00 am.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
@@ -371,20 +371,20 @@ Christine Bauer&lt;/span>, &lt;span >
 Markus Schedl&lt;/span>
 &lt;/span>
 (2019).
-&lt;a href="https://chbeu.github.io/publications/bauer-2019-crosscountry-connectionpatterns/">A cross-country investigation of user connection patterns in online social networks&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2019-crosscountry-connectionpatterns/">A cross-country investigation of user connection patterns in online social networks&lt;/a>.
 &lt;em>52nd Hawaii International Conference on System Sciences&lt;/em> (HICSS 2019).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2019-crosscountry-connectionpatterns/bauer-2019-crosscountry-connectionpatterns.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2019-crosscountry-connectionpatterns/bauer-2019-crosscountry-connectionpatterns.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/bauer-2019-crosscountry-connectionpatterns/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/fwf579/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/fwf579/">
 Project
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2019-crosscountry-connectionpatterns/bauer-2019-crosscountry-connectionpatterns-slides.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2019-crosscountry-connectionpatterns/bauer-2019-crosscountry-connectionpatterns-slides.pdf" target="_blank" rel="noopener">
 Slides
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.24251/HICSS.2019.263" target="_blank" rel="noopener">
@@ -393,7 +393,7 @@ DOI
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JOURQUAL3: C &lt;/span>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">GGS 2021: A &lt;/span>
 &lt;/p>
-&lt;/div></description></item><item><title>Paper on digital signage for retail is online</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-11-08-paper-on-digital-signage-for-retail-online/</link><pubDate>Thu, 08 Nov 2018 18:47:08 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-11-08-paper-on-digital-signage-for-retail-online/</guid><description>&lt;p>I like interdisciplinary work. The paper on &amp;lsquo;&amp;lsquo;Research directions for digital signage systems in retail&amp;rsquo;&amp;rsquo; is joint efforts from informatics, (e-)business, marketing, and consumer behavior.&lt;/p>
+&lt;/div></description></item><item><title>Paper on digital signage for retail is online</title><link>https://christinebauer.eu/post/_posts_wordpress/2018-11-08-paper-on-digital-signage-for-retail-online/</link><pubDate>Thu, 08 Nov 2018 18:47:08 +0000</pubDate><guid>https://christinebauer.eu/post/_posts_wordpress/2018-11-08-paper-on-digital-signage-for-retail-online/</guid><description>&lt;p>I like interdisciplinary work. The paper on &amp;lsquo;&amp;lsquo;Research directions for digital signage systems in retail&amp;rsquo;&amp;rsquo; is joint efforts from informatics, (e-)business, marketing, and consumer behavior.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
@@ -404,10 +404,10 @@ Christine Strauss&lt;/span>, &lt;span >
 Udo Wagner&lt;/span>
 &lt;/span>
 (2018).
-&lt;a href="https://chbeu.github.io/publications/bauer-2018-researchdirections-pointofwait/">Research directions for digital signage systems in retail&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2018-researchdirections-pointofwait/">Research directions for digital signage systems in retail&lt;/a>.
 &lt;em>Procedia Computer Science&lt;/em>.
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2018-researchdirections-pointofwait/bauer-2018-researchdirections-pointofwait.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2018-researchdirections-pointofwait/bauer-2018-researchdirections-pointofwait.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
@@ -418,7 +418,7 @@ Cite
 DOI
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>ISMIR paper online</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-09-18-ismir-paper-online/</link><pubDate>Tue, 18 Sep 2018 18:28:21 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-09-18-ismir-paper-online/</guid><description>&lt;p>The ISMIR paper co-authored with Markus Schedl is online. The paper is entitled &amp;lsquo;&amp;lsquo;Investigating cross-country relationship between users&amp;rsquo; social ties and music mainstreaminess&amp;rsquo;&amp;rsquo;.&lt;/p>
+&lt;/div></description></item><item><title>ISMIR paper online</title><link>https://christinebauer.eu/post/_posts_wordpress/2018-09-18-ismir-paper-online/</link><pubDate>Tue, 18 Sep 2018 18:28:21 +0000</pubDate><guid>https://christinebauer.eu/post/_posts_wordpress/2018-09-18-ismir-paper-online/</guid><description>&lt;p>The ISMIR paper co-authored with Markus Schedl is online. The paper is entitled &amp;lsquo;&amp;lsquo;Investigating cross-country relationship between users&amp;rsquo; social ties and music mainstreaminess&amp;rsquo;&amp;rsquo;.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
@@ -427,24 +427,24 @@ Christine Bauer&lt;/span>, &lt;span >
 Markus Schedl&lt;/span>
 &lt;/span>
 (2018).
-&lt;a href="https://chbeu.github.io/publications/bauer-2018-socialties-mainstreaminess/">Investigating cross-country relationship between users&amp;#39; social ties and music mainstreaminess&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2018-socialties-mainstreaminess/">Investigating cross-country relationship between users&amp;#39; social ties and music mainstreaminess&lt;/a>.
 &lt;em>19th International Society for Music Information Retrieval Conference&lt;/em> (ISMIR 2018).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2018-socialties-mainstreaminess/bauer-2018-socialties-mainstreaminess.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2018-socialties-mainstreaminess/bauer-2018-socialties-mainstreaminess.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/bauer-2018-socialties-mainstreaminess/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/fwf579/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/fwf579/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.1492507" target="_blank" rel="noopener">
 DOI
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>Paper at ISMIR 2018</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-06-11-paper-at-ismir-2018/</link><pubDate>Mon, 11 Jun 2018 15:08:31 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-06-11-paper-at-ismir-2018/</guid><description>&lt;p>The article &amp;lsquo;&amp;lsquo;Investigating cross-country relationship between users’ social ties and music mainstreaminess&amp;rsquo;&amp;rsquo; is accepted for publication at the 19th International Society for Music Information Retrieval Conference (ISMIR 2018).&lt;/p>
+&lt;/div></description></item><item><title>Paper at ISMIR 2018</title><link>https://christinebauer.eu/post/_posts_wordpress/2018-06-11-paper-at-ismir-2018/</link><pubDate>Mon, 11 Jun 2018 15:08:31 +0000</pubDate><guid>https://christinebauer.eu/post/_posts_wordpress/2018-06-11-paper-at-ismir-2018/</guid><description>&lt;p>The article &amp;lsquo;&amp;lsquo;Investigating cross-country relationship between users’ social ties and music mainstreaminess&amp;rsquo;&amp;rsquo; is accepted for publication at the 19th International Society for Music Information Retrieval Conference (ISMIR 2018).&lt;/p>
 &lt;p>I am looking forward to the discussions at the conference in September.
 &lt;br>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -455,17 +455,17 @@ Christine Bauer&lt;/span>, &lt;span >
 Markus Schedl&lt;/span>
 &lt;/span>
 (2018).
-&lt;a href="https://chbeu.github.io/publications/bauer-2018-socialties-mainstreaminess/">Investigating cross-country relationship between users&amp;#39; social ties and music mainstreaminess&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2018-socialties-mainstreaminess/">Investigating cross-country relationship between users&amp;#39; social ties and music mainstreaminess&lt;/a>.
 &lt;em>19th International Society for Music Information Retrieval Conference&lt;/em> (ISMIR 2018).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2018-socialties-mainstreaminess/bauer-2018-socialties-mainstreaminess.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2018-socialties-mainstreaminess/bauer-2018-socialties-mainstreaminess.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/bauer-2018-socialties-mainstreaminess/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/fwf579/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/fwf579/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.1492507" target="_blank" rel="noopener">
@@ -473,7 +473,7 @@ DOI
 &lt;/a>
 &lt;/p>
 &lt;/div>
-&lt;/p></description></item><item><title>Book on the Basics of Music Business Research is out now!</title><link>https://chbeu.github.io/post/_posts_wordpress/2018-01-24-book-on-the-basics-of-music-business-research-is-out-now/</link><pubDate>Wed, 24 Jan 2018 07:38:44 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2018-01-24-book-on-the-basics-of-music-business-research-is-out-now/</guid><description>&lt;p>I am glad that the co-authored book on the &lt;em>Basics of Music Business Research&lt;/em> is out now. It is written in German and is entitled: &amp;lsquo;&amp;lsquo;Musikwirtschaftsforschung: Die Grundlagen einer neuen Disziplin&amp;rsquo;&amp;rsquo;. It sets out the basics of this novel field from the various disciplines. I contributed with the &amp;lsquo;&amp;lsquo;informatics-based&amp;rsquo;&amp;rsquo; perspective on the topic.&lt;/p>
+&lt;/p></description></item><item><title>Book on the Basics of Music Business Research is out now!</title><link>https://christinebauer.eu/post/_posts_wordpress/2018-01-24-book-on-the-basics-of-music-business-research-is-out-now/</link><pubDate>Wed, 24 Jan 2018 07:38:44 +0000</pubDate><guid>https://christinebauer.eu/post/_posts_wordpress/2018-01-24-book-on-the-basics-of-music-business-research-is-out-now/</guid><description>&lt;p>I am glad that the co-authored book on the &lt;em>Basics of Music Business Research&lt;/em> is out now. It is written in German and is entitled: &amp;lsquo;&amp;lsquo;Musikwirtschaftsforschung: Die Grundlagen einer neuen Disziplin&amp;rsquo;&amp;rsquo;. It sets out the basics of this novel field from the various disciplines. I contributed with the &amp;lsquo;&amp;lsquo;informatics-based&amp;rsquo;&amp;rsquo; perspective on the topic.&lt;/p>
 &lt;p>The book is available at: DOI: &lt;a href="https://doi.org/10.1007/978-3-658-19399-7" target="_blank" rel="noopener">10.1007/978-3-658-19399-7&lt;/a>.&lt;br>
 The section that I have authored is entitled &amp;lsquo;&amp;lsquo;Der Beitrag der Informatik zur Musikwirtschaftsforschung&amp;rsquo;&amp;rsquo; and is available at: DOI &lt;a href="https://doi.org/10.1007/978-3-658-19399-7_6" target="_blank" rel="noopener">10.1007/978-3-658-19399-7_6&lt;/a>.&lt;/p>
 &lt;br>
@@ -484,10 +484,10 @@ The section that I have authored is entitled &amp;lsquo;&amp;lsquo;Der Beitrag d
 Christine Bauer&lt;/span>
 &lt;/span>
 (2020).
-&lt;a href="https://chbeu.github.io/publications/bauer-2020-complexrec-keynote/">Ratings in, rankings out. Keep it simple, they said. But we need more than that.&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/">Ratings in, rankings out. Keep it simple, they said. But we need more than that.&lt;/a>.
 Proceedings of the Recommendation in Complex Scenarios and the Impact of Recommender Systems 2020 (ComplexRec-ImpactRS 2020) (ComplexRec 2020).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2020-complexrec-keynote/bauer-2020-complexrec-keynote.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/bauer-2020-complexrec-keynote.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
@@ -495,7 +495,7 @@ data-filename="/publications/bauer-2020-complexrec-keynote/cite.bib">
 Cite
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>Nomination for Best Paper Award at HICSS 2018</title><link>https://chbeu.github.io/post/_posts_wordpress/2017-12-20-nomination-for-best-paper-award-at-hicss-2018/</link><pubDate>Wed, 20 Dec 2017 20:43:48 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2017-12-20-nomination-for-best-paper-award-at-hicss-2018/</guid><description>&lt;p>The paper entitled &amp;lsquo;&amp;lsquo;An Open Model for Researching the Role of Culture in Online Self-Disclosure&amp;rsquo;&amp;rsquo; that I co-authored with Katharina Sophie Schmid and Christine Strauss is nominated for the Best Paper Award at HICSS 2018.
+&lt;/div></description></item><item><title>Nomination for Best Paper Award at HICSS 2018</title><link>https://christinebauer.eu/post/_posts_wordpress/2017-12-20-nomination-for-best-paper-award-at-hicss-2018/</link><pubDate>Wed, 20 Dec 2017 20:43:48 +0000</pubDate><guid>https://christinebauer.eu/post/_posts_wordpress/2017-12-20-nomination-for-best-paper-award-at-hicss-2018/</guid><description>&lt;p>The paper entitled &amp;lsquo;&amp;lsquo;An Open Model for Researching the Role of Culture in Online Self-Disclosure&amp;rsquo;&amp;rsquo; that I co-authored with Katharina Sophie Schmid and Christine Strauss is nominated for the Best Paper Award at HICSS 2018.
 &lt;br>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
@@ -506,17 +506,17 @@ Katharina Sophie Schmid&lt;/span>, &lt;span >
 Christine Strauss&lt;/span>
 &lt;/span>
 (2018).
-&lt;a href="https://chbeu.github.io/publications/bauer-2018-openmodel-onlineselfdisclosure/">An open model for researching the role of culture in online self-disclosure&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2018-openmodel-onlineselfdisclosure/">An open model for researching the role of culture in online self-disclosure&lt;/a>.
 &lt;em>51st Hawaii International Conference on System Sciences&lt;/em> (HICSS 2018).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2018-openmodel-onlineselfdisclosure/bauer-2018-openmodel-onlineselfdisclosure.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2018-openmodel-onlineselfdisclosure/bauer-2018-openmodel-onlineselfdisclosure.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/bauer-2018-openmodel-onlineselfdisclosure/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2018-openmodel-onlineselfdisclosure/bauer-2018-openmodel-onlineselfdisclosure-slides.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2018-openmodel-onlineselfdisclosure/bauer-2018-openmodel-onlineselfdisclosure-slides.pdf" target="_blank" rel="noopener">
 Slides
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.24251/HICSS.2018.460" target="_blank" rel="noopener">
@@ -528,7 +528,7 @@ DOI
 &lt;b>nominated for Best Paper Award&lt;/b>
 &lt;/p>
 &lt;/div>
-&lt;/p></description></item><item><title>Best Paper Award at MoMM 2017</title><link>https://chbeu.github.io/post/_posts_wordpress/2017-12-16-best-paper-award-at-momm-2017/</link><pubDate>Sat, 16 Dec 2017 21:40:42 +0000</pubDate><guid>https://chbeu.github.io/post/_posts_wordpress/2017-12-16-best-paper-award-at-momm-2017/</guid><description>&lt;p>Markus Schedl and me, we received the Best Paper Award at MoMM 2017 for our article entitled &amp;lsquo;&amp;lsquo;Introducing global and regional mainstreaminess for improving personalized music recommendation&amp;rsquo;&amp;rsquo;.&lt;/p>
+&lt;/p></description></item><item><title>Best Paper Award at MoMM 2017</title><link>https://christinebauer.eu/post/_posts_wordpress/2017-12-16-best-paper-award-at-momm-2017/</link><pubDate>Sat, 16 Dec 2017 21:40:42 +0000</pubDate><guid>https://christinebauer.eu/post/_posts_wordpress/2017-12-16-best-paper-award-at-momm-2017/</guid><description>&lt;p>Markus Schedl and me, we received the Best Paper Award at MoMM 2017 for our article entitled &amp;lsquo;&amp;lsquo;Introducing global and regional mainstreaminess for improving personalized music recommendation&amp;rsquo;&amp;rsquo;.&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
@@ -537,20 +537,20 @@ Markus Schedl&lt;/span>, &lt;span class="author-highlighted">
 Christine Bauer&lt;/span>
 &lt;/span>
 (2017).
-&lt;a href="https://chbeu.github.io/publications/schedl-2017-introducing-global-regional-momm/">Introducing global and regional mainstreaminess for improving personalized music recommendation&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/schedl-2017-introducing-global-regional-momm/">Introducing global and regional mainstreaminess for improving personalized music recommendation&lt;/a>.
 &lt;em>15th International Conference on Advances in Mobile Computing &amp;amp; Multimedia&lt;/em> (MoMM 2017).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/schedl-2017-introducing-global-regional-momm/schedl-2017-introducing-global-regional-momm.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/schedl-2017-introducing-global-regional-momm/schedl-2017-introducing-global-regional-momm.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/schedl-2017-introducing-global-regional-momm/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/fwf579/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/fwf579/">
 Project
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/schedl-2017-introducing-global-regional-momm/schedl-2017-introducing-global-regional-momm-slides.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/schedl-2017-introducing-global-regional-momm/schedl-2017-introducing-global-regional-momm-slides.pdf" target="_blank" rel="noopener">
 Slides
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3151848.3151849" target="_blank" rel="noopener">

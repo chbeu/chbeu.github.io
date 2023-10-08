@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks | Christine Bauer</title><link>https://chbeu.github.io/talks/</link><atom:link href="https://chbeu.github.io/talks/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Talks</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Wed, 04 Oct 2023 14:25:00 +0000</lastBuildDate><image><url>https://chbeu.github.io/talks/featured.jpg</url><title>Recent &amp; Upcoming Talks</title><link>https://chbeu.github.io/talks/</link></image><item><title>Kreative KI—Alles was Recht ist?</title><link>https://chbeu.github.io/talks/pd09_expedition_ki_2023/</link><pubDate>Wed, 04 Oct 2023 14:25:00 +0000</pubDate><guid>https://chbeu.github.io/talks/pd09_expedition_ki_2023/</guid><description/></item><item><title>Mit Pandora philosophieren—Digitalisierung und die Zeit</title><link>https://chbeu.github.io/talks/pd10_sciencemeetsfiction2023/</link><pubDate>Thu, 28 Sep 2023 19:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/pd10_sciencemeetsfiction2023/</guid><description/></item><item><title>Evaluating recommender systems: survey and framework</title><link>https://chbeu.github.io/talks/it26_womeninrecsys2023_fevr/</link><pubDate>Fri, 22 Sep 2023 16:05:00 +0000</pubDate><guid>https://chbeu.github.io/talks/it26_womeninrecsys2023_fevr/</guid><description>&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks | Christine Bauer</title><link>https://christinebauer.eu/talks/</link><atom:link href="https://christinebauer.eu/talks/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Talks</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Wed, 04 Oct 2023 14:25:00 +0000</lastBuildDate><image><url>https://christinebauer.eu/talks/featured.jpg</url><title>Recent &amp; Upcoming Talks</title><link>https://christinebauer.eu/talks/</link></image><item><title>Kreative KI—Alles was Recht ist?</title><link>https://christinebauer.eu/talks/pd09_expedition_ki_2023/</link><pubDate>Wed, 04 Oct 2023 14:25:00 +0000</pubDate><guid>https://christinebauer.eu/talks/pd09_expedition_ki_2023/</guid><description/></item><item><title>Mit Pandora philosophieren—Digitalisierung und die Zeit</title><link>https://christinebauer.eu/talks/pd10_sciencemeetsfiction2023/</link><pubDate>Thu, 28 Sep 2023 19:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/pd10_sciencemeetsfiction2023/</guid><description/></item><item><title>Evaluating recommender systems: survey and framework</title><link>https://christinebauer.eu/talks/it26_womeninrecsys2023_fevr/</link><pubDate>Fri, 22 Sep 2023 16:05:00 +0000</pubDate><guid>https://christinebauer.eu/talks/it26_womeninrecsys2023_fevr/</guid><description>&lt;br>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
@@ -7,17 +7,17 @@ Eva Zangerle&lt;/span>, &lt;span class="author-highlighted">
 Christine Bauer&lt;/span>
 &lt;/span>
 (2022).
-&lt;a href="https://chbeu.github.io/publications/zangerle-2022-fevr/">Evaluating recommender systems: survey and framework&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/zangerle-2022-fevr/">Evaluating recommender systems: survey and framework&lt;/a>.
 &lt;em>ACM Computing Surveys&lt;/em>.
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/zangerle-2022-fevr/zangerle-2022-fevr.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/zangerle-2022-fevr/zangerle-2022-fevr.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/zangerle-2022-fevr/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/multimethod/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/multimethod/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3556536" target="_blank" rel="noopener">
@@ -36,22 +36,22 @@ ACM Author-izer
 data-doi="10.1145/3556536"
 data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 &lt;/p>
-&lt;/div></description></item><item><title>3rd Workshop: Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2023)</title><link>https://chbeu.github.io/talks/ev11_perspectives2023/</link><pubDate>Tue, 19 Sep 2023 09:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/ev11_perspectives2023/</guid><description/></item><item><title>Keynote: Keep an eye on the big picture—in recommender systems research and as a scientist</title><link>https://chbeu.github.io/talks/kn04_womeninrecsys2023/</link><pubDate>Wed, 30 Aug 2023 17:00:00 +0200</pubDate><guid>https://chbeu.github.io/talks/kn04_womeninrecsys2023/</guid><description>&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">During today&amp;#39;s &lt;a href="https://twitter.com/hashtag/WomenInRecSys?src=hash&amp;amp;ref_src=twsrc%5Etfw">#WomenInRecSys&lt;/a> keynote series &lt;a href="https://twitter.com/christine_bauer?ref_src=twsrc%5Etfw">@christine_bauer&lt;/a> shares the importance of looking at the big picture not only in &lt;a href="https://twitter.com/hashtag/RecSys?src=hash&amp;amp;ref_src=twsrc%5Etfw">#RecSys&lt;/a> research but also in our paths as scientists. More info: &lt;a href="https://t.co/oGRMtbGvjT">https://t.co/oGRMtbGvjT&lt;/a> &lt;a href="https://twitter.com/ACMRecSys?ref_src=twsrc%5Etfw">@ACMRecSys&lt;/a> &lt;a href="https://t.co/LdPMdJIEJB">pic.twitter.com/LdPMdJIEJB&lt;/a>&lt;/p>&amp;mdash; Sole Pera (@DrCh0le) &lt;a href="https://twitter.com/DrCh0le/status/1696904601251795420?ref_src=twsrc%5Etfw">August 30, 2023&lt;/a>&lt;/blockquote>
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>Keynote: Three views of a secret: Embracing multiple perspectives in the evaluation of information retrieval and recommender systems</title><link>https://chbeu.github.io/talks/kn03_iir2023/</link><pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/kn03_iir2023/</guid><description>&lt;br>
+&lt;/div></description></item><item><title>3rd Workshop: Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2023)</title><link>https://christinebauer.eu/talks/ev11_perspectives2023/</link><pubDate>Tue, 19 Sep 2023 09:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/ev11_perspectives2023/</guid><description/></item><item><title>Keynote: Keep an eye on the big picture—in recommender systems research and as a scientist</title><link>https://christinebauer.eu/talks/kn04_womeninrecsys2023/</link><pubDate>Wed, 30 Aug 2023 17:00:00 +0200</pubDate><guid>https://christinebauer.eu/talks/kn04_womeninrecsys2023/</guid><description>&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">During today&amp;#39;s &lt;a href="https://twitter.com/hashtag/WomenInRecSys?src=hash&amp;amp;ref_src=twsrc%5Etfw">#WomenInRecSys&lt;/a> keynote series &lt;a href="https://twitter.com/christine_bauer?ref_src=twsrc%5Etfw">@christine_bauer&lt;/a> shares the importance of looking at the big picture not only in &lt;a href="https://twitter.com/hashtag/RecSys?src=hash&amp;amp;ref_src=twsrc%5Etfw">#RecSys&lt;/a> research but also in our paths as scientists. More info: &lt;a href="https://t.co/oGRMtbGvjT">https://t.co/oGRMtbGvjT&lt;/a> &lt;a href="https://twitter.com/ACMRecSys?ref_src=twsrc%5Etfw">@ACMRecSys&lt;/a> &lt;a href="https://t.co/LdPMdJIEJB">pic.twitter.com/LdPMdJIEJB&lt;/a>&lt;/p>&amp;mdash; Sole Pera (@DrCh0le) &lt;a href="https://twitter.com/DrCh0le/status/1696904601251795420?ref_src=twsrc%5Etfw">August 30, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>Keynote: Three views of a secret: Embracing multiple perspectives in the evaluation of information retrieval and recommender systems</title><link>https://christinebauer.eu/talks/kn03_iir2023/</link><pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/kn03_iir2023/</guid><description>&lt;br>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kn03_iir2023" href="https://chbeu.github.io/media/albums/kn03_iir2023/1.jpeg" data-caption="Image credit: Nicola Tonellotto, 2023.">
-&lt;img src="https://chbeu.github.io/media/albums/kn03_iir2023/1_hu543654ef0ac7adfc81fbc62bb23bb5cd_415241_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: Nicola Tonellotto, 2023." width="750" height="563">
+&lt;a data-fancybox="gallery-kn03_iir2023" href="https://christinebauer.eu/media/albums/kn03_iir2023/1.jpeg" data-caption="Image credit: Nicola Tonellotto, 2023.">
+&lt;img src="https://christinebauer.eu/media/albums/kn03_iir2023/1_hu543654ef0ac7adfc81fbc62bb23bb5cd_415241_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: Nicola Tonellotto, 2023." width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kn03_iir2023" href="https://chbeu.github.io/media/albums/kn03_iir2023/2.jpeg" data-caption="Image credit: Nicola Tonellotto, 2023.">
-&lt;img src="https://chbeu.github.io/media/albums/kn03_iir2023/2_hu8fa07e29aad400602e2215b893cb204d_413086_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: Nicola Tonellotto, 2023." width="750" height="563">
+&lt;a data-fancybox="gallery-kn03_iir2023" href="https://christinebauer.eu/media/albums/kn03_iir2023/2.jpeg" data-caption="Image credit: Nicola Tonellotto, 2023.">
+&lt;img src="https://christinebauer.eu/media/albums/kn03_iir2023/2_hu8fa07e29aad400602e2215b893cb204d_413086_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: Nicola Tonellotto, 2023." width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kn03_iir2023" href="https://chbeu.github.io/media/albums/kn03_iir2023/3.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/kn03_iir2023/3_huc432e4a0e644b280e51d2c14e4ba9d01_592400_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="3.jpeg" width="750" height="530">
+&lt;a data-fancybox="gallery-kn03_iir2023" href="https://christinebauer.eu/media/albums/kn03_iir2023/3.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/kn03_iir2023/3_huc432e4a0e644b280e51d2c14e4ba9d01_592400_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="3.jpeg" width="750" height="530">
 &lt;/a>
 &lt;/div>
 &lt;/div>
@@ -63,10 +63,10 @@ data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
 Christine Bauer&lt;/span>
 &lt;/span>
 (2023).
-&lt;a href="https://chbeu.github.io/publications/bauer-2023-three-views/">Three views of a secret: embracing multiple perspectives in the evaluation of information retrieval and recommender systems&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2023-three-views/">Three views of a secret: embracing multiple perspectives in the evaluation of information retrieval and recommender systems&lt;/a>.
 &lt;em>13th Italian Information Retrieval Workshop&lt;/em> (IIR 2023).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2023-three-views/bauer-2023-three-views.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2023-three-views/bauer-2023-three-views.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
@@ -74,7 +74,7 @@ data-filename="/publications/bauer-2023-three-views/cite.bib">
 Cite
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>Musikempfehlungssysteme aus der Perspektive von Artists: Was ist fair?</title><link>https://chbeu.github.io/talks/t11_mathematikmusik2023/</link><pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t11_mathematikmusik2023/</guid><description/></item><item><title>Keynote: K.I. in der Musikbranche: Last oder Lösung?—Ethische Fragen im Zusammenhang mit Algorithmen</title><link>https://chbeu.github.io/talks/kt02_fmc2023/</link><pubDate>Thu, 25 May 2023 15:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/kt02_fmc2023/</guid><description>&lt;p>
+&lt;/div></description></item><item><title>Musikempfehlungssysteme aus der Perspektive von Artists: Was ist fair?</title><link>https://christinebauer.eu/talks/t11_mathematikmusik2023/</link><pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/t11_mathematikmusik2023/</guid><description/></item><item><title>Keynote: K.I. in der Musikbranche: Last oder Lösung?—Ethische Fragen im Zusammenhang mit Algorithmen</title><link>https://christinebauer.eu/talks/kt02_fmc2023/</link><pubDate>Thu, 25 May 2023 15:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/kt02_fmc2023/</guid><description>&lt;p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/Q63NUsg8xr4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
@@ -82,181 +82,181 @@ Cite
 &lt;br>&lt;/p>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://chbeu.github.io/media/albums/kt02_fmc2023/1_IMG_6789.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/kt02_fmc2023/1_IMG_6789_hu18d0aeb9b445fea1cfee54519c624833_2448035_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="1_IMG_6789.jpeg" width="602" height="750">
+&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://christinebauer.eu/media/albums/kt02_fmc2023/1_IMG_6789.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/kt02_fmc2023/1_IMG_6789_hu18d0aeb9b445fea1cfee54519c624833_2448035_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="1_IMG_6789.jpeg" width="602" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://chbeu.github.io/media/albums/kt02_fmc2023/2_IMG_6823b.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/kt02_fmc2023/2_IMG_6823b_hu10a69ffa2efd704e6bb94875311cdbd7_77762_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="2_IMG_6823b.JPG" width="651" height="367">
+&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://christinebauer.eu/media/albums/kt02_fmc2023/2_IMG_6823b.JPG" >
+&lt;img src="https://christinebauer.eu/media/albums/kt02_fmc2023/2_IMG_6823b_hu10a69ffa2efd704e6bb94875311cdbd7_77762_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="2_IMG_6823b.JPG" width="651" height="367">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://chbeu.github.io/media/albums/kt02_fmc2023/3a_Credits_CAPADOL_230526_HighRes_08479.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://capadol.de&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;CAPADOL&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2023.">
-&lt;img src="https://chbeu.github.io/media/albums/kt02_fmc2023/3a_Credits_CAPADOL_230526_HighRes_08479_hu84da10e174b3ae91036bc70d95ba0e42_4883674_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: [**CAPADOL**](https://capadol.de), 2023." width="750" height="500">
+&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://christinebauer.eu/media/albums/kt02_fmc2023/3a_Credits_CAPADOL_230526_HighRes_08479.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://capadol.de&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;CAPADOL&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2023.">
+&lt;img src="https://christinebauer.eu/media/albums/kt02_fmc2023/3a_Credits_CAPADOL_230526_HighRes_08479_hu84da10e174b3ae91036bc70d95ba0e42_4883674_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: [**CAPADOL**](https://capadol.de), 2023." width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://chbeu.github.io/media/albums/kt02_fmc2023/3b_Credits_CAPADOL_230526_HighRes_08565.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://capadol.de&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;CAPADOL&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2023.">
-&lt;img src="https://chbeu.github.io/media/albums/kt02_fmc2023/3b_Credits_CAPADOL_230526_HighRes_08565_hu23b142ecd0de595921576d40cbad1b57_5867809_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: [**CAPADOL**](https://capadol.de), 2023." width="750" height="641">
+&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://christinebauer.eu/media/albums/kt02_fmc2023/3b_Credits_CAPADOL_230526_HighRes_08565.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://capadol.de&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;CAPADOL&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2023.">
+&lt;img src="https://christinebauer.eu/media/albums/kt02_fmc2023/3b_Credits_CAPADOL_230526_HighRes_08565_hu23b142ecd0de595921576d40cbad1b57_5867809_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: [**CAPADOL**](https://capadol.de), 2023." width="750" height="641">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://chbeu.github.io/media/albums/kt02_fmc2023/3c_Credits_CAPADOL_230526_HighRes_08516.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://capadol.de&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;CAPADOL&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2023.">
-&lt;img src="https://chbeu.github.io/media/albums/kt02_fmc2023/3c_Credits_CAPADOL_230526_HighRes_08516_hu67c6aef5a204ea7d0556dc95e2f15bb6_2980293_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: [**CAPADOL**](https://capadol.de), 2023." width="750" height="500">
+&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://christinebauer.eu/media/albums/kt02_fmc2023/3c_Credits_CAPADOL_230526_HighRes_08516.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://capadol.de&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;CAPADOL&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2023.">
+&lt;img src="https://christinebauer.eu/media/albums/kt02_fmc2023/3c_Credits_CAPADOL_230526_HighRes_08516_hu67c6aef5a204ea7d0556dc95e2f15bb6_2980293_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: [**CAPADOL**](https://capadol.de), 2023." width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://chbeu.github.io/media/albums/kt02_fmc2023/3d_Credits_CAPADOL_230526_HighRes_08495.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://capadol.de&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;CAPADOL&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2023.">
-&lt;img src="https://chbeu.github.io/media/albums/kt02_fmc2023/3d_Credits_CAPADOL_230526_HighRes_08495_huea5894bbedeb297100df9680b97b67d0_4095755_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: [**CAPADOL**](https://capadol.de), 2023." width="750" height="500">
+&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://christinebauer.eu/media/albums/kt02_fmc2023/3d_Credits_CAPADOL_230526_HighRes_08495.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://capadol.de&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;CAPADOL&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2023.">
+&lt;img src="https://christinebauer.eu/media/albums/kt02_fmc2023/3d_Credits_CAPADOL_230526_HighRes_08495_huea5894bbedeb297100df9680b97b67d0_4095755_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: [**CAPADOL**](https://capadol.de), 2023." width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://chbeu.github.io/media/albums/kt02_fmc2023/4a_IMG_6823a.JPG" data-caption="&amp;amp;lsquo;Master of Ceremony&amp;amp;rsquo; David Stammer introducing my keynote">
-&lt;img src="https://chbeu.github.io/media/albums/kt02_fmc2023/4a_IMG_6823a_hu8c22119f498eae1e9defbb566f4acd7e_259234_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="&amp;#39;Master of Ceremony&amp;#39; David Stammer introducing my keynote" width="750" height="357">
+&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://christinebauer.eu/media/albums/kt02_fmc2023/4a_IMG_6823a.JPG" data-caption="&amp;amp;lsquo;Master of Ceremony&amp;amp;rsquo; David Stammer introducing my keynote">
+&lt;img src="https://christinebauer.eu/media/albums/kt02_fmc2023/4a_IMG_6823a_hu8c22119f498eae1e9defbb566f4acd7e_259234_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="&amp;#39;Master of Ceremony&amp;#39; David Stammer introducing my keynote" width="750" height="357">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://chbeu.github.io/media/albums/kt02_fmc2023/4b_IMG_6816a.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/kt02_fmc2023/4b_IMG_6816a_hu0df4ba826592a4b906b90322b7b5c218_422305_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="4b_IMG_6816a.JPG" width="750" height="563">
+&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://christinebauer.eu/media/albums/kt02_fmc2023/4b_IMG_6816a.JPG" >
+&lt;img src="https://christinebauer.eu/media/albums/kt02_fmc2023/4b_IMG_6816a_hu0df4ba826592a4b906b90322b7b5c218_422305_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="4b_IMG_6816a.JPG" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://chbeu.github.io/media/albums/kt02_fmc2023/5_IMG_6822.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/kt02_fmc2023/5_IMG_6822_hu63ec0d5dde778864e58c6663b1311a7e_357971_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="5_IMG_6822.JPG" width="750" height="563">
+&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://christinebauer.eu/media/albums/kt02_fmc2023/5_IMG_6822.JPG" >
+&lt;img src="https://christinebauer.eu/media/albums/kt02_fmc2023/5_IMG_6822_hu63ec0d5dde778864e58c6663b1311a7e_357971_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="5_IMG_6822.JPG" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://chbeu.github.io/media/albums/kt02_fmc2023/6_IMG_6795.jpeg" data-caption="Opening performance by Halli Kalli">
-&lt;img src="https://chbeu.github.io/media/albums/kt02_fmc2023/6_IMG_6795_hued78fbf28621063248baca89c4ce7cf7_1496887_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Opening performance by Halli Kalli" width="750" height="336">
+&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://christinebauer.eu/media/albums/kt02_fmc2023/6_IMG_6795.jpeg" data-caption="Opening performance by Halli Kalli">
+&lt;img src="https://christinebauer.eu/media/albums/kt02_fmc2023/6_IMG_6795_hued78fbf28621063248baca89c4ce7cf7_1496887_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Opening performance by Halli Kalli" width="750" height="336">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://chbeu.github.io/media/albums/kt02_fmc2023/97_Credits_CAPADOL_230526_HighRes_08537.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://capadol.de&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;CAPADOL&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2023.">
-&lt;img src="https://chbeu.github.io/media/albums/kt02_fmc2023/97_Credits_CAPADOL_230526_HighRes_08537_hu4a1f25032b90f1083054e3c16fb941dd_9215300_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: [**CAPADOL**](https://capadol.de), 2023." width="750" height="500">
+&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://christinebauer.eu/media/albums/kt02_fmc2023/97_Credits_CAPADOL_230526_HighRes_08537.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://capadol.de&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;CAPADOL&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2023.">
+&lt;img src="https://christinebauer.eu/media/albums/kt02_fmc2023/97_Credits_CAPADOL_230526_HighRes_08537_hu4a1f25032b90f1083054e3c16fb941dd_9215300_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: [**CAPADOL**](https://capadol.de), 2023." width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://chbeu.github.io/media/albums/kt02_fmc2023/98_Credits_CAPADOL_230526_HighRes_5374.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://capadol.de&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;CAPADOL&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2023.">
-&lt;img src="https://chbeu.github.io/media/albums/kt02_fmc2023/98_Credits_CAPADOL_230526_HighRes_5374_hu669f74e1987d62bc84c2cbfb521006cf_7879786_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: [**CAPADOL**](https://capadol.de), 2023." width="750" height="500">
+&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://christinebauer.eu/media/albums/kt02_fmc2023/98_Credits_CAPADOL_230526_HighRes_5374.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://capadol.de&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;CAPADOL&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2023.">
+&lt;img src="https://christinebauer.eu/media/albums/kt02_fmc2023/98_Credits_CAPADOL_230526_HighRes_5374_hu669f74e1987d62bc84c2cbfb521006cf_7879786_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: [**CAPADOL**](https://capadol.de), 2023." width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://chbeu.github.io/media/albums/kt02_fmc2023/99_Credits_CAPADOL_230525_HighRes_06941.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://capadol.de&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;CAPADOL&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2023.">
-&lt;img src="https://chbeu.github.io/media/albums/kt02_fmc2023/99_Credits_CAPADOL_230525_HighRes_06941_hu42d5f9bfd9c1dbd6fe5d6c251b161e6e_6091485_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: [**CAPADOL**](https://capadol.de), 2023." width="750" height="500">
+&lt;a data-fancybox="gallery-kt02_fmc2023" href="https://christinebauer.eu/media/albums/kt02_fmc2023/99_Credits_CAPADOL_230525_HighRes_06941.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://capadol.de&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;CAPADOL&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2023.">
+&lt;img src="https://christinebauer.eu/media/albums/kt02_fmc2023/99_Credits_CAPADOL_230525_HighRes_06941_hu42d5f9bfd9c1dbd6fe5d6c251b161e6e_6091485_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: [**CAPADOL**](https://capadol.de), 2023." width="750" height="500">
 &lt;/a>
 &lt;/div>
-&lt;/div></description></item><item><title>AI—Pandoras Box oder Heiliger Gral?</title><link>https://chbeu.github.io/talks/pd08_bzzzz2023/</link><pubDate>Fri, 05 May 2023 16:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/pd08_bzzzz2023/</guid><description>&lt;p>&lt;a href="https://www.musicaustria.at/wir-sind-ein-land-der-musik-wenn-man-uns-spielen-laesst/" target="_blank" rel="noopener">Summary of the event (in German)&lt;/a>&lt;/p>
+&lt;/div></description></item><item><title>AI—Pandoras Box oder Heiliger Gral?</title><link>https://christinebauer.eu/talks/pd08_bzzzz2023/</link><pubDate>Fri, 05 May 2023 16:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/pd08_bzzzz2023/</guid><description>&lt;p>&lt;a href="https://www.musicaustria.at/wir-sind-ein-land-der-musik-wenn-man-uns-spielen-laesst/" target="_blank" rel="noopener">Summary of the event (in German)&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.flickr.com/photos/wirtschaftskammer/albums/72177720308506988" target="_blank" rel="noopener">Photo gallery on Flickr&lt;/a>&lt;/p>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd08_bzzzz2023" href="https://chbeu.github.io/media/albums/pd08_bzzzz2023/1_52919135521_f3e3272484_o.jpg" data-caption="Image credit: &amp;lt;strong&amp;gt;Patricia Weisskirchner&amp;lt;/strong&amp;gt;, 2023.">
-&lt;img src="https://chbeu.github.io/media/albums/pd08_bzzzz2023/1_52919135521_f3e3272484_o_hueaacf01dff6a643a1bac200f4580879c_2835263_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: **Patricia Weisskirchner**, 2023." width="750" height="500">
+&lt;a data-fancybox="gallery-pd08_bzzzz2023" href="https://christinebauer.eu/media/albums/pd08_bzzzz2023/1_52919135521_f3e3272484_o.jpg" data-caption="Image credit: &amp;lt;strong&amp;gt;Patricia Weisskirchner&amp;lt;/strong&amp;gt;, 2023.">
+&lt;img src="https://christinebauer.eu/media/albums/pd08_bzzzz2023/1_52919135521_f3e3272484_o_hueaacf01dff6a643a1bac200f4580879c_2835263_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: **Patricia Weisskirchner**, 2023." width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd08_bzzzz2023" href="https://chbeu.github.io/media/albums/pd08_bzzzz2023/2_52918556032_af6c69a3f8_o.jpg" data-caption="Image credit: &amp;lt;strong&amp;gt;Patricia Weisskirchner&amp;lt;/strong&amp;gt;, 2023.">
-&lt;img src="https://chbeu.github.io/media/albums/pd08_bzzzz2023/2_52918556032_af6c69a3f8_o_hu26852c6d0ae77b994b2e9432738c41ce_2807979_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: **Patricia Weisskirchner**, 2023." width="750" height="500">
+&lt;a data-fancybox="gallery-pd08_bzzzz2023" href="https://christinebauer.eu/media/albums/pd08_bzzzz2023/2_52918556032_af6c69a3f8_o.jpg" data-caption="Image credit: &amp;lt;strong&amp;gt;Patricia Weisskirchner&amp;lt;/strong&amp;gt;, 2023.">
+&lt;img src="https://christinebauer.eu/media/albums/pd08_bzzzz2023/2_52918556032_af6c69a3f8_o_hu26852c6d0ae77b994b2e9432738c41ce_2807979_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: **Patricia Weisskirchner**, 2023." width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd08_bzzzz2023" href="https://chbeu.github.io/media/albums/pd08_bzzzz2023/3_52919294529_df2a97b0c3_o.jpg" data-caption="Image credit: &amp;lt;strong&amp;gt;Patricia Weisskirchner&amp;lt;/strong&amp;gt;, 2023.">
-&lt;img src="https://chbeu.github.io/media/albums/pd08_bzzzz2023/3_52919294529_df2a97b0c3_o_hud1edceb846681950432bc5e60189106a_2802005_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: **Patricia Weisskirchner**, 2023." width="750" height="500">
+&lt;a data-fancybox="gallery-pd08_bzzzz2023" href="https://christinebauer.eu/media/albums/pd08_bzzzz2023/3_52919294529_df2a97b0c3_o.jpg" data-caption="Image credit: &amp;lt;strong&amp;gt;Patricia Weisskirchner&amp;lt;/strong&amp;gt;, 2023.">
+&lt;img src="https://christinebauer.eu/media/albums/pd08_bzzzz2023/3_52919294529_df2a97b0c3_o_hud1edceb846681950432bc5e60189106a_2802005_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: **Patricia Weisskirchner**, 2023." width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd08_bzzzz2023" href="https://chbeu.github.io/media/albums/pd08_bzzzz2023/4_52919523230_e3351cc7d8_o.jpg" data-caption="Image credit: &amp;lt;strong&amp;gt;Patricia Weisskirchner&amp;lt;/strong&amp;gt;, 2023.">
-&lt;img src="https://chbeu.github.io/media/albums/pd08_bzzzz2023/4_52919523230_e3351cc7d8_o_huc2d9410be1a58ca9e00af1afb5d798c5_2886710_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: **Patricia Weisskirchner**, 2023." width="750" height="500">
+&lt;a data-fancybox="gallery-pd08_bzzzz2023" href="https://christinebauer.eu/media/albums/pd08_bzzzz2023/4_52919523230_e3351cc7d8_o.jpg" data-caption="Image credit: &amp;lt;strong&amp;gt;Patricia Weisskirchner&amp;lt;/strong&amp;gt;, 2023.">
+&lt;img src="https://christinebauer.eu/media/albums/pd08_bzzzz2023/4_52919523230_e3351cc7d8_o_huc2d9410be1a58ca9e00af1afb5d798c5_2886710_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: **Patricia Weisskirchner**, 2023." width="750" height="500">
 &lt;/a>
 &lt;/div>
-&lt;/div></description></item><item><title>Trustworthy MIR: Creating MIR applications with values</title><link>https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/</link><pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/tu02_ismir2022_trustworthy_mir/</guid><description>
+&lt;/div></description></item><item><title>Trustworthy MIR: Creating MIR applications with values</title><link>https://christinebauer.eu/talks/tu02_ismir2022_trustworthy_mir/</link><pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/tu02_ismir2022_trustworthy_mir/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/8fuog5WeGtE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>PERSPECTIVES 2022: Perspectives on the evaluation of recommender systems</title><link>https://chbeu.github.io/talks/ev07_perspectives2022/</link><pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/ev07_perspectives2022/</guid><description>
+&lt;/div></description></item><item><title>PERSPECTIVES 2022: Perspectives on the evaluation of recommender systems</title><link>https://christinebauer.eu/talks/ev07_perspectives2022/</link><pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/ev07_perspectives2022/</guid><description>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/01_FdSq91xaAAAH2t.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/01_FdSq91xaAAAH2t_huebab9ee5cc85d6001ca5acc4bb8061bb_332989_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="01_FdSq91xaAAAH2t.jpeg" width="750" height="335">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/01_FdSq91xaAAAH2t.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/01_FdSq91xaAAAH2t_huebab9ee5cc85d6001ca5acc4bb8061bb_332989_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="01_FdSq91xaAAAH2t.jpeg" width="750" height="335">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/02_alan_lien.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/02_alan_lien_hu57c34d793379cbd82df015bff8e57513_117941_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="02_alan_lien.jpeg" width="750" height="500">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/02_alan_lien.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/02_alan_lien_hu57c34d793379cbd82df015bff8e57513_117941_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="02_alan_lien.jpeg" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/03_alan_qa.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/03_alan_qa_hu6068c9b24da1791a0abb7238680a6767_1175087_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="03_alan_qa.jpeg" width="750" height="500">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/03_alan_qa.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/03_alan_qa_hu6068c9b24da1791a0abb7238680a6767_1175087_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="03_alan_qa.jpeg" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/04_keynote_kimfalk.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/04_keynote_kimfalk_hu8027bb2eb088f446f29cabf86c5ee847_787234_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="04_keynote_kimfalk.jpeg" width="750" height="500">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/04_keynote_kimfalk.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/04_keynote_kimfalk_hu8027bb2eb088f446f29cabf86c5ee847_787234_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="04_keynote_kimfalk.jpeg" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/05_IMG_5705.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/05_IMG_5705_hu0341614f6b9141aebb91e9da2a38c056_1397905_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="05_IMG_5705.jpg" width="750" height="354">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/05_IMG_5705.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/05_IMG_5705_hu0341614f6b9141aebb91e9da2a38c056_1397905_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="05_IMG_5705.jpg" width="750" height="354">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/06_IMG_5716.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/06_IMG_5716_hud4aaf4c17efc6c251b96c6d3c58d25f6_2417520_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="06_IMG_5716.jpg" width="750" height="276">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/06_IMG_5716.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/06_IMG_5716_hud4aaf4c17efc6c251b96c6d3c58d25f6_2417520_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="06_IMG_5716.jpg" width="750" height="276">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/07_IMG_5708.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/07_IMG_5708_hu2f2c392be0c000038abbeaab35f514f1_2405087_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="07_IMG_5708.jpg" width="750" height="365">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/07_IMG_5708.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/07_IMG_5708_hu2f2c392be0c000038abbeaab35f514f1_2405087_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="07_IMG_5708.jpg" width="750" height="365">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/08_IMG_5717.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/08_IMG_5717_hu1844115cee9f54acd85a6f74be8f50e9_2427836_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="08_IMG_5717.jpg" width="750" height="328">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/08_IMG_5717.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/08_IMG_5717_hu1844115cee9f54acd85a6f74be8f50e9_2427836_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="08_IMG_5717.jpg" width="750" height="328">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/09_kimfalk_hand.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/09_kimfalk_hand_hudc76808cf3b1f80b2f0c5200af0ce3da_51639_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="09_kimfalk_hand.jpeg" width="658" height="750">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/09_kimfalk_hand.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/09_kimfalk_hand_hudc76808cf3b1f80b2f0c5200af0ce3da_51639_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="09_kimfalk_hand.jpeg" width="658" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/10_chairs.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/10_chairs_hu57c34d793379cbd82df015bff8e57513_147598_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="10_chairs.jpeg" width="750" height="500">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/10_chairs.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/10_chairs_hu57c34d793379cbd82df015bff8e57513_147598_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="10_chairs.jpeg" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/11_FdSq-NhaIAA0WyG.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/11_FdSq-NhaIAA0WyG_huf2380c18e4557baabc09df06ec8b0850_397044_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="11_FdSq-NhaIAA0WyG.jpeg" width="750" height="387">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/11_FdSq-NhaIAA0WyG.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/11_FdSq-NhaIAA0WyG_huf2380c18e4557baabc09df06ec8b0850_397044_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="11_FdSq-NhaIAA0WyG.jpeg" width="750" height="387">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/12_afternoon_circle2.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/12_afternoon_circle2_hufd21fa2e43e60c01980d4f2cd2d06b2b_398789_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="12_afternoon_circle2.jpeg" width="750" height="434">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/12_afternoon_circle2.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/12_afternoon_circle2_hufd21fa2e43e60c01980d4f2cd2d06b2b_398789_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="12_afternoon_circle2.jpeg" width="750" height="434">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/13_afternoon_circle1.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/13_afternoon_circle1_hu5406722ca1ed85bda50ba37afad64abb_455772_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="13_afternoon_circle1.jpeg" width="750" height="431">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/13_afternoon_circle1.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/13_afternoon_circle1_hu5406722ca1ed85bda50ba37afad64abb_455772_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="13_afternoon_circle1.jpeg" width="750" height="431">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/16_IMG_5710.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/16_IMG_5710_hu36ed8274fac2d3fac2080391a2ea7310_1265864_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="16_IMG_5710.jpg" width="592" height="750">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/16_IMG_5710.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/16_IMG_5710_hu36ed8274fac2d3fac2080391a2ea7310_1265864_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="16_IMG_5710.jpg" width="592" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/17_IMG_5707.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/17_IMG_5707_hu8ddf932a05abff272c8a3a81147dbe87_2289581_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="17_IMG_5707.jpg" width="750" height="431">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/17_IMG_5707.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/17_IMG_5707_hu8ddf932a05abff272c8a3a81147dbe87_2289581_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="17_IMG_5707.jpg" width="750" height="431">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/19_chb_bestpaper.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/19_chb_bestpaper_hu614ac769b632c7772c13e9f122597f8e_194980_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="19_chb_bestpaper.jpg" width="750" height="422">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/19_chb_bestpaper.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/19_chb_bestpaper_hu614ac769b632c7772c13e9f122597f8e_194980_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="19_chb_bestpaper.jpg" width="750" height="422">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://chbeu.github.io/media/albums/ev07_perspectives2022/20_IMG_5715.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev07_perspectives2022/20_IMG_5715_hu2312fbb934213a9d3e63258c0f92e0a0_2719090_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="20_IMG_5715.jpg" width="750" height="472">
+&lt;a data-fancybox="gallery-ev07_perspectives2022" href="https://christinebauer.eu/media/albums/ev07_perspectives2022/20_IMG_5715.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev07_perspectives2022/20_IMG_5715_hu2312fbb934213a9d3e63258c0f92e0a0_2719090_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="20_IMG_5715.jpg" width="750" height="472">
 &lt;/a>
 &lt;/div>
 &lt;/div>
@@ -270,13 +270,13 @@ Christine Bauer&lt;/span>, &lt;span >
 Alan Said&lt;/span>
 &lt;/span>
 (2022).
-&lt;a href="https://chbeu.github.io/publications/zangerle-2022-perspectives-ceur/">Proceedings of the Perspectives on the Evaluation of Recommender Systems Workshop 2022&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/zangerle-2022-perspectives-ceur/">Proceedings of the Perspectives on the Evaluation of Recommender Systems Workshop 2022&lt;/a>.
 &lt;p>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/zangerle-2022-perspectives-ceur/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/multimethod/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/multimethod/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ceur-ws.org/Vol-3228/" target="_blank" rel="noopener">
@@ -293,17 +293,17 @@ Christine Bauer&lt;/span>, &lt;span >
 Alan Said&lt;/span>
 &lt;/span>
 (2022).
-&lt;a href="https://chbeu.github.io/publications/zangerle-2022-perspectives/">Second workshop: perspectives on the evaluation of recommender systems (PERSPECTIVES 2022)&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/zangerle-2022-perspectives/">Second workshop: perspectives on the evaluation of recommender systems (PERSPECTIVES 2022)&lt;/a>.
 &lt;em>16th ACM Conference on Recommender Systems&lt;/em> (RecSys 2022).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/zangerle-2022-perspectives/zangerle-2022-perspectives.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/zangerle-2022-perspectives/zangerle-2022-perspectives.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/zangerle-2022-perspectives/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/multimethod/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/multimethod/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3523227.3547408" target="_blank" rel="noopener">
@@ -324,17 +324,17 @@ Christine Bauer&lt;/span>, &lt;span >
 Alan Said&lt;/span>
 &lt;/span>
 (2023).
-&lt;a href="https://chbeu.github.io/publications/zangerle-2023-sigirforum-perspectives/">Report on the 2nd Workshop on the Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2022) at RecSys 2022&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/zangerle-2023-sigirforum-perspectives/">Report on the 2nd Workshop on the Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2022) at RecSys 2022&lt;/a>.
 &lt;em>ACM SIGIR Forum&lt;/em>.
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/zangerle-2023-sigirforum-perspectives/zangerle-2023-sigirforum-perspectives.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/zangerle-2023-sigirforum-perspectives/zangerle-2023-sigirforum-perspectives.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/zangerle-2023-sigirforum-perspectives/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/multimethod/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/multimethod/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3582900.3582919" target="_blank" rel="noopener">
@@ -352,7 +352,7 @@ ACM Author-izer
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/ZWZp389Fxis" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
-&lt;/p></description></item><item><title>Panelist at the Doctoral Symposium of RecSys 2022: PhD and career journey</title><link>https://chbeu.github.io/talks/pl02_recsys2022ds/</link><pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/pl02_recsys2022ds/</guid><description/></item><item><title>Werteorientierte Empfehlungssysteme in den Medien—Realität oder Utopie?</title><link>https://chbeu.github.io/talks/it21_ucai2022_meetup/</link><pubDate>Thu, 30 Jun 2022 16:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/it21_ucai2022_meetup/</guid><description/></item><item><title>To flip or not to flip: conformity effect across cultures</title><link>https://chbeu.github.io/talks/p25_dutchpostchi2022/</link><pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/p25_dutchpostchi2022/</guid><description>
+&lt;/p></description></item><item><title>Panelist at the Doctoral Symposium of RecSys 2022: PhD and career journey</title><link>https://christinebauer.eu/talks/pl02_recsys2022ds/</link><pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/pl02_recsys2022ds/</guid><description/></item><item><title>Werteorientierte Empfehlungssysteme in den Medien—Realität oder Utopie?</title><link>https://christinebauer.eu/talks/it21_ucai2022_meetup/</link><pubDate>Thu, 30 Jun 2022 16:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/it21_ucai2022_meetup/</guid><description/></item><item><title>To flip or not to flip: conformity effect across cultures</title><link>https://christinebauer.eu/talks/p25_dutchpostchi2022/</link><pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/p25_dutchpostchi2022/</guid><description>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
@@ -361,20 +361,20 @@ Bruce Ferwerda&lt;/span>, &lt;span class="author-highlighted">
 Christine Bauer&lt;/span>
 &lt;/span>
 (2022).
-&lt;a href="https://chbeu.github.io/publications/ferwerda-2022-conformity-culture/">To flip or not to flip: conformity effect across cultures&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/ferwerda-2022-conformity-culture/">To flip or not to flip: conformity effect across cultures&lt;/a>.
 &lt;em>CHI Conference on Human Factors in Computing Systems&lt;/em> (CHI EA 2022).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/ferwerda-2022-conformity-culture/ferwerda-2022-conformity-culture.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/ferwerda-2022-conformity-culture/ferwerda-2022-conformity-culture.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/ferwerda-2022-conformity-culture/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/fwf579/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/fwf579/">
 Project
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/ferwerda-2022-conformity-culture/ferwerda-2022-conformity-culture-poster.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/ferwerda-2022-conformity-culture/ferwerda-2022-conformity-culture-poster.pdf" target="_blank" rel="noopener">
 Poster
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3491101.3519662" target="_blank" rel="noopener">
@@ -385,51 +385,51 @@ DOI
 ACM Author-izer
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>Fairness—Are algorithms a burden or a solution?</title><link>https://chbeu.github.io/talks/it20_mediafutures2022/</link><pubDate>Thu, 21 Apr 2022 13:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/it20_mediafutures2022/</guid><description>
+&lt;/div></description></item><item><title>Fairness—Are algorithms a burden or a solution?</title><link>https://christinebauer.eu/talks/it20_mediafutures2022/</link><pubDate>Thu, 21 Apr 2022 13:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/it20_mediafutures2022/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://player.vimeo.com/video/702565366" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
-&lt;/div></description></item><item><title>Context matters: An example of country context in music recommender systems</title><link>https://chbeu.github.io/talks/it19_uibk2022/</link><pubDate>Thu, 07 Apr 2022 12:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/it19_uibk2022/</guid><description/></item><item><title>What is fair? The artists' perspective on music recommenders</title><link>https://chbeu.github.io/talks/it18_marl2022/</link><pubDate>Wed, 06 Apr 2022 22:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/it18_marl2022/</guid><description/></item><item><title>KI und Algorithmen als ethische Herausforderungen für eine mediatisierte Gesellschaft</title><link>https://chbeu.github.io/talks/pd07_fhsp2022_medienethik/</link><pubDate>Thu, 31 Mar 2022 13:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/pd07_fhsp2022_medienethik/</guid><description>
+&lt;/div></description></item><item><title>Context matters: An example of country context in music recommender systems</title><link>https://christinebauer.eu/talks/it19_uibk2022/</link><pubDate>Thu, 07 Apr 2022 12:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/it19_uibk2022/</guid><description/></item><item><title>What is fair? The artists' perspective on music recommenders</title><link>https://christinebauer.eu/talks/it18_marl2022/</link><pubDate>Wed, 06 Apr 2022 22:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/it18_marl2022/</guid><description/></item><item><title>KI und Algorithmen als ethische Herausforderungen für eine mediatisierte Gesellschaft</title><link>https://christinebauer.eu/talks/pd07_fhsp2022_medienethik/</link><pubDate>Thu, 31 Mar 2022 13:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/pd07_fhsp2022_medienethik/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/Sm21fQEfnRc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;br>
-&lt;p>&lt;a href="20220310_PA_Symposium_Medienethik.pdf">Press release (in German)&lt;/a>&lt;/p></description></item><item><title>Keynote: Celebrating an engaged music community and breaking the bias</title><link>https://chbeu.github.io/talks/kt01_codarts/</link><pubDate>Tue, 08 Mar 2022 15:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/kt01_codarts/</guid><description>
+&lt;p>&lt;a href="20220310_PA_Symposium_Medienethik.pdf">Press release (in German)&lt;/a>&lt;/p></description></item><item><title>Keynote: Celebrating an engaged music community and breaking the bias</title><link>https://christinebauer.eu/talks/kt01_codarts/</link><pubDate>Tue, 08 Mar 2022 15:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/kt01_codarts/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="" srcset="
 /talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_5c7017e46732fc391944a3e99c88f2e8.webp 400w,
 /talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_1f5350ce0fa13dc70075842426530a09.webp 760w,
 /talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_1200x1200_fit_q95_h2_mitchellnetravali_3.webp 1200w"
-src="https://chbeu.github.io/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_5c7017e46732fc391944a3e99c88f2e8.webp"
+src="https://christinebauer.eu/talks/kt01_codarts/kt01_codarts_program_hud44f9ef7a1f1ba4f4d4c62246d9e75e4_394568_5c7017e46732fc391944a3e99c88f2e8.webp"
 width="428"
 height="760"
 loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure></description></item><item><title>Computational Thinking</title><link>https://chbeu.github.io/talks/pd06_tuwien2021_computationalthinking/</link><pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/pd06_tuwien2021_computationalthinking/</guid><description>
+&lt;/div>&lt;/figure></description></item><item><title>Computational Thinking</title><link>https://christinebauer.eu/talks/pd06_tuwien2021_computationalthinking/</link><pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/pd06_tuwien2021_computationalthinking/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/vHn4eeQpuTk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Muziek en Algoritmes (Music and algorithms)</title><link>https://chbeu.github.io/talks/pd05_impakttv2021_muziekalgoritmes/</link><pubDate>Thu, 07 Oct 2021 20:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/pd05_impakttv2021_muziekalgoritmes/</guid><description>
+&lt;/div></description></item><item><title>Muziek en Algoritmes (Music and algorithms)</title><link>https://christinebauer.eu/talks/pd05_impakttv2021_muziekalgoritmes/</link><pubDate>Thu, 07 Oct 2021 20:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/pd05_impakttv2021_muziekalgoritmes/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/lTB7Ut7KPZY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>PERSPECTIVES 2021: Perspectives on the evaluation of recommender systems</title><link>https://chbeu.github.io/talks/ev05_perspectives2021/</link><pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/ev05_perspectives2021/</guid><description>
+&lt;/div></description></item><item><title>PERSPECTIVES 2021: Perspectives on the evaluation of recommender systems</title><link>https://christinebauer.eu/talks/ev05_perspectives2021/</link><pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/ev05_perspectives2021/</guid><description>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev05_perspectives2021" href="https://chbeu.github.io/media/albums/ev05_perspectives2021/1_IMG_6077.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev05_perspectives2021/1_IMG_6077_hubb41ccb347aee687410ae0aa64838246_2956288_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="1_IMG_6077.jpg" width="750" height="563">
+&lt;a data-fancybox="gallery-ev05_perspectives2021" href="https://christinebauer.eu/media/albums/ev05_perspectives2021/1_IMG_6077.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev05_perspectives2021/1_IMG_6077_hubb41ccb347aee687410ae0aa64838246_2956288_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="1_IMG_6077.jpg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev05_perspectives2021" href="https://chbeu.github.io/media/albums/ev05_perspectives2021/2_IMG_6078.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev05_perspectives2021/2_IMG_6078_hu6936371361bf4a49663c016e4c4aea29_2800646_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="2_IMG_6078.jpg" width="750" height="563">
+&lt;a data-fancybox="gallery-ev05_perspectives2021" href="https://christinebauer.eu/media/albums/ev05_perspectives2021/2_IMG_6078.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev05_perspectives2021/2_IMG_6078_hu6936371361bf4a49663c016e4c4aea29_2800646_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="2_IMG_6078.jpg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev05_perspectives2021" href="https://chbeu.github.io/media/albums/ev05_perspectives2021/3_IMG_6080.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev05_perspectives2021/3_IMG_6080_hu90ecddbec370e1711e027c9555e4ac0e_3042233_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="3_IMG_6080.jpg" width="750" height="563">
+&lt;a data-fancybox="gallery-ev05_perspectives2021" href="https://christinebauer.eu/media/albums/ev05_perspectives2021/3_IMG_6080.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev05_perspectives2021/3_IMG_6080_hu90ecddbec370e1711e027c9555e4ac0e_3042233_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="3_IMG_6080.jpg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-ev05_perspectives2021" href="https://chbeu.github.io/media/albums/ev05_perspectives2021/4_Teresa-Scheidt-Best-Paper-Award-ACM-RecSys-2021-Perspective-Workshop.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/ev05_perspectives2021/_hu7b12354b6a4c1442c7a5401221c5d13d_908417_61f83ca437b45e85fafed8452cd93059.webp" loading="lazy" alt="4_Teresa-Scheidt-Best-Paper-Award-ACM-RecSys-2021-Perspective-Workshop.jpg" width="750" height="563">
+&lt;a data-fancybox="gallery-ev05_perspectives2021" href="https://christinebauer.eu/media/albums/ev05_perspectives2021/4_Teresa-Scheidt-Best-Paper-Award-ACM-RecSys-2021-Perspective-Workshop.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/ev05_perspectives2021/_hu7b12354b6a4c1442c7a5401221c5d13d_908417_61f83ca437b45e85fafed8452cd93059.webp" loading="lazy" alt="4_Teresa-Scheidt-Best-Paper-Award-ACM-RecSys-2021-Perspective-Workshop.jpg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;/div>
@@ -443,13 +443,13 @@ Christine Bauer&lt;/span>, &lt;span >
 Alan Said&lt;/span>
 &lt;/span>
 (2021).
-&lt;a href="https://chbeu.github.io/publications/zangerle-2021-perspectives-ceur/">Proceedings of the Perspectives on the Evaluation of Recommender Systems Workshop 2021&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/zangerle-2021-perspectives-ceur/">Proceedings of the Perspectives on the Evaluation of Recommender Systems Workshop 2021&lt;/a>.
 &lt;p>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/zangerle-2021-perspectives-ceur/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/multimethod/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/multimethod/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ceur-ws.org/Vol-2955/" target="_blank" rel="noopener">
@@ -466,17 +466,17 @@ Christine Bauer&lt;/span>, &lt;span >
 Alan Said&lt;/span>
 &lt;/span>
 (2021).
-&lt;a href="https://chbeu.github.io/publications/zangerle-2021-perspectives/">Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES)&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/zangerle-2021-perspectives/">Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES)&lt;/a>.
 &lt;em>15th ACM Conference on Recommender Systems&lt;/em> (RecSys 2021).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/zangerle-2021-perspectives/zangerle-2021-perspectives.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/zangerle-2021-perspectives/zangerle-2021-perspectives.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/zangerle-2021-perspectives/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/multimethod/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/multimethod/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3460231.3470929" target="_blank" rel="noopener">
@@ -497,17 +497,17 @@ Christine Bauer&lt;/span>, &lt;span >
 Alan Said&lt;/span>
 &lt;/span>
 (2022).
-&lt;a href="https://chbeu.github.io/publications/zangerle-2022-sigirforum-perspectives/">Report on the 1st Workshop on the Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2021) at RecSys 2021&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/zangerle-2022-sigirforum-perspectives/">Report on the 1st Workshop on the Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2021) at RecSys 2021&lt;/a>.
 &lt;em>ACM SIGIR Forum&lt;/em>.
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/zangerle-2022-sigirforum-perspectives/zangerle-2022-sigirforum-perspectives.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/zangerle-2022-sigirforum-perspectives/zangerle-2022-sigirforum-perspectives.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/zangerle-2022-sigirforum-perspectives/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/multimethod/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/multimethod/">
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3527546.3527565" target="_blank" rel="noopener">
@@ -519,7 +519,7 @@ ACM Author-izer
 &lt;/a>
 &lt;/p>
 &lt;/div>
-&lt;/p></description></item><item><title>Multi-Method Evaluation of Adaptive Systems</title><link>https://chbeu.github.io/talks/tu01_umap2021_multimethods/</link><pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/tu01_umap2021_multimethods/</guid><description>
+&lt;/p></description></item><item><title>Multi-Method Evaluation of Adaptive Systems</title><link>https://christinebauer.eu/talks/tu01_umap2021_multimethods/</link><pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/tu01_umap2021_multimethods/</guid><description>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
@@ -527,20 +527,20 @@ ACM Author-izer
 Christine Bauer&lt;/span>
 &lt;/span>
 (2021).
-&lt;a href="https://chbeu.github.io/publications/bauer-2021-multimethods-tutorial/">Multi-method evaluation of adaptive systems&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2021-multimethods-tutorial/">Multi-method evaluation of adaptive systems&lt;/a>.
 &lt;em>29th Conference on User Modeling, Adaptation and Personalization&lt;/em> (UMAP 2021).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2021-multimethods-tutorial/bauer-2021-multimethods-tutorial.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2021-multimethods-tutorial/bauer-2021-multimethods-tutorial.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
 data-filename="/publications/bauer-2021-multimethods-tutorial/cite.bib">
 Cite
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/multimethod/">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/multimethod/">
 Project
 &lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf" target="_blank" rel="noopener">
 Slides
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3450613.3457122" target="_blank" rel="noopener">
@@ -553,15 +553,15 @@ ACM Author-izer
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2021: B &lt;/span>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">GGS 2021: B &lt;/span>
 &lt;/p>
-&lt;/div></description></item><item><title>Human-Centered AI—Are we there yet?</title><link>https://chbeu.github.io/talks/pl01_humanize2021/</link><pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/pl01_humanize2021/</guid><description>
+&lt;/div></description></item><item><title>Human-Centered AI—Are we there yet?</title><link>https://christinebauer.eu/talks/pl01_humanize2021/</link><pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/pl01_humanize2021/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/ySsSZr4u7fY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Keynote: In the user is it—is it?: If you want to understand your users, you have to understand their situations</title><link>https://chbeu.github.io/talks/kn02_humanize2021/</link><pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/kn02_humanize2021/</guid><description>
+&lt;/div></description></item><item><title>Keynote: In the user is it—is it?: If you want to understand your users, you have to understand their situations</title><link>https://christinebauer.eu/talks/kn02_humanize2021/</link><pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/kn02_humanize2021/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/_iWHP4NNxpI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;br>
-Christine Bauer (2021). In the user is it – is it?: If you want to understand your users, you have to understand their situations. Keynote at the Workshop “Transparency and Explainability in Adaptive Systems Through User Modelling Grounded in Psychological Theory (HUMANIZE 2021), co-located with IUI 2021. Online, 13 April.</description></item><item><title>Geschlechtsspezifische Vorurteile und Diskriminierung durch KI</title><link>https://chbeu.github.io/talks/pd04_vutdays2020/</link><pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/pd04_vutdays2020/</guid><description>
+Christine Bauer (2021). In the user is it – is it?: If you want to understand your users, you have to understand their situations. Keynote at the Workshop “Transparency and Explainability in Adaptive Systems Through User Modelling Grounded in Psychological Theory (HUMANIZE 2021), co-located with IUI 2021. Online, 13 April.</description></item><item><title>Geschlechtsspezifische Vorurteile und Diskriminierung durch KI</title><link>https://christinebauer.eu/talks/pd04_vutdays2020/</link><pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/pd04_vutdays2020/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/jQM2M6gMAvY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
@@ -569,31 +569,31 @@ Christine Bauer (2021). In the user is it – is it?: If you want to understand 
 &lt;br>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n_hud4a729e8ced41074b6c49e9ddc851db5_93838_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="122194815_3379261962139907_2981327588273322309_n.jpg" width="422" height="750">
+&lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://christinebauer.eu/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/pd04_vutdays2020/122194815_3379261962139907_2981327588273322309_n_hud4a729e8ced41074b6c49e9ddc851db5_93838_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="122194815_3379261962139907_2981327588273322309_n.jpg" width="422" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag.png" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag_hu84a89f40db0b943e52771e19a389834c_2710961_750x750_fit_q95_h2_mitchellnetravali_3.webp" loading="lazy" alt="copopxoxo_Bauer_Freitag.png" width="750" height="750">
+&lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://christinebauer.eu/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag.png" >
+&lt;img src="https://christinebauer.eu/media/albums/pd04_vutdays2020/copopxoxo_Bauer_Freitag_hu84a89f40db0b943e52771e19a389834c_2710961_750x750_fit_q95_h2_mitchellnetravali_3.webp" loading="lazy" alt="copopxoxo_Bauer_Freitag.png" width="750" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/EPZF5797_hu84a89f40db0b943e52771e19a389834c_2703088_750x750_fit_q95_h2_mitchellnetravali_3.webp" loading="lazy" alt="EPZF5797.PNG" width="750" height="750">
+&lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://christinebauer.eu/media/albums/pd04_vutdays2020/EPZF5797.PNG" >
+&lt;img src="https://christinebauer.eu/media/albums/pd04_vutdays2020/EPZF5797_hu84a89f40db0b943e52771e19a389834c_2703088_750x750_fit_q95_h2_mitchellnetravali_3.webp" loading="lazy" alt="EPZF5797.PNG" width="750" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/UHVQ3382_hu84a89f40db0b943e52771e19a389834c_2696218_750x750_fit_q95_h2_mitchellnetravali_3.webp" loading="lazy" alt="UHVQ3382.PNG" width="750" height="750">
+&lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://christinebauer.eu/media/albums/pd04_vutdays2020/UHVQ3382.PNG" >
+&lt;img src="https://christinebauer.eu/media/albums/pd04_vutdays2020/UHVQ3382_hu84a89f40db0b943e52771e19a389834c_2696218_750x750_fit_q95_h2_mitchellnetravali_3.webp" loading="lazy" alt="UHVQ3382.PNG" width="750" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980.PNG" >
-&lt;img src="https://chbeu.github.io/media/albums/pd04_vutdays2020/VKBZ4980_hu84a89f40db0b943e52771e19a389834c_2697812_750x750_fit_q95_h2_mitchellnetravali_3.webp" loading="lazy" alt="VKBZ4980.PNG" width="750" height="750">
+&lt;a data-fancybox="gallery-pd04_vutdays2020" href="https://christinebauer.eu/media/albums/pd04_vutdays2020/VKBZ4980.PNG" >
+&lt;img src="https://christinebauer.eu/media/albums/pd04_vutdays2020/VKBZ4980_hu84a89f40db0b943e52771e19a389834c_2697812_750x750_fit_q95_h2_mitchellnetravali_3.webp" loading="lazy" alt="VKBZ4980.PNG" width="750" height="750">
 &lt;/a>
 &lt;/div>
-&lt;/div></description></item><item><title>Keynote: Ratings in, rankings out. Keep it simple, they said. But we need more than that.</title><link>https://chbeu.github.io/talks/kn01_complexrec2020/</link><pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/kn01_complexrec2020/</guid><description>&lt;p>
+&lt;/div></description></item><item><title>Keynote: Ratings in, rankings out. Keep it simple, they said. But we need more than that.</title><link>https://christinebauer.eu/talks/kn01_complexrec2020/</link><pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/kn01_complexrec2020/</guid><description>&lt;p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/nAevW75MzQA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
@@ -605,10 +605,10 @@ Christine Bauer (2021). In the user is it – is it?: If you want to understand 
 Christine Bauer&lt;/span>
 &lt;/span>
 (2020).
-&lt;a href="https://chbeu.github.io/publications/bauer-2020-complexrec-keynote/">Ratings in, rankings out. Keep it simple, they said. But we need more than that.&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/">Ratings in, rankings out. Keep it simple, they said. But we need more than that.&lt;/a>.
 Proceedings of the Recommendation in Complex Scenarios and the Impact of Recommender Systems 2020 (ComplexRec-ImpactRS 2020) (ComplexRec 2020).
 &lt;p>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/bauer-2020-complexrec-keynote/bauer-2020-complexrec-keynote.pdf" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2020-complexrec-keynote/bauer-2020-complexrec-keynote.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
@@ -616,102 +616,102 @@ data-filename="/publications/bauer-2020-complexrec-keynote/cite.bib">
 Cite
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>Sag mir, was du hörst—und ich sage dir, wer du bist!</title><link>https://chbeu.github.io/talks/t10_privacyweek2019/</link><pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t10_privacyweek2019/</guid><description>&lt;p>&lt;video controls src="https://mirrors.dotsrc.org/cdn.media.ccc.de/events/privacyweek/2019/h264-hd/pw19-245-deu-eng-Sag_mir_was_du_hoerst_-_und_ich_sage_dir_wer_du_bist_hd.mp4">&lt;/video>&lt;/p>
+&lt;/div></description></item><item><title>Sag mir, was du hörst—und ich sage dir, wer du bist!</title><link>https://christinebauer.eu/talks/t10_privacyweek2019/</link><pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/t10_privacyweek2019/</guid><description>&lt;p>&lt;video controls src="https://mirrors.dotsrc.org/cdn.media.ccc.de/events/privacyweek/2019/h264-hd/pw19-245-deu-eng-Sag_mir_was_du_hoerst_-_und_ich_sage_dir_wer_du_bist_hd.mp4">&lt;/video>&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Sketch of my talk at &lt;a href="https://twitter.com/PrivacyWeek?ref_src=twsrc%5Etfw">@PrivacyWeek&lt;/a> &lt;a href="https://twitter.com/hashtag/pw19?src=hash&amp;amp;ref_src=twsrc%5Etfw">#pw19&lt;/a>&lt;br>I love ❤️ this sketch. And I feel honored :-) &lt;a href="https://t.co/GfygxQNrwb">https://t.co/GfygxQNrwb&lt;/a>&lt;/p>&amp;mdash; Christine Bauer (@christine_bauer) &lt;a href="https://twitter.com/christine_bauer/status/1188472972023087104?ref_src=twsrc%5Etfw">October 27, 2019&lt;/a>&lt;/blockquote>
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>Music Information Retrieval: Inside and Outside the Music</title><link>https://chbeu.github.io/talks/t09_aixmusic2019_talk/</link><pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t09_aixmusic2019_talk/</guid><description>&lt;p>&lt;video controls src="https://www.dorftv.at/system/files/thek/720p/2019/31986/31986.mp4#t=1545">&lt;/video>&lt;/p>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>Music Information Retrieval: Inside and Outside the Music</title><link>https://christinebauer.eu/talks/t09_aixmusic2019_talk/</link><pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/t09_aixmusic2019_talk/</guid><description>&lt;p>&lt;video controls src="https://www.dorftv.at/system/files/thek/720p/2019/31986/31986.mp4#t=1545">&lt;/video>&lt;/p>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O_hu4c422569970d4dd29378e5200606a2c7_1954265_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="48698187558_594301CE59_O.JPG" width="750" height="500">
+&lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://christinebauer.eu/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O.JPG" >
+&lt;img src="https://christinebauer.eu/media/albums/t09_aixmusic2019_talk/48698187558_594301CE59_O_hu4c422569970d4dd29378e5200606a2c7_1954265_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="48698187558_594301CE59_O.JPG" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O_hu4c422569970d4dd29378e5200606a2c7_1387763_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="48698705532_C9E61907D7_O.JPG" width="750" height="500">
+&lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://christinebauer.eu/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O.JPG" >
+&lt;img src="https://christinebauer.eu/media/albums/t09_aixmusic2019_talk/48698705532_C9E61907D7_O_hu4c422569970d4dd29378e5200606a2c7_1387763_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="48698705532_C9E61907D7_O.JPG" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O.JPG" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O_hu4c422569970d4dd29378e5200606a2c7_1419379_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="48698706212_D14D50BAF1_O.JPG" width="750" height="500">
+&lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://christinebauer.eu/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O.JPG" >
+&lt;img src="https://christinebauer.eu/media/albums/t09_aixmusic2019_talk/48698706212_D14D50BAF1_O_hu4c422569970d4dd29378e5200606a2c7_1419379_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="48698706212_D14D50BAF1_O.JPG" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4042.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4042.jpeg" width="562" height="750">
+&lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://christinebauer.eu/media/albums/t09_aixmusic2019_talk/IMG_4042.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/t09_aixmusic2019_talk/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4042.jpeg" width="562" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4070.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/t09_aixmusic2019_talk/IMG_4070_huc52c39725df73efbd98e62c34320798c_531658_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4070.jpeg" width="750" height="370">
+&lt;a data-fancybox="gallery-t09_aixmusic2019_talk" href="https://christinebauer.eu/media/albums/t09_aixmusic2019_talk/IMG_4070.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/t09_aixmusic2019_talk/IMG_4070_huc52c39725df73efbd98e62c34320798c_531658_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4070.jpeg" width="750" height="370">
 &lt;/a>
 &lt;/div>
-&lt;/div></description></item><item><title>Recommenders and Intelligent Tools in Music Creation: Why, Why Not, and How?</title><link>https://chbeu.github.io/talks/wo01_aixmusic2019_ws/</link><pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/wo01_aixmusic2019_ws/</guid><description>
+&lt;/div></description></item><item><title>Recommenders and Intelligent Tools in Music Creation: Why, Why Not, and How?</title><link>https://christinebauer.eu/talks/wo01_aixmusic2019_ws/</link><pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/wo01_aixmusic2019_ws/</guid><description>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4041%202.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4041%202_hude31bc0fa581f6fe278db65bbdadfb9b_1452481_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4041 2.jpeg" width="750" height="422">
+&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4041%202.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4041%202_hude31bc0fa581f6fe278db65bbdadfb9b_1452481_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4041 2.jpeg" width="750" height="422">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4042.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4042.jpeg" width="562" height="750">
+&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4042.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4042_huc473e2da68098a1be7968d2373638c0c_1466535_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4042.jpeg" width="562" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4044.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4044_hude31bc0fa581f6fe278db65bbdadfb9b_1465151_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4044.jpeg" width="422" height="750">
+&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4044.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4044_hude31bc0fa581f6fe278db65bbdadfb9b_1465151_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4044.jpeg" width="422" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4045.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4045_hu3a03999124e9d31077192b40aaf6d5f9_2103872_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4045.jpeg" width="750" height="563">
+&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4045.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4045_hu3a03999124e9d31077192b40aaf6d5f9_2103872_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4045.jpeg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4046.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4046_hude31bc0fa581f6fe278db65bbdadfb9b_1905088_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4046.jpeg" width="750" height="563">
+&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4046.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4046_hude31bc0fa581f6fe278db65bbdadfb9b_1905088_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4046.jpeg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4047.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4047_hude31bc0fa581f6fe278db65bbdadfb9b_2186067_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4047.jpeg" width="750" height="563">
+&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4047.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4047_hude31bc0fa581f6fe278db65bbdadfb9b_2186067_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4047.jpeg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4053.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4053_hude31bc0fa581f6fe278db65bbdadfb9b_1555720_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4053.jpeg" width="563" height="750">
+&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4053.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4053_hude31bc0fa581f6fe278db65bbdadfb9b_1555720_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4053.jpeg" width="563" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4055.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4055_hude31bc0fa581f6fe278db65bbdadfb9b_1825765_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4055.jpeg" width="750" height="563">
+&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4055.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4055_hude31bc0fa581f6fe278db65bbdadfb9b_1825765_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4055.jpeg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4058.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4058_hude31bc0fa581f6fe278db65bbdadfb9b_2110982_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4058.jpeg" width="750" height="563">
+&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4058.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4058_hude31bc0fa581f6fe278db65bbdadfb9b_2110982_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4058.jpeg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4059.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4059_hude31bc0fa581f6fe278db65bbdadfb9b_2100420_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4059.jpeg" width="750" height="563">
+&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4059.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4059_hude31bc0fa581f6fe278db65bbdadfb9b_2100420_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4059.jpeg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4061.jpeg" >
-&lt;img src="https://chbeu.github.io/media/albums/wo01_aixmusic2019_ws/IMG_4061_hude31bc0fa581f6fe278db65bbdadfb9b_1842071_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4061.jpeg" width="750" height="563">
+&lt;a data-fancybox="gallery-wo01_aixmusic2019_ws" href="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4061.jpeg" >
+&lt;img src="https://christinebauer.eu/media/albums/wo01_aixmusic2019_ws/IMG_4061_hude31bc0fa581f6fe278db65bbdadfb9b_1842071_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="IMG_4061.jpeg" width="750" height="563">
 &lt;/a>
 &lt;/div>
-&lt;/div></description></item><item><title>NGI Talk #3: AI and beyond</title><link>https://chbeu.github.io/talks/pd03_ngitalk2019_ait/</link><pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/pd03_ngitalk2019_ait/</guid><description>&lt;p>&lt;a href="https://ngi.ait.ac.at/aftermath-to-ngi3-ai-and-beyond/" target="_blank" rel="noopener">Aftermath to NGI#3&amp;mdash;AI and beyond (in German)&lt;/a>&lt;/p></description></item><item><title>Wie wird Artificial Intelligence die Art und Weise verändern, wie wir Computer wahrnehmen und mit ihnen umgehen?</title><link>https://chbeu.github.io/talks/t08_ngitalk2019_ait/</link><pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t08_ngitalk2019_ait/</guid><description/></item><item><title>Den richtigen Inhalt für den richtigen User im richtigen Moment: Musikempfehlungssysteme jetzt und in der Zukunft</title><link>https://chbeu.github.io/talks/t07_rotaryclub2018/</link><pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t07_rotaryclub2018/</guid><description/></item><item><title>Self-disclosure in online interaction</title><link>https://chbeu.github.io/talks/t06_privacyweek2016/</link><pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t06_privacyweek2016/</guid><description/></item><item><title>Radio aktiv: Von der redaktionellen Gestaltung über Empfehlungen zum dynamischen Programm</title><link>https://chbeu.github.io/talks/t05_radioaktiv2016/</link><pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t05_radioaktiv2016/</guid><description>
+&lt;/div></description></item><item><title>NGI Talk #3: AI and beyond</title><link>https://christinebauer.eu/talks/pd03_ngitalk2019_ait/</link><pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/pd03_ngitalk2019_ait/</guid><description>&lt;p>&lt;a href="https://ngi.ait.ac.at/aftermath-to-ngi3-ai-and-beyond/" target="_blank" rel="noopener">Aftermath to NGI#3&amp;mdash;AI and beyond (in German)&lt;/a>&lt;/p></description></item><item><title>Wie wird Artificial Intelligence die Art und Weise verändern, wie wir Computer wahrnehmen und mit ihnen umgehen?</title><link>https://christinebauer.eu/talks/t08_ngitalk2019_ait/</link><pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/t08_ngitalk2019_ait/</guid><description/></item><item><title>Den richtigen Inhalt für den richtigen User im richtigen Moment: Musikempfehlungssysteme jetzt und in der Zukunft</title><link>https://christinebauer.eu/talks/t07_rotaryclub2018/</link><pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/t07_rotaryclub2018/</guid><description/></item><item><title>Self-disclosure in online interaction</title><link>https://christinebauer.eu/talks/t06_privacyweek2016/</link><pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/t06_privacyweek2016/</guid><description/></item><item><title>Radio aktiv: Von der redaktionellen Gestaltung über Empfehlungen zum dynamischen Programm</title><link>https://christinebauer.eu/talks/t05_radioaktiv2016/</link><pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/t05_radioaktiv2016/</guid><description>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-t05_radioaktiv2016" href="https://chbeu.github.io/media/albums/t05_radioaktiv2016/14963228_1166438473422278_2339842726598737200_n.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/t05_radioaktiv2016/14963228_1166438473422278_2339842726598737200_n_huae84a6fd9e0d72cfa2f61a2e880692e0_36970_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="14963228_1166438473422278_2339842726598737200_n.jpg" width="750" height="563">
+&lt;a data-fancybox="gallery-t05_radioaktiv2016" href="https://christinebauer.eu/media/albums/t05_radioaktiv2016/14963228_1166438473422278_2339842726598737200_n.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/t05_radioaktiv2016/14963228_1166438473422278_2339842726598737200_n_huae84a6fd9e0d72cfa2f61a2e880692e0_36970_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="14963228_1166438473422278_2339842726598737200_n.jpg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-t05_radioaktiv2016" href="https://chbeu.github.io/media/albums/t05_radioaktiv2016/14980760_1166438480088944_55834447800959137_n.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/t05_radioaktiv2016/14980760_1166438480088944_55834447800959137_n_hu6b027cb2663dd4825c15f9b50d526f26_44393_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="14980760_1166438480088944_55834447800959137_n.jpg" width="750" height="563">
+&lt;a data-fancybox="gallery-t05_radioaktiv2016" href="https://christinebauer.eu/media/albums/t05_radioaktiv2016/14980760_1166438480088944_55834447800959137_n.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/t05_radioaktiv2016/14980760_1166438480088944_55834447800959137_n_hu6b027cb2663dd4825c15f9b50d526f26_44393_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="14980760_1166438480088944_55834447800959137_n.jpg" width="750" height="563">
 &lt;/a>
 &lt;/div>
 &lt;/div>
@@ -719,7 +719,7 @@ Cite
 &lt;br>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/O3vA-N8F6P0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Bands as virtual organisations</title><link>https://chbeu.github.io/talks/t04_musikwirtschaftsjourfixe2012/</link><pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t04_musikwirtschaftsjourfixe2012/</guid><description>
+&lt;/div></description></item><item><title>Bands as virtual organisations</title><link>https://christinebauer.eu/talks/t04_musikwirtschaftsjourfixe2012/</link><pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/t04_musikwirtschaftsjourfixe2012/</guid><description>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
@@ -727,7 +727,7 @@ Cite
 Christine Bauer&lt;/span>
 &lt;/span>
 (2012).
-&lt;a href="https://chbeu.github.io/publications/bauer-2012-bands/">Bands as virtual organisations: improving the processes of band and event management with information and communication technologies&lt;/a>.
+&lt;a href="https://christinebauer.eu/publications/bauer-2012-bands/">Bands as virtual organisations: improving the processes of band and event management with information and communication technologies&lt;/a>.
 &lt;em>Peter Lang&lt;/em>.
 &lt;p>
 &lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
@@ -738,7 +738,7 @@ Cite
 DOI
 &lt;/a>
 &lt;/p>
-&lt;/div></description></item><item><title>Kontextadaptive Systeme: überall—auch in der Werbung</title><link>https://chbeu.github.io/talks/t03_wucompetenceday2011/</link><pubDate>Thu, 17 Nov 2011 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/t03_wucompetenceday2011/</guid><description/></item><item><title>Context-adaptive technology for the efficient allocation of human attention</title><link>https://chbeu.github.io/talks/p04_mcis2010/</link><pubDate>Sun, 12 Sep 2010 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/p04_mcis2010/</guid><description/></item><item><title>Was ist ein guter Popstar? 15 Minuten Ruhm im Internet…?!</title><link>https://chbeu.github.io/talks/pd02_popstar2010/</link><pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/pd02_popstar2010/</guid><description>
+&lt;/div></description></item><item><title>Kontextadaptive Systeme: überall—auch in der Werbung</title><link>https://christinebauer.eu/talks/t03_wucompetenceday2011/</link><pubDate>Thu, 17 Nov 2011 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/t03_wucompetenceday2011/</guid><description/></item><item><title>Context-adaptive technology for the efficient allocation of human attention</title><link>https://christinebauer.eu/talks/p04_mcis2010/</link><pubDate>Sun, 12 Sep 2010 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/p04_mcis2010/</guid><description/></item><item><title>Was ist ein guter Popstar? 15 Minuten Ruhm im Internet…?!</title><link>https://christinebauer.eu/talks/pd02_popstar2010/</link><pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/pd02_popstar2010/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://player.vimeo.com/video/13127238" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
 &lt;/div>
@@ -746,53 +746,53 @@ DOI
 &lt;br>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/1a.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1a_hu0b116465b7d46c3a581a2edd4c28daa4_295106_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="1a.jpg" width="750" height="498">
+&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://christinebauer.eu/media/albums/pd02_popstar2010/1a.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/pd02_popstar2010/1a_hu0b116465b7d46c3a581a2edd4c28daa4_295106_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="1a.jpg" width="750" height="498">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/1b.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1b_hubea710653fe503a23eb16636e45feca8_529917_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="1b.jpg" width="750" height="500">
+&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://christinebauer.eu/media/albums/pd02_popstar2010/1b.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/pd02_popstar2010/1b_hubea710653fe503a23eb16636e45feca8_529917_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="1b.jpg" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/1c.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1c_hud8b4041ab86dad20e6046471e5674861_449722_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="1c.jpg" width="750" height="500">
+&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://christinebauer.eu/media/albums/pd02_popstar2010/1c.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/pd02_popstar2010/1c_hud8b4041ab86dad20e6046471e5674861_449722_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="1c.jpg" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/1d.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1d_hu09951eb33f773c9a8d4b1607eceb778d_498910_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="1d.jpg" width="750" height="500">
+&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://christinebauer.eu/media/albums/pd02_popstar2010/1d.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/pd02_popstar2010/1d_hu09951eb33f773c9a8d4b1607eceb778d_498910_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="1d.jpg" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/1e.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/1e_hud4c537cd1ab4bfec474e6d357d85ecfc_60860_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="1e.jpg" width="614" height="750">
+&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://christinebauer.eu/media/albums/pd02_popstar2010/1e.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/pd02_popstar2010/1e_hud4c537cd1ab4bfec474e6d357d85ecfc_60860_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="1e.jpg" width="614" height="750">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/2a.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/2a_huf1d5a9ed6522981e625ffc63245a66b1_453691_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="2a.jpg" width="750" height="500">
+&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://christinebauer.eu/media/albums/pd02_popstar2010/2a.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/pd02_popstar2010/2a_huf1d5a9ed6522981e625ffc63245a66b1_453691_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="2a.jpg" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/2b.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/2b_huc747152caa45f7e6604cc9e4685adbff_801878_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="2b.jpg" width="750" height="498">
+&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://christinebauer.eu/media/albums/pd02_popstar2010/2b.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/pd02_popstar2010/2b_huc747152caa45f7e6604cc9e4685adbff_801878_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="2b.jpg" width="750" height="498">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/3a.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/3a_hu6988b4b2dcc344c732ce68e400fb100b_460549_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="3a.jpg" width="750" height="500">
+&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://christinebauer.eu/media/albums/pd02_popstar2010/3a.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/pd02_popstar2010/3a_hu6988b4b2dcc344c732ce68e400fb100b_460549_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="3a.jpg" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/3b.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/3b_hu80672e9620a529a17511b9bbe1a156a0_353334_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="3b.jpg" width="750" height="500">
+&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://christinebauer.eu/media/albums/pd02_popstar2010/3b.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/pd02_popstar2010/3b_hu80672e9620a529a17511b9bbe1a156a0_353334_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="3b.jpg" width="750" height="500">
 &lt;/a>
 &lt;/div>
 &lt;div class="gallery-item gallery-item--medium">
-&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://chbeu.github.io/media/albums/pd02_popstar2010/4.jpg" >
-&lt;img src="https://chbeu.github.io/media/albums/pd02_popstar2010/4_hu5c302b5825eb00341101cb047eef4b23_462938_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="4.jpg" width="750" height="500">
+&lt;a data-fancybox="gallery-pd02_popstar2010" href="https://christinebauer.eu/media/albums/pd02_popstar2010/4.jpg" >
+&lt;img src="https://christinebauer.eu/media/albums/pd02_popstar2010/4_hu5c302b5825eb00341101cb047eef4b23_462938_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="4.jpg" width="750" height="500">
 &lt;/a>
 &lt;/div>
-&lt;/div></description></item><item><title>Managerial skills that artists need beyond artistic abilities</title><link>https://chbeu.github.io/talks/po03_ewts2009/</link><pubDate>Sat, 11 Jul 2009 00:00:00 +0000</pubDate><guid>https://chbeu.github.io/talks/po03_ewts2009/</guid><description/></item></channel></rss>
+&lt;/div></description></item><item><title>Managerial skills that artists need beyond artistic abilities</title><link>https://christinebauer.eu/talks/po03_ewts2009/</link><pubDate>Sat, 11 Jul 2009 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/talks/po03_ewts2009/</guid><description/></item></channel></rss>
