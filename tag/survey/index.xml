@@ -1,4 +1,88 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>survey | Christine Bauer</title><link>https://chbeu.github.io/tag/survey/</link><atom:link href="https://chbeu.github.io/tag/survey/index.xml" rel="self" type="application/rss+xml"/><description>survey</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Fri, 22 Sep 2023 16:05:00 +0000</lastBuildDate><image><url>https://chbeu.github.io/media/sharing.png</url><title>survey</title><link>https://chbeu.github.io/tag/survey/</link></image><item><title>Evaluating recommender systems: survey and framework</title><link>https://chbeu.github.io/talks/it26_womeninrecsys2023_fevr/</link><pubDate>Fri, 22 Sep 2023 16:05:00 +0000</pubDate><guid>https://chbeu.github.io/talks/it26_womeninrecsys2023_fevr/</guid><description>&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>survey | Christine Bauer</title><link>https://chbeu.github.io/tag/survey/</link><atom:link href="https://chbeu.github.io/tag/survey/index.xml" rel="self" type="application/rss+xml"/><description>survey</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Sun, 08 Oct 2023 13:40:00 +0200</lastBuildDate><image><url>https://chbeu.github.io/media/sharing.png</url><title>survey</title><link>https://chbeu.github.io/tag/survey/</link></image><item><title>Women in RecSys Journal Paper of the Year Award 2023</title><link>https://chbeu.github.io/post/20231008_womeninrecsys2023_award/</link><pubDate>Sun, 08 Oct 2023 13:40:00 +0200</pubDate><guid>https://chbeu.github.io/post/20231008_womeninrecsys2023_award/</guid><description>&lt;br>
+&lt;p>&lt;a href="https://evazangerle.at" target="_blank" rel="noopener">Eva Zangerle&lt;/a> and me received the Women in RecSys Journal Paper of the Year Award 2023 for our paper &lt;a href="https://chbeu.github.io/publications/zangerle-2022-fevr">Evaluating Recommender Systems: Survey and Framework&lt;/a>—yay!&lt;/p>
+&lt;p>It was both an honor and a a pleasure presenting our work in the main program of RecSys 2023 in Singapore. I am also glad that Eva&amp;rsquo;s &amp;ldquo;surprise appearance&amp;rdquo; worked out well :)&lt;/p>
+&lt;p>
+&lt;figure id="figure-presenting-our-work-at-recsys-2023-21-september-2023-image-credit-alan-saidhttpswwwalansaidcom">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Presenting our work at RecSys 2023, 21 September 2023; Image credit: [**Alan Said**](https://www.alansaid.com)" srcset="
+/post/20231008_womeninrecsys2023_award/photo1_hu1accf7cd0537c622641fd5ac726576af_254985_5949a67613befecb420eb45489e749ff.webp 400w,
+/post/20231008_womeninrecsys2023_award/photo1_hu1accf7cd0537c622641fd5ac726576af_254985_babb36c077150208ba1c4e72e80bdc76.webp 760w,
+/post/20231008_womeninrecsys2023_award/photo1_hu1accf7cd0537c622641fd5ac726576af_254985_1200x1200_fit_q95_h2_mitchellnetravali.webp 1200w"
+src="https://chbeu.github.io/post/20231008_womeninrecsys2023_award/photo1_hu1accf7cd0537c622641fd5ac726576af_254985_5949a67613befecb420eb45489e749ff.webp"
+width="760"
+height="355"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Presenting our work at RecSys 2023, 21 September 2023; Image credit: &lt;a href="https://www.alansaid.com" target="_blank" rel="noopener">&lt;strong>Alan Said&lt;/strong>&lt;/a>
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-eva-zangerles-surprise-appearance-on-screen-image-credit-alan-saidhttpswwwalansaidcom">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Eva Zangerle&amp;#39;s surprise appearance on screen; Image credit: [**Alan Said**](https://www.alansaid.com)" srcset="
+/post/20231008_womeninrecsys2023_award/photo2_hu26d34e5913c5d3513215952270bd0cdf_275724_524e419daeb983108ccb5c6cda192ef8.webp 400w,
+/post/20231008_womeninrecsys2023_award/photo2_hu26d34e5913c5d3513215952270bd0cdf_275724_4fe2a8722154b4c72079c44e68e4b986.webp 760w,
+/post/20231008_womeninrecsys2023_award/photo2_hu26d34e5913c5d3513215952270bd0cdf_275724_1200x1200_fit_q95_h2_mitchellnetravali.webp 1200w"
+src="https://chbeu.github.io/post/20231008_womeninrecsys2023_award/photo2_hu26d34e5913c5d3513215952270bd0cdf_275724_524e419daeb983108ccb5c6cda192ef8.webp"
+width="760"
+height="355"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Eva Zangerle&amp;rsquo;s surprise appearance on screen; Image credit: &lt;a href="https://www.alansaid.com" target="_blank" rel="noopener">&lt;strong>Alan Said&lt;/strong>&lt;/a>
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>&lt;br>&lt;br>
+&lt;div class="media stream-item view-compact">
+&lt;div class="media-body">
+&lt;div class="section-subheading article-title mb-0 mt-0">
+&lt;a href="https://chbeu.github.io/publications/zangerle-2022-fevr/" >Evaluating recommender systems: survey and framework&lt;/a>
+&lt;/div>
+&lt;a href="https://chbeu.github.io/publications/zangerle-2022-fevr/" class="summary-link">
+&lt;div class="article-style">
+The comprehensive evaluation of the performance of a recommender system is a complex endeavor: many facets need to be considered in …
+&lt;/div>
+&lt;/a>
+&lt;div class="stream-meta article-metadata">
+&lt;div>
+&lt;span >
+Eva Zangerle&lt;/span>, &lt;span class="author-highlighted">
+Christine Bauer&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/publications/zangerle-2022-fevr/zangerle-2022-fevr.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publications/zangerle-2022-fevr/cite.bib">
+Cite
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://chbeu.github.io/project/multimethod/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3556536" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3556536?cid=81453628934" target="_blank" rel="noopener">
+&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+ACM Author-izer
+&lt;/a>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JIF 2021: 14.324 &lt;/span>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2020: A* &lt;/span>
+&lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JOURQUAL3: B &lt;/span>
+&lt;i class="fas fa-trophy mr-1">&lt;/i>
+&lt;b>Women in RecSys Journal Paper of the Year Award 2023, Senior category&lt;/b>
+&lt;span data-badge-popover="right" data-badge-type="donut"
+data-doi="10.1145/3556536"
+data-hide-no-mentions="true" class="altmetric-embed altmetric-style">&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;div class="ml-3">
+&lt;a href="https://chbeu.github.io/publications/zangerle-2022-fevr/" >
+&lt;img src="https://chbeu.github.io/publications/zangerle-2022-fevr/fevr_featured_hu9607a67cdb015e3f74deb12fceaf78b2_578591_150x0_resize_q95_h2_mitchellnetravali_3.webp" height="77" width="150"
+alt="Evaluating recommender systems: survey and framework" loading="lazy">
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/p></description></item><item><title>Evaluating recommender systems: survey and framework</title><link>https://chbeu.github.io/talks/it26_womeninrecsys2023_fevr/</link><pubDate>Fri, 22 Sep 2023 16:05:00 +0000</pubDate><guid>https://chbeu.github.io/talks/it26_womeninrecsys2023_fevr/</guid><description>&lt;br>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
