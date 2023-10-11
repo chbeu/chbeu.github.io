@@ -1,8 +1,7 @@
 ---
 type: publication
 
-title: "Exploring the landscape of recommender systems evaluation: practices and perspectives
-"
+title: "Exploring the landscape of recommender systems evaluation: practices and perspectives"
 subtitle: ''
 summary: ''
 authors:
