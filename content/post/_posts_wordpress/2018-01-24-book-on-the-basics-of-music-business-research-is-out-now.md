@@ -22,4 +22,4 @@ The section that I have authored is entitled ''Der Beitrag der Informatik zur Mu
 
 
 <br>
-{{< cite page="bauer-2020-complexrec-keynote" view="4" >}}
+{{< cite page="bauer-2018-musikwirtschaftsforschung-informatik" view="4" >}}

@@ -16,7 +16,7 @@ tags:
   - publication
   - recommender systems
 ---
-Our HICSS paper is online! https://hdl.handle.net/10125/59655
+Our HICSS paper is online! https://doi.org/10.24251/HICSS.2019.263
 
 The presentation is scheduled for Friday, 11 January 2019, 8:00 am.
 
