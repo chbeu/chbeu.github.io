@@ -71,7 +71,7 @@ EN	…	English
 
 DUK	…	Danube University Krems, Austria  
 FFH	…	Ferdinand Porsche FernFH Studiengänge (University of Applied Sciences), Vienna, Austria  
-FFH	…	FH Salzburg, Austria  
+FFS	…	FH Salzburg, Austria  
 HBA	…	Humboldt Business Academia, Vienna, Austria  
 IBK	…	University of Innsbruck, Austria  
 JKU	…	Johannes Kepler University Linz, Austria  
