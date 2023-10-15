@@ -3,7 +3,7 @@
 
 title: "Women in RecSys Journal Paper of the Year Award 2023"
 #subtitle: ""
-summary: "[Eva Zangerle] and me received the Women in RecSys Journal Paper of the Year Award 2023 for our CSUR paper 'Evaluating Recommender Systems: Survey and Framework'."
+summary: "Eva Zangerle and me received the Women in RecSys Journal Paper of the Year Award 2023 for our CSUR paper 'Evaluating Recommender Systems: Survey and Framework'."
 #authors: [Christine Bauer]
 categories: [news]
 tags: [Women in RecSys, RecSys, award, evaluation, recommender systems, FEVR, survey, multimethod, framework]

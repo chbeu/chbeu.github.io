@@ -19,11 +19,11 @@ profile: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
-#image:
-#  placement: 300
+image:
+  placement: 500
 #  caption: ""
-#  focal_point: "Smart"
-#  preview_only: false
+  focal_point: "Smart"
+  preview_only: false
 #  alt_text: ""
 
 
@@ -35,6 +35,9 @@ abstract: "As streaming services have become a main channel for music consumptio
 publication: '*31st ACM Conference on User Modeling, Adaptation and Personalization*'
 publication_short: ISMIR 2023
 #doi: 
+url_poster: dinnissen2023_control_poster.pdf
+#url_video: dinnissen2023_control_video.mp4
+
 
 zenodo: 10.5281/zenodo.8121152
 altmetric: false
@@ -42,3 +45,5 @@ plumx: false
 dimensions: false
 
 ---
+
+<!-- {{< video library="1" src="dinnissen2023_control_video.mp4" controls="yes" width="200px" height="150px">}}  -->
