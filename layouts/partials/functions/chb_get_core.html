@@ -7,10 +7,10 @@
     {{ range $i, $r := getCSV $sep $url  }} <!-- (dict "jif" (slice "journal" "jif2021")) -->
 	{{ if eq $i 0 }}
 		{{ $rankingtitle_journal = ( index  $r 2 ) }}
-		{{ $rankingtitle_conf = ( index  $r 3 ) }}
+		{{ $rankingtitle_conf = ( index  $r 9 ) }}
 	{{end}}
 	{{ if and (strings.Contains  $.publication (index $r 0)) (index $r 2) }}<span class="btn btn-outline-primary btn-page-header btn-sm jif">{{ $rankingtitle_journal }}: {{ index . 2}} </span>{{ end }}
-      {{ if and (eq $.publication_short (index $r 0)) (index $r 3) }}<span class="btn btn-outline-primary btn-page-header btn-sm jif">{{ $rankingtitle_conf}}: {{index . 3}} </span>{{ end }}
+      {{ if and (eq $.publication_short (index $r 0)) (index $r 9) }}<span class="btn btn-outline-primary btn-page-header btn-sm jif">{{ $rankingtitle_conf}}: {{index . 9}} </span>{{ end }}
     {{end}}
 
 
