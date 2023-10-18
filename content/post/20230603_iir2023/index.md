@@ -29,7 +29,7 @@ image:
 #projects: []
 ---
 
-I have the great please giving a keynote at the [13th Italian Information Retrieval Workshop (IIR 2023)](http://iir2023.isti.cnr.it) next week. I am looking forward to two days with many talks on exciting topics.
+I have the great pleasure giving a keynote at the [13th Italian Information Retrieval Workshop (IIR 2023)](http://iir2023.isti.cnr.it) next week. I am looking forward to two days with many talks on exciting topics.
 <br>
 <br>
 
