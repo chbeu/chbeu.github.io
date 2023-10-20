@@ -26,9 +26,9 @@ abstract: "Music information retrieval (MIR) has become an indispensable asset i
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-11-06T17:00:00+02:00"
-#date_end: "2023-08-30T18:00:00+02:00"
-all_day: true
+date: "2023-11-08T09:00:00+02:00"
+date_end: "2023-11-08T10:00:00+02:00"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-10-18T00:00:00Z"
