@@ -13,11 +13,6 @@ profile: false  # Show author profile?
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
-
-#{{< table path="teaching.csv" header="true" caption="Table 1: Teaching" >}}
-#{{ $url := "teaching.csv" }}
-#    {{ $sep := "," }}
-#    {{ range $i, $r := getCSV $sep $url }}
 ---
 
 

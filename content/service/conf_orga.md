@@ -29,7 +29,7 @@ experience:
   company_logo: cikm_2023
   date_end: ""
   title: "PhD Symposium Co-Chair"
-  description: "with Haiming Liu <br>32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)"
+  description: "with Haiming Liu <br>32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)<br><br><img src=\"/images/variouspics/cikm2023_phd_symposium_group.jpg\"  alt=\"Group photo of the CIKM 2023 PhD Symposium\">"
   company_url: "https://www.cikm2023.org"
   #url: ""
   date_start: "2023-10-01"

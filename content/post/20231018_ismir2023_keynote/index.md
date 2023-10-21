@@ -19,14 +19,15 @@ image:
   preview_only: false
   placement: 500
 
-
 #projects: []
 ---
 
-<br><br>
+<br>
 
-I feel very honored to give a keynote address at [ISMIR 2023](https://ismir2023.ismir.net/).
+I feel very honored to give a keynote address at [ISMIR 2023](https://ismir2023.ismir.net/). I will address the multifaceted needs of stakeholders who rely on these technologies revolving around music information retrieval (MIR). In particular, I will zoom in examples from music recommender systems and demonstrate the potential risks of neglecting artists’ needs---and provide strategies for mitigation.
 
-<br><br>
+<br>
 
 {{< cite page="kn05_ismir2023" view="2" >}}
+
+{{< figure src="ismir2023_keynote_announcement.png" height="500px" width="500px" alt="ISMIR 2023: Keynote speakers announced! Christine Bauer: Help!—Bridging the Gap Between Music Technology and Diverse Stakeholder Needs. Rachel Bitter: Building \& Launching MIR systems at industry scale. Joey Stuckey: Seeing the light through music, a blind man's journey of discovery through audio and how to navigate making music that speaks to the world in the age of the Screen Driven universe. For more information visit: https://ismir2023.ismir.net/keynote" >}}
