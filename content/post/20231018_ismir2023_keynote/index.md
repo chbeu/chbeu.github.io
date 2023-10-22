@@ -24,7 +24,7 @@ image:
 
 <br>
 
-I feel very honored to give a keynote address at [ISMIR 2023](https://ismir2023.ismir.net/). I will address the multifaceted needs of stakeholders who rely on these technologies revolving around music information retrieval (MIR). In particular, I will zoom in examples from music recommender systems and demonstrate the potential risks of neglecting artists’ needs---and provide strategies for mitigation.
+I feel very honored to give a keynote address at [ISMIR 2023](https://ismir2023.ismir.net/). I will address the multifaceted needs of stakeholders who rely on the technologies revolving around music information retrieval (MIR). In particular, I will zoom in examples from music recommender systems and demonstrate the potential risks of neglecting artists’ needs---and provide strategies for mitigation.
 
 <br>
 
