@@ -108,6 +108,10 @@ social:
   icon_pack: fab
   icon_title: YouTube
   link: https://youtube.com/playlist?list=PLqbYVfUvEtIM-f6VGvzTBrhUsFDCufKXQ
+- icon: square
+  icon_pack: fas
+  icon_title: Blue Sky
+  link: https://bsky.app/profile/christinebauer.bsky.social
 
         
 # Link to a PDF of your resume/CV.
