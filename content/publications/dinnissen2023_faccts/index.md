@@ -42,6 +42,7 @@ publication: '*2nd International Conference of the ACM Greek SIGCHI Chapter*'
 publication_short: CHIGREECE 2023
 
 doi: 10.1145/3609987.3610011
+url_slides: dinnissen2023_faccts_slides.pdf
 
 links:
 - icon: acmdl
