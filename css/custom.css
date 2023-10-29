@@ -1,5 +1,5 @@
 /* Import ACM authorizer stylesheet*/
-@import url("https://dl.acm.org/specs/products/acm/widgets/authorizer/scss/style.css");
+/* @import url("https://dl.acm.org/specs/products/acm/widgets/authorizer/scss/style.css"); */
 
 
 /* twitter */
@@ -12,6 +12,7 @@
 /* acm authorizer adapt */
 
 
+/*
 .multi-search .issue-item {
     padding: 15px;
     background: #fff;
@@ -37,6 +38,7 @@
 .multi-search br {
     display: none;
 }
+ */
 
 
 /* altmetric style adapt */
