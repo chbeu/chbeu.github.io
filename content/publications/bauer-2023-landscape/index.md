@@ -8,7 +8,7 @@ authors:
 - Christine Bauer
 - Eva Zangerle
 - Alan Said
-tags: [recommender systems, evaluation, systematic literature review]
+tags: [recommender systems, evaluation, systematic literature review, survey, TORS]
 categories: []
 date: 2023-10-10
 featured: false
@@ -18,12 +18,13 @@ profile: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
+image:
 #  caption: ''
-#  focal_point: ''
-#  preview_only: false
+  focal_point: 'Smart'
+  preview_only: false
+  placement: 500
 
-projects: []
+projects: [multimethod]
 publishDate: '2023-10-28T01:13:46'
 publication_types:
 - '2'
