@@ -1,5 +1,5 @@
 {{ $page := . }}
-{{ $featured := partial "functions/get_featured_image.html" $page }}
+{{ $featured := partial "wowchemy-core/functions/get_featured_image.html" $page }}
 
 {{ $anchor := $page.Params.image.focal_point | default "Smart" }}
 
@@ -50,10 +50,10 @@
 {{ $image_container := "" }}
 {{ if eq $placement 2}}
   {{ $image_container = "container" }}
-  {{ $image = $featured.Fit "1200x2500 webp" }}
+  {{ $image = $featured.Fit "1200x2500" }}
 {{else if eq $placement 3}}
   {{ $image_container = "container-fluid" }}
-  {{ $image := $featured.Fit "2560x2560 webp" }}
+  {{ $image := $featured.Fit "2560x2560" }}
 {{ else if eq $placement 300}}
   {{ $image_container = "container" }}
   {{ $image = $featured.Resize "300x webp" }}
@@ -62,8 +62,9 @@
   {{ $image = $featured.Resize "500x webp" }}
 {{else}}
   {{ $image_container = "article-container" }}
-  {{ $image = $featured.Fit "720x2500 webp" }}
+  {{ $image = $featured.Fit "720x2500" }}
 {{end}}
+{{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
 
 <div class="article-container pt-3">
   <h1>{{ $title }}</h1>
