@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>recommender systems | Christine Bauer</title><link>https://christinebauer.eu/tag/recommender-systems/</link><atom:link href="https://christinebauer.eu/tag/recommender-systems/index.xml" rel="self" type="application/rss+xml"/><description>recommender systems</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate><image><url>https://christinebauer.eu/media/sharing.png</url><title>recommender systems</title><link>https://christinebauer.eu/tag/recommender-systems/</link></image><item><title>How control and transparency for users could improve artist fairness in music recommender systems</title><link>https://christinebauer.eu/publications/dinnissen2023_control/</link><pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/dinnissen2023_control/</guid><description>&lt;!--
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>recommender systems | Christine Bauer</title><link>https://christinebauer.eu/tag/recommender-systems/</link><atom:link href="https://christinebauer.eu/tag/recommender-systems/index.xml" rel="self" type="application/rss+xml"/><description>recommender systems</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate><image><url>https://christinebauer.eu/media/sharing.png</url><title>recommender systems</title><link>https://christinebauer.eu/tag/recommender-systems/</link></image><item><title>How control and transparency for users could improve artist fairness in music recommender systems</title><link>https://christinebauer.eu/publications/dinnissen2023_control/</link><pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/dinnissen2023_control/</guid><description>
 &lt;video controls >
 &lt;source src="https://christinebauer.eu/publications/dinnissen2023_control/dinnissen2023_control_video.mp4" type="video/mp4">
-&lt;/video>
---></description></item><item><title>Survey paper on the evaluation of recommender systems accepted in ACM TORS</title><link>https://christinebauer.eu/post/20231028_tors_landscape/</link><pubDate>Sat, 28 Oct 2023 02:00:06 +0200</pubDate><guid>https://christinebauer.eu/post/20231028_tors_landscape/</guid><description>&lt;p>The survey paper on the evaluation of recommender systems with &lt;a href="https://evazangerle.at" target="_blank" rel="noopener">Eva Zangerle&lt;/a> and &lt;a href="https://www.alansaid.com" target="_blank" rel="noopener">Alan Said&lt;/a> was accepted for publication in &lt;a href="http://tors.acm.org" target="_blank" rel="noopener">ACM Transaction on Recommender Systems (TORS)&lt;/a>. The &amp;ldquo;Just Accepted&amp;rdquo; version is already online.&lt;/p>
+&lt;/video></description></item><item><title>Survey paper on the evaluation of recommender systems accepted in ACM TORS</title><link>https://christinebauer.eu/post/20231028_tors_landscape/</link><pubDate>Sat, 28 Oct 2023 02:00:06 +0200</pubDate><guid>https://christinebauer.eu/post/20231028_tors_landscape/</guid><description>&lt;p>The survey paper on the evaluation of recommender systems with &lt;a href="https://evazangerle.at" target="_blank" rel="noopener">Eva Zangerle&lt;/a> and &lt;a href="https://www.alansaid.com" target="_blank" rel="noopener">Alan Said&lt;/a> was accepted for publication in &lt;a href="http://tors.acm.org" target="_blank" rel="noopener">ACM Transaction on Recommender Systems (TORS)&lt;/a>. The &amp;ldquo;Just Accepted&amp;rdquo; version is already online.&lt;/p>
 &lt;p>It is great that our collaboration on the &lt;a href="http://perspectives-ws.github.io" target="_blank" rel="noopener">PERSPECTIVES workshop series&lt;/a> also led to this publication.&lt;/p>
 &lt;br>
 &lt;br>
@@ -29,7 +28,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3629170?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2023-landscape/bauer-2023-landscape_preprint.pdf" target="_blank" rel="noopener">
@@ -101,7 +100,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3556536?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JIF 2022: 16.6 &lt;/span>
@@ -148,7 +147,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3556536?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JIF 2022: 16.6 &lt;/span>
@@ -440,7 +439,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
@@ -598,6 +597,7 @@ Cite
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ceur-ws.org/Vol-3228/" target="_blank" rel="noopener">
+&lt;i class="fas fa-solid fa-book">&lt;/i>
 Proceedings
 &lt;/a>
 &lt;/p>
@@ -628,7 +628,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3523227.3547408?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -659,7 +659,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3582900.3582919?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -788,6 +788,7 @@ Cite
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ceur-ws.org/Vol-2955/" target="_blank" rel="noopener">
+&lt;i class="fas fa-solid fa-book">&lt;/i>
 Proceedings
 &lt;/a>
 &lt;/p>
@@ -818,7 +819,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3460231.3470929?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -849,7 +850,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3527546.3527565?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -885,7 +886,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
@@ -933,7 +934,7 @@ Slides
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3450613.3457122?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2023: B &lt;/span>
@@ -967,7 +968,7 @@ Slides
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3450613.3457122?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2023: B &lt;/span>
@@ -1008,7 +1009,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
@@ -1101,7 +1102,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
@@ -1141,7 +1142,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
@@ -1181,7 +1182,7 @@ Slides
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3450613.3457122?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2023: B &lt;/span>
@@ -1334,7 +1335,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3343413.3378015?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -1364,7 +1365,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3343413.3378015?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -1393,7 +1394,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3343413.3378015?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -1604,7 +1605,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3213586.3226202?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2023: B &lt;/span>
@@ -1645,7 +1646,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3213586.3226202?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2023: B &lt;/span>
@@ -1681,7 +1682,7 @@ Slides
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3151848.3151849?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2023: C &lt;/span>

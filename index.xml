@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Christine Bauer</title><link>https://christinebauer.eu/</link><atom:link href="https://christinebauer.eu/index.xml" rel="self" type="application/rss+xml"/><description>Christine Bauer</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Mon, 06 Nov 2023 17:30:00 +0000</lastBuildDate><image><url>https://christinebauer.eu/media/sharing.png</url><title>Christine Bauer</title><link>https://christinebauer.eu/</link></image><item><title>Gallery</title><link>https://christinebauer.eu/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/gallery/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Christine Bauer</title><link>https://christinebauer.eu/</link><atom:link href="https://christinebauer.eu/index.xml" rel="self" type="application/rss+xml"/><description>Christine Bauer</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Mon, 06 Nov 2023 17:30:00 +0000</lastBuildDate><image><url>https://christinebauer.eu/media/sharing.png</url><title>Christine Bauer</title><link>https://christinebauer.eu/</link></image><item><title>Gallery</title><link>https://christinebauer.eu/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/gallery/</guid><description>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-gallery" href="https://christinebauer.eu/media/albums/gallery/1_056_christine-bauer_fuer-liwest_by_kurt-hoerbst.jpg" data-caption="Image credit: &amp;lt;a href=&amp;#34;https://www.hoerbst.com&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;Kurt Hörbst&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;, 2020.">
@@ -72,11 +72,10 @@ Image credit: **AIT / Raimund Appel**, 2019." width="750" height="500">
 &lt;img src="https://christinebauer.eu/media/albums/gallery/INN2324_hu97fbe838e1ceb887f0e3c4f7abebfd3d_533121_750x750_fit_q95_h2_mitchellnetravali.webp" loading="lazy" alt="Image credit: **Innovation Salzburg/Benedikt Schemmer**, 2023." width="750" height="500">
 &lt;/a>
 &lt;/div>
-&lt;/div></description></item><item><title>Panelist in the Inclusion Panel at ISMIR 2023</title><link>https://christinebauer.eu/talks/pl03_ismir2023_inclusion/</link><pubDate>Mon, 06 Nov 2023 17:30:00 +0000</pubDate><guid>https://christinebauer.eu/talks/pl03_ismir2023_inclusion/</guid><description/></item><item><title>Keynote: Help!—Bridging the Gap Between Music Technology and Diverse Stakeholder Needs</title><link>https://christinebauer.eu/talks/kn05_ismir2023/</link><pubDate>Mon, 06 Nov 2023 09:30:00 +0200</pubDate><guid>https://christinebauer.eu/talks/kn05_ismir2023/</guid><description/></item><item><title>How control and transparency for users could improve artist fairness in music recommender systems</title><link>https://christinebauer.eu/publications/dinnissen2023_control/</link><pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/dinnissen2023_control/</guid><description>&lt;!--
+&lt;/div></description></item><item><title>Panelist in the Inclusion Panel at ISMIR 2023</title><link>https://christinebauer.eu/talks/pl03_ismir2023_inclusion/</link><pubDate>Mon, 06 Nov 2023 17:30:00 +0000</pubDate><guid>https://christinebauer.eu/talks/pl03_ismir2023_inclusion/</guid><description/></item><item><title>Keynote: Help!—Bridging the Gap Between Music Technology and Diverse Stakeholder Needs</title><link>https://christinebauer.eu/talks/kn05_ismir2023/</link><pubDate>Mon, 06 Nov 2023 09:30:00 +0200</pubDate><guid>https://christinebauer.eu/talks/kn05_ismir2023/</guid><description/></item><item><title>How control and transparency for users could improve artist fairness in music recommender systems</title><link>https://christinebauer.eu/publications/dinnissen2023_control/</link><pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/dinnissen2023_control/</guid><description>
 &lt;video controls >
 &lt;source src="https://christinebauer.eu/publications/dinnissen2023_control/dinnissen2023_control_video.mp4" type="video/mp4">
-&lt;/video>
---></description></item><item><title>Survey paper on the evaluation of recommender systems accepted in ACM TORS</title><link>https://christinebauer.eu/post/20231028_tors_landscape/</link><pubDate>Sat, 28 Oct 2023 02:00:06 +0200</pubDate><guid>https://christinebauer.eu/post/20231028_tors_landscape/</guid><description>&lt;p>The survey paper on the evaluation of recommender systems with &lt;a href="https://evazangerle.at" target="_blank" rel="noopener">Eva Zangerle&lt;/a> and &lt;a href="https://www.alansaid.com" target="_blank" rel="noopener">Alan Said&lt;/a> was accepted for publication in &lt;a href="http://tors.acm.org" target="_blank" rel="noopener">ACM Transaction on Recommender Systems (TORS)&lt;/a>. The &amp;ldquo;Just Accepted&amp;rdquo; version is already online.&lt;/p>
+&lt;/video></description></item><item><title>Survey paper on the evaluation of recommender systems accepted in ACM TORS</title><link>https://christinebauer.eu/post/20231028_tors_landscape/</link><pubDate>Sat, 28 Oct 2023 02:00:06 +0200</pubDate><guid>https://christinebauer.eu/post/20231028_tors_landscape/</guid><description>&lt;p>The survey paper on the evaluation of recommender systems with &lt;a href="https://evazangerle.at" target="_blank" rel="noopener">Eva Zangerle&lt;/a> and &lt;a href="https://www.alansaid.com" target="_blank" rel="noopener">Alan Said&lt;/a> was accepted for publication in &lt;a href="http://tors.acm.org" target="_blank" rel="noopener">ACM Transaction on Recommender Systems (TORS)&lt;/a>. The &amp;ldquo;Just Accepted&amp;rdquo; version is already online.&lt;/p>
 &lt;p>It is great that our collaboration on the &lt;a href="http://perspectives-ws.github.io" target="_blank" rel="noopener">PERSPECTIVES workshop series&lt;/a> also led to this publication.&lt;/p>
 &lt;br>
 &lt;br>
@@ -103,7 +102,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3629170?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2023-landscape/bauer-2023-landscape_preprint.pdf" target="_blank" rel="noopener">
@@ -213,7 +212,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3556536?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JIF 2022: 16.6 &lt;/span>
@@ -261,7 +260,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3556536?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JIF 2022: 16.6 &lt;/span>
@@ -348,7 +347,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3565472.3592960?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.7883507" rel="noopener noreferrer" target="_blank">&lt;img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7883507.svg" alt="DOI">&lt;/a>
@@ -648,7 +647,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
@@ -731,7 +730,7 @@ Poster
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3491101.3519662?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -843,6 +842,7 @@ Cite
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ceur-ws.org/Vol-3228/" target="_blank" rel="noopener">
+&lt;i class="fas fa-solid fa-book">&lt;/i>
 Proceedings
 &lt;/a>
 &lt;/p>
@@ -873,7 +873,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3523227.3547408?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -904,7 +904,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3582900.3582919?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -1012,7 +1012,7 @@ Poster
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3491101.3519662?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -1121,6 +1121,7 @@ Cite
 Project
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ceur-ws.org/Vol-2955/" target="_blank" rel="noopener">
+&lt;i class="fas fa-solid fa-book">&lt;/i>
 Proceedings
 &lt;/a>
 &lt;/p>
@@ -1151,7 +1152,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3460231.3470929?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -1182,7 +1183,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3527546.3527565?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -2431,7 +2432,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
@@ -2479,7 +2480,7 @@ Slides
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3450613.3457122?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2023: B &lt;/span>
@@ -2513,7 +2514,7 @@ Slides
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3450613.3457122?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2023: B &lt;/span>
@@ -2554,7 +2555,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
@@ -2655,7 +2656,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
@@ -2695,7 +2696,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
@@ -2735,7 +2736,7 @@ Slides
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3450613.3457122?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2023: B &lt;/span>
@@ -2769,7 +2770,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3483382.3483398?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -2989,7 +2990,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3343413.3378015?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -3020,7 +3021,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3343413.3378015?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -3051,7 +3052,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3343413.3378015?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -3083,7 +3084,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3343413.3378015?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -3322,7 +3323,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3290607.3312831?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -3456,7 +3457,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3213586.3226202?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2023: B &lt;/span>
@@ -3529,7 +3530,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3213586.3226202?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2023: B &lt;/span>
@@ -3624,7 +3625,7 @@ Slides
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3151848.3151849?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2023: C &lt;/span>
@@ -3652,7 +3653,7 @@ ACM Author-izer
 &lt;br>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/O3vA-N8F6P0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Taking responsibility for online self-disclosure: the thin line between a company's user orientation and user surveillance</title><link>https://christinebauer.eu/publications/bauer-2016-taking-responsibility/</link><pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2016-taking-responsibility/</guid><description/></item><item><title>The dark side of Web 2.0: from self-marketing to self-destruction of music artists</title><link>https://christinebauer.eu/publications/bauer-2016-darkside-artists/</link><pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2016-darkside-artists/</guid><description/></item><item><title>Aesthetic measures for document layouts: operationalization and analysis in the context of marketing brochures</title><link>https://christinebauer.eu/publications/schoelgens-2016-aesthetics/</link><pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/schoelgens-2016-aesthetics/</guid><description/></item><item><title>Perceived risks and benefits of online self-disclosure: affected by culture? A meta-analysis of cultural differences as moderators of privacy calculus in person-to-crowd settings</title><link>https://christinebauer.eu/publications/bauer-2016-perceivedrisks/</link><pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2016-perceivedrisks/</guid><description/></item><item><title>Solving the battle of first-authorship: using interactive technology to highlight contributions</title><link>https://christinebauer.eu/publications/bdac-2016-firstauthorship-altchi/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bdac-2016-firstauthorship-altchi/</guid><description/></item><item><title>'Crowd logistics': the contribution of social crowds in logistics activities</title><link>https://christinebauer.eu/publications/mladenow-2016-crowdlogistics/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/mladenow-2016-crowdlogistics/</guid><description/></item><item><title>Considering context in the design of intelligent systems: current practices and suggestions for improvement</title><link>https://christinebauer.eu/publications/bauer-2016-considering-context/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2016-considering-context/</guid><description/></item><item><title>Location-based advertising on mobile devices: a literature review and analysis</title><link>https://christinebauer.eu/publications/bauer-2016-locationbased/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2016-locationbased/</guid><description/></item><item><title>Power to the (shopping) people! Changing traditional customer-vendor interaction in online markets by ICT-enabled 'group buying'</title><link>https://christinebauer.eu/publications/mladenow-2016-power/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/mladenow-2016-power/</guid><description/></item><item><title>The business with digital signage for advertising</title><link>https://christinebauer.eu/publications/bauer-2016-business-digitalsignage-icto-2015/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2016-business-digitalsignage-icto-2015/</guid><description/></item><item><title>uBPMN: A BPMN extension for modeling ubiquitous business processes</title><link>https://christinebauer.eu/publications/yousfi-2016-ubpmn/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/yousfi-2016-ubpmn/</guid><description/></item><item><title>Analysis of motivation strategies in running tracking applications</title><link>https://christinebauer.eu/publications/bauer-2015-runningtracking/</link><pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2015-runningtracking/</guid><description/></item><item><title>Crowdsourcing in logistics: concepts and applications using the social crowd</title><link>https://christinebauer.eu/publications/mladenow-2015-crowdsourcing-logistics/</link><pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/mladenow-2015-crowdsourcing-logistics/</guid><description/></item><item><title>Collaborative shopping with the crowd</title><link>https://christinebauer.eu/publications/mladenow-2015-collaborative-shopping/</link><pubDate>Sun, 20 Sep 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/mladenow-2015-collaborative-shopping/</guid><description/></item><item><title>Collaboration and locality in crowdsourcing</title><link>https://christinebauer.eu/publications/mladenow-2015-locality/</link><pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/mladenow-2015-locality/</guid><description/></item><item><title>Location-based crowdsourcing: a taxonomy of value co-creation</title><link>https://christinebauer.eu/publications/mladenow-2015-naplesforum/</link><pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/mladenow-2015-naplesforum/</guid><description/></item><item><title>Designing a music-controlled running application: a sports science and psychological perspective</title><link>https://christinebauer.eu/publications/bauer-2015-musiccontrolled-running/</link><pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2015-musiccontrolled-running/</guid><description/></item><item><title>Self-disclosure in online interaction: a meta-analysis</title><link>https://christinebauer.eu/publications/bauer-2015-osd-metaanalysis/</link><pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2015-osd-metaanalysis/</guid><description/></item><item><title>Der digitale Musikmarkt im Wandel: Marktteilnehmer, Machtverschiebungen und die Hoffnung auf Transparenz</title><link>https://christinebauer.eu/publications/bauer-2015-musikmarkt/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2015-musikmarkt/</guid><description>&lt;style>.embed-container { position: relative; padding-bottom:56.25%; height:0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%;}&lt;/style>&lt;div class='embed-container' data-page-width='480' data-page-height='640' id='ypembedcontainer' >&lt;iframe src="https://www.yumpu.com/de/embed/view/H5LQoAaZ9N4jRkhv" frameborder="0" allowfullscreen="true" allowtransparency="true">&lt;/iframe>&lt;br>&lt;a href="https://www.yumpu.com/de/document/view/53616280/ocg-journal-02-2015-musik-und-digitale-musikwirtschaft" title="OCG Journal 02/2015: Musik und digitale Musikwirtschaft" target="_blank">OCG Journal 02/2015: Musik und digitale Musikwirtschaft&lt;/a>&lt;/div>&lt;script src='https://players.yumpu.com/modules/embed/yp_r_iframe.js' >&lt;/script></description></item><item><title>Educating artists in management: an analysis of art education programmes in DACH region</title><link>https://christinebauer.eu/publications/bauer-2015-educating-cogent/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2015-educating-cogent/</guid><description>&lt;p>The study presented in this publication has been included in the database of &lt;a href="https://www.skbf-csre.ch" target="_blank" rel="noopener">SKBF | CSRE
+&lt;/div></description></item><item><title>Taking responsibility for online self-disclosure: the thin line between a company's user orientation and user surveillance</title><link>https://christinebauer.eu/publications/bauer-2016-taking-responsibility/</link><pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2016-taking-responsibility/</guid><description/></item><item><title>The dark side of Web 2.0: from self-marketing to self-destruction of music artists</title><link>https://christinebauer.eu/publications/bauer-2016-darkside-artists/</link><pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2016-darkside-artists/</guid><description/></item><item><title>Aesthetic measures for document layouts: operationalization and analysis in the context of marketing brochures</title><link>https://christinebauer.eu/publications/schoelgens-2016-aesthetics/</link><pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/schoelgens-2016-aesthetics/</guid><description/></item><item><title>Perceived risks and benefits of online self-disclosure: affected by culture? A meta-analysis of cultural differences as moderators of privacy calculus in person-to-crowd settings</title><link>https://christinebauer.eu/publications/bauer-2016-perceivedrisks/</link><pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2016-perceivedrisks/</guid><description/></item><item><title>Solving the battle of first-authorship: using interactive technology to highlight contributions</title><link>https://christinebauer.eu/publications/bdac-2016-firstauthorship-altchi/</link><pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bdac-2016-firstauthorship-altchi/</guid><description/></item><item><title>'Crowd logistics': the contribution of social crowds in logistics activities</title><link>https://christinebauer.eu/publications/mladenow-2016-crowdlogistics/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/mladenow-2016-crowdlogistics/</guid><description/></item><item><title>Considering context in the design of intelligent systems: current practices and suggestions for improvement</title><link>https://christinebauer.eu/publications/bauer-2016-considering-context/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2016-considering-context/</guid><description/></item><item><title>Location-based advertising on mobile devices: a literature review and analysis</title><link>https://christinebauer.eu/publications/bauer-2016-locationbased/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2016-locationbased/</guid><description/></item><item><title>Power to the (shopping) people! Changing traditional customer-vendor interaction in online markets by ICT-enabled 'group buying'</title><link>https://christinebauer.eu/publications/mladenow-2016-power/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/mladenow-2016-power/</guid><description/></item><item><title>The business with digital signage for advertising</title><link>https://christinebauer.eu/publications/bauer-2016-business-digitalsignage-icto-2015/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2016-business-digitalsignage-icto-2015/</guid><description/></item><item><title>uBPMN: A BPMN extension for modeling ubiquitous business processes</title><link>https://christinebauer.eu/publications/yousfi-2016-ubpmn/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/yousfi-2016-ubpmn/</guid><description/></item><item><title>Analysis of motivation strategies in running tracking applications</title><link>https://christinebauer.eu/publications/bauer-2015-runningtracking/</link><pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2015-runningtracking/</guid><description/></item><item><title>Crowdsourcing in logistics: concepts and applications using the social crowd</title><link>https://christinebauer.eu/publications/mladenow-2015-crowdsourcing-logistics/</link><pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/mladenow-2015-crowdsourcing-logistics/</guid><description/></item><item><title>Collaborative shopping with the crowd</title><link>https://christinebauer.eu/publications/mladenow-2015-collaborative-shopping/</link><pubDate>Sun, 20 Sep 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/mladenow-2015-collaborative-shopping/</guid><description/></item><item><title>Collaboration and locality in crowdsourcing</title><link>https://christinebauer.eu/publications/mladenow-2015-locality/</link><pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/mladenow-2015-locality/</guid><description/></item><item><title>Designing a music-controlled running application: a sports science and psychological perspective</title><link>https://christinebauer.eu/publications/bauer-2015-musiccontrolled-running/</link><pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2015-musiccontrolled-running/</guid><description/></item><item><title>Self-disclosure in online interaction: a meta-analysis</title><link>https://christinebauer.eu/publications/bauer-2015-osd-metaanalysis/</link><pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2015-osd-metaanalysis/</guid><description/></item><item><title>Der digitale Musikmarkt im Wandel: Marktteilnehmer, Machtverschiebungen und die Hoffnung auf Transparenz</title><link>https://christinebauer.eu/publications/bauer-2015-musikmarkt/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2015-musikmarkt/</guid><description>&lt;style>.embed-container { position: relative; padding-bottom:56.25%; height:0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%;}&lt;/style>&lt;div class='embed-container' data-page-width='480' data-page-height='640' id='ypembedcontainer' >&lt;iframe src="https://www.yumpu.com/de/embed/view/H5LQoAaZ9N4jRkhv" frameborder="0" allowfullscreen="true" allowtransparency="true">&lt;/iframe>&lt;br>&lt;a href="https://www.yumpu.com/de/document/view/53616280/ocg-journal-02-2015-musik-und-digitale-musikwirtschaft" title="OCG Journal 02/2015: Musik und digitale Musikwirtschaft" target="_blank">OCG Journal 02/2015: Musik und digitale Musikwirtschaft&lt;/a>&lt;/div>&lt;script src='https://players.yumpu.com/modules/embed/yp_r_iframe.js' >&lt;/script></description></item><item><title>Educating artists in management: an analysis of art education programmes in DACH region</title><link>https://christinebauer.eu/publications/bauer-2015-educating-cogent/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2015-educating-cogent/</guid><description>&lt;p>The study presented in this publication has been included in the database of &lt;a href="https://www.skbf-csre.ch" target="_blank" rel="noopener">SKBF | CSRE
 Schweizerische Koordinationsstelle für Bildungsforschung&lt;/a>:
 &lt;a href="https://www.skbf-csre.ch/en/research-in-education/database/projektdetail/?_id=207520" target="_blank" rel="noopener">Project ID 207520&lt;/a>&lt;/p></description></item><item><title>A SWOT analysis of the soft-computing paradigms SOA/SOC/Cloud combination (C-SOA) in software development</title><link>https://christinebauer.eu/publications/kryvinska-2014-swot/</link><pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/kryvinska-2014-swot/</guid><description/></item><item><title>An evaluation scheme for performance measurement of Facebook use: an example of social organizations in Vienna</title><link>https://christinebauer.eu/publications/brauer-2014-evaluation-scheme/</link><pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/brauer-2014-evaluation-scheme/</guid><description/></item><item><title>SleepCompete: a smart bedside device to promote healthy sleeping habits in children</title><link>https://christinebauer.eu/publications/bauer-2014-sleepcompete/</link><pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2014-sleepcompete/</guid><description>
 &lt;div class="gallery-grid">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>survey | Christine Bauer</title><link>https://christinebauer.eu/tag/survey/</link><atom:link href="https://christinebauer.eu/tag/survey/index.xml" rel="self" type="application/rss+xml"/><description>survey</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Sat, 28 Oct 2023 02:00:06 +0200</lastBuildDate><image><url>https://christinebauer.eu/media/sharing.png</url><title>survey</title><link>https://christinebauer.eu/tag/survey/</link></image><item><title>Survey paper on the evaluation of recommender systems accepted in ACM TORS</title><link>https://christinebauer.eu/post/20231028_tors_landscape/</link><pubDate>Sat, 28 Oct 2023 02:00:06 +0200</pubDate><guid>https://christinebauer.eu/post/20231028_tors_landscape/</guid><description>&lt;p>The survey paper on the evaluation of recommender systems with &lt;a href="https://evazangerle.at" target="_blank" rel="noopener">Eva Zangerle&lt;/a> and &lt;a href="https://www.alansaid.com" target="_blank" rel="noopener">Alan Said&lt;/a> was accepted for publication in &lt;a href="http://tors.acm.org" target="_blank" rel="noopener">ACM Transaction on Recommender Systems (TORS)&lt;/a>. The &amp;ldquo;Just Accepted&amp;rdquo; version is already online.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>survey | Christine Bauer</title><link>https://christinebauer.eu/tag/survey/</link><atom:link href="https://christinebauer.eu/tag/survey/index.xml" rel="self" type="application/rss+xml"/><description>survey</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Sat, 28 Oct 2023 02:00:06 +0200</lastBuildDate><image><url>https://christinebauer.eu/media/sharing.png</url><title>survey</title><link>https://christinebauer.eu/tag/survey/</link></image><item><title>Survey paper on the evaluation of recommender systems accepted in ACM TORS</title><link>https://christinebauer.eu/post/20231028_tors_landscape/</link><pubDate>Sat, 28 Oct 2023 02:00:06 +0200</pubDate><guid>https://christinebauer.eu/post/20231028_tors_landscape/</guid><description>&lt;p>The survey paper on the evaluation of recommender systems with &lt;a href="https://evazangerle.at" target="_blank" rel="noopener">Eva Zangerle&lt;/a> and &lt;a href="https://www.alansaid.com" target="_blank" rel="noopener">Alan Said&lt;/a> was accepted for publication in &lt;a href="http://tors.acm.org" target="_blank" rel="noopener">ACM Transaction on Recommender Systems (TORS)&lt;/a>. The &amp;ldquo;Just Accepted&amp;rdquo; version is already online.&lt;/p>
 &lt;p>It is great that our collaboration on the &lt;a href="http://perspectives-ws.github.io" target="_blank" rel="noopener">PERSPECTIVES workshop series&lt;/a> also led to this publication.&lt;/p>
 &lt;br>
 &lt;br>
@@ -25,7 +25,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3629170?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2023-landscape/bauer-2023-landscape_preprint.pdf" target="_blank" rel="noopener">
@@ -97,7 +97,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3556536?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JIF 2022: 16.6 &lt;/span>
@@ -144,7 +144,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3556536?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">JIF 2022: 16.6 &lt;/span>

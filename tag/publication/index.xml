@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>publication | Christine Bauer</title><link>https://christinebauer.eu/tag/publication/</link><atom:link href="https://christinebauer.eu/tag/publication/index.xml" rel="self" type="application/rss+xml"/><description>publication</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Thu, 22 Dec 2022 02:00:06 +0200</lastBuildDate><image><url>https://christinebauer.eu/media/sharing.png</url><title>publication</title><link>https://christinebauer.eu/tag/publication/</link></image><item><title>UMUAI paper on diversity perceptions</title><link>https://christinebauer.eu/post/20222212_ils/</link><pubDate>Thu, 22 Dec 2022 02:00:06 +0200</pubDate><guid>https://christinebauer.eu/post/20222212_ils/</guid><description>&lt;p>Our UMUAI paper on human diversity perceptions is available online. In our work, we investigate the correlation of different implementations of the intra-list similarity (ILS) measure with human perceptions in the domains of movie and recipe recommendation. The results indicate that the particularities of the ILS metric implementation matter. Hence, ILS can indeed be a good proxy for human diversity perceptions. However, it depends on the details how the metric is implemented in the specific case. Thus, before using a specific metric implementation, validating it for the targeted application/domain is needed.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>publication | Christine Bauer</title><link>https://christinebauer.eu/tag/publication/</link><atom:link href="https://christinebauer.eu/tag/publication/index.xml" rel="self" type="application/rss+xml"/><description>publication</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2023 Christine Bauer</copyright><lastBuildDate>Thu, 22 Dec 2022 02:00:06 +0200</lastBuildDate><image><url>https://christinebauer.eu/media/sharing.png</url><title>publication</title><link>https://christinebauer.eu/tag/publication/</link></image><item><title>UMUAI paper on diversity perceptions</title><link>https://christinebauer.eu/post/20222212_ils/</link><pubDate>Thu, 22 Dec 2022 02:00:06 +0200</pubDate><guid>https://christinebauer.eu/post/20222212_ils/</guid><description>&lt;p>Our UMUAI paper on human diversity perceptions is available online. In our work, we investigate the correlation of different implementations of the intra-list similarity (ILS) measure with human perceptions in the domains of movie and recipe recommendation. The results indicate that the particularities of the ILS metric implementation matter. Hence, ILS can indeed be a good proxy for human diversity perceptions. However, it depends on the details how the metric is implemented in the specific case. Thus, before using a specific metric implementation, validating it for the targeted application/domain is needed.
 &lt;br>
 &lt;br>&lt;/p>
 &lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -168,7 +168,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
@@ -207,7 +207,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/andrebola/gender-recs" target="_blank" rel="noopener">
@@ -244,7 +244,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3483382.3483398?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -273,7 +273,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3343413.3378015?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -359,7 +359,7 @@ Project
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3290607.3312831?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;/p>
@@ -563,7 +563,7 @@ Slides
 DOI
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3151848.3151849?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl mr-1">&lt;/i>
+&lt;i class="ai ai-acmdl">&lt;/i>
 ACM Author-izer
 &lt;/a>
 &lt;span class="btn btn-outline-primary btn-page-header btn-sm jif">CORE 2023: C &lt;/span>
