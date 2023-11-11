@@ -39,9 +39,5 @@ one negative judgement by another group member was sufficient to induce particip
 publication: '*CHI Conference on Human Factors in Computing Systems*'
 publication_short: CHI EA 2020
 doi: 10.1145/3334480.3382942
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3334480.3382942?cid=81453628934
+authorizer:  https://dl.acm.org/doi/10.1145/3334480.3382942?cid=81453628934
 ---

@@ -38,9 +38,5 @@ abstract: 'Evaluation is a cornerstone in the process of developing and deployin
 publication: '*15th ACM Conference on Recommender Systems*'
 publication_short: RecSys 2021
 doi: 10.1145/3460231.3470929
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3460231.3470929?cid=81453628934
+authorizer: https://dl.acm.org/doi/10.1145/3460231.3470929?cid=81453628934
 ---

@@ -36,11 +36,8 @@ abstract: 'Sports tracking applications are increasingly available on the market
 publication: '*11th International Conference on Advances in Mobile Computing & Multimedia*'
 publication_short: MoMM 2013
 doi: 10.1145/2536853.2536893
+authorizer: https://dl.acm.org/doi/10.1145/2536853.2536893?cid=81453628934
 links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/2536853.2536893?cid=81453628934
 - icon: file
   icon_pack: fa
   name: Postprint

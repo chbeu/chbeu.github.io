@@ -42,9 +42,5 @@ abstract: ''
 publication: '*26th Conference on User Modeling, Adaptation and Personalization*'
 publication_short: UMAP 2018
 doi: 10.1145/3213586.3226202
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3213586.3226202?cid=81453628934
+authorizer:  https://dl.acm.org/doi/10.1145/3213586.3226202?cid=81453628934
 ---

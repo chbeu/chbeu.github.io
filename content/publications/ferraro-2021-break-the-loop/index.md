@@ -38,11 +38,8 @@ abstract: 'As recommender systems play an important role in everyday life, there
 publication: '*6th ACM SIGIR Conference on Human Information Interaction and Retrieval*'
 publication_short: CHIIR 2021
 doi: 10.1145/3406522.3446033
+authorizer: https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934
 links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url: https://dl.acm.org/doi/10.1145/3406522.3446033?cid=81453628934
 - icon: github
   icon_pack: fab
   name: Code

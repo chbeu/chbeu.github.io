@@ -36,7 +36,7 @@ publication: '*31st ACM Conference on User Modeling, Adaptation and Personalizat
 publication_short: ISMIR 2023
 #doi: 
 url_poster: dinnissen2023_control_poster.pdf
-#url_video: dinnissen2023_control_video.mp4
+url_video: dinnissen2023_control_video.mp4
 
 
 zenodo: 10.5281/zenodo.8121152
@@ -46,4 +46,4 @@ dimensions: false
 
 ---
 
-<!-- {{< video library="1" src="dinnissen2023_control_video.mp4" controls="yes" width="200px" height="150px">}}  -->
+{{< video library="1" src="dinnissen2023_control_video.mp4" controls="yes" width="200px" height="150px">}} 

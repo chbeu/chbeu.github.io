@@ -39,9 +39,5 @@ publication: '*2nd Workshop on Surprise, Opposition, and Obstruction in Adaptive
   Modeling, Adaptation and Personalization (UMAP 2017)*'
 publication_short: SOAP 2017
 doi: 10.1145/3099023.3099098
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3099023.3099098?cid=81453628934
+authorizer:  https://dl.acm.org/doi/10.1145/3099023.3099098?cid=81453628934
 ---

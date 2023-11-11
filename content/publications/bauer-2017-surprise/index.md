@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: Introducing surprise and opposition by design in recommender systems
@@ -40,9 +39,5 @@ publication: '*2nd Workshop on Surprise, Opposition, and Obstruction in Adaptive
 publication_short: SOAP 2017
 doi: 10.1145/3099023.3099099
 url_slides: bauer-2017-surprise-slides.pdf
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3099023.3099099?cid=81453628934
+authorizer:  https://dl.acm.org/doi/10.1145/3099023.3099099?cid=81453628934
 ---

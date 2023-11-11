@@ -47,11 +47,7 @@ publication_short: MoMM 2017
 doi: 10.1145/3151848.3151849
 
 url_slides: schedl-2017-introducing-global-regional-momm-slides.pdf
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3151848.3151849?cid=81453628934
+authorizer: https://dl.acm.org/doi/10.1145/3151848.3151849?cid=81453628934
 
 icons:
 - icon: trophy

@@ -50,11 +50,8 @@ publication: '*8th ACM SIGIR Conference on Human Information Interaction and Ret
 publication_short: CHIIR 2023
 doi: 10.1145/3576840.3578274
 url_video: https://www.youtube.com/watch?v=6C1cRpy4b44
+authorizer: https://dl.acm.org/doi/10.1145/3576840.3578274?cid=81453628934
 links:
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url: https://dl.acm.org/doi/10.1145/3576840.3578274?cid=81453628934
 - icon: github
   icon_pack: fab
   name: Code FairRecKitApp

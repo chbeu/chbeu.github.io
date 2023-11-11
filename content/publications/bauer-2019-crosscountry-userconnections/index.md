@@ -38,9 +38,5 @@ publication: '*2019 CHI Conference on Human Factors in Computing Systems*'
 publication_short: CHI EA 2019
 doi: 10.1145/3290607.3312831
 poster_url: bauer-2019-crosscountry-userconnections-poster-A4.pdf
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3290607.3312831?cid=81453628934
+authorizer:  https://dl.acm.org/doi/10.1145/3290607.3312831?cid=81453628934
 ---

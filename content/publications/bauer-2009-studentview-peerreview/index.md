@@ -42,13 +42,10 @@ publication: '*14th Annual ACM-SIGCSE Conference on Innovation and Technology in
   Science Education*'
 publication_short: ITiCSE 2009
 doi: 10.1145/1562877.1562892
+authorizer: https://dl.acm.org/doi/10.1145/1562877.1562892?cid=81453628934
 links: 
 - icon: file
   icon_pack: fa
   name: Postprint
   url: bauer-2009-studentview-peerreview-postprint.pdf
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/1562877.1562892?cid=81453628934
 ---

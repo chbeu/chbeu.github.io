@@ -36,13 +36,10 @@ abstract: 'At the heart of ubiquitous and pervasive computing is the integration
 publication: '*19th International Conference on Information Integration and Web-based Applications & Services*'
 publication_short: iiWAS 2017
 doi: 10.1145/3151759.3151760
+authorizer: https://dl.acm.org/doi/10.1145/3151759.3151760?cid=81453628934
 links: 
 - icon: file
   icon_pack: fa
   name: Postprint
   url: novotny-2017-whatdowereallytalkabout-acceptedversion.pdf
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3151759.3151760?cid=81453628934
 ---

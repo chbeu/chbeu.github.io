@@ -38,9 +38,5 @@ abstract: 'Evaluation of recommender systems is a central activity when developi
 publication: '*16th ACM Conference on Recommender Systems*'
 publication_short: RecSys 2022
 doi: 10.1145/3523227.3547408
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3523227.3547408?cid=81453628934
+authorizer: https://dl.acm.org/doi/10.1145/3523227.3547408?cid=81453628934
 ---

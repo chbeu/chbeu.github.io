@@ -39,9 +39,5 @@ abstract: "This panel aims to generate conversation toward creating a more equit
 publication: '*Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems*'
 publication_short: CHI EA 2023
 doi: 10.1145/3544549.3583746
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url: https://dl.acm.org/doi/10.1145/3544549.3583746?cid=81453628934 
+authorizer: https://dl.acm.org/doi/10.1145/3544549.3583746?cid=81453628934 
 ---

@@ -34,10 +34,6 @@ publication_types:
 abstract: 'The 21st edition of the Annual Conference of the International Society for Music Information Retrieval (ISMIR) introduced so-called “special sessions,” giving room for discussion on various topics related to music information retrieval (MIR). I report on the activities related to this special session No. 7 with the title “How do we—in MIR research—help artists? Do we?”, and summarize the insights gained from the discussion. Being well-aware that the MIR community has come up with contributions that had a positive impact on artists, we particularly discussed the challenges that hinder MIR contributions from being adopted in the field and the problems when MIR innovations with presumably good intentions turn out to have a bad impact. Besides the many challenges, we also came up with ideas how we could move forward and better address artists’ needs.'
 publication: '*ACM SIGIR Forum*'
 doi: 10.1145/3483382.3483398
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3483382.3483398?cid=81453628934
+authorizer:  https://dl.acm.org/doi/10.1145/3483382.3483398?cid=81453628934
 altmetric: false
 ---

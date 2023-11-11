@@ -43,9 +43,5 @@ publication: '*ACM SIGCHI Extended Abstracts of Conference on Human Factors in C
 publication_short: CHI EA 2015
 doi: 10.1145/2702613.2732736
 url_poster: bauer-2015-musiccontrolled-running-poster-A4.pdf
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/2702613.2732736?cid=81453628934
+authorizer: https://dl.acm.org/doi/10.1145/2702613.2732736?cid=81453628934
 ---

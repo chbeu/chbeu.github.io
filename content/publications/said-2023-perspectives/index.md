@@ -37,9 +37,5 @@ abstract: 'Evaluation is important when developing and deploying recommender sys
 publication: '*17th ACM Conference on Recommender Systems*'
 publication_short: RecSys 2023
 doi: 10.1145/3604915.3608748
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3604915.3608748?cid=81453628934
+authorizer: https://dl.acm.org/doi/10.1145/3604915.3608748?cid=81453628934
 ---

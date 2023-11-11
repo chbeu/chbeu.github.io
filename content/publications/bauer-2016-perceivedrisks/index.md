@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: 'Perceived risks and benefits of online self-disclosure: affected by culture?

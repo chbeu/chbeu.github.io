@@ -39,10 +39,5 @@ Date: 22 September, 2022.<br>
 Website: https://perspectives-ws.github.io/2022/'
 publication: '*ACM SIGIR Forum*'
 doi: 10.1145/3582900.3582919
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url: https://dl.acm.org/doi/10.1145/3582900.3582919?cid=81453628934
-
+authorizer: https://dl.acm.org/doi/10.1145/3582900.3582919?cid=81453628934
 ---

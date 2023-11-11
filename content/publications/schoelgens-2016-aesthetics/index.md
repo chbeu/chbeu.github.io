@@ -40,16 +40,13 @@ abstract: 'Designing layouts that are perceived as pleasant by the viewer is no 
 publication: '*ACM Symposium on Document Engineering*'
 publication_short: DocEng 2016
 doi: 10.1145/2960811.2960821
+authorizer: https://dl.acm.org/doi/10.1145/2960811.2960821?cid=81453628934
 
 links: 
 - icon: file
   icon_pack: fa
   name: Postprint
   url: schoelgens-2016-aesthetics-acceptedversion.pdf
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/2960811.2960821?cid=81453628934
 
 icons:
 - icon: award

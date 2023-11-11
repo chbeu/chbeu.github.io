@@ -43,12 +43,8 @@ publication_short: CHIGREECE 2023
 
 doi: 10.1145/3609987.3610011
 url_slides: dinnissen2023_faccts_slides.pdf
-
+authorizer: https://dl.acm.org/doi/10.1145/3609987.3610011?cid=81453628934
 links:
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3609987.3610011?cid=81453628934
 - icon: file
   icon_pack: fa
   name: Postprint

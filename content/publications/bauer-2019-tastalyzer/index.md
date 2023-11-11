@@ -46,11 +46,7 @@ publication: '*27th ACM International Conference on Multimedia*'
 publication_short: ACM MM 2019
 doi: 10.1145/3343031.3350585
 url_poster: bauer-2019-tastalyzer-poster-A4.pdf
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3343031.3350585?cid=81453628934
+authorizer:  https://dl.acm.org/doi/10.1145/3343031.3350585?cid=81453628934
 ---
 
 {{< youtube kJpksYs31GM >}}

@@ -37,9 +37,5 @@ publication: '*2020 Conference on Human Information Interaction and Retrieval*'
 publication_short: CHIIR 2020
 url_pdf: https://doi.org/10.1145/3343413.3378015
 doi: 10.1145/3343413.3378015
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/3343413.3378015?cid=81453628934
+authorizer:  https://dl.acm.org/doi/10.1145/3343413.3378015?cid=81453628934
 ---

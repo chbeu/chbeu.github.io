@@ -39,9 +39,5 @@ publication: '*17th International Conference on Information Integration and Web-
   Applications & Services*'
 publication_short: iiWAS 2015
 doi: 10.1145/2837185.2837242
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/2837185.2837242?cid=81453628934
+authorizer:  https://dl.acm.org/doi/10.1145/2837185.2837242?cid=81453628934
 ---

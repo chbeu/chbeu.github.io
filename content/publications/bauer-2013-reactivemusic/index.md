@@ -42,9 +42,5 @@ publication: '*2013 CHI Extended Abstracts on Human Factors in Computing Systems
 publication_short: CHI EA 2013
 doi: 10.1145/2468356.2468488
 url_poster: bauer-2013-reactivemusic-poster.pdf
-links: 
-- icon: acmdl
-  icon_pack: ai
-  name: ACM Author-izer
-  url:  https://dl.acm.org/doi/10.1145/2468356.2468488?cid=81453628934
+authorizer: https://dl.acm.org/doi/10.1145/2468356.2468488?cid=81453628934
 ---

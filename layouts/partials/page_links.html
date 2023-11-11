@@ -49,6 +49,7 @@
     {{ $link = . | relURL }}
   {{ end }}
 <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+  <i class="fas fa-solid fa-code"></i>
   {{ i18n "btn_code" }}
 </a>
 {{ end }}
@@ -118,6 +119,7 @@
     {{ $link = . | relURL }}
   {{ end }}
 <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+  <i class="fas fa-solid fa-video"></i>
   {{ i18n "btn_video" }}
 </a>
 {{ end }}
@@ -139,7 +141,14 @@
 {{ end }}
 {{ with $page.Params.url_proceedings }}
 <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
+  <i class="fas fa-solid fa-book"></i>
   Proceedings
+</a> 
+{{ end }}
+{{ with $page.Params.authorizer }}
+<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
+  <i class="ai ai-acmdl"></i>
+  ACM Author-izer
 </a> 
 {{ end }}
 {{ with $page.Params.url_book }}
