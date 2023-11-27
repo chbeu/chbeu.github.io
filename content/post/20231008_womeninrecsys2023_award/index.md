@@ -19,10 +19,9 @@ profile: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'Framework for EValuating Recommender systems (FEVR)'
+#  caption: ''
   focal_point: 'Smart'
   preview_only: false
-
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

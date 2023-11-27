@@ -13,7 +13,6 @@ title: 'Awards & Honors'
 subtitle: Research activities
 
 # Date format
-#  Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
 # Accomplishments.
@@ -26,7 +25,7 @@ item:
   title: "Women in RecSys Journal Paper of the Year Award 2023, Senior category"
   description: '17th ACM Conference on Recommender Systems (RecSys 2023)<br>{{< cite page="zangerle-2022-fevr" view="4" >}}'
   #organization_url: "https://recsys.acm.org/women-in-recsys-awards/"
-  #certificate_url: ""
+  certificate_url: "../images/awards/womeninrecsys2023_bestjournalpaperaward.pdf"
   date_start: "2023-09-22"
 - organization: "UMAP 2023"
   title: "Nomination for Best Student Paper Award"

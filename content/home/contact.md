@@ -22,7 +22,7 @@ content:
     postcode: '5020'
     country: Austria
     country_code: AT
-  directions: Enter Techno 1 and take the stairs to EXDIGIT on Floor 3
+  directions: Enter Techno 1 and take the stairs to EXDIGIT on Floor 2
 #  office_hours:
 #    - 'Monday-Friday 10:00 to 17:00'
   appointment_url: https://calendly.com/christine_bauer?hide_gdpr_banner=1&primary_color=3399cc

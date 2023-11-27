@@ -14,11 +14,11 @@ role: EXDIGIT Professor of <br>Interactive Intelligent Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Paris Lodron University Salzburg
+- name: Paris Lodron University Salzburg, Austria
   url: https://www.plus.ac.at
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research activities center on interactive intelligent systems. A central theme in my research are context and context-adaptivity. Currently, I focus on context-aware (music) recommender systems.
+#bio: My research activities center on interactive intelligent systems. Central themes in my research are context and context-adaptivity. Currently, I focus on context-aware (music) recommender systems.
 
 # Interests to show in About widget
 interests:
