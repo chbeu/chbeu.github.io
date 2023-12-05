@@ -34,7 +34,7 @@ publication_types:
 abstract: "As streaming services have become a main channel for music consumption, they significantly impact various stakeholders: users, artists who provide music, and other professionals working in the music industry. Therefore, it is essential to consider all stakeholders' goals and values when developing and evaluating the music recommender systems integrated into these services. One vital goal is treating artists fairly, thereby giving them a fair chance to have their music recommended and listened to, and subsequently building a fan base. Such artist fairness is often assumed to have a trade-off with user goals such as satisfaction. Using insights from two studies, this work shows the opposite: some goals from different stakeholders are complementary. Our first study, in which we interview music artists, demonstrates that they often see increased transparency and control for users as a means to also improve artist fairness. We expand with a second study asking other music industry professionals about these topics using a questionnaire. Its results indicate that transparency towards users is highly valued and should be increased."
 publication: '*31st ACM Conference on User Modeling, Adaptation and Personalization*'
 publication_short: ISMIR 2023
-#doi: 
+doi: 10.5281/zenodo.10265331
 url_poster: dinnissen2023_control_poster.pdf
 url_video: dinnissen2023_control_video.mp4
 
