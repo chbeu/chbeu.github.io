@@ -46,9 +46,6 @@ gallery_item:
 - album: gallery
   image: 3a_52918556032_af6c69a3f8_o.jpg
   caption: 'Image credit: **Patricia Weisskirchner**, 2023.'
-- album: gallery
-  image: INN2324.jpg
-  caption: 'Image credit: **Innovation Salzburg/Benedikt Schemmer**, 2023.'
 ---
 
 {{< gallery album="gallery" >}}
