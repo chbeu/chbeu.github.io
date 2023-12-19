@@ -126,7 +126,7 @@
   translation: See all posts
 
 - id: more_talks
-  translation: See all events
+  translation: See all talks
 
 - id: more_publications
   translation: See all publications
@@ -221,7 +221,7 @@
   translation: Publications
 
 - id: talks
-  translation: Events
+  translation: Talks
 
 - id: projects
   translation: Projects
