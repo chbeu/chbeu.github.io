@@ -54,3 +54,6 @@ links:
 projects: []
 
 ---
+
+
+{{< gallery album="kn05_ismir2023" >}}
