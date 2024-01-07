@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: A CEWebS component for facilitating online cooperative brainstorming processes
@@ -8,7 +7,7 @@ summary: ''
 authors:
 - Jürgen Mangler
 - Christine Bauer
-tags: []
+tags: [CEWebS, technology-enhanced learning, brainstorming]
 categories: []
 date:  '2004-01-01' #29 September - 1 October 2004
 lastmod: 2021-08-08T03:11:24+02:00
@@ -28,19 +27,15 @@ image:
   preview_only: false
   alt_text: ""
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-08T01:13:59.344849Z'
-publication_types:
-- '1'
+publication_types: [paper-conference]
+publication: '*7th International Workshop on Interactive Computer-Aided Learning*'
+publication_short: ICL 2004
+
 abstract: 'Drawing your ideas to a piece of paper is easy, but drawing onto the screen using the mouse appears to be quite complicated. This usually results in some non-formalised, bad-looking scribbling that is hard to extend and which makes it hard to modify or delete fragments.
 Currently available web-based whiteboard tools support common drawing features. How- ever, in informatics, teams enjoy the advantage of formalised languages (e.g. UML), which whiteboards do not support and, hence, do not make this advantage effective.
 For supporting brainstorming processes, we developed a simple, extendable chat ap- plication that can be embedded into existing learning environments through a Web ser- vice framework and focuses on a cooperative modelling approach instead of cooperative drawing.'
-publication: '*7th International Workshop on Interactive Computer-Aided Learning*'
-publication_short: ICL 2004
+
 url_poster: mangler-2004-cewebs-component-poster.pdf
 ---

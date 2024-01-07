@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: "UMAP 2018 Intelligent User-Adapted Interfaces: Design and Multi-Modal Evaluation\
@@ -29,18 +28,15 @@ image:
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+
 projects: [multimethod]
 publishDate: '2021-08-08T01:13:49.106428Z'
-publication_types:
-- '1'
-abstract: ''
+publication_types: [paper-conference]
 publication: '*26th Conference on User Modeling, Adaptation and Personalization*'
 publication_short: UMAP 2018
+
+abstract: ''
+
 doi: 10.1145/3213586.3226202
 authorizer:  https://dl.acm.org/doi/10.1145/3213586.3226202?cid=81453628934
 ---

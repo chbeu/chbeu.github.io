@@ -24,17 +24,14 @@ image:
   preview_only: false
   placement: 300
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+
 projects: []
 publishDate: '2021-08-08T01:13:53.679371Z'
-publication_types:
-- '2'
-abstract: ''
+publication_types: [article-journal]
 publication: '*OCG Journal*'
+
+
+abstract: ''
 url_pdf: https://www.ocg.at/sites/ocg.at/files/medien/pdfs/OCG-Journal1502.pdf
 ---
 

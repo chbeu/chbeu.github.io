@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: 'Situationalization: the new road to adaptive digital-out-of-home advertising'
@@ -24,17 +23,13 @@ image:
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-08T01:13:54.922192Z'
-publication_types:
-- '1'
-abstract: '‘Digital out-of-home advertising’ (DOOHA) leverages digital screens to reach out to consumers at any time and anywhere in public space. While personalization---tailoring advertisements to an individual---has proven successful for advertising, this concept has its limitations. Particularly challenging are privacy concerns and negative perceptions caused by personalized advertisements. We propose situationalization---adapting advertisements based on the current situation---as a promising (additional) option. The suggested PERSIT matrix (PERsonalizationSITuationalization) structures the available adaptation strategies. It helps advertisers and system designers to make educated strategy decisions for adaptive DOOHA system designs.'
-publication: '*IADIS International Conference e-Society*'
+publication_types: [paper-conference]
 url_slides: lasinger-2013-situaionalization-persit-slides.pdf
 publication_short: e-Society 2013
+
+abstract: '‘Digital out-of-home advertising’ (DOOHA) leverages digital screens to reach out to consumers at any time and anywhere in public space. While personalization---tailoring advertisements to an individual---has proven successful for advertising, this concept has its limitations. Particularly challenging are privacy concerns and negative perceptions caused by personalized advertisements. We propose situationalization---adapting advertisements based on the current situation---as a promising (additional) option. The suggested PERSIT matrix (PERsonalizationSITuationalization) structures the available adaptation strategies. It helps advertisers and system designers to make educated strategy decisions for adaptive DOOHA system designs.'
+publication: '*IADIS International Conference e-Society*'
+
 ---

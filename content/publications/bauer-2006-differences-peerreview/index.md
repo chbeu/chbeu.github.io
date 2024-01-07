@@ -24,16 +24,13 @@ image:
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+
 projects: []
 publishDate: '2021-08-08T01:13:59.071437Z'
-publication_types:
-- '1'
-abstract: 'Peer reviews are used in a wide variety of disciplines. Nevertheless research investigating the impact of technology on peer-reviewing mainly derives from the field of writing classes. This paper presents an experimental study exploring the quality and kind of feedback given in a peer-reviewing task in an IT Project Management course. The study analyzes differences between the face-to-face and the online setting. The results show that students commented on fewer topics in the online version but described them in more detail than in the paper version. The online version was experienced as time-efficient and easy to fill out, while students found it significantly easier to express feedback in the paper version.'
+publication_types: [paper-conference]
 publication: '*IADIS International Conference Cognition and Exploratory Learning in Digital Age*'
 publication_short: e-learning 2006
+
+abstract: 'Peer reviews are used in a wide variety of disciplines. Nevertheless research investigating the impact of technology on peer-reviewing mainly derives from the field of writing classes. This paper presents an experimental study exploring the quality and kind of feedback given in a peer-reviewing task in an IT Project Management course. The study analyzes differences between the face-to-face and the online setting. The results show that students commented on fewer topics in the online version but described them in more detail than in the paper version. The online version was experienced as time-efficient and easy to fill out, while students found it significantly easier to express feedback in the paper version.'
+
 ---

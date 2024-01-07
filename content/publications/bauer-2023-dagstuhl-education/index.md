@@ -7,7 +7,11 @@ summary: ''
 authors:
 - Christine Bauer
 - Maik Fröbe
-- Dietmar Jannach- Udo Kruschwitz- Paolo Rosso- Damiano Spina- NavaTintarev
+- Dietmar Jannach
+- Udo Kruschwitz
+- Paolo Rosso
+- Damiano Spina
+- NavaTintarev
 tags: [information retrieval, recommender systems, evaluation, information access, experimentation, Dagstuhl, education]
 categories: []
 date: 2023-09-18
@@ -23,17 +27,14 @@ image:
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+
 projects: [multimethod]
 publishDate: '2023-09-24T01:13:46.973627Z'
-publication_types:
-- '4'
-#abstract: ""
+publication_types: [report]
 publication: '*Dagstuhl Reports*'
+
+#abstract: ""
+
 altmetric: true
 doi: 10.4230/DagRep.13.1.68
 ---

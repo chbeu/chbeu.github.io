@@ -26,18 +26,15 @@ profile: false
 #  focal_point: ''
 #  preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+
 projects: []
 publishDate: '2023-04-20T01:13:46.973627Z'
-publication_types:
-- '1'
-abstract: "This panel aims to generate conversation toward creating a more equitable CHI. In recognizing our community’s hard work thus far, this panel seeks to engage panelists and participants with thought-provoking questions to garner and promote actionable items for the community. We intend to have an open dialogue on allyship, diversity, equity, and inclusion to achieve a CHI for all."
+publication_types: [paper-conference]
 publication: '*Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems*'
 publication_short: CHI EA 2023
+
+abstract: "This panel aims to generate conversation toward creating a more equitable CHI. In recognizing our community’s hard work thus far, this panel seeks to engage panelists and participants with thought-provoking questions to garner and promote actionable items for the community. We intend to have an open dialogue on allyship, diversity, equity, and inclusion to achieve a CHI for all."
+
 doi: 10.1145/3544549.3583746
 authorizer: https://dl.acm.org/doi/10.1145/3544549.3583746?cid=81453628934 
 ---

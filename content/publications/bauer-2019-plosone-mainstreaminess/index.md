@@ -25,15 +25,12 @@ image:
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+
 projects: [fwf579]
 publishDate: '2021-08-08T01:13:47.995590Z'
-publication_types:
-- '2'
+publication_types: [article-journal]
+publication: '*PLOS ONE*'
+
 abstract: "RELEVANCE: Popularity-based approaches are widely adopted in music recommendation systems, both in industry and research. These approaches recommend to the target user what is currently popular among all users of the system. However, as the popularity distribution of music items typically is a long-tail distribution, popularity-based approaches to music recommendation fall short in satisfying listeners that have specialized music preferences far away from the global music mainstream. Addressing this gap, the contribution of this article is three-fold.
 
 
@@ -44,7 +41,7 @@ DIFFERENCES BETWEEN COUNTRIES WITH RESPECT TO MUSIC MAINSTREAM: Second, we perfo
 
 
 RATING PREDICTION EXPERIMENTS: Third, we demonstrate the applicability of our study results to improve music recommendation systems. To this end, we conduct rating prediction experiments in which we tailor recommendations to a user's level of preference for the music mainstream using the proposed 6 mainstreaminess measures: defined by a distribution-based or rank-based approach, defined on a global level or on a country level (for the user's country), and for APC or ALC. Our approach roughly equals a hybrid recommendation approach in which a demographic filtering strategy is implemented before collaborative filtering is performed. Results suggest that, in terms of rating prediction accuracy, each of the presented mainstreaminess definitions has its merits."
-publication: '*PLOS ONE*'
+
 url_pdf: https://doi.org/10.1371/journal.pone.0217389
 doi: 10.1371/journal.pone.0217389
 altmetric: true

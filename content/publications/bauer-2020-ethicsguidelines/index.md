@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: Ethics guidelines in music information retrieval
@@ -31,17 +30,13 @@ image:
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+
 projects: []
 publishDate: '2021-08-08T01:13:47.114655Z'
-publication_types:
-- '0'
-abstract: ''
+publication_types: [document]
 publication: '*WiMIR workshop*'
+
+abstract: ''
 links: 
 - name: GoogleDocs
   url: https://drive.google.com/file/d/1DDEMyLIvX_gm7p9XCPP2UiqnfMZn6Pe8/view?usp=sharing

@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: Investigating cross-country relationship between users' social ties and music
@@ -25,17 +24,14 @@ image:
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+
 projects: [fwf579]
 publishDate: '2021-08-08T01:13:49.521916Z'
-publication_types:
-- '1'
-abstract: 'We investigate the complex relationship between the factors (i) preference for music mainstream, (ii) social ties in an online music platform, and (iii) demographics. We define (i) on a global and a country level, (ii) by several network centrality measures such as Jaccard index among users’ connections, closeness centrality, and betweenness centrality, and (iii) by country and age information. Using the LFM-1b dataset of listening events of Last.fm users, we are able to uncover country-dependent differences in consumption of mainstream music as well as in user behavior with respect to social ties and users’ centrality. We could identify that users inclined to mainstream music tend to have stronger connections than the group of less mainstreamy users. Furthermore, our analysis revealed that users typically have less connections within a country than cross-country ones, with the first being stronger social ties, though. Results will help building better user models of listeners and in turn improve personalized music retrieval and recommendation algorithms.'
+publication_types: [paper-conference]
 publication: '*19th International Society for Music Information Retrieval Conference*'
 publication_short: ISMIR 2018
+
+abstract: 'We investigate the complex relationship between the factors (i) preference for music mainstream, (ii) social ties in an online music platform, and (iii) demographics. We define (i) on a global and a country level, (ii) by several network centrality measures such as Jaccard index among users’ connections, closeness centrality, and betweenness centrality, and (iii) by country and age information. Using the LFM-1b dataset of listening events of Last.fm users, we are able to uncover country-dependent differences in consumption of mainstream music as well as in user behavior with respect to social ties and users’ centrality. We could identify that users inclined to mainstream music tend to have stronger connections than the group of less mainstreamy users. Furthermore, our analysis revealed that users typically have less connections within a country than cross-country ones, with the first being stronger social ties, though. Results will help building better user models of listeners and in turn improve personalized music retrieval and recommendation algorithms.'
+
 doi: 10.5281/zenodo.1492507
 ---

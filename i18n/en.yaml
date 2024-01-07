@@ -7,7 +7,7 @@
   translation: Table of Contents
 
 - id: on_this_page
-  translation: Contents
+  translation: On this page
 
 - id: back_to_top
   translation: Back to top
@@ -119,6 +119,10 @@
 
 # Pages widget
 
+
+- id: read_more
+  translation: Read more
+
 - id: more_pages
   translation: See all
 
@@ -151,7 +155,7 @@
 - id: book_appointment
   translation: Book an appointment
 
-# Publication/Event details
+# Publication/Event/Talk details
 
 - id: abstract
   translation: Abstract
@@ -174,16 +178,13 @@
 - id: location
   translation: Location
 
-- id: pub_uncat
-  translation: Uncategorized
-
-- id: pub_conf
+- id: pub_paper_conference
   translation: Conference paper
 
-- id: pub_journal
+- id: pub_article_journal
   translation: Journal article
 
-- id: pub_preprint
+- id: pub_article
   translation: Preprint
 
 - id: pub_report
@@ -192,7 +193,7 @@
 - id: pub_book
   translation: Book
 
-- id: pub_book_section
+- id: pub_chapter
   translation: Book section
 
 - id: pub_thesis
@@ -201,11 +202,6 @@
 - id: pub_patent
   translation: Patent
 
-- id: pub_confproc
-  translation: Conference Proceedings
-
-- id: pub_abstract
-  translation: Abstract
 
 # Project details
 
@@ -271,7 +267,7 @@
 # Published with
 
 - id: published_with
-  translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
+  translation: Published with {hugoblox} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
 
 # Feedback widget
 

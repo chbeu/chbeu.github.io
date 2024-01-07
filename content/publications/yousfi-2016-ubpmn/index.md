@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: 'uBPMN: A BPMN extension for modeling ubiquitous business processes'
@@ -27,15 +26,13 @@ image:
   preview_only: false
   placement: 300
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+
 projects: []
 publishDate: '2021-08-08T01:13:51.191459Z'
-publication_types:
-- '2'
+publication_types:  [article-journal]
+publication: '*Information and Software Technology*'
+publication_short: Inf Softw Technol
+
 abstract: 'Context: Business Process Model and Notation (BPMN) is the de facto standard for business process modeling. It was developed by the Object Management Group with support of the major organizations in the fields of software engineering and information systems. Despite its wide use, when it comes to repre- senting ubiquitous business processes, this business process modeling language is lacking.
 Objective: To address BPMN’s deficiency in representing ubiquitous business processes, we extend it and present uBPMN (or ubiquitous BPMN).
 
@@ -47,7 +44,7 @@ Results: The proposed uBPMN not only allows for modeling ubiquitous business pro
 
 
 Conclusion: uBPMN extends BPMN v2.0 with new capabilities to deal with ubiquitous computing technologies.'
-publication: '*Information and Software Technology*'
+
 doi: 10.1016/j.infsof.2016.02.002
 links:
 - icon: file

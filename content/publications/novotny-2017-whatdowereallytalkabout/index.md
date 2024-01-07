@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: 'What do we really talk about when we talk about context in pervasive computing: a review and exploratory analysis'
@@ -23,18 +22,15 @@ profile: false
 #  focal_point: ''
 #  preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+
 projects: []
 publishDate: '2021-08-08T01:13:50.504373Z'
-publication_types:
-- '1'
-abstract: 'At the heart of ubiquitous and pervasive computing is the integration of semantically rich contextual information into systems that intelligently adapt their behavior to the context. This paper presents an analysis of the contextual elements considered in the scientific discourse on pervasive computing. To support researchers with positioning their work, this paper explores how well the facets of context are represented and which context el- ements are particularly important in specific application domains, such as healthcare or traffic. Results suggest that context elements are considered diversely among domains. Context spreads across a long tail of heterogeneous, rather specific context elements. Potential factors explaining this high diversity relate to sensor technology, structure of context information as well as purposes and design of context-aware systems.'
+publication_types: [paper-conference]
 publication: '*19th International Conference on Information Integration and Web-based Applications & Services*'
 publication_short: iiWAS 2017
+
+abstract: 'At the heart of ubiquitous and pervasive computing is the integration of semantically rich contextual information into systems that intelligently adapt their behavior to the context. This paper presents an analysis of the contextual elements considered in the scientific discourse on pervasive computing. To support researchers with positioning their work, this paper explores how well the facets of context are represented and which context el- ements are particularly important in specific application domains, such as healthcare or traffic. Results suggest that context elements are considered diversely among domains. Context spreads across a long tail of heterogeneous, rather specific context elements. Potential factors explaining this high diversity relate to sensor technology, structure of context information as well as purposes and design of context-aware systems.'
+
 doi: 10.1145/3151759.3151760
 authorizer: https://dl.acm.org/doi/10.1145/3151759.3151760?cid=81453628934
 links: 
