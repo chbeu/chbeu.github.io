@@ -31,7 +31,7 @@ It has been a pretty full year with many ups-- -yet, also downs.
 ## My personal highlights
 - Starting as a full professor at PLUS, advocating interdisciplinary research as part of the EXDIGIT initiative.
 - I had the honor of giving the [opening keynote address at ISMIR](/talks/kn05_ismir2023/). ISMIR was an amazing experience.
-- Traveling a lot: From this year's home countries (Austria and The Netherlands), I traveled for work to Denmark, France, Germany, Italy, Singapore, and Switzerland.
+- Traveling a lot: From this year's home countries (Austria and The Netherlands), I traveled for work to Denmark, France, Germany, Italy, Singapore, Switzerland, UK.
 - Reviving the collaboration with [Andrés Ferraro](https://scholar.google.com/citations?user=WQglBowAAAAJ) on bias mitigation in music recommender systems. We are going strong 💪
 
 
