@@ -303,6 +303,12 @@ Keynote at ISMIR 2023.
 &lt;/span>
 &lt;/div>
 &lt;/div>
+&lt;div class="btn-links">
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://drive.google.com/file/d/1Em9_70CXnT1icS6WejDjgftwAuKYrz3A/preview" target="_blank" rel="noopener">
+&lt;i class="fas fa-solid fa-video">&lt;/i>
+Video
+&lt;/a>
+&lt;/div>
 &lt;/div>
 &lt;div class="ml-3">
 &lt;a href="https://christinebauer.eu/talks/kn05_ismir2023/" >
