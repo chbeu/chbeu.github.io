@@ -49,11 +49,10 @@ links:
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
-#url_video: ""
+url_video: "https://drive.google.com/file/d/1Em9_70CXnT1icS6WejDjgftwAuKYrz3A/preview"
 
 projects: []
 
 ---
 
 {{< gallery album="kn05_ismir2023" >}}
-
