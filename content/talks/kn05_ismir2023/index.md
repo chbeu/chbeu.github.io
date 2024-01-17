@@ -43,7 +43,7 @@ image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Smart
   preview_only: false
-  placement: 1
+  placement: 300
 
 links:
 #url_code: ""
@@ -54,5 +54,9 @@ url_video: "https://drive.google.com/file/d/1Em9_70CXnT1icS6WejDjgftwAuKYrz3A/pr
 projects: []
 
 ---
+
+<iframe src="https://www.dropbox.com/scl/fi/ph0mc1nvpttaw37ovt1xp/keynote1.mp4?rlkey=1lm0ltha4lkt66j7szobxoqvv&raw=1" width="720" height="390" allow="autoplay"></iframe>
+
+<br><br>
 
 {{< gallery album="kn05_ismir2023" >}}
