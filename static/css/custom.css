@@ -111,3 +111,15 @@ tbody td{
     color: #FFFFFF;
     pointer-events: none;
 }
+
+
+/* style for alert background*/
+.alert-note {
+    background-color: #0088CC;
+    color: #FFFFFF;
+}
+
+/* color for alert icon*/
+.article-style aside p::before, div.alert > div:first-child::before {
+    color: #FFFFFF;
+}

@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: 'publications/' #'#featured'
     weight: 5
-  - name: Talks
+  - name: Talks & Panels
     url: 'talks/'
     weight: 6
   - name: Teaching
@@ -25,7 +25,7 @@ main:
   - name: Community Service
     url: 'service/'
     weight: 8
-  - name: Media
+  - name: Media & Press
     url: 'media/'
     weight: 9
   - name: Gallery
@@ -33,7 +33,7 @@ main:
     weight: 10
   - name: Contact
     url: '#contact'
-    weight: 11
+    weight: 12
  # - name: Posts
  #   url: '#posts'
  #   weight: 30

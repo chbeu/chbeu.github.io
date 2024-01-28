@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Recent & Upcoming Talks and Panels
 cms_exclude: true
 
 type: chbpage

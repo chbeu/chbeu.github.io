@@ -4,14 +4,14 @@
 
 {{ partial "page_header.html" . }}
 
-	<div class="article-container">
-	<br>
-	<br>
-
-
-		<div class="col-md-10">
-			    {{ .Content }}
- 
+<div class="universal-wrapper">
+    <div class="row">
+          <div class="col-md-12">
+          
+          {{ with .Content }}
+          <div class="article-style">{{ . }}</div>
+          {{ end }}
+       
 {{ $url := "assets/csv/media.csv" }}	
     {{ $sep := "," }}
     {{ range $i, $r := getCSV $sep $url  }} <!-- (dict "mediaarticles" (slice "author" "date" "outlet" "title" "language" "link")) -->
@@ -22,7 +22,7 @@
 		</div>
 	</div>
 
-
+    </div>
 </div>
 
 {{- end -}}
