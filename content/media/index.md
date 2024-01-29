@@ -44,7 +44,7 @@ Her multidisciplinary background drives her research activities. She holds a Doc
 
 She has held academic positions at various institutions, including Assistant Professor at Utrecht University in The Netherlands, Senior Postdoc Researcher at Johannes Kepler University Linz in Austria, Visiting Fellow at the Carnegie Mellon University in the USA, and Assistant Professor at WU Vienna in Austria.
 
-She authored over 110 publications, including award-winning research papers. She has received multiple awards as a best reviewer and outstanding reviewer. Furthermore, she is a recipient of the prestigious Elise Richter grant for the project “Fine-grained Culture-aware Music Recommender Systems", funded by the Austrian Science Fund (FWF). In this project, she investigated cultural differences in music preferences and developed models and algorithmic approaches for music recommender systems that account for these cultural differences.
+She authored over 110 publications, including award-winning research papers. She has received multiple awards as a best reviewer and outstanding reviewer. Furthermore, she is a recipient of the prestigious Elise Richter grant for the project "Fine-grained Culture-aware Music Recommender Systems", funded by the Austrian Science Fund (FWF). In this project, she investigated cultural differences in music preferences and developed models and algorithmic approaches for music recommender systems that account for these cultural differences.
 
 
 ### Biography for Press in German
@@ -57,7 +57,7 @@ Ihr multidisziplinärer Hintergrund prägt ihre Forschungstätigkeit. Sie hat ei
 
 Sie hatte akademische Positionen an verschiedenen Institutionen, darunter als Assistenzprofessorin an der Universität Utrecht in den Niederlanden, als Senior Postdoc Researcher an der Johannes Kepler Universität Linz in Österreich, als Visiting Fellow an der Carnegie Mellon University in den USA und als Assistenzprofessorin an der WU Wien in Österreich.
 
-Sie ist Autorin von über 110 Publikationen, darunter preisgekrönte Forschungsarbeiten. Sie wurde mehrfach als Best Reviewer und Outstanding Reviewer ausgezeichnet. Darüber hinaus ist sie Trägerin der renommierten Elise-Richter-Förderung für das vom Österreichischer Wissenschaftsfonds (FWF) geförderte Projekt „Fine-grained Culture-aware Music Recommender Systems“. In diesem Projekt untersuchte sie kulturelle Unterschiede in Musikpräferenzen und entwickelte Modelle und algorithmische Ansätze für Musikempfehlungssysteme, die diese kulturellen Unterschiede berücksichtigen.
+Sie ist Autorin von über 110 Publikationen, darunter preisgekrönte Forschungsarbeiten. Sie wurde mehrfach als Best Reviewer und Outstanding Reviewer ausgezeichnet. Darüber hinaus ist sie Trägerin der renommierten Elise-Richter-Förderung für das vom Österreichischen Wissenschaftsfonds (FWF) geförderte Projekt "Fine-grained Culture-aware Music Recommender Systems". In diesem Projekt untersuchte sie kulturelle Unterschiede in Musikpräferenzen und entwickelte Modelle und algorithmische Ansätze für Musikempfehlungssysteme, die diese kulturellen Unterschiede berücksichtigen.
 
 <br>
 
