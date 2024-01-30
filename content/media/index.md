@@ -51,7 +51,7 @@ She authored over 110 publications, including award-winning research papers. She
 
 Christine Bauer ist EXDIGIT-Professorin für Interactive Intelligent Systems an der Paris Lodron Universität Salzburg in Österreich. EXDIGIT steht für Excellence in Digital Sciences and Interdisciplinary Technologies, eine vom Land Salzburg geförderte Initiative, der sie angehört.
 
-Sie erforscht intelligente Technologien, die sich an menschliche Präferenzen und Verhaltensweisen anpassen. In dieser interdisziplinären Forschung entwickelt sie Technologien weiter, untersucht menschliche Bedürfnisse und erforscht die Auswirkungen von Mensch-Technik-Interaktionen. Ihr besonderes Interesse gilt der Entwicklung fairer Technologien. Ihr Forschungsschwerpunkt liegt auf Empfehlungssystemen im Allgemeinen, mit besonderem Schwerpunkt auf den Bereichen Musik und Medien.
+Sie erforscht intelligente Technologien, die sich an die Präferenzen und Verhaltensweisen von Menschen anpassen. In dieser interdisziplinären Forschung entwickelt sie Technologien weiter, untersucht menschliche Bedürfnisse und erforscht die Auswirkungen von Mensch-Technologie-Interaktion. Ihr besonderes Interesse gilt der Entwicklung fairer Technologien. Ihr Forschungsschwerpunkt liegt auf Empfehlungssystemen im Allgemeinen, mit besonderem Schwerpunkt auf den Bereichen Musik und Medien.
 
 Ihr multidisziplinärer Hintergrund prägt ihre Forschungstätigkeit. Sie hat einen Doktortitel in Sozial- und Wirtschaftswissenschaften, einen Diplomabschluss (entspricht einem Master) in Internationaler Betriebswirtschaftslehre und einen Masterabschluss in Wirtschaftsinformatik. Zusätzlich studierte sie Jazzsaxophon.
 
@@ -62,5 +62,5 @@ Sie ist Autorin von über 110 Publikationen, darunter preisgekrönte Forschungsa
 <br>
 
 ## Recent Press articles 
-*Below, I list a selection of  press articles and media appearances about me or my work.*
+*Below, I list a selection of press articles and media appearances about me or my work.*
 <br>
