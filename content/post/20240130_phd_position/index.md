@@ -29,7 +29,7 @@ image:
 #projects: []
 ---
 
-To strengthen our interdisciplinary research team, we seek a PhD candidate for 4 years.  
+To strengthen our interdisciplinary research team, we seek a PhD candidate (30h/week; for 4 years) with a focus on **recommender systems** and an interest in **fairness**.  
 
 Candidates are expected to integrate well into a genuinely interdisciplinary research setting and share a strong interest in the topic of recommender systems. Ideally, they will focus on one or more of the following areas:
 - fairness in recommender systems;
