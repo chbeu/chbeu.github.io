@@ -41,6 +41,7 @@ all_day: true
 publishDate: "2022-06-25T00:00:00Z"
 
 authors: [Christine Bauer, Andrés Ferraro, Emilia Gómez, Lorenzo Porcaro]
+categories: [tutorial]
 tags: [tutorial, ISMIR, trustworthy, values, music information retrieval, recommender systems, fairness, diversity, transparency, impact assessment, evaluation]
 
 # Is this a featured talk? (true/false)

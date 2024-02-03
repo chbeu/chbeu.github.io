@@ -13,7 +13,7 @@
   {{ end }}
   {{ end }}
 
-  {{ if not (in (slice "event" "talk" "page" "post" "chbpage") $page.Type) | and (ne $page.Params.show_date false) }}
+  {{ if not (in (slice "event" "talk" "page" "post" "markdown") $page.Type) | and (ne $page.Params.show_date false) }}
   <span class="article-date">
     {{ $date := $page.Lastmod | time.Format site.Params.locale.date_format }}
     {{ if eq $page.Type "publication" }}

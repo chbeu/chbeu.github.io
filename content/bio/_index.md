@@ -1,7 +1,7 @@
 ---
 title: 'Bio'
 date: 2023-10-08
-type: chbpage
+type: markdown
 draft: false
 
 reading_time: true  # Show estimated reading time?

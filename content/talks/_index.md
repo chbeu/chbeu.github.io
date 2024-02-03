@@ -2,7 +2,7 @@
 title: Recent & Upcoming Talks and Panels
 cms_exclude: true
 
-type: chbpage
+type: markdown
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?

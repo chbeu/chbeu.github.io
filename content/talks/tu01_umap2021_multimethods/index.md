@@ -39,10 +39,11 @@ all_day: true
 publishDate: "2021-08-01T00:00:00Z"
 
 #authors: [Christine Bauer]
+categories: [tutorial]
 tags: [tutorial, UMAP, multi-methods, evaluation, adaptive systems, recommender systems]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 #image:
 #  preview only: true
