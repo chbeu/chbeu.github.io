@@ -10,7 +10,7 @@ authors:
 - Alan Said
 tags: [recommender systems, evaluation, systematic literature review, survey, TORS]
 categories: []
-date: 2023-10-10
+date: 2024-01-01
 featured: false
 draft: false
 profile: false
@@ -25,7 +25,7 @@ image:
   placement: 500
 
 projects: [multimethod]
-publishDate: '2023-10-28T01:13:46'
+publishDate: '2024-03-01T01:13:46'
 publication_types: [article-journal]
 publication: '*ACM Transactions on Recommender Systems*'
 publication_short: "TORS"
@@ -39,5 +39,5 @@ links:
 - icon: file
   icon_pack: fa
   name: Preprint
-  url: bauer-2023-landscape_preprint.pdf
+  url: bauer-2024-landscape_preprint.pdf
 ---

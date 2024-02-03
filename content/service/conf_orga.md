@@ -28,7 +28,7 @@ experience:
 - company: "CIKM 2023"
   company_logo: cikm_2023
   title: "PhD Symposium Co-Chair"
-  description: "with Haiming Liu <br>32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)<br><br><img src=\"/images/variouspics/cikm2023_phd_symposium_group.jpg\"  alt=\"Group photo of the CIKM 2023 PhD Symposium\"><br><br>[See report in ACM SIGIR Forum](/publications/liu-2023-sigirforum-cikmphdsymp/)"
+  description: "with Haiming Liu <br>32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)<br><br><img src=\"/images/variouspics/cikm2023_phd_symposium_group.jpg\"  alt=\"Group photo of the CIKM 2023 PhD Symposium\"><br><br>[See report in ACM SIGIR Forum](/publications/liu-2024-sigirforum-cikmphdsymp/)"
   company_url: "https://www.cikm2023.org"
   url: "https://uobevents.eventsair.com/cikm2023/phd-symposium-programme---saturday-21st-october"
   date_start: "2023-10-21"

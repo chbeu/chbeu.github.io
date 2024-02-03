@@ -35,4 +35,4 @@ It is great that our collaboration on the [PERSPECTIVES workshop series](http://
 <br>
 <br>
 
-{{< cite page="bauer-2023-landscape" view="4" >}}
+{{< cite page="bauer-2024-landscape" view="4" >}}

@@ -10,7 +10,7 @@ authors:
 - Christine Bauer
 tags: [PERSPECTIVES, evaluation, RecSys, recommender systems]
 categories: []
-date: '2023-12-01'
+date: '2024-01-22'
 featured: false
 draft: false
 profile: false
@@ -25,7 +25,7 @@ profile: false
 
 
 projects: [multimethod]
-publishDate: '2023-12-01T01:13:45.839142Z'
+publishDate: '2024-01-22T01:13:45.839142Z'
 publication_types: [report]
 publication: '*ACM SIGIR Forum*'
 
@@ -33,6 +33,6 @@ abstract: 'Evaluation is a central step when developing, optimizing, and deployi
 Date: 19 September 2023.<br>
 Website: https://perspectives-ws.github.io/2023/'
 
-#doi: 
-#authorizer: https://dl.acm.org/doi/10.1145/3582900.3582919?cid=81453628934
+doi: 10.1145/3642979.3643000
+authorizer: https://dl.acm.org/doi/10.1145/3642979.3643000?cid=81453628934
 ---

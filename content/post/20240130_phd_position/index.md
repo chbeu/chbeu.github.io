@@ -39,7 +39,6 @@ Candidates are expected to integrate well into a genuinely interdisciplinary res
 This position is part of the 'Excellence in Digital Sciences and Interdisciplinary Technologies' (EXDIGIT) initiative at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at Paris Lodron University Salzburg, Austria.  
 
 
-[Full vacancy description](./phd_job.pdf)
-{{< figure src="./phd_job_featured.png" alt="Pic of full vacancy description; full text in the linked pdf above." width="248" height="159" >}}
+[Full vacancy description {{< figure src="./phd_job_featured.png" alt="Pic of full vacancy description; full text in the linked pdf above." width="248" height="159" >}}](./phd_job.pdf)
 
 For questions related to the position, feel free to address me directly via e-mail. Applications have to be sent to the e-mail address as specified in the job description.

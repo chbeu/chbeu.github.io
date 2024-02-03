@@ -9,7 +9,7 @@ authors:
 - Christine Bauer
 tags: [PhD Symosium, CIKM, reflection]
 categories: []
-date: '2023-12-01'
+date: '2024-01-22'
 featured: false
 draft: false
 profile: false
@@ -24,7 +24,7 @@ profile: false
 
 
 projects: []
-publishDate: '2023-12-01T01:13:45.839142Z'
+publishDate: '2024-01-22T01:13:45.839142Z'
 publication_types: [report]
 publication: '*ACM SIGIR Forum*'
 
@@ -32,6 +32,6 @@ abstract: "The PhD Symposium was held successfully at the 32nd ACM International
 Date: 21 October 2023.<br>
 Website: https://uobevents.eventsair.com/cikm2023/phd-symposium-programme---saturday-21st-october"
 
-#doi: 
-#authorizer: https://dl.acm.org/doi/10.1145/3582900.3582919?cid=81453628934
+doi: 10.1145/3642979.3643003
+authorizer: https://dl.acm.org/doi/10.1145/3642979.3643003?cid=81453628934
 ---
