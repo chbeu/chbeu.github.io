@@ -1,36 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>systematic literature review | Christine Bauer</title><link>https://christinebauer.eu/tag/systematic-literature-review/</link><atom:link href="https://christinebauer.eu/tag/systematic-literature-review/index.xml" rel="self" type="application/rss+xml"/><description>systematic literature review</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 Christine Bauer</copyright><lastBuildDate>Sat, 28 Oct 2023 02:00:06 +0200</lastBuildDate><image><url>https://christinebauer.eu/media/sharing.png</url><title>systematic literature review</title><link>https://christinebauer.eu/tag/systematic-literature-review/</link></image><item><title>Survey paper on the evaluation of recommender systems accepted in ACM TORS</title><link>https://christinebauer.eu/post/20231028_tors_landscape/</link><pubDate>Sat, 28 Oct 2023 02:00:06 +0200</pubDate><guid>https://christinebauer.eu/post/20231028_tors_landscape/</guid><description>&lt;p>The survey paper on the evaluation of recommender systems with &lt;a href="https://evazangerle.at" target="_blank" rel="noopener">Eva Zangerle&lt;/a> and &lt;a href="https://www.alansaid.com" target="_blank" rel="noopener">Alan Said&lt;/a> was accepted for publication in &lt;a href="http://tors.acm.org" target="_blank" rel="noopener">ACM Transaction on Recommender Systems (TORS)&lt;/a>. The &amp;ldquo;Just Accepted&amp;rdquo; version is already online.&lt;/p>
 &lt;p>It is great that our collaboration on the &lt;a href="http://perspectives-ws.github.io" target="_blank" rel="noopener">PERSPECTIVES workshop series&lt;/a> also led to this publication.&lt;/p>
 &lt;br>
-&lt;br>
-&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
-&lt;span class="article-metadata li-cite-author">
-&lt;span class="author-highlighted">
-Christine Bauer&lt;/span>, &lt;span >
-Eva Zangerle&lt;/span>, &lt;span >
-Alan Said&lt;/span>
-&lt;/span>
-(2023).
-&lt;a href="https://christinebauer.eu/publications/bauer-2023-landscape/">Exploring the landscape of recommender systems evaluation: practices and perspectives&lt;/a>.
-&lt;em>ACM Transactions on Recommender Systems&lt;/em>.
-&lt;p>
-&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-data-filename="/publications/bauer-2023-landscape/cite.bib">
-Cite
-&lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/project/multimethod/">
-Project
-&lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3629170" target="_blank" rel="noopener">
-DOI
-&lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3629170?cid=81453628934" target="_blank" rel="noopener">
-&lt;i class="ai ai-acmdl">&lt;/i>
-ACM Author-izer
-&lt;/a>
-&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://christinebauer.eu/publications/bauer-2023-landscape/bauer-2023-landscape_preprint.pdf" target="_blank" rel="noopener">
-&lt;i class="fa fa-file mr-1">&lt;/i>
-Preprint
-&lt;/a>
-&lt;/p>
-&lt;/div></description></item><item><title>Exploring the landscape of recommender systems evaluation: practices and perspectives</title><link>https://christinebauer.eu/publications/bauer-2023-landscape/</link><pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2023-landscape/</guid><description/></item><item><title>Location-based advertising on mobile devices: a literature review and analysis</title><link>https://christinebauer.eu/publications/bauer-2016-locationbased/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2016-locationbased/</guid><description/></item></channel></rss>
+&lt;br></description></item><item><title>Location-based advertising on mobile devices: a literature review and analysis</title><link>https://christinebauer.eu/publications/bauer-2016-locationbased/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://christinebauer.eu/publications/bauer-2016-locationbased/</guid><description/></item></channel></rss>
