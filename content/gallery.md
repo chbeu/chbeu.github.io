@@ -1,10 +1,8 @@
 ---
-# An instance of the Featured widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+type: page
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 125
@@ -46,6 +44,15 @@ gallery_item:
 - album: gallery
   image: 3a_52918556032_af6c69a3f8_o.jpg
   caption: 'Image credit: **Patricia Weisskirchner**, 2023.'
+  
+  
+draft: false
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
+editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 ---
 
 {{< gallery album="gallery" >}}
