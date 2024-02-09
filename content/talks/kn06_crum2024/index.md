@@ -13,7 +13,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 event: CRUM 2024
 event_url: https://crum-workshop.github.io
 
-location: Campus Sant'Ignazio ((St. Ignatius Campus)
+location: Campus Sant'Ignazio (St. Ignatius Campus)
 address:
   street: Via Sant’Ignazio da Laconi 76
   city: Cagliari
