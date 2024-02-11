@@ -1,7 +1,6 @@
 ---
 title: 'Bio'
-date: 2023-10-08
-type: markdown
+date: 2024-02-11
 draft: false
 
 reading_time: true  # Show estimated reading time?

@@ -1,7 +1,7 @@
 ---
 title: "Managerial skills that artists need beyond artistic abilities"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

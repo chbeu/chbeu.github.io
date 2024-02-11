@@ -1,7 +1,7 @@
 ---
 title: "Panelist at the Doctoral Symposium of RecSys 2022: PhD and career journey"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

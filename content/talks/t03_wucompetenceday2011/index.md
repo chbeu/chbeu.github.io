@@ -1,7 +1,7 @@
 ---
 title: "Kontextadaptive Systeme: überall—auch in der Werbung"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

@@ -1,7 +1,7 @@
 ---
 title: "Breaking feedback loops in recommender systems: an example on mitigating artist gender bias in the music domain"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

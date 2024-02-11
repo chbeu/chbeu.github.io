@@ -1,7 +1,7 @@
 ---
 title: "KI und Algorithmen als ethische Herausforderungen für eine mediatisierte Gesellschaft"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

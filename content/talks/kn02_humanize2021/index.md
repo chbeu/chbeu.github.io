@@ -1,7 +1,7 @@
 ---
 title: "Keynote: In the user is it—is it?: If you want to understand your users, you have to understand their situations"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

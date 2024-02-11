@@ -1,7 +1,7 @@
 ---
 title: "Keynote: Three views of a secret: Embracing multiple perspectives in the evaluation of information retrieval and recommender systems"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

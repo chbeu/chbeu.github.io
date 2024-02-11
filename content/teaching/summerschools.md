@@ -1,8 +1,8 @@
 ---
 title: "Summer Schools"  # Add a page title.
 summary: "This page is about my current and past teaching activities."  # Add a page description.
-type: widget_page
-date: 2021-08-07 
+type: markdown
+date: 2024-01-01 
 # Homepage is headless, other widget pages are not.
 headless: true
 draft: false

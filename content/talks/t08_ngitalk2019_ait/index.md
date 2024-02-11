@@ -1,7 +1,7 @@
 ---
 title: "Wie wird Artificial Intelligence die Art und Weise verändern, wie wir Computer wahrnehmen und mit ihnen umgehen?"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

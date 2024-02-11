@@ -1,7 +1,7 @@
 ---
 title: "Keynote: Ratings in, rankings out. Keep it simple, they said. But we need more than that."
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

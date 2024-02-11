@@ -1,7 +1,6 @@
 ---
 title: "Fairness—Are algorithms a burden or a solution?"
 cms_exclude: true
-type: talk
 
 draft: false
 reading_time: false  # Show estimated reading time?

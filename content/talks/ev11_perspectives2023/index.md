@@ -1,7 +1,7 @@
 ---
 title: "3rd Workshop: Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2023)"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

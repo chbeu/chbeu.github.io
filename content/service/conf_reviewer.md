@@ -1,6 +1,6 @@
 ---
 summary: "This page lists my reviewing activities."
-widget: blank
+type: markdown
 
 # This file represents a page section.
 headless: true

@@ -1,7 +1,7 @@
 ---
 title: "Recommenders and Intelligent Tools in Music Creation: Why, Why Not, and How?"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

@@ -1,7 +1,7 @@
 ---
 title: "Wie funktionieren (Musik-) Empfehlungssysteme? Und ist es für alle fair, was ich zu hören bekomme?"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

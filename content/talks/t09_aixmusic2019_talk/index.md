@@ -1,7 +1,7 @@
 ---
 title: "Music Information Retrieval: Inside and Outside the Music"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

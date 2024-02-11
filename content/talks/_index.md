@@ -2,8 +2,6 @@
 title: Recent & Upcoming Talks and Panels
 cms_exclude: true
 
-type: markdown
-
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
@@ -27,5 +25,4 @@ image:
   caption: 'Image credit: [**Kurt Hörbst**](https://www.hoerbst.com), 2020.' 
   focal_point: "Smart"
   alt_text: "Portrait of Christine Bauer"
-
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Den richtigen Inhalt für den richtigen User im richtigen Moment: Musikempfehlungssysteme jetzt und in der Zukunft"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

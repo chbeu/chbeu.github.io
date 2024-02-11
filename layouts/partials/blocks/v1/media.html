@@ -1,0 +1,35 @@
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $title := $block.Params.title }}
+{{ $subtitle := $block.Params.subtitle }}
+
+  <div class="row">
+      <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+     {{ with $title }}
+      <h1 class="mb-0">{{ . | markdownify }}</h1>
+    {{ end }} 
+     {{ with $subtitle }}
+      <p class="mt-1">{{ . | markdownify }}</p>
+    {{ end }} 
+    </div>
+      
+    <div class="article-container">
+                <div class="row">
+
+
+    {{ with $block.Content }}
+      <div class="mt-1">{{ . }}</div>
+    {{ end }} 
+    
+{{ $url := "assets/csv/media.csv" }}	
+    {{ $sep := "," }}
+    {{ range $i, $r := getCSV $sep $url  }} <!-- (dict "mediaarticles" (slice "author" "date" "outlet" "title" "language" "link")) -->
+    {{ if ne $i 0 }}<!-- skip first row -->
+            <p class="mt-1">
+{{ index $r 1 }}, {{ if index $r 0 }}{{ index $r 0 }} on {{end}} {{index  $r 2}}. {{ if index $r 5 }}<a href= "{{index  $r 5 }}" target="_blank">{{end}}{{index  $r 3 }}{{ if index $r 5 }}</a> {{ end }} (in {{index  $r 4 }}).  {{ end }}</p>
+        {{end}}
+
+    </div>
+  </div>
+</div>

@@ -6,7 +6,7 @@ tags:
 - news
 - value-driven recommendations
 - recommender systems
-date: "2022-03-01T00:00:00Z"
+date: '2022-03-01T00:00:00Z'
 profile: false
 
 # Optional external URL for project (replaces project detail page).

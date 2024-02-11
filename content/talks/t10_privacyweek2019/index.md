@@ -1,7 +1,7 @@
 ---
 title: "Sag mir, was du hörst—und ich sage dir, wer du bist!"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

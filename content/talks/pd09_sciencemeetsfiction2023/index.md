@@ -1,7 +1,7 @@
 ---
 title: "Mit Pandora philosophieren—Digitalisierung und die Zeit"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

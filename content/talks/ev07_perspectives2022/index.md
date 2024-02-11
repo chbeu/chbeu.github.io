@@ -1,7 +1,6 @@
 ---
 title: "PERSPECTIVES 2022: Perspectives on the evaluation of recommender systems"
 cms_exclude: true
-type: talk
 
 draft: false
 reading_time: false  # Show estimated reading time?

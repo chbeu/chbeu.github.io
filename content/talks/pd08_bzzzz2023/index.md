@@ -1,7 +1,7 @@
 ---
 title: "AI—Pandoras Box oder Heiliger Gral?"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

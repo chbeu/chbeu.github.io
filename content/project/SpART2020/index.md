@@ -29,7 +29,6 @@ links:
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
-
 ---
 
 The purpose of this project is to understand how current systems used to recommend music affect artists and to propose alternative solutions that could benefit the artists. The goal is to identify potential problems that affect artists, and to draw on the artists' perspective about how future recommender systems could work. 

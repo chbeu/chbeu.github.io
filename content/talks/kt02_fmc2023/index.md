@@ -1,7 +1,7 @@
 ---
 title: "Keynote: K.I. in der Musikbranche: Last oder Lösung?—Ethische Fragen im Zusammenhang mit Algorithmen"
 cms_exclude: true
-type: talk
+
 
 draft: false
 reading_time: false  # Show estimated reading time?

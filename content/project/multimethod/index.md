@@ -21,7 +21,6 @@ links:
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
-
 ---
 
 The comprehensive evaluation of the performance of a  system is a complex endeavor: many facets need to be considered in configuring an adequate and effective evaluation setting. 

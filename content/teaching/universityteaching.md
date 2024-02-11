@@ -1,7 +1,7 @@
 ---
 title: "University Teaching"  # Add a page title.
 summary: "This page is about my current and past university teaching activities."  # Add a page description.
-type: page
+type: markdown
 date: 2021-08-07 
 # Homepage is headless, other widget pages are not.
 headless: true
