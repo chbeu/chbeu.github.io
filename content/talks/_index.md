@@ -1,6 +1,7 @@
 ---
-title: Recent & Upcoming Talks and Panels
+title: Talks and Panels
 cms_exclude: true
+type: page
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -26,3 +27,4 @@ image:
   focal_point: "Smart"
   alt_text: "Portrait of Christine Bauer"
 ---
+<br>

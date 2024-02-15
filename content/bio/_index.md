@@ -2,6 +2,7 @@
 title: 'Bio'
 date: 2024-02-11
 draft: false
+type: page
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?

@@ -1,7 +1,7 @@
 ---
 title: "Keynote: Keep an eye on the big picture—in recommender systems research and as a scientist"
 cms_exclude: true
-
+type: talk
 
 draft: false
 reading_time: false  # Show estimated reading time?
