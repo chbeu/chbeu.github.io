@@ -1,7 +1,7 @@
 ---
 title: "Music recommendation systems: what is fair from the artists' perspectives?"
 cms_exclude: true
-type: talk
+type: talks
 
 
 draft: false

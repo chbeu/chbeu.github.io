@@ -1,7 +1,7 @@
 ---
 title: "Keynote: Help!—Bridging the Gap Between Music Technology and Diverse Stakeholder Needs"
 cms_exclude: true
-type: talk
+type: talks
 
 
 draft: false
