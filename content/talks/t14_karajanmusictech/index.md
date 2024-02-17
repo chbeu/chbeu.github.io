@@ -22,7 +22,7 @@ address:
   postcode: '5020'
   country: Austria
 
-summary: Talk at Karajan Music Tech.
+summary: Talk at Karajan Music Tech Conference 2024.
 abstract: "Music recommendation systems are indispensable in today's music industry. They provide valuable support in navigating through the vast catalogs of music tracks. These systems suggest similar artists or recommend the next track for us to listen to. But how fair are these systems from the perspective of artists?"
 
 # Talk start and end times.
