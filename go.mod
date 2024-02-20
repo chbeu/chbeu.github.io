@@ -1,6 +1,6 @@
 module github.com/chbeu/chbeu.github.io
 
-go 1.21
+go 1.22
 
 require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240218004843-552df4b957f2
