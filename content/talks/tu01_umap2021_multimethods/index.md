@@ -1,6 +1,7 @@
 ---
 title: "Multi-Method Evaluation of Adaptive Systems"
 cms_exclude: true
+type: talk
 
 
 draft: false
