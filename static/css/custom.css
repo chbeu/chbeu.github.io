@@ -47,48 +47,47 @@
     vertical-align:top;
     display:inline-block;
     margin-left:20px;
-    margin-right:20px;
-    margin-bottom:40px;
-    padding-bottom:20px;
-
+    margin-bottom:0px;
+    padding-bottom:70px;
 }
 
 
 #awards_research .altmetric-style {
-    margin-bottom:0px;
     padding-bottom:0px;
 }
-
-
 
 
 /* plumx */
 .plumx {
     display:inline-block;
-    margin-left:30px;
+    margin-left:20px;
     vertical-align: top;
     clear:none;
 }
 
 
 /* dimensions.ai */
-
 .__dimensions_badge_embed__{
     display:inline-block;
-    margin-left:30px;
+    margin-left:20px;
     vertical-align: top;
     clear:none;
 }
 
-
-/* chb stylesheet*/
+/* scimago, SJR badge */
 
 .scimago {
-    height:90px;
-    width:90px;
-    margin-left:30px;
+    display:inline-block;
+    clear:none;
+    height:100px;
+    width:100px;
+    margin-left:20px;
+    margin-right:20px;
     vertical-align:top;
 }
+
+
+/* chb stylesheet*/
 
 table {
     display: block;
@@ -125,8 +124,7 @@ tbody td{
     color: #FFFFFF;
 }
 
-/* color for alert icon*/
-
+/* color for toggle background when open */
 details p {
   border-left: 1px solid #0088CC;
   background-color: rgba(0, 136, 204, 0.1);
