@@ -17,7 +17,7 @@ feature:
   icon: bullseye
   icon_pack: fa
 - name: Academic indices
-  description: '[Citations 2337<br>h-index 26<br>i10-index 51](https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en)'
+  description: '[Citations 2341<br>h-index 26<br>i10-index 51](https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en)'
   icon: google-scholar-square
   icon_pack: ai
 - name: Awards & Honors
@@ -41,7 +41,7 @@ feature:
   icon: globe
   icon_pack: fas
 - name: Mentoring
-  description: WiMIR Mentoring since 2018<br>Queen Mary University of London since 2021<br>Allyship Co-Chair at CHI 2022+2023<br>Doctoral/PhD Symposium Co-Chair at RecSys 2021+2023 and CIKM 2023
+  description: WiMIR Mentoring since 2018<br>Queen Mary University of London since 2021<br>Allyship Co-Chair at CHI 2023+2022<br>Doctoral/PhD Symposium Co-Chair at RecSys 2021+2023 and CIKM 2023
   icon: hands-helping
   icon_pack: fas
 
