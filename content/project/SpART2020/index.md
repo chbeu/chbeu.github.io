@@ -20,7 +20,7 @@ profile: false
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 300
-  caption: Photo by Image by <a href="https://pixabay.com/users/monsterkoi-65294/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3363160">Monsterkoi</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3363160">Pixabay</a>
+  caption: 'Image by [**Monsterkoi**](https://pixabay.com/users/monsterkoi-65294/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3363160) from [**Pixabay**](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3363160).'
   focal_point: Smart
   preview_only: false
 

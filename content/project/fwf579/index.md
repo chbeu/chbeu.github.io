@@ -18,7 +18,7 @@ profile: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  caption: Image by Pexels from Pixabay. 
+  caption: Image by [**Pexels**](https://pixabay.com/de/users/pexels-2286921/) from [**Pixabay**](https://pixabay.com/de/photos/musik-kassette-retro-audio-band-1285165/). 
   focal_point: Smart
 
 links:

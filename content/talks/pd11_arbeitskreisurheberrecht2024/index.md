@@ -1,5 +1,5 @@
 ---
-title: "Music recommendation systems: what is fair from the artists' perspectives?"
+title: "Generative Künstliche Intelligenz—Fluch oder Segen?"
 cms_exclude: true
 type: talks
 
@@ -11,31 +11,31 @@ profile: false  # Show author profile?
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
-event: "Karajan Music Tech Conference 2024"
-event_url: https://www.karajanmusictech.com/
+event: "Fachtagung für Urheberrecht 2024"
+event_url: https://arbeitskreis-urheberrecht.at
 
-location: Messezentrum Salzburg
+location: Steigenberger Hotel and Spa Krems
 address:
-  street: Am Messezentrum 1
-  city: Salzburg
+  street: Am Goldberg 2
+  city: Krems
 #  region: CA
-  postcode: '5020'
+  postcode: '3500'
   country: Austria
 
-summary: Talk at Karajan Music Tech Conference 2024.
-abstract: "Music recommendation systems are indispensable in today's music industry. They provide valuable support in navigating through the vast catalogs of music tracks. These systems suggest similar artists or recommend the next track for us to listen to. But how fair are these systems from the perspective of artists?"
+summary: Talk and panel at Fachtagung für Urheberrecht 2024.
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-03-07"
-#date_end: "2021-04-13T15:00:00Z"
+date: "2024-03-15"
+date_end: "2024-03-16"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2024-02-15T00:00:00Z"
+publishDate: "2024-02-25T00:00:00Z"
 
-authors: []
-tags: [talk, music, recommender systems, fairness, music recommender systems, communication to the public]
+authors: [Christine Bauer, Anna Katharina Tipotsch, Alexander Pabst, Christian Auinger]
+tags: [talk, panel, music, generative AI, artificial intelligence, challenges, copyright, droit d'auteurs]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -43,7 +43,7 @@ featured: false
 image:
   #caption: 'Image credit:'
   focal_point: Smart
-  placement: 500
+  placement: 300
 
 
 # Projects (optional).
@@ -53,3 +53,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+Short talk, followed by a panel with Anna Katharina Tipotsch and Alexander Pabst (both Schönherr Rechtsanwälte). The panel is moderated by Christian Auinger (Ministry of Justice).
