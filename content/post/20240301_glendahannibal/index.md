@@ -1,7 +1,7 @@
 ---
 title: "Glenda Hannibal is joining our team"
 subtitle: ""
-summary: "I am happy to welcome Glenda Hannibal as a postdoctoral research to our team."
+summary: "I am happy to welcome Glenda Hannibal as a postdoctoral researcher to our team."
 #authors: [Christine Bauer]
 #projects: []
 categories: [news]
