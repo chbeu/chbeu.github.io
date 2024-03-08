@@ -10,7 +10,7 @@ authors:
 - Alan Said
 tags: [recommender systems, evaluation, systematic literature review, survey, TORS]
 categories: []
-date: 2024-03-01
+date: 2024-03-07
 featured: false
 draft: false
 profile: false
@@ -25,7 +25,7 @@ image:
   placement: 500
 
 projects: [multimethod]
-publishDate: '2024-01-01T01:13:46'
+publishDate: '2024-03-07T01:13:47'
 publication_types: [article-journal]
 publication: '*ACM Transactions on Recommender Systems*'
 publication_short: "TORS"
@@ -35,9 +35,4 @@ abstract: "Recommender systems research and practice are fast-developing topics 
 
 doi: 10.1145/3629170
 authorizer: https://dl.acm.org/doi/10.1145/3629170?cid=81453628934
-links:
-- icon: file
-  icon_pack: fa
-  name: Preprint
-  url: bauer-2024-landscape_preprint.pdf
 ---
