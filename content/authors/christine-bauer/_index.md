@@ -55,30 +55,35 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
+  icon_title: E-mail
   link: '/#contact'
 - icon: linkedin
   icon_pack: fab
+  icon_title: LinkedIn
   link: https://www.linkedin.com/in/christinebauer/
 - icon: twitter
   icon_pack: fab
+  icon_title: X (formerly Twitter)
   link: https://twitter.com/christine_bauer
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack // fasgraduation-cap
   icon_pack: ai
+  icon_title: GoogleScholar
   link: https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en
 - icon: orcid
   icon_pack: ai
+  icon_title: ORCID
   link: https://orcid.org/0000-0001-5724-1137
-- icon: publons
+- icon: clarivate
   icon_pack: ai
+  icon_title: Web of Science
   link: https://www.webofscience.com/wos/author/rid/J-7323-2019
-- icon: impactstory
-  icon_pack: ai
-  link: https://profiles.impactstory.org/u/0000-0001-5724-1137
 - icon: github
   icon_pack: fab
+  icon_title: GitHub
   link: https://github.com/ladychb
 - icon: researchgate
   icon_pack: ai
+  icon_title: ResearchGate
   link: https://www.researchgate.net/profile/Christine-Bauer-2
 - icon: dblp
   icon_pack: ai
@@ -88,6 +93,10 @@ social:
   icon_pack: ai
   icon_title: Scopus
   link: https://www.scopus.com/authid/detail.uri?authorId=24491705100
+- icon: acm
+  icon_pack: ai
+  icon_title: ACM
+  link: https://dl.acm.org/profile/81453628934
 - icon: semantic-scholar
   icon_pack: ai
   icon_title: SematicScholar
@@ -96,6 +105,9 @@ social:
   icon_pack: ai
   icon_title: Zotero
   link: https://www.zotero.org/christine_bauer/cv
+- icon: impactstory
+  icon_pack: ai
+  link: https://profiles.impactstory.org/u/0000-0001-5724-1137
 #- icon: circle-notch
 #  icon_pack: fas
 #  icon_title: rescognito

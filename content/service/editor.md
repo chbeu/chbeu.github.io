@@ -53,7 +53,7 @@ experience:
     #location: Austria
     date_start: '2022-04-21'
     date_end: '2024-03-07'
-    description: with Eva Zangerle and Alan Said<br>[Call for Papers](https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-CfP-SI-Evaluation-1650479094177.pdf)<br>[Link to Special Issue](https://dl.acm.org/toc/tors/2024/2/1)
+    description: with Eva Zangerle and Alan Said<br>[Call for Papers](https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-CfP-SI-Evaluation-1650479094177.pdf)<br>[Link to Special Issue](https://dl.acm.org/toc/tors/2024/2/1)<br>[See Editorial](/publications/bauer-2024-si-perspectives/)
 
     
   - title: "Guest Editor: Research Topic 'Human Issues in Recommender Systems'"
