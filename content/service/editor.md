@@ -36,16 +36,6 @@ experience:
     #date_end: '2020-01-31'
     #description:  Associate Editor
  
- 
-  - title: "Guest Editor: Special Issue 'Perspectives on Recommender Systems Evaluation'"
-    company: ACM Transactions on Recommender Systems
-    company_url: 'https://dl.acm.org/journal/tors'
-    company_logo: acm
-    #location: Austria
-    date_start: '2022-04-21'
-    #date_end: '2020-01-31'
-    description: with Eva Zangerle and Alan Said<br>[Call for Papers](https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-CfP-SI-Evaluation-1650479094177.pdf)
-
 
   - title: Associate Editor
     company: ACM Transactions on Recommender Systems
@@ -55,6 +45,16 @@ experience:
     date_start: '2022-03-04'
     #date_end: '2020-01-31'
     #description:  Associate Editor
+ 
+  - title: "Guest Editor: Special Issue 'Perspectives on Recommender Systems Evaluation'"
+    company: ACM Transactions on Recommender Systems
+    company_url: 'https://dl.acm.org/journal/tors'
+    company_logo: acm
+    #location: Austria
+    date_start: '2022-04-21'
+    date_end: '2024-03-07'
+    description: with Eva Zangerle and Alan Said<br>[Call for Papers](https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-CfP-SI-Evaluation-1650479094177.pdf)<br>[Link to Special Issue](https://dl.acm.org/toc/tors/2024/2/1)
+
     
   - title: "Guest Editor: Research Topic 'Human Issues in Recommender Systems'"
     company: Frontiers in Big Data---Recommender Systems

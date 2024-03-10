@@ -16,8 +16,8 @@ profile: false
 image:
 #  caption: ""
   focal_point: "Smart"
-  preview_only: true
-  placement: 300
+#  preview_only: true
+  placement: 1
 
 
 # Projects (optional).
