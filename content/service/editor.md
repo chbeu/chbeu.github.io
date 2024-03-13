@@ -27,6 +27,16 @@ date_format:  Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Editorial Board Member
+    company: Information Technology & Tourism
+    company_url: 'https://link.springer.com/journal/40558'
+    company_logo: Springer
+    #location: Austria
+    date_start: '2024-03-12'
+    #date_end: '2020-01-31'
+    #description:  Associate Editor
+
+
   - title: Associate Editor
     company: ACM Transactions on Information Systems
     company_url: 'https://dl.acm.org/journal/tois'
@@ -46,6 +56,27 @@ experience:
     #date_end: '2020-01-31'
     #description:  Associate Editor
  
+
+
+  - title: "Review Editor"
+    company: Frontiers in Research Metrics and Analytics---Research Methods
+    company_url: 'https://www.frontiersin.org/journals/research-metrics-and-analytics/sections/research-methods'
+    company_logo: frontiers
+    #location: Austria
+    date_start: '2021-08-01'
+    #date_end: '2022-05-31'
+    #description: 
+
+    
+  - title: "Review Editor"
+    company: Frontiers in Big Data---Recommender Systems
+    company_url: 'https://www.frontiersin.org/journals/big-data/sections/recommender-systems'
+    company_logo: frontiers
+    #location: Austria
+    date_start: '2021-03-01'
+   # date_end: '2022-05-31'
+    #description:  
+    
   - title: "Guest Editor: Special Issue 'Perspectives on Recommender Systems Evaluation'"
     company: ACM Transactions on Recommender Systems
     company_url: 'https://dl.acm.org/journal/tors'
@@ -55,17 +86,6 @@ experience:
     date_end: '2024-03-07'
     description: with Eva Zangerle and Alan Said<br>[Call for Papers](https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-CfP-SI-Evaluation-1650479094177.pdf)<br>[Link to Special Issue](https://dl.acm.org/toc/tors/2024/2/1)<br>[See Editorial](/publications/bauer-2024-si-perspectives/)
 
-    
-  - title: "Guest Editor: Research Topic 'Human Issues in Recommender Systems'"
-    company: Frontiers in Big Data---Recommender Systems
-    company_url: 'https://www.frontiersin.org/journals/big-data/sections/recommender-systems'
-    company_logo: frontiers
-    #location: Austria
-    date_start: '2021-06-01'
-    date_end: '2022-05-31'
-    description:  with Bruce Ferwerda
-    #<br>[Link to Research Topic](https://www.frontiersin.org/research-topics/23412/human-issues-in-recommender-systems#overview)
-    
 
 design:
   columns: '2' 
