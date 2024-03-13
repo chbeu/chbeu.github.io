@@ -30,7 +30,7 @@ experience:
   - title: Editorial Board Member
     company: Information Technology & Tourism
     company_url: 'https://link.springer.com/journal/40558'
-    company_logo: Springer
+    company_logo: springer
     #location: Austria
     date_start: '2024-03-12'
     #date_end: '2020-01-31'
