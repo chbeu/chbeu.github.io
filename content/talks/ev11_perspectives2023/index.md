@@ -17,7 +17,7 @@ location:  Suntec Convention Centre
 address:
 #  street: 
 #  city: Singapore
-  region: WA
+#  region: WA
 #  postcode: '1080'
   country: Singapore
 
