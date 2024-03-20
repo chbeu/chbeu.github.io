@@ -10,8 +10,8 @@ profile: false  # Show author profile?
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
-event: "30. DGRI-D-A-CH-Tagung"
-event_url: 
+event: "International Conference: 30. DGRI-D-A-CH-Tagung"
+event_url: https://www.dgri.de/38n513
 
 location: Paris Lodron Universität Salzburg, Toskanatrakt
 address:
@@ -42,7 +42,7 @@ featured: false
 image:
   #caption: 'Image credit:'
   focal_point: Smart
-  placement: 500
+  placement: 300
 
 
 # Projects (optional).
