@@ -13,9 +13,9 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 event: "W&K Forum Symposium 2024: Harmony & Dissonance: Generative AI in Music and the Arts"
 #event_url: ""
 
-location: Salzburg
+location: Villa Vicina
 address:
-#  street: 
+  street: Schwarzstraße 30
   city: Salzburg
 #  region: WA
   postcode: '5020'

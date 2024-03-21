@@ -55,3 +55,7 @@ projects:
 ---
 
 Short talk, followed by a panel with Anna Katharina Tipotsch and Alexander Pabst (both Schönherr Rechtsanwälte). The panel is moderated by Christian Auinger (Ministry of Justice).
+
+
+
+{{< figure src="ap+akt+chb.jpg" caption="From left to right: Alexander Pabst, Anna Katharina Tipotsch, Christine Bauer. Image credit: **Dominik Hofmarcher**, 2024." >}}

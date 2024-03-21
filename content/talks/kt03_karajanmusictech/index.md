@@ -52,4 +52,28 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
+
+
+gallery_item:
+- album: kt03_karajanmusictech
+  image: 1_IMG_0368.JPG
+  caption: 'Image credit: **Jasper Alexander Gradussen**/[**Karajan Music Tech**](http://karajanmusictech.com), 2024.' 
+- album: kt03_karajanmusictech
+  image: 2_IMG_0362.JPG
+  caption: 'Image credit: **Jasper Alexander Gradussen**/[**Karajan Music Tech**](http://karajanmusictech.com), 2024.' 
+- album: kt03_karajanmusictech
+  image: 3_IMG_0281.JPG
+  caption: 'Image credit: **Jasper Alexander Gradussen**/[**Karajan Music Tech**](http://karajanmusictech.com), 2024.' 
+- album: kt03_karajanmusictech
+  image: 4_IMG_0258.JPG
+  caption: 'Image credit: **Jasper Alexander Gradussen**/[**Karajan Music Tech**](http://karajanmusictech.com), 2024.' 
+- album: kt03_karajanmusictech
+  image: 5_IMG_0260.JPG
+  caption: 'Image credit: **Jasper Alexander Gradussen**/[**Karajan Music Tech**](http://karajanmusictech.com), 2024.' 
+- album: kt03_karajanmusictech
+  image: 6_IMG_0377.JPG
+  caption: 'Image credit: **Jasper Alexander Gradussen**/[**Karajan Music Tech**](http://karajanmusictech.com), 2024.' 
 ---
+
+
+{{< gallery album="kt03_karajanmusictech" >}}
