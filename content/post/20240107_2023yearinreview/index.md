@@ -72,7 +72,7 @@ It has been a pretty full year with many ups-- -yet, also downs.
 
 ## Advising and supervising PhD researchers
 - I am happy that I keep serving as the co-promotor of [Marloes Vredenborg](https://marloesvredenborg.com) (UU).
-- While not officially acting in a (co-)promotor role, I keep working with [Anouk van Kasteren](https://www.uu.nl/staff/AvanKasteren/Publications) (UU); this comes quite handy, as Marloes and Anouk are working on the same project.
+- While not officially acting in a (co-)promotor role, I keep working with [Anouk van Kasteren](http://anoukvankasteren.com) (UU); this comes quite handy, as Marloes and Anouk are working on the same project.
 - This year, I started collaborating with [Daniele Pretolesi](https://scholar.google.com/citations?user=-vmPHIUAAAAJ) (AIT) as the secondary supervisor.
 - I supervised Karlijn Dinnissen (UU) until including her successful first-year assessment of her PhD plan.
 
@@ -121,7 +121,7 @@ It has been a pretty full year with many ups-- -yet, also downs.
 - Going strong with Eva Zangerle and Alan said with the PERSPECTIVES workshop series, a SI in TORS, a TORS paper, and an upcoming Dagstuhl seminar in 2024
 
 ## Upcoming in 2024
-- Our TORS SI will appear in 2024 with two issues.
+- Our TORS SI issue will appear in 2024.
 - I will be co-organizing a Dagstuhl seminar and a Dagstuhl perspectives workshop.
 - In the summer term, I will teach 3 new courses: Recommender Systems 1 in the Data Science Master program, Intelligent Interfaces in the AI Bachelor program, and Contextual Interaction Design (with Chris Frauenberger) in the HCI Master program.
 - After a long time due to the pandemic, I started attending concerts again: Spitting Ibex and Hot Pants Road Club Funk Orchestra. It's been a treat.
@@ -135,6 +135,6 @@ It has been a pretty full year with many ups-- -yet, also downs.
 - It has taken me a while to find an apartment I liked in Salzburg.
 - The many travels for work and the back-and-forth travel between Utrecht and Vienna in the beginning of the year and between Salzburg and Vienna later in the year got increasingly exhausting.
 
-## Wrapup
+## Wrap up
 I’m pretty sure I’ve forgotten a thing or two or three. Particularly some downsides (is it denial?!). 
 I want to thank those who supported and encouraged me to move forward, hold my head up high, and uphold integrity.  
