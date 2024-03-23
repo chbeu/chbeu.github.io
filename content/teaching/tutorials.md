@@ -3,7 +3,7 @@ widget: pages
 
 # This file represents a page section.
 headless: true
-draft: true
+draft: false
 
 # Order that this section appears on the page.
 weight: 20
