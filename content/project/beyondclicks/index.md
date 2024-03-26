@@ -1,6 +1,6 @@
 ---
 title: "Beyond clicks! Value-driven recommendations"
-summary: "Many news platforms provides uses with recommendations for a personalized experience that fits their interests and needs. However, aside from the consumption of news articles and user loyalty, additional values are relevant that need to be integrated in news recommender systems."
+summary: "Many news platforms provide users with recommendations for a personalized experience that fits their interests and needs. However, aside from the consumption of news articles and user loyalty, additional values are relevant that need to be integrated in news recommender systems."
 tags:
 - media
 - news

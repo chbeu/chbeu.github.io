@@ -25,13 +25,13 @@ experience:
   - company: "INTROSPECTIVES 2024: 1st Workshop: Reflections on Recommender Systems Past, Present, and Future"
     title: Workshop Co-Organizer
     date_start: "2024-10-14"
-    date_end: "2024-10-18"
+    #date_end: "2024-10-18"
     description: "co-located with [18th ACM Conference on Recommender Systems (RecSys 2024)](https://recsys.acm.org/recsys24/)<br><br>with Alan Said and Eva Zangerle"
     #company_url: ""
   - company: "MuRS 2024: 2nd Music Recommender Systems Workshop"
     title: Workshop Co-Organizer
     date_start: "2024-10-14"
-    date_end: "2024-10-18"
+    #date_end: "2024-10-18"
     description: "co-located with [18th ACM Conference on Recommender Systems (RecSys 2024)](https://recsys.acm.org/recsys24/)<br><br>with Andrés Ferraro, Lorenzo Porcaro, and Peter Knees"
     company_url: "https://sites.google.com/view/murs-2024"
   - company: "Dagstuhl Perspectives Workshop 24352: Dagstuhl Perspectives Workshop: Conversational Agents: A Framework for Evaluation (CAFE)"
