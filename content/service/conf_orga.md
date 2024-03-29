@@ -25,6 +25,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- company: "ECIR 2025"
+  company_logo: ecir_2025
+  title: "Tutorial Co-Chair"
+  description: "with Giovanni Trappolini<br>47th European Conference on Information Retrieval (ECIR 2025)"
+  company_url: "https://ecir2025.eu"
+  #url: "https://ecir2025.eu"
+  date_start: "2025-04-06"
+  #date_end: "2025-04-10"
 - company: "CIKM 2023"
   company_logo: cikm_2023
   title: "PhD Symposium Co-Chair"
