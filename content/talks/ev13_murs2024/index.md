@@ -42,6 +42,8 @@ featured: false
 image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Smart
+  preview_only: false
+  placement: 500
 
 links:
 #url_code: ""
