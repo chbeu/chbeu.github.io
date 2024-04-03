@@ -46,6 +46,10 @@ image:
   placement: 300
 
 
+links:
+#url_pdf: ""
+url_slides: "20240315_urheberrecht_bauer.pdf"
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
