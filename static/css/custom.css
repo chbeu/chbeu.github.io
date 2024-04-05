@@ -46,9 +46,10 @@
 .altmetric-style {
     vertical-align:top;
     display:inline-block;
-    margin-left:20px;
+    margin-left:15px;
+    padding-bottom:60px;
     margin-bottom:0px;
-    padding-bottom:70px;
+    white-space:nowrap;
 }
 
 
@@ -62,7 +63,10 @@
     display:inline-block;
     margin-left:20px;
     vertical-align: top;
+    white-space:nowrap;
     clear:none;
+    padding-bottom:60px;
+    margin-bottom:0px;
 }
 
 
@@ -70,11 +74,13 @@
 .__dimensions_badge_embed__ {
     vertical-align: top;
     display:inline-block;
-    margin-left:20px;
-    margin-bottom:0px;
-    padding-bottom:70px;
+    margin-left:15px;
+    padding-bottom:60px;
+    margin-bottom:100px;
+    white-space:nowrap;
     clear:none;
 }
+
 
 /* scimago, SJR badge */
 
