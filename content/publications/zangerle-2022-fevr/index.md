@@ -43,6 +43,6 @@ icons:
   name: Women in RecSys Journal Paper of the Year Award 2023, Senior category
   
 altmetric: true
-plumx: false
-dimensions: false
+plumx: true
+dimensions: true
 ---

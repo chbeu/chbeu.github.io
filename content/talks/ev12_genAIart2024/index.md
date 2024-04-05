@@ -11,7 +11,7 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 event: "W&K Forum Symposium 2024: Harmony & Dissonance: Generative AI in Music and the Arts"
-#event_url: ""
+event_url: "https://w-k.sbg.ac.at/veranstaltung/wk-forum-symposium-harmony-dissonance-generative-ai-in-music-and-the-arts/"
 
 location: Villa Vicina
 address:
@@ -22,13 +22,15 @@ address:
   country: Austria
 
 summary: "W&K Forum Symposium 2024: Harmony & Dissonance: Generative AI in Music and the Arts."
-abstract: "Explore the dynamic relationship between generative AI and music within the broader spectrum of the arts. This interdisciplinary symposium will focus on the opportunities that generative AI presents to artists, while also addressing the inherent fears and challenges that accompany this technological innovation. We will explore the diverse ways of artistic collaboration with AI for musical expression or improving efficiency of specific tasks. This exploration will not shy away from acknowledging the concerns and uncertainties that loom over the artistic community and the music and arts sectors."
+abstract: "The symposium delves into the dynamic relationship between generative AI and the world of music within the broader spectrum of the arts. This interdisciplinary gathering will focus on the opportunities that generative AI presents to artists, while also addressing the inherent fears and challenges that accompany this technological innovation.
+
+Our symposium will explore the diverse ways in which artists harness the power of AI to push the boundaries of musical creation, including the artistic collaboration with AI for musical expression or improving efficiency of specific tasks. This exploration will not shy away from acknowledging the concerns and uncertainties that loom over the artistic community and the music and arts sectors. Questions of authorship, the automation of jobs, and potential loss of human touch are among the challenges that demand thoughtful reflection. In this regard, the symposium will also address the broader implications of generative AI in the arts for society at large. For instance, how does the integration of AI in artistic creation redefine aesthetic values or shape the way we experience and consume art? These questions will guide our discussions as we strive to foresee potential societal shifts brought about by the fusion of technology and artistic expression."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-06-20T09:00:00" #-05:00"
-#date_end: "2024-06-20T12:35:00" #-05:00"
-all_day: true
+date: "2024-06-20T10:00:00" #-05:00"
+date_end: "2024-06-20T17:00:00" #-05:00"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-03-20T00:00:00Z"

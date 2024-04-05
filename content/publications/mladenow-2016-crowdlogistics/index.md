@@ -50,4 +50,8 @@ icons:
 - icon: trophy
   icon_pack: fas
   name: Highly Commended Award (Emerald Literati Network Awards of Excellence 2017)
+
+altmetric: false
+dimensions: true
+plumx: true
 ---

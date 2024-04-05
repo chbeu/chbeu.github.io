@@ -67,10 +67,12 @@
 
 
 /* dimensions.ai */
-.__dimensions_badge_embed__{
+.__dimensions_badge_embed__ {
+    vertical-align: top;
     display:inline-block;
     margin-left:20px;
-    vertical-align: top;
+    margin-bottom:0px;
+    padding-bottom:70px;
     clear:none;
 }
 

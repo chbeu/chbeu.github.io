@@ -27,7 +27,7 @@ experience:
     date_start: "2024-10-14"
     #date_end: "2024-10-18"
     description: "co-located with [18th ACM Conference on Recommender Systems (RecSys 2024)](https://recsys.acm.org/recsys24/)<br><br>with Alan Said and Eva Zangerle"
-    #company_url: ""
+    company_url: "https://introspectives.github.io/2024/"
   - company: "MuRS 2024: 2nd Music Recommender Systems Workshop"
     title: Workshop Co-Organizer
     date_start: "2024-10-14"
