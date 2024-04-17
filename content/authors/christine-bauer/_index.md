@@ -41,7 +41,7 @@ education:
   - course: MSc in Business Informatics
     institution: TU Wien, Austria
     year: 2011
-  - course: Diploma (equivalent to Master degree) in International Business Administration
+  - course: Diploma (equivalent to a Master's degree) in International Business Administration
     institution: University of Vienna, Austria
     year: 2002
   - course: Study of Jazz Saxophone
