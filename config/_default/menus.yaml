@@ -25,12 +25,15 @@ main:
   - name: Community Service
     url: 'service/'
     weight: 8
+  - name: Events
+    url: 'events/'
+    weight: 9
   - name: Media & Press
     url: 'media/'
-    weight: 9
+    weight: 10
   - name: Gallery
     url: 'gallery/'
-    weight: 10
+    weight: 11
   - name: Contact
     url: '#contact'
     weight: 12

@@ -30,6 +30,7 @@ experience:
     company_url: "https://introspectives.github.io/2024/"
   - company: "MuRS 2024: 2nd Music Recommender Systems Workshop"
     title: Workshop Co-Organizer
+    company_logo: MurS_2024
     date_start: "2024-10-14"
     #date_end: "2024-10-18"
     description: "co-located with [18th ACM Conference on Recommender Systems (RecSys 2024)](https://recsys.acm.org/recsys24/)<br><br>with Andrés Ferraro, Lorenzo Porcaro, and Peter Knees"
@@ -37,13 +38,15 @@ experience:
   - company: "Dagstuhl Perspectives Workshop 24352: Dagstuhl Perspectives Workshop: Conversational Agents: A Framework for Evaluation (CAFE)"
     title: Dagstuhl Perspectives Workshop Co-Organizer
     date_start: "2024-08-25"
-#    date_end: "2024-09-30"
+#    date_end: "2024-08-30"
+    company_logo: dagstuhl
     description: "with Li Chen, Nicola Ferro, and Norbert Fuhr"
     company_url: "https://www.dagstuhl.de/24352"
   - company: "Dagstuhl Seminar 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education"
     title: Dagstuhl Seminar Co-Organizer
     date_start: "2024-05-20"
 #    date_end: "2024-05-24"
+    company_logo: dagstuhl
     description: "with Alan Said and Eva Zangerle"
     company_url: "https://www.dagstuhl.de/24211"
   - company: "PERSPECTIVES 2023: 3rd Workshop on the Perspectives on the Evaluation of Recommender Systems"
@@ -56,6 +59,7 @@ experience:
     title: Dagstuhl Seminar Co-Organizer
     date_start: "2023-01-15"
     date_end: "2023-01-20"
+    company_logo: dagstuhl
     description: "with Ben Carterette, Nicola Ferro, and Norbert Fuhr<br><br>[See the Dagstuhl report](/publications/bauer-2023-dagstuhl/)<br>[See event report in SIGIR Forum](/publications/bauer-2023-sigir-dagstuhl/)<br><br><img src=\"/images/variouspics/dagstuhl2023_23031.jpg\"  alt=\"Group photo of the Dagstuhl Seminar 23031 participants\">"
     company_url: "https://www.dagstuhl.de/23031"
   - company: "PERSPECTIVES 2022: 2nd Workshop on the Perspectives on the Evaluation of Recommender Systems"

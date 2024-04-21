@@ -23,7 +23,7 @@ image:
   preview_only: false
 
 
-projects: []
+projects: [fwf579]
 publishDate: '2021-08-08T01:13:49.937832Z'
 publication_types: [chapter]
 publication: '*Musikwirtschaftsforschung: Die Grundlagen einer neuen Disziplin*'

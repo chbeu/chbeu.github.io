@@ -3,37 +3,39 @@ widget: pages
 
 # This file represents a page section.
 headless: true
+draft: false
 
 # Order that this section appears on the page.
-weight: 70
+weight: 75
 
-title: 'Recent & Upcoming Talks & Panels'
+title: Recent and Upcoming Events
 subtitle:
 
 content:
-  # Page type to display. E.g. post, event, publication...
-  page_type: talks
+  # Page type to display. E.g. post, talk, publication...
+  #page_type: talks
   # Choose how many pages you would like to display (0 = all pages)
   count: 3
   # Filter on criteria
   filters:
     folders: 
-      - talks
+      - events
     author: ""
-    category: ""
-    tag: ""
+    #category: "event"
+    #tag: "event"
     exclude_featured: false
     exclude_future: false
     exclude_past: false
     publication_type: ""
   # Choose how many pages you would like to offset by
   offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  # Field to sort by, such as Date or Title
+  sort_by: 'Date'
+  sort_ascending: false
   archive:
     enable: true
-    text: See all talks
-    link: talks/
+    text: See all events
+    link: events/
 
 design:
   # Choose a view for the listings:

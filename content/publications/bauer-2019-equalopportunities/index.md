@@ -22,7 +22,9 @@ profile: false
 #  preview_only: false
 
 
-projects: [SpART2020]
+projects:
+  - SpART2020
+  - fwf579
 publishDate: '2021-08-08T01:13:48.417171Z'
 publication_types: [paper-conference]
 publication: '*1st Workshop on Human-Centric Music Information Research Systems*'

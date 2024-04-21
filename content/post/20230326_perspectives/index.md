@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Co-Chair of PERSPECTIVES 2023"
 subtitle: ""
 summary: "PERSPECTIVES 2023: The third edition of the PERSPECTIVES workshop 'Perspectives on the Evaluation of Recommender Systems' was just accepted to be held at RecSys 2023."
@@ -31,4 +29,4 @@ image:
 projects: [multimethod]
 ---
 
-The workshop [Perspectives on the Evaluation of Recommender Systems](https://perspectives-ws.github.io/2023/) goes into its third edition and will be held at [RecSys 2023](https://recsys.acm.org/recsys23/) in Singapore. I am happy to co-chair this workshop together with [Alan Said](https://www.alansaid.com) and [Eva Zangerle](https://evazangerle.at). The Call for Papers will soon be a available at the workshop website.
+The workshop [Perspectives on the Evaluation of Recommender Systems](https://perspectives-ws.github.io/2023/) goes into its third edition and will be held at [RecSys 2023](https://recsys.acm.org/recsys23/) in Singapore. I am happy to co-chair this workshop together with [Alan Said](https://www.alansaid.com) and [Eva Zangerle](https://evazangerle.at). The Call for Papers will soon be available at the workshop website.

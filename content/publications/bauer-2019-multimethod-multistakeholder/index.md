@@ -25,7 +25,10 @@ image:
   preview_only: false
 
 
-projects: [multimethod] #[SpART2020]
+projects:
+  - multimethod
+  - SpART2020
+  - fwf579
 publishDate: '2021-08-08T01:13:47.714286Z'
 publication_types: [paper-conference]
 publication: '*1st Workshop on the Impact of Recommender Systems, co-located with

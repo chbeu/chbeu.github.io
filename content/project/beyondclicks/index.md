@@ -4,8 +4,10 @@ summary: "Many news platforms provide users with recommendations for a personali
 tags:
 - media
 - news
-- value-driven recommendations
+- value-aware recommender systems
+- value-aware recommendatinos
 - recommender systems
+- news recommender systems
 date: '2022-03-01T00:00:00Z'
 profile: false
 
@@ -22,6 +24,11 @@ links:
 #url_slides: ""
 #url_video: ""
 ---
+
+
+This project is a collaboration with DPG Media, the AI Labs at Utrecht University (UU), and Paris Lodron University Salzburg (PLUS)---with [Karin van Es](http://www.karinvanes.net) and me as Co-PIs.
+
+# Abstract
 
 Many news platforms provide users with recommendations for a personalized experience that fits their interests and needs. 
 Providing users with relevant news and a good experience are key to such platforms. However, aside from the consumption of news articles and user loyalty, additional values are relevant; for instance, (political) neutrality, factual news, understandable news, content diversity, and the reach of a broad audience. 

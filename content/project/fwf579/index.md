@@ -10,7 +10,7 @@ date: "2017-02-01T00:00:00Z"
 profile: false
 
 # Optional external URL for project (replaces project detail page).
-#external_link: ""
+#external_link: "https://www.jku.at/en/institute-of-computational-perception/research/projects/fine-grained-culture-aware-music-recommender-systems/"
 
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -26,7 +26,19 @@ links:
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
+- icon: file-lines
+  icon_pack: fas
+  name: Project meta-data
+  url: https://www.fwf.ac.at/en/research-radar/10.55776/V579
+- icon: bars
+  icon_pack: fas
+  name: Project website at CP@JKU
+  url: https://www.jku.at/en/institute-of-computational-perception/research/projects/fine-grained-culture-aware-music-recommender-systems/
 ---
+
+For this project [Fine-grained Culture-aware Music Recommender Systems](https://www.fwf.ac.at/en/research-radar/10.55776/V579) (2017--2020), I was awarded an Elise Richter career grant. The [Elise Richter program](https://www.fwf.ac.at/en/funding/portfolio/careers/elise-richter) is an excellence program by the Austrian Science Fund (FWF)---a competitive program for excellent women researchers from the entire spectrum of Austrian basic research.
+
+# Abstract
 
 Having tens of millions of musical works available at a listener’s fingertips requires novel recommendation and interaction techniques for music consumption. Thereby the success of a music recommender system, a system that proposes users what to explore or listen to next, depends on its ability to propose the right music, to the right user, at the right moment (i.e., in the right context). However, this task is extremely complex, as various factors influence a user’s music preferences. Amongst others, cultural aspects and characteristics (e.g., different requirements regarding diversity of a playlist or familiarity with its music tracks) have been shown to affect music perception, preferences, and listening behavior. Calling on this, the project entitled “Fine-grained culture-aware music recommender systems” investigates how music recommender systems could and should integrate cultural aspects in order to provide better recommendations. The research findings will answer the question how music recommender systems have to be designed to reflect cultural diversity and will provide insights into cross-cultural music perception, preferences, and listening behavior.
 
