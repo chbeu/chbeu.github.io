@@ -5,6 +5,8 @@ github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.2-0.20240310162319-
 github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.2-0.20240310162319-c03355fea540/go.mod h1:So8+V2U+TNxlXmcpZfdDX0muLh3PdJ7z92h30sv3bZg=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.2-0.20240417201052-77b6043ea7f4 h1:hqpjsZ9VAny229oNiNW1UACPGCDqvorVzJKn4IWM+bQ=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.2-0.20240417201052-77b6043ea7f4/go.mod h1:So8+V2U+TNxlXmcpZfdDX0muLh3PdJ7z92h30sv3bZg=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.2-0.20240420215224-137ebf6fdc28 h1:+1y81WoqxgmMkEo4N1XafQ9i4lq7NdWs1Vt8kL3G30Q=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.2-0.20240420215224-137ebf6fdc28/go.mod h1:So8+V2U+TNxlXmcpZfdDX0muLh3PdJ7z92h30sv3bZg=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.1 h1:qlDCZWq7OhuwLr7/rDPXe8iGxam2t1kgLabZ9EP0VqM=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.1/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.2 h1:AyH1pungA2xQDHOrXiIssKOVMY1/qoJUgwrGiK7TzJM=
@@ -14,3 +16,5 @@ github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3-0.20240310162319-c
 github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3-0.20240310162319-c03355fea540/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3-0.20240417201052-77b6043ea7f4 h1:yqN/TzJfbgW3aMVM8ZVI2kAYht/WvqCeLAw+dbzVHa4=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3-0.20240417201052-77b6043ea7f4/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3-0.20240420215224-137ebf6fdc28 h1:l0ee1Uyql7AoBxzlJ+4EKZDEVBZ6egEs/M+hLnMDIzo=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3-0.20240420215224-137ebf6fdc28/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=

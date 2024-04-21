@@ -30,7 +30,7 @@ experience:
     company_url: "https://introspectives.github.io/2024/"
   - company: "MuRS 2024: 2nd Music Recommender Systems Workshop"
     title: Workshop Co-Organizer
-    company_logo: MurS_2024
+    company_logo: murs_2024
     date_start: "2024-10-14"
     #date_end: "2024-10-18"
     description: "co-located with [18th ACM Conference on Recommender Systems (RecSys 2024)](https://recsys.acm.org/recsys24/)<br><br>with Andrés Ferraro, Lorenzo Porcaro, and Peter Knees"
