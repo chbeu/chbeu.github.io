@@ -34,6 +34,8 @@ publishDate: "2021-09-01T00:00:00Z"
 
 authors: [Eva Zangerle, Christine Bauer, Alan Said]
 tags: [workshop, PERSPECTIVES, evaluation, recommender systems, RecSys]
+categories:
+  - event
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -53,6 +55,8 @@ projects: [multimethod]
 ---
 
 {{< gallery album="ev05_perspectives2021" >}}
+
+<br><br>
 
 {{< cite page="zangerle-2021-perspectives-ceur" view="4" >}}
 {{< cite page="zangerle-2021-perspectives" view="4" >}}

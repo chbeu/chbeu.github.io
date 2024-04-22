@@ -1,36 +1,42 @@
-﻿journal,JIF 2021,CORE 2020,CORE 2021,JOURQUAL3,Qualis 2017,GGS 2021,SJR,JIF 2022,CORE 2023,SJR_noshow
-International Journal of Cultural Policy,1.685,,,,,,5700163951,,,
-ACM Computing Surveys,14.324,A*,,B,A1,,23038,16.6,,
-IEEE Transactions on Industrial Informatics,10.215,,,,A1,,144912,12.3,,
-User Modeling and User-Adapted Interaction,4.23,A,,,A1,,18947,3.6,,
-PLOS ONE,3.24,,,,A1,,10600153309,3.7,,
-EPJ Data Science,3.184,,,,A1,,21100397403,3.6,,
-Journal of Systems and Software,2.829,A,,,A1,,19309,3.5,,
-Journal of Ambient Intelligence and Smart Environments,2.759,,,,A4,,19700186867,1.7,,
-Information and Software Technology,2.73,A,,,A1,,18732,3.9,,
-AI Magazine,1.094,C,,,A1,,23629,0.9,,
-Journal of Mobile Multimedia,,C,,,A4,,,,,19900192412
-International Journal of Web Information Systems,,C,,,B1,,,,,
-Management Review Quarterly,,,,C,,,21100278302,,,
-Frontiers in Artificial Intelligence,,,,,,,21101062817,,,
-Frontiers in Big Data,,,,,,,21101052354,,,
-Cogent Education,,,,,,,21100843893,,,
-LNCS,,,,C,,,,,,
-LNI,,,,C,,,,,,
-iiWAS,,,C,,B1,,,,C,
-INTERACT,,,B,,A2,B,,,B,
-ISMIR,,,,,,A,,,,
-MoMM,,,B,,,,,,C,
-MobileHCI,,,B,,A1,A-,,,B,
-DocEng,,,B,,B1,B-,,,B,
-FIE,,,C,,B1,B-,,,C,
-ED-MEDIA,,,B,,,,,,C,
-HICSS,,,,C,A1,A,,,,
-ECIS,,,,B,A2,B,,,,
-MKWI,,,,D,,,,,,
-ICIS,,,,A,A1,A-,,,,
-AMCIS,,,,D,A2,B,,,,
-WI,,,,C,,,,,,
-ITiCSE,,,A,,A2,B,,,B,
-CDVE,,,C,,B3,,,,C,
-UMAP,,,B,,,B,,,B,
+﻿journal,JIF 2021,CORE 2020,CORE 2021,JOURQUAL3,Qualis 2017,GGS 2021,SJR,JIF 2022,CORE 2023,SJR_noshow,VHB 2024
+International Journal of Cultural Policy,1.685,,,,,,5700163951,,,,
+ACM Computing Surveys,14.324,A*,,B,A1,,23038,16.6,,,A
+IEEE Transactions on Industrial Informatics,10.215,,,,A1,,144912,12.3,,,
+User Modeling and User-Adapted Interaction,4.23,A,,,A1,,18947,3.6,,,
+PLOS ONE,3.24,,,,A1,,10600153309,3.7,,,B
+EPJ Data Science,3.184,,,,A1,,21100397403,3.6,,,
+Journal of Systems and Software,2.829,A,,,A1,,19309,3.5,,,B
+Journal of Ambient Intelligence and Smart Environments,2.759,,,,A4,,,1.7,,19700186867,
+Information and Software Technology,2.73,A,,,A1,,18732,3.9,,,B
+AI Magazine,1.094,C,,,A1,,,0.9,,23629,
+Journal of Mobile Multimedia,,C,,,A4,,,,,19900192412,
+International Journal of Web Information Systems,,C,,,B1,,,,,,
+Management Review Quarterly,,,,C,,,21100278302,,,,B
+Frontiers in Artificial Intelligence,,,,,,,21101062817,,,,C
+Frontiers in Big Data,,,,,,,21101052354,,,,
+Cogent Education,,,,,,,21100843893,,,,
+LNCS,,,,C,,,,,,,
+LNI,,,,C,,,,,,,
+iiWAS,,,C,,B1,,,,C,,
+INTERACT,,,B,,A2,B,,,B,,
+ISMIR,,,,,,A,,,,,
+MoMM,,,B,,,,,,C,,
+MobileHCI,,,B,,A1,A-,,,B,,
+DocEng,,,B,,B1,B-,,,B,,
+FIE,,,C,,B1,B-,,,C,,
+ED-MEDIA,,,B,,,,,,C,,
+HICSS,,,,C,A1,A,,,,,B
+ECIS,,,,B,A2,B,,,,,A
+ICIS,,,,A,A1,A-,,,,,A
+AMCIS,,,,D,A2,B,,,,,C
+WI,,,,C,,,,,,,B
+ITiCSE,,,A,,A2,B,,,B,,
+CDVE,,,C,,B3,,,,C,,
+UMAP,,,B,,,B,,,B,,
+BLED,,,,,,,,,,,C
+FAccT,,,,,,,,,,,B
+CSCW,,,,,,,,,,,B
+IUI,,,,,,,,,,,B
+HCII,,,,,,,,,,,B
+ECSCW,,,,,,,,,,,C
+MuC,,,,,,,,,,,C

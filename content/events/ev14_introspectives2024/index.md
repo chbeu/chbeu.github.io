@@ -1,6 +1,8 @@
 ---
 title: "1st Workshop: Reflections on Recommender Systems Past, Present, and Future (INTROSPECTIVES 2024)"
 cms_exclude: true
+type: talks
+type: talks
 
 
 draft: false
@@ -11,7 +13,7 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 event: "1st Workshop: Reflections on Recommender Systems Past, Present, and Future (INTROSPECTIVES 2024), co-located with RecSys 2024"
-#event_url: ""
+event_url: "https://introspectives.github.io/2024/"
 
 location:  Politecnico di Bari at University Campus
 address:
@@ -35,6 +37,8 @@ publishDate: "2024-03-25T00:00:00Z"
 
 authors: [Alan Said, Christine Bauer, Eva Zangerle]
 tags: [workshop, INTROSPECTIVES, recommender systems, RecSys, reflection, introspection]
+categories:
+  - event
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -42,6 +46,8 @@ featured: false
 image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Smart
+  preview_only: false
+  placement: 1
 
 links:
 #url_code: ""

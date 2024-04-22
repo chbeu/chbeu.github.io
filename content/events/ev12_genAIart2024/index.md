@@ -1,6 +1,7 @@
 ---
 title: "W&K Forum Symposium 2024: Harmony & Dissonance: Generative AI in Music and the Arts"
 cms_exclude: true
+type: talks
 
 
 draft: false
@@ -37,6 +38,8 @@ publishDate: "2024-03-20T00:00:00Z"
 
 #authors: [Christine Bauer]
 tags: [GenAI, Generative Artificial Intelligence, artificial intelligence, AI, music, arts]
+categories:
+  - event
 
 # Is this a featured talk? (true/false)
 featured: false

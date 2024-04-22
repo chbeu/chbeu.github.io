@@ -1,6 +1,7 @@
 ---
 title: "3rd Workshop: Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2023)"
 cms_exclude: true
+type: talks
 
 
 draft: false
@@ -37,6 +38,8 @@ publishDate: "2023-03-29T00:00:00Z"
 
 authors: [Alan Said, Eva Zangerle, Christine Bauer]
 tags: [workshop, PERSPECTIVES, evaluation, recommender systems, RecSys]
+categories:
+  - event
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -54,3 +57,7 @@ url_proceedings: https://ceur-ws.org/Vol-3476/
 
 projects: [multimethod]
 ---
+
+{{< cite page="said-2023-perspectives-ceur" view="4" >}}
+{{< cite page="said-2023-perspectives" view="4" >}}
+{{< cite page="said-2024-sigirforum-perspectives" view="4" >}}

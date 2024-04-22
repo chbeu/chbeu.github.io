@@ -1,6 +1,7 @@
 ---
 title: "PERSPECTIVES 2022: Perspectives on the evaluation of recommender systems"
 cms_exclude: true
+type: talks
 
 draft: false
 reading_time: false  # Show estimated reading time?
@@ -34,6 +35,8 @@ publishDate: "2022-09-01T00:00:00Z"
 
 authors: [Eva Zangerle, Christine Bauer, Alan Said]
 tags: [workshop, PERSPECTIVES, evaluation, recommender systems, RecSys]
+categories:
+  - event
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -57,9 +60,12 @@ projects: [multimethod]
 
 {{< gallery album="ev07_perspectives2022" >}}
 
+<br><br>
+
 {{< cite page="zangerle-2022-perspectives-ceur" view="4" >}}
 {{< cite page="zangerle-2022-perspectives" view="4" >}}
 {{< cite page="zangerle-2023-sigirforum-perspectives" view="4" >}}
+
 
 <br>
 

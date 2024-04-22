@@ -43,4 +43,5 @@ links:
   icon_pack: fa
   name: Postprint
   url: jannach-2020-mcnamara-postprint.pdf
+altmetric: true
 ---

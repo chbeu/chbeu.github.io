@@ -1,6 +1,7 @@
 ---
 title: "2nd Music Recommender Systems Workshop (MuRS 2024)"
 cms_exclude: true
+type: talks
 
 
 draft: false
@@ -35,6 +36,8 @@ publishDate: "2024-03-25T00:00:00Z"
 
 authors: [Andrés Ferraro, Lorenzo Porcaro, Peter Knees, Christine Bauer]
 tags: [workshop, MuRS, music, music recommender systems, music information retrieval, MIR, recommender systems, RecSys]
+categories:
+  - event
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -43,7 +46,7 @@ image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Smart
   preview_only: false
-  placement: 500
+  placement: 1
 
 links:
 #url_code: ""
