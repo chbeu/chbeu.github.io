@@ -12,7 +12,7 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 event: "W&K Forum Symposium 2024: Harmony & Dissonance: Generative AI in Music and the Arts"
-event_url: "https://w-k.sbg.ac.at/veranstaltung/wk-forum-symposium-harmony-dissonance-generative-ai-in-music-and-the-arts/"
+event_url: "https://w-k.sbg.ac.at/en/veranstaltung/wk-forum-symposium-harmony-dissonance-generative-ai-in-music-and-the-arts/"
 
 location: Villa Vicina
 address:
@@ -57,3 +57,20 @@ links:
 
 projects: []
 ---
+Symposium with presentations and discussions.
+
+Confirmed speakers:
+- [Marco Döttlinger](https://www.doettlinger.org/), composer and sound artist, Salzburg, Austria
+- Noah Martin, [SUISA](https://www.suisa.ch/en/)---Swiss Cooperative Society for Music Authors and Publishers, Zürich, Switzerland
+- [Stephanie Meisl](https://www.myselle.com/), D#AVANTGARDE – new technology, art and creativity, Vienna/Salzburg, Austria
+- [Jordi Pons](https://www.jordipons.me/), Stability AI, Barcelona, Spain
+- [Peter Tschmuck](https://musikwirtschaftsforschung.wordpress.com/uber-mich/), University of Music and Performing Arts Vienna (mdw), Austria
+
+Supporting Program:   
+Sweet Spot. Lounge für Elektroakustische Musik: OpenGarden---Beyond.  
+Sound installations by composers in the Orangeriegarten in Mirabellgarten
+
+---
+Main organizer is Christine Bauer, Department of Artificial Intelligence and Human Interfaces, Paris Lodron University Salzburg
+
+Organized by focus area [(Inter)Mediation. Music---Mediation---Context / Inter-University Organization Science & Arts, Paris Lodron University Salzburg/Mozarteum University Salzburg](https://w-k.sbg.ac.at/en/intermediation-musik-vermittlung-kontext/) in cooperation with the Department Artificial Intelligence and Human Interfaces of Paris Lodron University Salzburg in the lecture series Musik & Mathematik.
