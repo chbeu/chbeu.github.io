@@ -1,5 +1,5 @@
 ---
-title: "Co-organizing 2 workshops at RecSys 2024"
+title: "Co-organizing two workshops at RecSys 2024"
 subtitle: ""
 summary: "The workshops MuRS 2024 '2nd Music Recommender Systems Workshop' and INTROSPECTIVES 2024 '1st Workshop: Reflections on Recommender Systems Past, Present, and Future' were accepted to be held at RecSys 2024."
 authors: 

@@ -17,7 +17,7 @@ feature:
   icon: bullseye
   icon_pack: fa
 - name: Academic indices
-  description: '[Citations 2410<br>h-index 27<br>i10-index 52](https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en)'
+  description: '[Citations 2412<br>h-index 27<br>i10-index 52](https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en)'
   icon: google-scholar-square
   icon_pack: ai
 - name: Awards & Honors
@@ -25,11 +25,11 @@ feature:
   icon: award
   icon_pack: fas
 - name: Teaching
-  description: 24 different courses across 17 institutions<br>RecSys Summer School, Italian National PhD Program of AI<br>Tutorials at UMAP and ISMIR<br>Supervision of >70 theses
+  description: 24 different courses across 17 institutions<br>ESSIR, RecSys Summer School, <br>Italian National PhD Program in AI<br>Tutorials at UMAP and ISMIR<br>Supervision of >70 theses
   icon: chalkboard-teacher
   icon_pack: fas
 - name: Community service
-  description: AE at TORS, TOIS, and JITT<br>Conf. Org. (e.g., RecSys, CHI, CIKM, ECIR)<br>Meta-Reviewer (e.g., SIGIR, CHI, RecSys, ISMIR)<br>Reviewer for >25 journals and >100 conferences<br>Workshop Organizer (e.g., PERSPECTIVES, Dagstuhl)
+  description: AE at TORS, TOIS, and JITT<br>Conf. Org. (e.g., RecSys, CHI, CIKM, ECIR)<br>Meta-Reviewer (e.g., SIGIR, RecSys, CHI, ISMIR)<br>Reviewer for >25 journals and >100 conferences<br>Workshop Organizer (e.g., PERSPECTIVES, Dagstuhl)
   icon: users
   icon_pack: fas
 - name: Outreach
