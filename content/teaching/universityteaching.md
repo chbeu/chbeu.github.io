@@ -62,7 +62,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 
 B	…	Bachelor  
 M	…	Master  
-M	…	PhD  
+P	…	PhD  
 X	…	Executive Education  
 
 DE	…	German  
