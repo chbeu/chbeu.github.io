@@ -4,8 +4,8 @@ go 1.21
 
 require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7 // indirect
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.2-0.20240507194415-7d5cbf3ce7a1 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.2-0.20240509231741-c3d23d929bc6 // indirect
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.1 // indirect
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.2 // indirect
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3-0.20240507194415-7d5cbf3ce7a1 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3-0.20240509231741-c3d23d929bc6 // indirect
 )
