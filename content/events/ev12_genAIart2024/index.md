@@ -54,6 +54,10 @@ links:
 #url_slides: ""
 #url_video: ""
 #url_proceedings: 
+- icon: file-pdf
+  icon_pack: fas
+  name: Program
+  url: Programmkarte_Generative_AI_in_Music_and_the_Arts.pdf
 
 projects: []
 ---
