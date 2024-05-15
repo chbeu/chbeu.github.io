@@ -1,12 +1,10 @@
 github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7 h1:QPek2BL723n+uM4DjyV97qNIoPsmt/vnKAQyaGJbgvQ=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7/go.mod h1:xZiTEEurbEwj/NhZohozvlyLCGVCT2wARHDAJeqKG/c=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.1/go.mod h1:So8+V2U+TNxlXmcpZfdDX0muLh3PdJ7z92h30sv3bZg=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.2-0.20240509231741-c3d23d929bc6 h1:lMEDmEcqMM4Gaq/EPfJddFT7/J9B6WsZCIbxUsvUahU=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.2-0.20240509231741-c3d23d929bc6/go.mod h1:So8+V2U+TNxlXmcpZfdDX0muLh3PdJ7z92h30sv3bZg=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.2-0.20240513194541-c2e9a799f797 h1:4+J2yCNLcgbuymmALly/p83Q19odlNC0hKJkgGMNm4w=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.2-0.20240513194541-c2e9a799f797/go.mod h1:So8+V2U+TNxlXmcpZfdDX0muLh3PdJ7z92h30sv3bZg=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.1 h1:qlDCZWq7OhuwLr7/rDPXe8iGxam2t1kgLabZ9EP0VqM=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.1/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.2 h1:AyH1pungA2xQDHOrXiIssKOVMY1/qoJUgwrGiK7TzJM=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.2/go.mod h1:F7quX1aEkV2pToTpmDBXOSTkytAnCKkqv/JFLclqa2g=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.2/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3-0.20240509231741-c3d23d929bc6 h1:rrFREQvDh5ncbaHZkITmjVQdJVR8EQyEsVofb9jNENs=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3-0.20240509231741-c3d23d929bc6/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3-0.20240513194541-c2e9a799f797 h1:41F5dydMVg8wZibu55SQ1dgBjR+WT1LO1aPsuxTEhDk=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3-0.20240513194541-c2e9a799f797/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=
