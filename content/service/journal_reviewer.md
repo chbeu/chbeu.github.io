@@ -32,6 +32,7 @@ design:
   flip_alt_rows: false
 ---
 
+ACM Transactions on Computer-Human Interaction (TOCHI)  
 Communications of the ACM (CACM)  
 Information Systems Research (ISR)  
 ACM Transactions on Interactive Intelligent Systems (TiiS)  

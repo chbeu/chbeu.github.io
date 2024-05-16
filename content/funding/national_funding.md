@@ -37,6 +37,7 @@ experience:
         * Principal investigator, Personal grant, Career grant
         * Elise Richter is an Excellence program of Austrian Science Fund (FWF)
         * Project: Fine-grained culture-aware music recommender systems
+        * Grant-DOI: [10.55776/V579](https://doi.org/10.55776/V579)
 
   - title:  Forschung macht Schule&mdash;Innovationspraktika
     company: Austrian Research Promotion Agency (FFG)

@@ -27,6 +27,7 @@ design:
   flip_alt_rows: false
 ---
 
+MuC 2024  
 ECAI 2024  
 FAccT 2024  
 ECIR 2024 (IR for Good)  
