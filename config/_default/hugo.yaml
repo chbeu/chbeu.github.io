@@ -4,7 +4,6 @@
 
 title: 'Christine Bauer' # Website name
 baseurl: 'https://christinebauer.eu'  # Website URL
-copyright: '© {year} Christine Bauer' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

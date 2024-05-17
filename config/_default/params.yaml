@@ -1,5 +1,8 @@
 # SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
 
 # Appearance
 
@@ -19,6 +22,8 @@ marketing:
     org_name: ''
     description: "Christine Bauer is EXDIGIT Professor of Interactive Intelligent Systems."
     twitter: 'christine_bauer'
+  analytics:
+    google_analytics: 'tvdmEZ0WrN-QEAz6MIcKMQxy_uIi54hcQ17R_XWHJ6o'
   verification:
     google: 'tvdmEZ0WrN-QEAz6MIcKMQxy_uIi54hcQ17R_XWHJ6o'
 

@@ -64,17 +64,20 @@ projects: []
 Symposium with presentations and discussions.
 
 Confirmed speakers:
-- [Marco Döttlinger](https://www.doettlinger.org/), composer and sound artist, Salzburg, Austria
+- [Marco Döttlinger](https://www.doettlinger.org/), composer and sound artist, Salzburg/Vienna, Austria
 - Noah Martin, [SUISA](https://www.suisa.ch/en/)---Swiss Cooperative Society for Music Authors and Publishers, Zürich, Switzerland
 - [Stephanie Meisl](https://www.myselle.com/), D#AVANTGARDE – new technology, art and creativity, Vienna/Salzburg, Austria
 - [Jordi Pons](https://www.jordipons.me/), Stability AI, Barcelona, Spain
 - [Peter Tschmuck](https://musikwirtschaftsforschung.wordpress.com/uber-mich/), University of Music and Performing Arts Vienna (mdw), Austria
 
-Supporting Program:   
-Sweet Spot. Lounge für Elektroakustische Musik: OpenGarden---Beyond.  
-Sound installations by composers in the Orangeriegarten in Mirabellgarten
+<hr>
 
----
+Supporting Program:   
+Sweet Spot. Lounge für Elektroakustische Musik: OpenGarden---Beyond.   
+Sound installations by selected composers → Orangerie Garden in the Mirabell Gardens
+
+<hr>
+
 Main organizer is Christine Bauer, Department of Artificial Intelligence and Human Interfaces, Paris Lodron University Salzburg
 
 Organized by focus area [(Inter)Mediation. Music---Mediation---Context / Inter-University Organization Science & Arts, Paris Lodron University Salzburg/Mozarteum University Salzburg](https://w-k.sbg.ac.at/en/intermediation-musik-vermittlung-kontext/) in cooperation with the Department Artificial Intelligence and Human Interfaces of Paris Lodron University Salzburg in the lecture series Musik & Mathematik.
