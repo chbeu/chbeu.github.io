@@ -140,7 +140,7 @@ details p {
 
 
 mark {
-  background-color: cyan; fuchsia; gold; #lime;
+  background-color: #FFA9D4; /* #FF69B4; gold; rgba(60, 144, 190, 0.1); cyan; fuchsia; lime; */
   margin-left: 0px;
   padding-left: 0px;
 }
