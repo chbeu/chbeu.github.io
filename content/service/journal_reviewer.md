@@ -32,27 +32,27 @@ design:
   flip_alt_rows: false
 ---
 
-ACM Transactions on Computer-Human Interaction (TOCHI)  
-Communications of the ACM (CACM)  
-Information Systems Research (ISR)  
-ACM Transactions on Interactive Intelligent Systems (TiiS)  
+<mark>Communications of the ACM (CACM)</mark>  
+<mark>ACM Transactions on Computer-Human Interaction (TOCHI)</mark>  
+AI Magazine  
+<mark>Information Processing and Management (IPM)</mark>  
+<mark>User Modeling and User-Adapted Interaction (UMUAI)</mark>  
+Decision Support Systems (DSS)  
+<mark>Information Systems Research (ISR)</mark>  
+International Journal of Human-Computer Studies (IJHCS)  
+<mark>ACM Transactions on Interactive Intelligent Systems (TiiS)</mark>  
+IEEE Transactions on Knowledge and Data Engineering (TKDE)  
 Human-Computer Interaction  
+Computers in Human Behavior (CHB)  
+Personal and Mobile Computing (PMC)  
+<mark>PLOS ONE</mark>  
+IEEE Pervasive Computing  
+ACM Transactions on Intelligent Systems and Technology (TIST)  
+Transactions of the International Society for Music Information Retrieval (TISMIR)  
 ACM Transactions on Recommender Systems (TORS)  
 ACM Transactions on Information Systems (TOIS)  
-IEEE Transactions on Knowledge and Data Engineering (TKDE)  
-AI Magazine  
-User Modeling and User-Adapted Interaction (UMUAI)  
-Transactions of the International Society for Music Information Retrieval (TISMIR)  
-Personal and Mobile Computing (PMC)  
-PLOS ONE  
-Decision Support Systems (DSS)  
-Information Processing and Management (IPM)  
-IEEE Pervasive Computing  
-International Journal of Human-Computer Studies (IJHCS)  
-Computers in Human Behavior (CHB)  
-ACM Transactions on Intelligent Systems and Technology (TIST)  
-Electronic Markets (EM)  
-European Journal of Information Systems (EJIS)  
+<mark>Electronic Markets (EM)</mark>  
+<mark>European Journal of Information Systems (EJIS)</mark>  
 Business & Information Systems Engineering (BISE) / Wirtschaftsinformatik  
 Journal of Music Business Research  
 IEEE Transactions on Human-Machine Systems  

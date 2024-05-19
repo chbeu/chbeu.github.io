@@ -36,5 +36,5 @@ I think [Figure 2](#figure-wordcloud2) looks better, but [Figure 1](#figure-word
 
 {{< figure src="wordcloud1.png" caption="Word Cloud 1 based on my current *Google Scholar* profile" numbered="true" id="wordcloud1">}}
 {{< figure src="wordcloud2.png" caption="Word Cloud 2 based on my current *Google Scholar* profile" numbered="true" id="wordcloud2">}}
-{{< figure src="wordcloud3.png" caption="Word Cloud 3 based on my current *Semantic Scholar* profile" numbered="true" id="wordcloud3">}}
+{{< figure src="wordcloud3_featured.png" caption="Word Cloud 3 based on my current *Semantic Scholar* profile" numbered="true" id="wordcloud3">}}
 

@@ -28,32 +28,32 @@ design:
 ---
 
 MuC 2024  
-ECAI 2024  
-FAccT 2024  
+<mark>ECAI</mark> 2024  
+<mark>FAccT</mark> 2024  
 ECIR 2024 (IR for Good)  
-IUI 2024, 2023, 2022 {{< icon name="award" pack="fas" >}}  
+<mark>IUI</mark> 2024, 2023, 2022 {{< icon name="award" pack="fas" >}}  
 CIKM 2023  
 HC-MIR 2023  
 MuRS 2023  
 ICWSM 2023  
 BIAS 2023  
 HICSS 2023, 2018, 2015  
-UMAP 2023 {{< icon name="award" pack="fas" >}}, 2022 {{< icon name="trophy" pack="fas" >}}, 2021, 2020, 2019 {{< icon name="award" pack="fas" >}}, 2018, 2017  
+<mark>UMAP</mark> 2023 {{< icon name="award" pack="fas" >}}, 2022 {{< icon name="trophy" pack="fas" >}}, 2021, 2020, 2019 {{< icon name="award" pack="fas" >}}, 2018, 2017  
 SIGIR 2022  
 HT 2022  
 GMAP 2022  
-RecSys 2022 {{< icon name="award" pack="fas" >}}, 2021, 2020 {{< icon name="award" pack="fas" >}}, 2019 {{< icon name="trophy" pack="fas" >}}, 2018 {{< icon name="award" pack="fas" >}}, 2017  
-CHI 2022, 2020 {{< icon name="award" pack="fas" >}}, 2019, 2018, 2015, 2014, 2013, 2012, 2011   
+<mark>RecSys</mark> 2022 {{< icon name="award" pack="fas" >}}, 2021, 2020 {{< icon name="award" pack="fas" >}}, 2019 {{< icon name="trophy" pack="fas" >}}, 2018 {{< icon name="award" pack="fas" >}}, 2017  
+<mark>CHI</mark> 2022, 2020 {{< icon name="award" pack="fas" >}}, 2019, 2018, 2015, 2014, 2013, 2012, 2011   
 ComplexRec 2021  
 CSCW 2021, 2018  
-INTERACT 2021, 2019  
+<mark>INTERACT</mark> 2021, 2019  
 SAC 2021, 2020  
 ACM MM 2020, 2019  
 ImpactRS 2020, 2019  
 EICS 2019  
 IntRS 2019  
 SMC 2019  
-ISMIR 2019, 2018, 2017  
+<mark>ISMIR</mark> 2019, 2018, 2017  
 iiWAS 2019, 2018, 2017, 2016  
 AMCIS 2019, 2017, 2016, 2013  
 WI 2019, 2017, 2015  
@@ -63,7 +63,7 @@ INCoS 2017
 EnCHIReS 2017  
 e-Conference Bled 2017, 2014  
 ICIS 2017, 2015, 2013, 2012  
-ECIS 2017, 2016, 2015, 2013, 2012  
+<mark>ECIS</mark> 2017, 2016, 2015, 2013, 2012  
 MobiWis 2016  
 VHB 2016  
 Conf-IRM 2016, 2015, 2012  

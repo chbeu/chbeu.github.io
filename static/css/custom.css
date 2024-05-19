@@ -137,3 +137,10 @@ details p {
   border-left: 1px solid #0088CC;
   background-color: rgba(0, 136, 204, 0.1);
 }
+
+
+mark {
+  background-color: cyan; fuchsia; gold; #lime;
+  margin-left: 0px;
+  padding-left: 0px;
+}
