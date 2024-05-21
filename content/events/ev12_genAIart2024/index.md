@@ -57,7 +57,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: Program
-  url: Programmkarte_Generative_AI_in_Music_and_the_Arts.pdf
+  url: Programmkarte_W&K-Forum_K2.pdf
 
 projects: []
 ---
