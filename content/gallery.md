@@ -42,6 +42,9 @@ gallery_item:
 - album: gallery
   image: 3a_52918556032_af6c69a3f8_o.jpg
   caption: 'Image credit: **Patricia Weisskirchner**, 2023.'
+- album: gallery
+  image: 9e_IMG_0368.jpg
+  caption: 'Image credit: **Jasper Alexander Gradussen/Karajan Music Tech**, 2024.'
   
   
 draft: false
