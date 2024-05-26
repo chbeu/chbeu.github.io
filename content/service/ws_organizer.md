@@ -45,9 +45,9 @@ experience:
   - company: "Dagstuhl Seminar 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education"
     title: Dagstuhl Seminar Co-Organizer
     date_start: "2024-05-20"
-#    date_end: "2024-05-24"
+    date_end: "2024-05-24"
     company_logo: dagstuhl
-    description: "with Alan Said and Eva Zangerle"
+    description: "with Alan Said and Eva Zangerle<br><br><img src=\"/images/variouspics/dagstuhl2024_24211.jpg\"  alt=\"Group photo of the Dagstuhl Seminar 24211 participants\">"
     company_url: "https://www.dagstuhl.de/24211"
   - company: "PERSPECTIVES 2023: 3rd Workshop on the Perspectives on the Evaluation of Recommender Systems"
     title: Workshop Co-Organizer
