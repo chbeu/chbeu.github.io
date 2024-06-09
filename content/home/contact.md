@@ -17,7 +17,7 @@ content:
   # Contact details (edit or remove options as required)
   email: christine.bauer@plus.ac.at
   address: 
-    street: Jakob-Haringer-Strasse 1 | Techno 1
+    street: Jakob-Haringer-Strasse 1 | Techno 1 | EXDIGIT
     city: Salzburg
     postcode: '5020'
     country: Austria
