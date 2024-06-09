@@ -18,7 +18,9 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 
 
 ---
-- 15th European Summer School on Information Retrieval (ESSIR 2024), Amsterdam, The Netherlands, July 2024
+- ACM Summer School on Recommender Systems (RecSys 2024 Summer School), Bari, Italy, October 2024
+  - Session on “Fantastic Reviews—and how to write them" with Olivier Jeunen
+- 15th European Summer School on Information Retrieval (ELLIS ESSIR 2024), Amsterdam, The Netherlands, July 2024
   - Session on “How to do reviews"
 - ACM Summer School on Recommender Systems (RecSys 2023 Summer School), Copenhagen, Denmark, September 2023
   - Session on “Fairness"
