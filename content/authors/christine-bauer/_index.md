@@ -10,7 +10,7 @@ last_name: Bauer
 superuser: true
 
 # Role/position/tagline
-role: EXDIGIT Professor of <br>Interactive Intelligent Systems
+role: Professor of <br>Interactive Intelligent Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -141,7 +141,7 @@ email: "chb@christinebauer.eu"
 highlight_name: true
 ---
 
-Christine Bauer is EXDIGIT Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the Paris Lodron University Salzburg (PLUS), Austria. 
+Christine Bauer is Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the Paris Lodron University Salzburg (PLUS), Austria. 
 
 Her research activities center on **interactive intelligent systems**, where she integrates research on intelligent technologies, the interaction of humans with intelligent systems, and their interplay. She takes a **human-centered computing approach**, where technology follows humans’ and society’s needs.<!-- **Central themes in her research are context and context-adaptivity**. --> Recently, she has focused on context-aware **recommender systems** and concentrates on recommender systems in the music and media sectors in particular. Core interests in her research activities are **fairness** in algorithmic decision-making and **multi-method evaluation**.   
 She co-organized the workshop series ["Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES)"](http://perspectives-ws.github.io). She advocates for equal opportunities and engages in initiatives such as Women in Music Information Retrieval (WiMIR) and the Allyship program at CHI.
