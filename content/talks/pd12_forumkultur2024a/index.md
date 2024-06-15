@@ -1,5 +1,5 @@
 ---
-title: "Künstlicher Intelligenz in Kunst und Kultur: Risiken und Chancen"
+title: "Künstliche Intelligenz in Kunst und Kultur: Risiken und Chancen"
 cms_exclude: true
 type: talks
 
@@ -40,15 +40,17 @@ tags: [panel, AI, artificial intelligence, culture, art]
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
+image:
   #caption: 'Image credit:'
-#  focal_point: Smart
-#  placement: 300
+  focal_point: Smart
+  placement: 1
 
 
 links:
-#url_pdf: ""
-#url_slides: ""
+- icon: circle-info
+  icon_pack: fas
+  name: Program
+  url: FK24-Programm.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
