@@ -54,10 +54,14 @@ links:
 #url_slides: ""
 #url_video: ""
 #url_proceedings: 
-- icon: file-pdf
+- icon: scroll
+  icon_pack: fas
+  name: Flyer
+  url: Programmkarte_W&K-Forum_K2.pdf
+- icon: circle-info
   icon_pack: fas
   name: Program
-  url: Programmkarte_W&K-Forum_K2.pdf
+  url: Program_Symposium_20240620.pdf
 
 projects: []
 ---
