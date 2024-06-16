@@ -17,7 +17,7 @@ feature:
   icon: bullseye
   icon_pack: fa
 - name: Academic indices
-  description: '[Citations 2463<br>h-index 27<br>i10-index 54](https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en)'
+  description: '[Citations 2465<br>h-index 27<br>i10-index 54](https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en)'
   icon: google-scholar-square
   icon_pack: ai
 - name: Awards & Honors
@@ -25,15 +25,15 @@ feature:
   icon: award
   icon_pack: fas
 - name: Teaching
-  description: 24 different courses across 17 institutions<br>ESSIR, RecSys Summer School, <br>Italian National PhD Program in AI<br>Tutorials at UMAP and ISMIR<br>Supervision of >70 theses
+  description: 24 different courses across 17 institutions<br>ELLIS ESSIR, RecSys Summer School, <br>Italian National PhD Program in AI<br>Tutorials at UMAP and ISMIR<br>Supervision of >70 theses
   icon: chalkboard-teacher
   icon_pack: fas
 - name: Community service
-  description: AE at TORS, TOIS, and JITT<br>Conf. Org. (e.g., RecSys, CHI, CIKM, ECIR)<br>Meta-Reviewer (e.g., SIGIR, RecSys, CHI, ISMIR)<br>Reviewer for >25 journals and >100 conferences<br>Workshop Organizer (e.g., PERSPECTIVES, Dagstuhl)
+  description: AE at TORS, TOIS, and JITT<br>Conf. Org. (e.g., RecSys, CHI, CIKM, ECIR)<br>Meta-Reviewer (e.g., SIGIR, RecSys, CHI, ISMIR)<br>Reviewer for >30 journals and >140 conferences<br>Workshop Organizer (e.g., PERSPECTIVES, Dagstuhl)
   icon: users
   icon_pack: fas
 - name: Outreach
-  description: Repeatedly speaker and panelist at non-scientific events (e.g., Ars Electronica Festival, Dutch Media Week, VUT Indie Days)<br>Substantial media coverage (e.g., Financial Times, El País)<br>Radio interviews (e.g., SWR 2, Ö1, FM4, NPO Radio 1)
+  description: Repeatedly speaker and panelist at non-scientific events (e.g., Ars Electronica Festival, Dutch Media Week, VUT Indie Days)<br>Substantial media coverage (e.g., Financial Times, El País)<br>Radio interviews (e.g., Ö1, FM4, SWR 2, NPO Radio 1)
   icon: bullhorn
   icon_pack: fas
 - name: International experience
