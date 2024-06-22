@@ -35,7 +35,7 @@ all_day: true
 publishDate: "2024-06-08T00:00:00Z"
 
 authors: [Patrik Ager, Peter Aufreiter, Christine Bauer, S()fia Braga, Alexander Dumreicher-Ivanceanu, Klara Koštal, Christine Maass, Stephanie Meisl, Magdalena Reiter, Matthias Röder]
-tags: [panel, AI, artificial intelligence, culture, cultural organizations]
+tags: [panel, AI, artificial intelligence, culture, cultural organizations, UNESCO, personalization, recommender systems]
 
 # Is this a featured talk? (true/false)
 featured: false
