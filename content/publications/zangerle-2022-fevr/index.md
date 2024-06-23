@@ -44,5 +44,5 @@ icons:
   
 altmetric: true
 plumx: true
-dimensions: true
+dimensions: false
 ---

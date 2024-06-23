@@ -52,6 +52,6 @@ icons:
   name: Highly Commended Award (Emerald Literati Network Awards of Excellence 2017)
 
 altmetric: false
-dimensions: true
+dimensions: false
 plumx: true
 ---

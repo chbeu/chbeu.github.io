@@ -52,5 +52,5 @@ links:
   name: Postprint
   url: yousfi-2016-ubpmn-preprint.pdf
 plumx: true
-dimensions: true
+dimensions: false
 ---

@@ -1,20 +1,21 @@
-﻿journal,JIF 2021,CORE 2020,CORE 2021,JOURQUAL3,Qualis 2017,GGS 2021,SJR,JIF 2022,CORE 2023,SJR_noshow,VHB 2024
-International Journal of Cultural Policy,1.685,,,,,,5700163951,,,,
-ACM Computing Surveys,14.324,A*,,B,A1,,23038,16.6,,,A
-IEEE Transactions on Industrial Informatics,10.215,,,,A1,,144912,12.3,,,
-User Modeling and User-Adapted Interaction,4.23,A,,,A1,,18947,3.6,,,
-PLOS ONE,3.24,,,,A1,,10600153309,3.7,,,B
-EPJ Data Science,3.184,,,,A1,,21100397403,3.6,,,
-Journal of Systems and Software,2.829,A,,,A1,,19309,3.5,,,B
-Journal of Ambient Intelligence and Smart Environments,2.759,,,,A4,,,1.7,,19700186867,
-Information and Software Technology,2.73,A,,,A1,,18732,3.9,,,B
-AI Magazine,1.094,C,,,A1,,,0.9,,23629,
+﻿journal,JIF 2022,CORE 2020,CORE 2021,JOURQUAL3,Qualis 2017,GGS 2021,SJR,JIF 2023,CORE 2023,SJR_noshow,VHB 2024
+International Journal of Cultural Policy,,,,,,,5700163951,1.3,,,
+ACM Computing Surveys,16.6,A*,,B,A1,,23038,23.8,,,A
+IEEE Transactions on Industrial Informatics,12.3,,,,A1,,144912,11.7,,,
+User Modeling and User-Adapted Interaction,3.6,A,,,A1,,18947,3.0,,,
+PLOS ONE,3.7,,,,A1,,10600153309,2.9,,,B
+EPJ Data Science,3.6,,,,A1,,21100397403,3.0,,,
+Journal of Systems and Software,3.5,A,,,A1,,19309,3.7,,,B
+Journal of Ambient Intelligence and Smart Environments,1.7,,,,A4,,,1.8,,19700186867,
+Information and Software Technology,3.9,A,,,A1,,18732,3.8,,,B
+AI Magazine,0.9,C,,,A1,,,2.5,,23629,
 Journal of Mobile Multimedia,,C,,,A4,,,,,19900192412,
-International Journal of Web Information Systems,,C,,,B1,,,,,,
+International Journal of Web Information Systems,,C,,,B1,,,2.5,,,
 Management Review Quarterly,,,,C,,,21100278302,,,,B
-Frontiers in Artificial Intelligence,,,,,,,21101062817,,,,C
-Frontiers in Big Data,,,,,,,21101052354,,,,
-Cogent Education,,,,,,,21100843893,,,,
+Frontiers in Artificial Intelligence,,,,,,,21101062817,3.0,,,C
+Frontiers in Big Data,,,,,,,21101052354,2.4,,,
+Cogent Education,,,,,,,21100843893,1.5,,,
+Scalable Computing: Practice and Experience,,,,,,,,0.9,,,
 LNCS,,,,C,,,,,,,
 LNI,,,,C,,,,,,,
 iiWAS,,,C,,B1,,,,C,,
@@ -40,3 +41,4 @@ IUI,,,,,,,,,,,B
 HCII,,,,,,,,,,,B
 ECSCW,,,,,,,,,,,C
 MuC,,,,,,,,,,,C
+CHI,,,,,,,,,A*,,A
