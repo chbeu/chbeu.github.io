@@ -45,7 +45,9 @@ gallery_item:
 - album: gallery
   image: 9e_IMG_0368.jpg
   caption: 'Image credit: **Jasper Alexander Gradussen/Karajan Music Tech**, 2024.'
-  
+- album: gallery
+  image: 9h_53819288876_9286fb3aaf_o.jpg
+  caption: 'Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)' 
   
 draft: false
 

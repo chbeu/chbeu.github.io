@@ -58,8 +58,20 @@ links:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
+
+gallery_item:
+- album: pd13_forumkultur2024b
+  image: 449306084_890774639748600_8360501375681144975_n.jpg
+  caption: 'Image credit: **BMKÖS/HBF/D. Trippolt**, 2024. <br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)' 
+- album: pd13_forumkultur2024b
+  image: 53820964321_8a3712fdaf_o.jpg
+  caption: 'Left to right: Panel with Alexander Dumreicher-Ivanceanu, FAMA---Film and Music Austria, Christina Maaß, UNSECO Commission, Christine Bauer, Paris Lodron University Salzburg, Transmedia artist S()fia Braga, Patrick Ager, Bertelsmann. Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)'
 ---
 
-Panel with Patrik Ager, Peter Aufreiter, S()fia Braga, Alexander Dumreicher-Ivanceanu, Klara Koštal, Christine Maass, Stephanie Meisl, Magdalena Reiter, and Matthias Röder.
+Panel together with Patrik Ager, S()fia Braga, and Alexander Dumreicher-Ivanceanu, moderated by Christine Maass.
 
-This panel is organized in cooperation of the Austrian Commission for UNESCO (ÖUK) and the Federal Ministry Republic of Austria for Arts, Culture, Civil Service and Sport (BMKOES).
+This panel is organized in cooperation of the [Austrian Commission for UNESCO (ÖUK)](https://www.unesco.at/en/about-us/austrian-commission-for-unesco) and the [Federal Ministry Republic of Austria for Arts, Culture, Civil Service and Sport (BMKOES)](https://www.bmkoes.gv.at/en.html).
+
+[Photo gallery on Flickr](https://www.flickr.com/photos/bmkoes/albums/72177720318291806)
+
+{{< gallery album="pd13_forumkultur2024b" >}}
