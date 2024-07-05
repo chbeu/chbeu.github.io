@@ -55,3 +55,7 @@ url_slides: kn06_crum_haapie2024_slides.pdf
 
 projects: []
 ---
+
+{{< tweet user="peterpaws" id="1808402649709977704" >}}
+{{< tweet user="peterpaws" id="1808404402866171905" >}}
+{{< tweet user="HAAPIE_workshop" id="1808405802492850432" >}}
