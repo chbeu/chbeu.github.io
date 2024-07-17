@@ -67,7 +67,7 @@ projects: []
 ---
 Symposium with presentations and discussions.
 
-Confirmed speakers:
+Speakers:
 - [Marco Döttlinger](https://www.doettlinger.org/), composer and sound artist, Salzburg/Vienna, Austria
 - Noah Martin, [SUISA](https://www.suisa.ch/en/)---Swiss Cooperative Society for Music Authors and Publishers, Zürich, Switzerland
 - [Stephanie Meisl](https://www.davantgarde.xyz), D#AVANTGARDE – new technology, art and creativity, Vienna/Salzburg, Austria

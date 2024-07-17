@@ -28,9 +28,9 @@ abstract: "With the RecSys conference now turning 18 years old, the recommender 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-10-14T09:00:00" #-05:00"
-date_end: "2024-10-18T12:35:00" #-05:00"
-all_day: true
+date: "2024-10-18T09:00:00" #-05:00"
+date_end: "2024-10-18T12:30:00" #-05:00"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-03-25T00:00:00Z"
