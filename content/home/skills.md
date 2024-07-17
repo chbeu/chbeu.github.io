@@ -17,11 +17,7 @@ feature:
   icon: bullseye
   icon_pack: fa
 - name: Academic indices
-<<<<<<< HEAD
   description: '[Citations 2505<br>h-index 27<br>i10-index 54](https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en)'
-=======
-  description: '[Citations 2499<br>h-index 27<br>i10-index 54](https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en)'
->>>>>>> c90530577db153a73d910771262a3650eb8bc7e5
   icon: google-scholar-square
   icon_pack: ai
 - name: Awards & Honors
