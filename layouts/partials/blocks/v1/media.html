@@ -22,13 +22,23 @@
       <div class="mt-1">{{ . }}</div>
     {{ end }} 
     
-{{ $url := "assets/csv/media.csv" }}	
-    {{ $sep := "," }}
-    {{ range $i, $r := getCSV $sep $url  }} <!-- (dict "mediaarticles" (slice "author" "date" "outlet" "title" "language" "link")) -->
-    {{ if ne $i 0 }}<!-- skip first row -->
+{{ $url := "assets/csv/media.csv" }}
+{{ $content := readFile $url }}
+    {{ $options := dict "delimiter" "," }}
+    {{ $rows := $content | transform.Unmarshal $options }}
+    {{ range $i, $r :=  $rows }} <!-- (dict "mediaarticles" (slice "author" "date" "outlet" "title" "language" "link")) -->
+        {{ if ne $i 0 }} <!-- Skip the first row -->
             <p class="mt-1">
-{{ index $r 1 }}, {{ if index $r 0 }}{{ index $r 0 }} on {{end}} {{index  $r 2}}. {{ if index $r 5 }}<a href= "{{index  $r 5 }}" target="_blank">{{end}}{{index  $r 3 }}{{ if index $r 5 }}</a> {{ end }} (in {{index  $r 4 }}).  {{ end }}</p>
-        {{end}}
+                {{ if index $r 1 }}{{ index $r 1 }}, {{ end }} <!-- Author -->
+                {{ if index $r 0 }}{{ index $r 0 }} on {{ end }} <!-- Date -->
+                {{ index $r 2 }}. <!-- Outlet -->
+                {{ if index $r 5 }}<a href="{{ index $r 5 }}" target="_blank">{{ end }} <!-- Link -->
+                {{ index $r 3 }} <!-- Title -->
+                {{ if index $r 5 }}</a>{{ end }} <!-- Close link -->
+                (in {{ index $r 4 }}). <!-- Language -->
+            </p>
+        {{ end }}
+    {{ end }}
 
     </div>
   </div>
