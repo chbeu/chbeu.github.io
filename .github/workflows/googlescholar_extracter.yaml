@@ -1,12 +1,9 @@
 name: Extract Google Scholar Data and Write to JSON
 
 on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches:
-      - main
+  # Runs the workflow daily at 2am
   schedule:
-    - cron: '0 2 * * *'  # This runs the workflow daily at 2am
+    - cron: '0 2 * * *' 
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -17,10 +14,9 @@ permissions:
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# Ensure only one instance of this workflow runs at a time
 concurrency:
-  group: "pages"
+  group: "extract-google-scholar-data"
   cancel-in-progress: false
 
 jobs:

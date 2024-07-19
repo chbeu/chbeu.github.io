@@ -22,6 +22,17 @@
       <div class="mt-1">{{ . }}</div>
     {{ end }} 
     
+    
+{{ $urlscholar := "https://serpapi.com/searches/5e95cb25a568bb11/66997ee72d5b12b3fb3e450b.json" }}
+{{ with resources.Get $urlscholar }}
+  {{ with . | transform.Unmarshal }}
+    {{ $data = . }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get global resource %q" $urlscholar }} <!-- cited_by.table[0].citations.all    -->
+{{ end }}
+
+    
 {{ $url := "assets/csv/media.csv" }}
 {{ $content := readFile $url }}
     {{ $options := dict "delimiter" "," }}
