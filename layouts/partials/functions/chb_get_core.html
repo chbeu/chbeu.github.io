@@ -3,13 +3,15 @@
 {{ $rankingtitle_conf := "rankingtitle" }}
 
 {{ $url := "assets/csv/jif.csv" }}	
-    {{ $sep := "," }}
-    {{ range $i, $r := getCSV $sep $url  }} <!-- (dict "jif" (slice "journal" "jif2021")) -->
+{{ $content := readFile $url }}
+{{ $options := dict "delimiter" "," }}
+{{ $rows := $content | transform.Unmarshal $options }}
+{{ range $i, $r := $rows }}
 	{{ if eq $i 0 }}
 		{{ $rankingtitle_journal = ( index  $r 2 ) }}
 		{{ $rankingtitle_conf = ( index  $r 9 ) }}
 	{{end}}
-	{{ if and (strings.Contains  $.publication (index $r 0)) (index $r 2) }}<span class="btn btn-outline-primary btn-page-header btn-sm jif">{{ $rankingtitle_journal }}: {{ index . 2}} </span>{{ end }}
+	{{ if and (strings.Contains $.publication (index $r 0)) (index $r 2) }}<span class="btn btn-outline-primary btn-page-header btn-sm jif">{{ $rankingtitle_journal }}: {{ index . 2}} </span>{{ end }}
       {{ if and (eq $.publication_short (index $r 0)) (index $r 9) }}<span class="btn btn-outline-primary btn-page-header btn-sm jif">{{ $rankingtitle_conf}}: {{index . 9}} </span>{{ end }}
     {{end}}
 

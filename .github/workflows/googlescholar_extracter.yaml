@@ -1,0 +1,57 @@
+name: Extract Google Scholar Data and Write to JSON
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 2 * * *'  # This runs the workflow daily at 2am
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  extract_and_write_json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install google-search-python  # Assuming this is the library you use for GoogleSearch
+
+    - name: Use secret in a script
+      run: |
+        echo "Using the serapi secret in the workflow."
+      env:
+        SERAPI_KEY: ${{ secrets.SERP_API_KEY }}
+
+    - name: Run script
+      run: python serpiapi.py
+
+    - name: Upload JSON file
+      uses: actions/upload-artifact@v3
+      with:
+        name: googleschlolar_output
+        path: data/json/googleschlolar_output.json

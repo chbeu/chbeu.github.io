@@ -1,0 +1,12 @@
+{{/* Get Google Scholar output from json file */}}
+{{ $scholar_url := "https://scholar.google.at/citations?user=55_WwZ8AAAAJ&hl=en" }}
+{{ $file := "data/json/googlescholar_output.json" }}
+
+
+{{ $content := readFile $file }}
+{{ $values := $content | transform.Unmarshal }}
+        <a href="{{ $scholar_url }}" target="_blank">
+        Citations: {{ $values.citations }}<br>
+        h-index: {{ $values.h_index }}<br>
+        i10-index: {{ $values.i10_index }}
+        </a>

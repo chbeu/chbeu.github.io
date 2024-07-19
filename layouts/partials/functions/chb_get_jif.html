@@ -2,8 +2,10 @@
 {{ $rankingtitle := "rankingtitle" }}
 
 {{ $url := "assets/csv/jif.csv" }}	
-    {{ $sep := "," }}
-    {{ range $i, $r := getCSV $sep $url  }} <!-- (dict "jif" (slice "journal" "jif2021")) -->
+{{ $content := readFile $url }}
+{{ $options := dict "delimiter" "," }}
+{{ $rows := $content | transform.Unmarshal $options }}
+{{ range $i, $r := $rows  }}
 	{{ if eq $i 0 }}
 		{{ $rankingtitle = ( index  $r 8 ) }}
 	{{end}}
