@@ -39,18 +39,18 @@ jobs:
 
     - name: Run script using serapi secret to generate JSON
       run: |
-          SERP_SECRET=${{ secrets.SERP_API_KEY }} python .github/workflows/serpiapi.py
+        SERP_SECRET=${{ secrets.SERP_API_KEY }} python .github/workflows/serpiapi.py
       env:
-        SERAPI_KEY: ${{ secrets.SERP_API_KEY }}
+          SERAPI_KEY: ${{ secrets.SERP_API_KEY }}
 
     - name: Verify JSON file creation
       run: |
           ls -l data/json
           cat data/json/googlescholar_output.json
 
-      - name: Check if JSON file is changed
-        id: check_changes
-        run: |
+    - name: Check if JSON file is changed
+      id: check_changes
+      run: |
           git fetch origin main
           git diff --exit-code --quiet data/json/googlescholar_output.json || echo "changed" > changed.txt
 
