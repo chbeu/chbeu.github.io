@@ -2,12 +2,11 @@ from serpapi import GoogleSearch
 import json
 import os
 
-
 params = {
-  "api_key": "SERP_API_KEY",
+  "api_key": os.environ['SERP_SECRET'],
   "engine": "google_scholar_author",
   "hl": "en",
-  "author_id": "55_WwZ8AAAAJ"
+  "author_id": "55_WwZ8AAAAJ",
 }
 
 search = GoogleSearch(params)
