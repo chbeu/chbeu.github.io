@@ -69,3 +69,8 @@ jobs:
           git push origin main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
+    - name: Set deployment trigger
+      id: set_deploy_trigger
+      if: env.changed == 'true'
+      run: echo "::set-output name=trigger_deploy::true"
