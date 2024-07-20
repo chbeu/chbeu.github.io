@@ -45,5 +45,5 @@ jobs:
     - name: Upload JSON file
       uses: actions/upload-artifact@v3
       with:
-        name: googleschlolar_output
-        path: data/json/googleschlolar_output.json
+        name: googlescholar_output
+        path: /data/json/googlescholar_output.json
