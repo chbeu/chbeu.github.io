@@ -22,7 +22,7 @@ data = {
 }
 
 # Ensure the directory exists
-output_dir = 'data/json/'
+output_dir = '../../data/json/'
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 

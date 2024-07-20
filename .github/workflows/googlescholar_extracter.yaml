@@ -46,4 +46,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: googlescholar_output
-        path: /data/json/googlescholar_output.json
+        path: data/json/googlescholar_output.json
