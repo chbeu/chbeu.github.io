@@ -44,7 +44,7 @@ jobs:
         SERAPI_KEY: ${{ secrets.SERP_API_KEY }}
 
     - name: Run script
-      run: python serpiapi.py
+      run: python .github/workflows/serpiapi.py
 
     - name: Upload JSON file
       uses: actions/upload-artifact@v3
