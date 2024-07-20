@@ -9,3 +9,6 @@ node_modules/
 
 # invisible files
 .DS_Store
+
+# remotely updated files
+/data/json/googlescholar_output.json

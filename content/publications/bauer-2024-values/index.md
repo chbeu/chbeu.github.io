@@ -36,5 +36,11 @@ abstract: "In the recommender systems field, it is increasingly recognized that 
 
 doi: 10.1145/3654805
 authorizer: https://dl.acm.org/doi/10.1145/3654805?cid=81453628934
+
+icons:
+- icon: trophy
+  icon_pack: fas
+  name: Women in RecSys Journal Paper of the Year Award 2024, Senior category
+
 altmetric: true
 ---

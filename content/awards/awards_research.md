@@ -21,6 +21,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- organization: "Women in RecSys 2024"
+  title: "Women in RecSys Journal Paper of the Year Award 2024, Senior category"
+  description: '18th ACM Conference on Recommender Systems (RecSys 2024)<br>{{< cite page="bauer-2024-values" view="4" >}}'
+  #organization_url: "https://recsys.acm.org/women-in-recsys-awards/"
+  #certificate_url: "../images/awards/womeninrecsys2024_bestjournalpaperaward.pdf"
+  date_start: "2024-10-14"
 - organization: "Women in RecSys 2023"
   title: "Women in RecSys Journal Paper of the Year Award 2023, Senior category"
   description: '17th ACM Conference on Recommender Systems (RecSys 2023)<br>{{< cite page="zangerle-2022-fevr" view="4" >}}'

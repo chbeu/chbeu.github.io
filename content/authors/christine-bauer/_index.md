@@ -29,7 +29,6 @@ interests:
 - Human-centered computing
 - Multi-method evaluation
 - Music recommender systems
-- Societal implications of algorithmic decision-making
 - Context-adaptive systems
 
 

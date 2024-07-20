@@ -20,11 +20,11 @@ feature:
   icon: google-scholar-square
   icon_pack: ai
 - name: Awards & Honors
-  description: Elise Richter laureate (FWF)<br>5 best paper awards, 5 additional nominations<br>5 awards for reviewing activities, 6 special recognitions for outstanding reviews
+  description: Elise Richter laureate (FWF)<br>6 best paper awards, 5 additional nominations<br>5 awards for reviewing activities, 6 special recognitions for outstanding reviews
   icon: award
   icon_pack: fas
 - name: Teaching
-  description: 30 different courses across 16 institutions<br>ELLIS ESSIR, RecSys Summer School, <br>Italian National PhD Program in AI<br>Tutorials at UMAP and ISMIR<br>Supervision of >70 theses
+  description: 30 different courses across 17 institutions<br>ELLIS ESSIR, RecSys Summer School, <br>Italian National PhD Program in AI<br>Tutorials at UMAP and ISMIR<br>Supervision of >70 theses
   icon: chalkboard-teacher
   icon_pack: fas
 - name: Community service
