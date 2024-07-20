@@ -42,8 +42,12 @@ jobs:
       env:
         SERAPI_KEY: ${{ secrets.SERP_API_KEY }}
 
-    - name: Upload JSON file
-      uses: actions/upload-artifact@v3
-      with:
-        name: googlescholar_output
-        path: data/json/googlescholar_output.json
+    - name: Commit and push JSON file
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add data/json/googlescholar_output.json
+        git commit -m 'Add generated JSON file'
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

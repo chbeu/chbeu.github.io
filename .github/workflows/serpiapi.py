@@ -32,4 +32,4 @@ json_file_path = os.path.join(output_dir, output_file)
 with open(json_file_path, 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=4, ensure_ascii=False)
     
-print(f"JSON file created at: {output_path}")
+print(f"JSON file created at: {output_dir}")
