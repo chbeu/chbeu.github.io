@@ -2,7 +2,8 @@ from serpapi import GoogleSearch
 import json
 import os
 
-output_dir = '../../data/json/'
+#output_dir = '../../data/json/'
+output_dir = os.path.join(os.getcwd(), 'data/json')
 output_file = 'googlescholar_output.json'
 
 params = {
@@ -15,7 +16,7 @@ params = {
 search = GoogleSearch(params)
 results = search.get_dict()
 
-print(results)
+#print(results)
 
 # Extract the relevant data into a new dictionary
 data = {
@@ -27,8 +28,10 @@ data = {
 # Ensure the directory exists
 os.makedirs(output_dir, exist_ok=True)
 
-# Write the dictionary to a JSON file
+# Construct the full path to the JSON file
 json_file_path = os.path.join(output_dir, output_file)
+
+# Write the dictionary to a JSON file
 with open(json_file_path, 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=4, ensure_ascii=False)
     
