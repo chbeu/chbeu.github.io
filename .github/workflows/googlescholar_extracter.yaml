@@ -48,14 +48,14 @@ jobs:
           ls -l data/json
           cat data/json/googlescholar_output.json
 
-    - name: Check if JSON file is changed
+    - name: Check if JSON file has changed
       id: check_changes
       run: |
           git fetch origin main
-          git diff --exit-code --quiet data/json/googlescholar_output.json || echo "changed" > changed.txt
+          git diff --exit-code --quiet data/json/googlescholar_output.json || echo "changed" >> $GITHUB_ENV
 
     - name: Commit and push JSON file
-      if: steps.check_changes.outputs.changed == 'true'
+      if: env.changed == 'changed'
       run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
