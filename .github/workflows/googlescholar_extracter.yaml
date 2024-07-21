@@ -73,4 +73,8 @@ jobs:
     - name: Set deployment trigger
       id: set_deploy_trigger
       if: env.changed == 'true'
-      run: echo "::set-output name=trigger_deploy::true"
+      run: echo "trigger_deploy=true" >> $GITHUB_ENV
+
+    - name: Set output for next job
+      id: set_output
+      run: echo "::set-output name=trigger_deploy::${{ env.trigger_deploy }}"
