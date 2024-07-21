@@ -53,13 +53,13 @@ jobs:
         run: |
           echo "changed=false" >> $GITHUB_ENV
           if [ "${{ github.event_name }}" == "workflow_run" ]; then
-            if [ "${{ github.event.workflow_run.conclusion }}" == "success" ] && [ "${{ github.event.workflow_run.outputs.trigger_deploy }}" == "true" ]; then
-              echo "changed=true" >> $GITHUB_ENV
-            fi
+          if [ "${{ github.event.workflow_run.conclusion }}" == "success" ] && [ "${{ github.event.workflow_run.outputs.trigger_deploy }}" == "true" ]; then
+            echo "changed=true" >> $GITHUB_ENV
+          fi
           else
             # If this is a push event, always set changed to true to run deployment
             echo "changed=true" >> $GITHUB_ENV
-          fi
+            fi
  
       - name: Install Hugo CLI
         run: |
