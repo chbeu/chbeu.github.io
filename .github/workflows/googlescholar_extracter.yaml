@@ -56,6 +56,7 @@ jobs:
           git fetch origin main
           git diff --exit-code --quiet data/json/googlescholar_output.json || echo "changed=true" >> $GITHUB_ENV
 
+
     - name: Configure Git
       run: |
         git config --global user.name 'github-actions[bot]'
@@ -73,7 +74,7 @@ jobs:
     - name: Set deployment trigger
       id: set_deploy_trigger
       if: env.changed == 'true'
-      run: echo "trigger_deploy=true" >> $GITHUB_ENV
+      run: echo "::set-output name=trigger_deploy::${{ env.trigger_deploy }}"
 
     - name: Set output for next job
       id: set_output
