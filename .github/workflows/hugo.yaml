@@ -1,10 +1,10 @@
 name: Deploy Hugo site to Pages
 
 on:
-  # Runs on pushes targeting the default branch 'main'
+  # Runs on any push
   push:
-    branches:
-      - main
+
+  # Triggered by completion of the "Extract Google Scholar Data, Write to JSON, and Push JSON" workflow
   workflow_run:
     workflows: ["Extract Google Scholar Data, Write to JSON, and Push JSON"]
     types:
@@ -37,17 +37,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: Fetch main branch
         run: git fetch origin main
-      
+
       - name: Check for changes in main branch
         id: check_changes
         run: |
           git diff --exit-code --quiet origin/main || echo "changed=true" >> $GITHUB_ENV
-
 
   # Build job
   build:
@@ -58,7 +55,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with
+        with:
           submodules: recursive
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
