@@ -1,9 +1,9 @@
 name: Extract Google Scholar Data, Write to JSON, and Push JSON
 
 on:
-  # Runs the workflow daily at 2am
+  # Runs the workflow daily at 00:30 UTC
   schedule:
-    - cron: '0 2 * * *' 
+    - cron: '30 0 * * *' 
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -45,17 +45,11 @@ jobs:
       env:
           SERAPI_KEY: ${{ secrets.SERP_API_KEY }}
 
-    - name: Verify JSON file creation
-      run: |
-          ls -l data/json
-          cat data/json/googlescholar_output.json
-
     - name: Check if JSON file has changed
       id: check_changes
       run: |
           git fetch origin main
           git diff --exit-code --quiet data/json/googlescholar_output.json || echo "changed=true" >> $GITHUB_ENV
-
 
     - name: Configure Git
       run: |
@@ -74,8 +68,4 @@ jobs:
     - name: Set deployment trigger
       id: set_deploy_trigger
       if: env.changed == 'true'
-      run: echo "::set-output name=trigger_deploy::${{ env.trigger_deploy }}"
-
-    - name: Set output for next job
-      id: set_output
       run: echo "::set-output name=trigger_deploy::${{ env.trigger_deploy }}"

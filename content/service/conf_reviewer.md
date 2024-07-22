@@ -27,6 +27,7 @@ design:
   flip_alt_rows: false
 ---
 
+NORMalize 2024  
 MuC 2024  
 <mark>ECAI</mark> 2024  
 <mark>FAccT</mark> 2024  
