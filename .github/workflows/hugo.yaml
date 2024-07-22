@@ -1,8 +1,10 @@
 name: Deploy Hugo site to Pages
 
 on:
-  # Runs on any push
+  # Triggered by pushes to the 'main' branch
   push:
+    branches:
+      - main
 
   # Triggered by completion of the "Extract Google Scholar Data, Write to JSON, and Push JSON" workflow
   workflow_run:
@@ -25,15 +27,11 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
-# Default to bash
-defaults:
-  run:
-    shell: bash
-
 jobs:
   # Job to check for changes in the 'main' branch
   check_changes:
     runs-on: ubuntu-latest
+    if: github.event_name == 'push'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
