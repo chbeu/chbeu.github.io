@@ -36,16 +36,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
       - name: Set deployment condition
         id: set_deployment_condition
         run: |
             # Check for any changes in the main branch
             git fetch origin main
             git diff --exit-code --quiet origin/main || echo "changed=true" >> $GITHUB_ENV
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          submodules: recursive
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
