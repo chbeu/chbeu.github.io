@@ -1,20 +1,15 @@
 name: Extract Google Scholar Data, Write to JSON, and Push JSON
 
 on:
-  # Runs the workflow daily at 2am
   schedule:
     - cron: '0 2 * * *'
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: write
   pages: write
   id-token: write
 
-# Ensure only one instance of this workflow runs at a time
 concurrency:
   group: "extract-google-scholar-data"
   cancel-in-progress: false
@@ -39,7 +34,7 @@ jobs:
 
     - name: Run script using serapi secret to generate JSON
       run: |
-        SERP_SECRET=${{ secrets.SERP_API_KEY }} python .github/workflows/serpiapi.py
+        SERAPI_KEY=${{ secrets.SERP_API_KEY }} python .github/workflows/serpiapi.py
       env:
         SERAPI_KEY: ${{ secrets.SERP_API_KEY }}
 
@@ -70,6 +65,10 @@ jobs:
 
     - name: Set output for next job
       id: set_output
-      run: echo "trigger_deploy=${{ env.changed == 'true' }}" >> $GITHUB_ENV
+      run: echo "changed=${{ env.changed }}" >> $GITHUB_ENV
+
+    - name: Set workflow output
+      id: set_workflow_output
+      run: echo "::set-output name=changed::${{ env.changed }}"
       env:
         changed: ${{ env.changed }}
