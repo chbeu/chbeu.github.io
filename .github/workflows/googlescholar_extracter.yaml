@@ -34,9 +34,9 @@ jobs:
 
     - name: Run script using serapi secret to generate JSON
       run: |
-        SERAPI_KEY=${{ secrets.SERP_API_KEY }} python .github/workflows/serpiapi.py
+        SERP_SECRET=${{ secrets.SERP_API_KEY }} python .github/workflows/serpiapi.py
       env:
-        SERAPI_KEY: ${{ secrets.SERP_API_KEY }}
+          SERAPI_KEY: ${{ secrets.SERP_API_KEY }}
 
     - name: Verify JSON file creation
       run: |
