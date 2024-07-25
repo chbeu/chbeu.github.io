@@ -63,12 +63,6 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Set output for next job
-      id: set_output
-      run: echo "changed=${{ env.changed }}" >> $GITHUB_ENV
-
-    - name: Set workflow output
+    - name: Set workflow output for next job
       id: set_workflow_output
-      run: echo "::set-output name=changed::${{ env.changed }}"
-      env:
-        changed: ${{ env.changed }}
+      run: echo "changed=${{ env.changed }}" >> $GITHUB_OUTPUT
