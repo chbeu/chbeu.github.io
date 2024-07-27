@@ -13,13 +13,11 @@ profile: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  caption: ''
-#  focal_point: 'Smart'
-#  preview_only: false
+image:
+  caption: 'Overview of identified value groups'
+  focal_point: 'Smart'
+  preview_only: false
+  placement: 1
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

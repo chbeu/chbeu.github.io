@@ -9,6 +9,7 @@ tags:
 - recommender systems
 date: "2019-09-01T00:00:00Z"
 profile: false
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""

@@ -8,6 +8,7 @@ tags:
 - multimethod
 date: "2018-03-01T00:00:00Z"
 profile: false
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
