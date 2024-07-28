@@ -62,7 +62,3 @@ jobs:
         git push origin main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Set workflow output for next job
-      id: set_workflow_output
-      run: echo "changed=${{ env.changed }}" >> $GITHUB_OUTPUT
