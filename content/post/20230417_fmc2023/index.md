@@ -1,7 +1,7 @@
 ---
 title: "Keynote at  Future Music Camp 2023 in Mannheim"
 subtitle: ""
-summary: "Christine Bauer will be giving a keynote address at the Future Music Camp 2023 in Mannheim, Germany."
+summary: "Iwill be giving a keynote address at the Future Music Camp 2023 in Mannheim, Germany."
 authors: 
 authors: [Christine Bauer]
 categories: [news]

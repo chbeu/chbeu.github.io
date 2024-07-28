@@ -36,7 +36,10 @@ experience:
 - company: "CIKM 2023"
   company_logo: cikm_2023
   title: "PhD Symposium Co-Chair"
-  description: "with Haiming Liu <br>32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)<br><br><img src=\"/images/variouspics/cikm2023_phd_symposium_group.jpg\"  alt=\"Group photo of the CIKM 2023 PhD Symposium\"><br><br>[See report in ACM SIGIR Forum](/publications/liu-2024-sigirforum-cikmphdsymp/)"
+  description: >-
+    with Haiming Liu <br>32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)<br><br>
+    [See report in ACM SIGIR Forum](/publications/liu-2024-sigirforum-cikmphdsymp/)<br><br>
+    ![Group photo of the CIKM 2023 PhD Symposium](/images/variouspics/cikm2023_phd_symposium_group.jpg)
   company_url: "https://www.cikm2023.org"
   url: "https://uobevents.eventsair.com/cikm2023/phd-symposium-programme---saturday-21st-october"
   date_start: "2023-10-21"
@@ -45,7 +48,9 @@ experience:
   company_logo: recsys_2023
   date_end: "2023-09-23"
   title: "Doctoral Symposium Co-Chair"
-  description: "with Cataldo Musto and Xiangnan He <br>17th ACM Conference on Recommender Systems (RecSys 2023)<br><br><img src=\"/images/variouspics/recsys2023_ds_group.jpg\"  alt=\"Group photo of the RecSys 2023 Doctoral Symposium\">"
+  description: >-
+    with Cataldo Musto and Xiangnan He <br>17th ACM Conference on Recommender Systems (RecSys 2023)<br><br>
+    ![Group photo of the RecSys 2023 Doctoral Symposium](/images/variouspics/recsys2023_ds_group.jpg)
   company_url: "https://recsys.acm.org/recsys23/"
   url: "https://recsys.acm.org/recsys23/call/#content-tab-1-4-tab"
   date_start: "2023-09-01"

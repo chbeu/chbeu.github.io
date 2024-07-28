@@ -47,20 +47,30 @@ experience:
     date_start: "2024-05-20"
     date_end: "2024-05-24"
     company_logo: dagstuhl
-    description: "with Alan Said and Eva Zangerle<br><br><img src=\"/images/variouspics/dagstuhl2024_24211.jpg\"  alt=\"Group photo of the Dagstuhl Seminar 24211 participants\">"
+    description: >-
+      with Alan Said and Eva Zangerle<br><br>
+      ![Group photo of the Dagstuhl Seminar 24211 participants](/images/variouspics/dagstuhl2024_24211.jpg)
     company_url: "https://www.dagstuhl.de/24211"
   - company: "PERSPECTIVES 2023: 3rd Workshop on the Perspectives on the Evaluation of Recommender Systems"
     title: Workshop Co-Organizer
     date_start: "2023-09-19"
     date_end: "2023-09-19"
-    description: "co-located with [17th ACM Conference on Recommender Systems (RecSys 2023)](https://recsys.acm.org/recsys23/)<br><br>with Alan Said and Eva Zangerle<br><br>[See proceedings](https://ceur-ws.org/Vol-3476/)<br>[See event report in SIGIR Forum](/publications/said-2024-sigirforum-perspectives/)"
+    description: >-
+      co-located with [17th ACM Conference on Recommender Systems (RecSys 2023)](https://recsys.acm.org/recsys23/)<br><br>
+      with Alan Said and Eva Zangerle<br>
+      [See proceedings](https://ceur-ws.org/Vol-3476/)<br>
+      [See event report in SIGIR Forum](/publications/said-2024-sigirforum-perspectives/)
     company_url: "https://perspectives-ws.github.io/2023/"
   - company: "Dagstuhl Seminar 23031: Frontiers of Information Access Experimentation for Research and Education"
     title: Dagstuhl Seminar Co-Organizer
     date_start: "2023-01-15"
     date_end: "2023-01-20"
     company_logo: dagstuhl
-    description: "with Ben Carterette, Nicola Ferro, and Norbert Fuhr<br><br>[See the Dagstuhl report](/publications/bauer-2023-dagstuhl/)<br>[See event report in SIGIR Forum](/publications/bauer-2023-sigir-dagstuhl/)<br><br><img src=\"/images/variouspics/dagstuhl2023_23031.jpg\"  alt=\"Group photo of the Dagstuhl Seminar 23031 participants\">"
+    description: >-
+      with Ben Carterette, Nicola Ferro, and Norbert Fuhr<br><br>
+      [See the Dagstuhl report](/publications/bauer-2023-dagstuhl/)<br>
+      [See event report in SIGIR Forum](/publications/bauer-2023-sigir-dagstuhl/)<br><br>
+      ![Group photo of the Dagstuhl Seminar 23031 participants](/images/variouspics/dagstuhl2023_23031.jpg)
     company_url: "https://www.dagstuhl.de/23031"
   - company: "PERSPECTIVES 2022: 2nd Workshop on the Perspectives on the Evaluation of Recommender Systems"
     title: Workshop Co-Organizer

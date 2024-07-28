@@ -5,6 +5,7 @@ summary: "*FairRecKit* is a web-based analysis software that supports researcher
 tags: [FairRecKit, resource, toolkit, analysis software, web-based, evaluation, analysis, recommender systems, music, movies]
 date: "2022-03-01T00:00:00Z"
 profile: false
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""

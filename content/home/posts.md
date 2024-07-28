@@ -1,5 +1,8 @@
 ---
-widget: pages
+title: Recent Posts
+subtitle:
+widget: collection
+show_date: false
 
 # This file represents a page section.
 headless: true
@@ -7,37 +10,36 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
-subtitle:
+
 
 content:
-  # Page type to display. E.g. post, talk, publication...
-  page_type: post
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 3
-  # Filter on criteria
   filters:
-    author: ""
-    category: ""
-    tag: ""
+    folders:
+      - post
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    featured_only: false
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-    publication_type: ""
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 3
   # Choose how many pages you would like to offset by
+  # Useful if you wish to show the first item in the Featured widget
   offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  # Field to sort by, such as Date or Title
+  sort_by: 'Date'
+  sort_ascending: false
   archive:
     enable: true
     text: See all posts
     link: post/
 
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 2
+  # Choose a listing view
+  view: compact
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
 ---
