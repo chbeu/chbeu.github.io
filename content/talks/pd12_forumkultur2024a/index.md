@@ -51,6 +51,8 @@ links:
   icon_pack: fas
   name: Program
   url: FK24-Programm.pdf
+url_video: "https://www.youtube.com/watch?v=c5geMrDMtIM"
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -82,3 +84,8 @@ This event is organized by the [Federal Ministry Republic of Austria for Arts, C
 [Photo gallery on Flickr](https://www.flickr.com/photos/bmkoes/albums/72177720318291806)
 
 {{< gallery album="pd12_forumkultur2024a" >}}
+
+<br><br>
+{{< youtube rFRRh7K8kOw >}}
+<br><br>
+{{< youtube c5geMrDMtIM >}}
