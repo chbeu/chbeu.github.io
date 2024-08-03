@@ -1,4 +1,4 @@
-name: Deploy Hugo site to Pages after Google Schlolar
+name: Deploy Hugo site to Pages after Google Scholar
 
 on:
   # Triggered by completion of the "Extract Google Scholar Data, Write to JSON, and Push JSON" workflow
