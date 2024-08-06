@@ -29,7 +29,7 @@ abstract: "Music recommendation has been relevant to the RecSys community since 
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2024-10-14T09:00:00" #-05:00"
 date_end: "2024-10-14T17:30:00" #-05:00"
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-03-25T00:00:00Z"
