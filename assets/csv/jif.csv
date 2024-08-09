@@ -1,44 +1,58 @@
 ﻿journal,JIF 2022,CORE 2020,CORE 2021,JOURQUAL3,Qualis 2017,GGS 2021,SJR,JIF 2023,CORE 2023,SJR_noshow,VHB 2024
-International Journal of Cultural Policy,,,,,,,5700163951,1.3,,,
 ACM Computing Surveys,16.6,A*,,B,A1,,23038,23.8,,,A
-IEEE Transactions on Industrial Informatics,12.3,,,,A1,,144912,11.7,,,
-User Modeling and User-Adapted Interaction,3.6,A,,,A1,,18947,3.0,,,
-PLOS ONE,3.7,,,,A1,,10600153309,2.9,,,B
-EPJ Data Science,3.6,,,,A1,,21100397403,3.0,,,
-Journal of Systems and Software,3.5,A,,,A1,,19309,3.7,,,B
-Journal of Ambient Intelligence and Smart Environments,1.7,,,,A4,,,1.8,,19700186867,
-Information and Software Technology,3.9,A,,,A1,,18732,3.8,,,B
+ACM Transactions on Computer-Human Interaction,,,,,,,26199,4.8,,,B
+ACM Transactions on Information Systems,,,,,,,18997,5.4,,,B
+ACM Transactions on Interactive Intelligent Systems,,,,,,,21100301601,3.6,,,B
+ACM Transactions on Management Information System,,,,,,,21100200804,2.5,,,B
+AI & Society,,,,,,,23616,2.9,,,C
 AI Magazine,0.9,C,,,A1,,,2.5,,23629,
-Journal of Mobile Multimedia,,C,,,A4,,,,,19900192412,
-International Journal of Web Information Systems,,C,,,B1,,,2.5,,,
-Management Review Quarterly,,,,C,,,21100278302,,,,B
+Cogent Education,,,,,,,21100843893,1.5,,,
+EPJ Data Science,3.6,,,,A1,,21100397403,3.0,,,
+Expert Systems with Applications,,,,,,,24201,7.5,,,B
 Frontiers in Artificial Intelligence,,,,,,,21101062817,3.0,,,C
 Frontiers in Big Data,,,,,,,21101052354,2.4,,,
-Cogent Education,,,,,,,21100843893,1.5,,,
-Scalable Computing: Practice and Experience,,,,,,,,0.9,,,
+IEEE Transactions on Industrial Informatics,12.3,,,,A1,,144912,11.7,,,
+Information and Software Technology,3.9,A,,,A1,,18732,3.8,,,B
+International Journal of Cultural Policy,,,,,,,5700163951,1.3,,,
+International Journal of Web Information Systems,,C,,,B1,,,2.5,,21100200660,
+Journal of Ambient Intelligence and Smart Environments,1.7,,,,A4,,,1.8,,19700186867,
+Journal of Mobile Multimedia,,C,,,A4,,,,,19900192412,
+Journal of Systems and Software,3.5,A,,,A1,,19309,3.7,,,B
+Management Review Quarterly,,,,C,,,21100278302,,,,B
+PLOS ONE,3.7,,,,A1,,10600153309,2.9,,,B
+Scalable Computing: Practice and Experience,,,,,,,,0.9,,21100208072,
+User Modeling and User-Adapted Interaction,3.6,A,,,A1,,18947,3.0,,,
 LNCS,,,,C,,,,,,,
 LNI,,,,C,,,,,,,
+ACMMM,,,,,,A++,,,A*,,
+AMCIS,,,,D,A2,B,,,,,C
+BLED,,,,,,C,,,,,C
+CDVE,,,C,,B3,,,,C,,
+CHI,,,,,A1,A++,,,A*,,A
+CIKM,,,,,A1,A+,,,A,,
+CSCW,,,,,A1,A+,,,A,,B
+DocEng,,,B,,B1,B-,,,B,,
+ECAI,,,,,A2,A-,,,A,,
+ECIR,,,,,A2,A-,,,A,,
+ECIS,,,,B,A2,B,,,,,A
+ECSCW,,,,,,B,,,B,,C
+ED-MEDIA,,,B,,,,,,C,,
+FAccT,,,,,,,,,,,B
+FIE,,,C,,B1,B-,,,C,,
+HCII,,,,,,,,,,,B
+HICSS,,,,C,A1,A,,,,,B
+ICIS,,,,A,A1,A-,,,,,A
 iiWAS,,,C,,B1,,,,C,,
 INTERACT,,,B,,A2,B,,,B,,
-ISMIR,,,,,,A,,,,,
-MoMM,,,B,,,,,,C,,
-MobileHCI,,,B,,A1,A-,,,B,,
-DocEng,,,B,,B1,B-,,,B,,
-FIE,,,C,,B1,B-,,,C,,
-ED-MEDIA,,,B,,,,,,C,,
-HICSS,,,,C,A1,A,,,,,B
-ECIS,,,,B,A2,B,,,,,A
-ICIS,,,,A,A1,A-,,,,,A
-AMCIS,,,,D,A2,B,,,,,C
-WI,,,,C,,,,,,,B
+ISMIR,,,,,A1,A,,,,,
 ITiCSE,,,A,,A2,B,,,B,,
-CDVE,,,C,,B3,,,,C,,
-UMAP,,,B,,,B,,,B,,
-BLED,,,,,,,,,,,C
-FAccT,,,,,,,,,,,B
-CSCW,,,,,,,,,,,B
-IUI,,,,,,,,,,,B
-HCII,,,,,,,,,,,B
-ECSCW,,,,,,,,,,,C
+IUI,,,,,A2,A,,,A,,B
+MCIS,,,,,,,,,,,D
+MobileHCI,,,B,,A1,A-,,,B,,
+MoMM,,,B,,,,,,C,,
 MuC,,,,,,,,,,,C
-CHI,,,,,,,,,A*,,A
+RecSys,,,,,A1,A,,,A,,
+SIGIR,,,,,A1,A++,,,A*,,
+UMAP,,,B,,A2,B,,,B,,
+WI,,,,C,,,,,,,B
+WSDM,,,,,A1,A+,,,A,,

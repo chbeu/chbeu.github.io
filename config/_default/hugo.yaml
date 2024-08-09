@@ -58,7 +58,9 @@ related:
     - name: tags
       weight: 100
     - name: categories
-      weight: 70
+      weight: 30
+    - name: projects
+      weight: 40
 security:
   _merge: deep
   funcs:

@@ -28,7 +28,7 @@ image:
 projects: [multimethod]
 ---
 
-The survey paper on the evaluation of recommender systems with [Eva Zangerle](https://evazangerle.at) and [Alan Said](https://www.alansaid.com) was accepted for publication in [ACM Transaction on Recommender Systems (TORS)](http://tors.acm.org). The "Just Accepted" version is already online.
+The survey paper on the evaluation of recommender systems with [Eva Zangerle](https://evazangerle.at) and [Alan Said](https://alansaid.com) was accepted for publication in [ACM Transaction on Recommender Systems (TORS)](http://tors.acm.org). The "Just Accepted" version is already online.
 
 It is great that our collaboration on the [PERSPECTIVES workshop series](http://perspectives-ws.github.io) also led to this publication.
 

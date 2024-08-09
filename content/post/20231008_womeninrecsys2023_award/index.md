@@ -38,8 +38,8 @@ projects: [multimethods]
 It was both an honor and a pleasure presenting our work in the main program of RecSys 2023 in Singapore. I am also glad that Eva's "surprise appearance" worked out well :)
 
 
-{{< figure src="photo1.jpeg" caption="Presenting our work at RecSys 2023, 21 September 2023; Image credit: [**Alan Said**](https://www.alansaid.com)" numbered="false" >}}
-{{< figure src="photo2.jpeg" caption="Eva Zangerle's surprise appearance on screen; Image credit: [**Alan Said**](https://www.alansaid.com)" numbered="false" >}}
+{{< figure src="photo1.jpeg" caption="Presenting our work at RecSys 2023, 21 September 2023; Image credit: [**Alan Said**](https://alansaid.com)" numbered="false" >}}
+{{< figure src="photo2.jpeg" caption="Eva Zangerle's surprise appearance on screen; Image credit: [**Alan Said**](https://alansaid.com)" numbered="false" >}}
 
 
 <br><br>

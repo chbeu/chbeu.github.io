@@ -9,7 +9,6 @@
 	{{ if eq $i 0 }}
 		{{ $rankingtitle = ( index  $r 11 ) }}
 	{{end}}
-        {{ if and (strings.Contains  $.publication (index $r 0)) (index $r 11) }}<span class="btn btn-outline-primary btn-page-header btn-sm jif">{{ $rankingtitle }}: {{ index . 11}} </span>{{ end }}
+        {{ if and (eq  (trim $.publication "*") (index $r 0)) (index $r 11) }}<span class="btn btn-outline-primary btn-page-header btn-sm jif">{{ $rankingtitle }}: {{ index . 11}} </span>{{ end }}
        {{ if and (eq $.publication_short (index $r 0)) (index $r 4)}}<span class="btn btn-outline-primary btn-page-header btn-sm jif">{{ $rankingtitle }}: {{ index . 11}} </span>{{ end }}
     {{end}}
-
