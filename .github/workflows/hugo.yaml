@@ -1,5 +1,8 @@
 name: Deploy Hugo site to Pages
 
+env:
+  WC_HUGO_VERSION: '0.126.3'
+
 on:
   # Triggered by pushes to the 'main' branch
   push:
@@ -36,7 +39,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
 
       - name: Setup Pages
