@@ -1,5 +1,8 @@
 name: Deploy Hugo site to Pages after Google Scholar
 
+env:
+  WC_HUGO_VERSION: '0.126.3'
+
 on:
   # Triggered by completion of the "Extract Google Scholar Data, Write to JSON, and Push JSON" workflow
   workflow_run:
@@ -38,7 +41,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
 
       - name: Setup Pages
