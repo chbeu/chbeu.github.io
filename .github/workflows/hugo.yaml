@@ -1,7 +1,7 @@
 name: Deploy Hugo site to Pages
 
 env:
-  WC_HUGO_VERSION: '0.126.3'
+  WC_HUGO_VERSION: '0.124.1'
 
 on:
   # Triggered by pushes to the 'main' branch
