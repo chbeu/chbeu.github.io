@@ -34,7 +34,11 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-03-25T00:00:00Z"
 
-authors: [Andrés Ferraro, Lorenzo Porcaro, Peter Knees, Christine Bauer]
+authors:
+- Andrés Ferraro
+- Lorenzo Porcaro
+- Peter Knees
+- Christine Bauer
 tags: [workshop, MuRS, music, music recommender systems, music information retrieval, MIR, recommender systems, RecSys]
 categories:
   - event
@@ -57,3 +61,5 @@ links:
 
 #projects: []
 ---
+
+{{< cite page="ferraro-2024-murs" view="4" >}}

@@ -1,5 +1,5 @@
 ---
-title: "1st Workshop: Reflections on Recommender Systems Past, Present, and Future (INTROSPECTIVES 2024)"
+title: "1st Workshop: Reflections on Recommender Systems: Past, Present, and Future (INTROSPECTIVES)"
 cms_exclude: true
 type: talks
 type: talks
@@ -35,7 +35,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-03-25T00:00:00Z"
 
-authors: [Alan Said, Christine Bauer, Eva Zangerle]
+authors:
+- Alan Said
+- Christine Bauer
+- Eva Zangerle
 tags: [workshop, INTROSPECTIVES, recommender systems, RecSys, reflection, introspection]
 categories:
   - event
@@ -58,3 +61,6 @@ links:
 
 #projects: []
 ---
+
+
+{{< cite page="said-2024-introspectives" view="4" >}}
