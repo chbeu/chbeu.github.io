@@ -38,6 +38,10 @@ In this work, we examine that feedback loop to study whether algorithmic strateg
 #doi: 110.1145/3640457.3688163
 #authorizer: https://dl.acm.org/doi/10.1145/3640457.3688163?cid=81453628934
 links: 
+- icon: file
+  icon_pack: fa
+  name: Preprint
+  url: ferraro-2024-itsnotyou-preprint.pdf
 #- icon: github
 #  icon_pack: fab
 #  name: Code
