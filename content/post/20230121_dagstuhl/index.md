@@ -15,9 +15,10 @@ profile: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-#  caption: ""
+  caption: 'Dagstuhl Seminar 23031: Frontiers of Information Access Experimentation for Research and Education<br>
+  (Jan 15 – Jan 20, 2023)'
   focal_point: "Smart"
-#  preview_only: false
+  preview_only: false
   placement: 1
 
 projects: [multimethod]

@@ -25,6 +25,6 @@ I am looking forward to the symposium on 'Harmony & Dissonance: Generative AI in
 I am delighted that to have brilliant speakers at the symposium that look at the topic from different angles:
 composer and sound artist Marco Döttlinger, copyright expert Noah Martin, media artist Stephanie Meisl, music technology and AI expert Jordi Pons, and music business researcher Peter Tschmuck.
 
-For details, follow this [link to the event page](/events/ev12_genaiart2024/).
+For details, follow this [link to the event page](/events/genaiart2024/).
 
 

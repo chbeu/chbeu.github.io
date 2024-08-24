@@ -35,7 +35,7 @@ experience:
     #date_end: "2024-10-18"
     description: "co-located with [18th ACM Conference on Recommender Systems (RecSys 2024)](https://recsys.acm.org/recsys24/)<br><br>with Andrés Ferraro, Lorenzo Porcaro, and Peter Knees"
     company_url: "https://sites.google.com/view/murs-2024"
-  - company: "Dagstuhl Perspectives Workshop 24352: Dagstuhl Perspectives Workshop: Conversational Agents: A Framework for Evaluation (CAFE)"
+  - company: "Dagstuhl Perspectives Workshop 24352: Conversational Agents: A Framework for Evaluation (CAFE)"
     title: Dagstuhl Perspectives Workshop Co-Organizer
     date_start: "2024-08-25"
 #    date_end: "2024-08-30"
