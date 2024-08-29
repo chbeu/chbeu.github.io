@@ -38,9 +38,11 @@ experience:
   - company: "Dagstuhl Perspectives Workshop 24352: Conversational Agents: A Framework for Evaluation (CAFE)"
     title: Dagstuhl Perspectives Workshop Co-Organizer
     date_start: "2024-08-25"
-#    date_end: "2024-08-30"
+    date_end: "2024-08-30"
     company_logo: dagstuhl
-    description: "with Li Chen, Nicola Ferro, and Norbert Fuhr"
+    description: >-
+      with Li Chen, Nicola Ferro, and Norbert Fuhr<br><br>
+      ![Group photo of the Dagstuhl Perspectives Workshop 24352 participants](/images/variouspics/dagstuhl2024_24352.jpg)
     company_url: "https://www.dagstuhl.de/24352"
   - company: "Dagstuhl Seminar 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education"
     title: Dagstuhl Seminar Co-Organizer

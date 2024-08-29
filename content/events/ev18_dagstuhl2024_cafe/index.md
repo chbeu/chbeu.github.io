@@ -57,7 +57,7 @@ categories:
 featured: false
 
 image:
-  caption: 'Dagstuhl Perspectives Workshop 24352: Dagstuhl Perspectives Workshop: Conversational Agents: A Framework for Evaluation (CAFE)<br>
+  caption: 'Dagstuhl Perspectives Workshop 24352: Conversational Agents: A Framework for Evaluation (CAFE)<br>
   (Aug 25 – Aug 30, 2024)'
   focal_point: "Smart"
   preview_only: false
