@@ -29,6 +29,6 @@ profile: false
 projects: [multimethods]
 ---
 
-While I was in Dagstuhl end of May (co-organizing [Dagstuhl Seminar 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education](https://www.dagstuhl.de/24211) with [Alan Said](https://www.alansaid.com) and [Eva Zangerle](https://evazangerle.at)), I will return to Dagstuhl on Sunday for the [Dagstuhl Perspectives Workshop 24352: Conversational Agents: A Framework for Evaluation (CAFE)](https://www.dagstuhl.de/24352) co-organized with [Li Chen](https://www.comp.hkbu.edu.hk/~lichen/), [Nicola Ferro](https://www.dei.unipd.it/~ferro/), and [Norbert Fuhr](https://scholar.google.com/citations?user=p53Ht7UAAAAJ).
+While I was in Dagstuhl end of May (co-organizing [Dagstuhl Seminar 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education](https://www.dagstuhl.de/24211) with [Alan Said](https://www.alansaid.com) and [Eva Zangerle](https://evazangerle.at)), I will return to Dagstuhl on Sunday for the [Dagstuhl Perspectives Workshop 24352: Conversational Agents: A Framework for Evaluation (CAFE)](https://www.dagstuhl.de/24352), co-organized with [Li Chen](https://www.comp.hkbu.edu.hk/~lichen/), [Nicola Ferro](https://www.dei.unipd.it/~ferro/), and [Norbert Fuhr](https://scholar.google.com/citations?user=p53Ht7UAAAAJ).
 
 My last Dagstuhl seminar is close enough to (still) remember that it is a lot of work. It will never be that far away to clearly remember the atmosphere: Being at Dagstuhl with brilliant people is a blast!
