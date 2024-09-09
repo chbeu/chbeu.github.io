@@ -42,6 +42,10 @@ links:
   icon_pack: fa
   name: Preprint
   url: ferraro-2024-itsnotyou-preprint.pdf
+- icon: arxiv
+  icon_pack: ai
+  name: arXiv
+  url: https://doi.org/10.48550/arXiv.2409.03781
 #- icon: github
 #  icon_pack: fab
 #  name: Code
