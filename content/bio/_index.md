@@ -24,7 +24,7 @@ image:
   alt_text: "Portrait of Christine Bauer"
 ---
 
-Christine Bauer is a Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the Paris Lodron University Salzburg (PLUS), Austria. In this role, she is part of the Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT) initiative.
+Christine Bauer is a Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the Paris Lodron University Salzburg (PLUS), Austria. In this role, she is part of the Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT) initiative. Since 2024, she is Co-Lead of the program area "Intermediation. Music---Effect---Analysis" at the inter-university institution Science & Art.
 
 Her research activities center on interactive intelligent systems, where she integrates research on intelligent technologies, the interaction of humans with intelligent systems, and their interplay. Thereby, she takes a human-centered computing approach, where technology follows humans’ and society’s needs. Recently, she worked on context-aware recommender systems in the music and media domains. Core interests in her research activities are fairness and multi-method evaluations. 
 
