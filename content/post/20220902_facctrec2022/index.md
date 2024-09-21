@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Karlijn Dinnissen presents at FAccTRec 2022"
 subtitle: ""
 #summary: ""

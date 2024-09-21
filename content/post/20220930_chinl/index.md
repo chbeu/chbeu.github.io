@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "CHI Nederland features my work on conformity behavior across cultures"
 subtitle: ""
 #summary: ""

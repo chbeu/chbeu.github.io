@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Featured in episode 8 of the Recsperts podcast"
 subtitle: ""
 #summary: ""

@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Attending CHI 2022 in New Orleans"
 subtitle: ""
 summary: "It feels good to attend CHI 2022 on-site."

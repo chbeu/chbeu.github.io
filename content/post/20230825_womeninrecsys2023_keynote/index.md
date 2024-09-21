@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Keynote at Women in RecSys 2023"
 #subtitle: ""
 #summary: "I will give a keynote at the Women in RecSys 2023 Keynote Series on 30 August 2023."

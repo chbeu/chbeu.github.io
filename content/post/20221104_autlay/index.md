@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Guest lecture by Sven Müller from AutLay"
 subtitle: ""
 #summary: ""

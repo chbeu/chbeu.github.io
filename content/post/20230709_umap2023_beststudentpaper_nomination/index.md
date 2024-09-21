@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Nomination for Best Student Paper Award at UMAP 2023"
 subtitle: ""
 #summary: ""

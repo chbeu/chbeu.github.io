@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Best Reviewer Award at UMAP 2022"
 subtitle: ""
 #summary: ""

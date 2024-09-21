@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Launch of the new journal ACM Transactions on Recommender Systems (TORS)"
 subtitle: ""
 summary: "The new journal ACM Transactions on Recommender Systems (TORS) has launched its website and is ready to accept submissions."

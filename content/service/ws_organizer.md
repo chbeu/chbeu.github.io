@@ -12,8 +12,6 @@ weight: 25
 title: 'Workshop and Meetup Organizer' #'Service to the Community'
 #subtitle: Workshop and Meetup Organizer
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
 # Experiences.

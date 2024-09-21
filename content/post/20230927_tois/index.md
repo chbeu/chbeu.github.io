@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Joined the TOIS Editorial Board as an Associate Editor"
 #subtitle: ""
 summary: "Joined the TOIS Editorial Board as an AE."

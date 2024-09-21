@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "New website goes online"
 subtitle: ""
 summary: "I completely redesigned my website."

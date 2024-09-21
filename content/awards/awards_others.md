@@ -12,8 +12,6 @@ weight: 30
 title: 'Awards & Honors'
 subtitle: Other nominations
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
 # Accomplishments.

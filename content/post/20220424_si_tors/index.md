@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Special Issue 'Perspectives on Recommender Systems Evaluation' @ TORS"
 subtitle: ""
 summary: "Together with Eva Zangerle and Alan Said, I am Guest Editor for the Special Issue 'Perspectives on Recommender Systems Evaluation' in the journal ACM Transactions on Recommender Systems."

@@ -12,8 +12,6 @@ weight: 25
 title: 'Awards & Honors'
 subtitle: Reviewing activities
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
 # Accomplishments.

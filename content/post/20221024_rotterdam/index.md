@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Guest lecture at the Erasmus University Rotterdam"
 subtitle: ""
 #summary: ""

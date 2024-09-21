@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Tutorial at ISMIR 2022: Trustworthy MIR: Creating MIR applications with values"
 subtitle: ""
 summary: "Glad that we wild hold a tutorial at ISMIR 2022 on trustworthy music information retrieval (MIR). The goal is to create MIR applications with values."

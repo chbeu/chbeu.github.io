@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Co-Chair of PERSPECTIVES 2022"
 subtitle: ""
 summary: "PERSPECTIVES 2022: The workshop 'Perspectives on the Evaluation of Recommender Systems' is back at RecSys 2022."

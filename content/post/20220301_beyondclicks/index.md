@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Kick-off meeting of our project on value-driven recommendations."
 subtitle: ""
 summary: ""

@@ -1,8 +1,6 @@
 ---
 summary: "This page lists my pc-chairing activities."  # Add a page description.
 
-# An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
 # This file represents a page section.
@@ -15,8 +13,6 @@ weight: 15
 title: Conference Organization #PC Co-Chair #'Service to the Community'
 #subtitle: PC Co-Chair
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
 # Experiences.

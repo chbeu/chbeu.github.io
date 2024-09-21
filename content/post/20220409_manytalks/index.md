@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Many talks last week"
 subtitle: ""
 summary: "I had a busy week with talks. Great that we have not the opportunity for online talks to connect across continents."
