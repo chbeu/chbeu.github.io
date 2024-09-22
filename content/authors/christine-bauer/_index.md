@@ -132,7 +132,7 @@ email: "chb@christinebauer.eu"
 highlight_name: true
 ---
 
-Christine Bauer is a Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the Paris Lodron University Salzburg (PLUS), Austria, and a Co-Lead of the program area "Intermediation. Music---Effect---Analysis" at the inter-university institution Science & Art.
+Christine Bauer is a Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the Paris Lodron University Salzburg (PLUS), Austria, and a Co-Lead of the program area "Intermediation. Music---Effect---Analysis" at the inter-university institution Science & Arts.
 
 Her research activities center on **interactive intelligent systems**, where she integrates research on intelligent technologies, the interaction of humans with intelligent systems, and their interplay. She takes a **human-centered computing approach**, where technology follows humans’ and society’s needs. Recently, she has focused on context-aware **recommender systems** and concentrates on recommender systems in the music and media sectors in particular. Core interests in her research activities are **fairness** in algorithmic decision-making and **multi-method evaluation**.   
 <!-- She co-organized the workshop series ["Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES)"](https://perspectives-ws.github.io). -->
