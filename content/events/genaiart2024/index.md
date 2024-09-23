@@ -84,4 +84,4 @@ Sound installations by selected composers → Orangerie Garden in the Mirabell G
 
 Main organizer is Christine Bauer, Department of Artificial Intelligence and Human Interfaces, Paris Lodron University Salzburg
 
-Organized by focus area [(Inter)Mediation. Music---Mediation---Context / Inter-University Organization Science & Arts, Paris Lodron University Salzburg/Mozarteum University Salzburg](https://w-k.sbg.ac.at/en/intermediation-musik-vermittlung-kontext/) in cooperation with the Department Artificial Intelligence and Human Interfaces of Paris Lodron University Salzburg in the lecture series Musik & Mathematik.
+Organized by focus area [(Inter)Mediation. Music---Mediation---Context / Inter-University Organization Wissenschaft & Kunst, Paris Lodron University Salzburg/Mozarteum University Salzburg](https://w-k.sbg.ac.at/en/intermediation-musik-vermittlung-kontext/) in cooperation with the Department Artificial Intelligence and Human Interfaces of Paris Lodron University Salzburg in the lecture series Musik & Mathematik.
