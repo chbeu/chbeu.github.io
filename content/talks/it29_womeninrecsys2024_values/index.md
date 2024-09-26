@@ -11,7 +11,7 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 
-event: Women in RecSys 2024, 18th ACM Conference on Recommender Systems (RecSys 2024)
+event: 18th ACM Conference on Recommender Systems (RecSys 2024)
 event_url: "https://recsys.acm.org/recsys24/"
 
 location:  Politecnico di Bari at University Campus

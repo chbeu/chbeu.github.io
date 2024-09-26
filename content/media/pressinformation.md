@@ -46,7 +46,7 @@ cta_note:
        <br><br> 
     Während ihrer akademischen Laufbahn war sie an verschiedenen Institutionen tätig, unter anderem als Assistenzprofessorin an der Universität Utrecht in den Niederlanden, als Senior Postdoc Researcher an der Johannes Kepler Universität Linz in Österreich, als Visiting Fellow an der Carnegie Mellon University in den USA und als Assistenzprofessorin an der WU Wien in Österreich.
        <br><br> 
-    Sie ist Autorin von über 110 Publikationen, darunter preisgekrönte Forschungsarbeiten. Ihr Fachwissen wurde auch durch mehrere Auszeichnungen für ihre herausragenden Beiträge als Gutachterin gewürdigt. Darüber hinaus ist sie Trägerin der renommierten Elise-Richter-Förderung für das vom Österreichischen Wissenschaftsfonds (FWF) geförderte Projekt "Fine-grained Culture-aware Music Recommender Systems". In diesem Projekt untersuchte sie kulturelle Unterschiede in Musikpräferenzen und entwickelte Modelle und algorithmische Ansätze für Musikempfehlungssysteme, die diese kulturellen Unterschiede berücksichtigen.
+    Sie ist Autorin von über 130 Publikationen, darunter preisgekrönte Forschungsarbeiten. Ihr Fachwissen wurde auch durch mehrere Auszeichnungen für ihre herausragenden Beiträge als Gutachterin gewürdigt. Darüber hinaus ist sie Trägerin der renommierten Elise-Richter-Förderung für das vom Österreichischen Wissenschaftsfonds (FWF) geförderte Projekt "Fine-grained Culture-aware Music Recommender Systems". In diesem Projekt untersuchte sie kulturelle Unterschiede in Musikpräferenzen und entwickelte Modelle und algorithmische Ansätze für Musikempfehlungssysteme, die diese kulturellen Unterschiede berücksichtigen.
     {{< /spoiler >}}
 
 # Choose an optional background color, gradient, image, or video
