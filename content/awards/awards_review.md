@@ -84,7 +84,7 @@ item:
 - organization: "RecSys 2018"
   title: "Best Reviewer Runner-up"
   description: "12th ACM Conference on Recommender Systems (RecSys 2018)"
-  certificate_url: ""
+  certificate_url: "../images/awards/recsys2018_bestreviewerrunnerup.jpg"
   organization_url: "https://recsys.acm.org/recsys18/"
   url: "https://recsys.acm.org/recsys-best-reviewers/"
   date_start: "2018-09-01"
