@@ -32,6 +32,6 @@ publication_short: RecSys 2024
 
 abstract: 'With the RecSys conference now turning 18 years old, the recommender systems (RS) discipline ventures into adulthood. This workshop serves as a platform for introspection, examining the evolution of RS from its origins in CHI to its current state heavily influenced by and focusing on machine learning. The INTROSPECTIVES workshop aims to foster discussions on the past, present, and future of the RS discipline, inviting the community to reflect on key questions such as the maturation of RS, shifts in research focus, and the impact and success of RS in practice. Topics include the changing landscape of RS problems, the evolving role of RS in addressing choice overload to the current motivations driving RS adoption.'
 
-#doi: 10.1145/3640457.3687101
-#authorizer: https://dl.acm.org/doi/10.1145/3640457.3687101?cid=81453628934
+doi: 10.1145/3640457.3687101
+authorizer: https://dl.acm.org/doi/10.1145/3640457.3687101?cid=81453628934
 ---
