@@ -45,11 +45,10 @@ links:
   name: arXiv
   url: https://doi.org/10.48550/arXiv.2409.03781
 #- icon: github
-#- icon: github
 #  icon_pack: fab
 #  name: Code
 #  url: 
-#zenodo: 
+zenodo: 10.5281/zenodo.13915653
 altmetric: true
 plumx: false
 dimensions: false
