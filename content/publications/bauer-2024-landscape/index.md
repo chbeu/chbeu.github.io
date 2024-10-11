@@ -35,4 +35,5 @@ abstract: "Recommender systems research and practice are fast-developing topics 
 
 doi: 10.1145/3629170
 authorizer: https://dl.acm.org/doi/10.1145/3629170?cid=81453628934
+url_poster: bauer-2024-landscape-poster.pdf
 ---

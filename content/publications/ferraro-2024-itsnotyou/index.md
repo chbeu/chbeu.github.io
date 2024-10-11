@@ -21,6 +21,7 @@ profile: false
 image:
   caption: ''
   focal_point: ''
+  placement: 1
   preview_only: false
 
 
@@ -35,13 +36,15 @@ abstract: "As recommender systems are prone to various biases, mitigation approa
 
 In this work, we examine that feedback loop to study whether algorithmic strategies or user behavior are a greater contributor to ongoing improvement (or loss) in fairness as models are repeatedly re-trained on new user feedback data. We simulate user interaction and re-training to investigate the effects of ranking strategies and user choice models on gender fairness metrics. We find re-ranking strategies have a greater effect than user choice models on recommendation fairness over time."
 
-doi: 110.1145/3640457.3688163
+doi: 10.1145/3640457.3688163
 authorizer: https://dl.acm.org/doi/10.1145/3640457.3688163?cid=81453628934
+url_poster: ferraro-2024-itsnotyou-poster.pdf
 links: 
 - icon: arxiv
   icon_pack: ai
   name: arXiv
   url: https://doi.org/10.48550/arXiv.2409.03781
+#- icon: github
 #- icon: github
 #  icon_pack: fab
 #  name: Code
