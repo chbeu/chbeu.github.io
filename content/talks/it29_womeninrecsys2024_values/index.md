@@ -14,7 +14,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 event: 18th ACM Conference on Recommender Systems (RecSys 2024)
 event_url: "https://recsys.acm.org/recsys24/"
 
-location:  Politecnico di Bari at University Campus
+location:  Teatro Petruzzell
 address:
 #  street: 
   city: Bari
@@ -53,7 +53,7 @@ image:
   
 # links:
 # Optional filename of your slides within your event's folder or a URL.
-#url_slides: ""
+url_slides: "it29_womeninrecsys2024_values-slides.pdf"
 #url_video: ""
 #url_code: ""
 #url_pdf:  ""
