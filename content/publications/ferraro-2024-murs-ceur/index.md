@@ -11,7 +11,7 @@ authors:
 - Christine Bauer
 tags: [workshop, MuRS, music, music recommender systems, music information retrieval, MIR, recommender systems, RecSys]
 categories: []
-date: '2024-10-11' 
+date: '2024-10-14' 
 featured: false
 draft: false
 profile: false
