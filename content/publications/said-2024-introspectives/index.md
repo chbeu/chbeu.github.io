@@ -10,7 +10,7 @@ authors:
 - Eva Zangerle
 tags: [workshop, INTROSPECTIVES, recommender systems, RecSys, reflection, introspection]
 categories: []
-date: '2024-10-18' 
+date: '2024-10-08' 
 featured: false
 draft: false
 profile: false
@@ -25,7 +25,7 @@ profile: false
 
 
 projects: [multimethod]
-publishDate: '2024-08-14T01:13:45.839142Z'
+publishDate: '2024-10-08T01:13:45.839142Z'
 publication_types: [paper-conference]
 publication: '*18th ACM Conference on Recommender Systems*'
 publication_short: RecSys 2024

@@ -10,7 +10,7 @@ authors:
 - Christine Bauer
 tags: [gender, user choice models, re-ranking, RecSys, music, recommender systems, artists, simulation, bias, fairness]
 categories: []
-date: 2024-10-14 #14-18 October
+date: 2024-10-08 #14-18 October
 featured: false
 draft: false
 profile: false
@@ -26,7 +26,7 @@ image:
 
 
 projects: [SpART2020]
-publishDate: '2024-08-09T01:00:00.551607Z'
+publishDate: '2024-10-08T01:00:00.551607Z'
 publication_types: [paper-conference]
 publication: '*18th ACM Conference on Recommender Systems*'
 publication_short: RecSys 2024
