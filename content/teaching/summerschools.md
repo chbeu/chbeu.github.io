@@ -18,7 +18,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 
 
 ---
-- [ACM Summer School on Recommender Systems (RecSys 2024 Summer School)](https://acmrecsys.github.io/rsss2024/), Bari, Italy, October 2024
+- [ACM Europe School on Recommender Systems (RecSys 2024 Summer School)](https://acmrecsys.github.io/rsss2024/), Bari, Italy, October 2024
   - Session on “Fantastic Reviews—and how to write them" with Olivier Jeunen
 - [15th European Summer School on Information Retrieval (ELLIS ESSIR 2024)](https://2024.essir.eu/), Amsterdam, The Netherlands, July 2024
   - Session on “How to do reviews", prepared together with Olivier Jeunen

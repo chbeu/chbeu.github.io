@@ -36,5 +36,5 @@ The RecSys conference has traditionally not focused very much on music content u
 The Music Recommender Systems Workshop (MuRS) aims at bridging the existing gap between the diverse research communities focused on the specific challenges of music recommender systems. The workshop provides a space for researchers and practitioners from multiple disciplines to jointly discuss and exchange perspectives and solutions, and to promote discussion from both academia and industry upon future research directions in the area of music recommender systems.'
 
 doi: 10.1145/3640457.3687097
-authorizer: https://dl.acm.org/doi/10.1145/3640457.368709?cid=81453628934
+authorizer: https://dl.acm.org/doi/10.1145/3640457.3687097?cid=81453628934
 ---

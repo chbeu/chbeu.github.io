@@ -30,7 +30,7 @@ experience:
     title: Workshop Co-Organizer
     company_logo: murs_2024
     date_start: "2024-10-14"
-    #date_end: "2024-10-18"
+    date_end: "2024-10-14"
     description: "co-located with [18th ACM Conference on Recommender Systems (RecSys 2024)](https://recsys.acm.org/recsys24/)<br><br>with Andrés Ferraro, Lorenzo Porcaro, and Peter Knees<br>
       [See proceedings](https://ceur-ws.org/Vol-3787/)"
     company_url: "https://sites.google.com/view/murs-2024"
