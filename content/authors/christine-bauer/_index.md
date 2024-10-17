@@ -104,13 +104,17 @@ social:
   icon_pack: ai
   icon_title: Zotero
   link: https://www.zotero.org/christine_bauer/cv
-- icon: impactstory
-  icon_pack: ai
-  link: https://profiles.impactstory.org/u/0000-0001-5724-1137
+#- icon: impactstory
+#  icon_pack: ai
+#  link: https://profiles.impactstory.org/u/0000-0001-5724-1137
 #- icon: circle-notch
 #  icon_pack: fas
 #  icon_title: rescognito
 #  link: https://rescognito.com/0000-0001-5724-1137
+- icon: chart-bar
+  icon_pack: far
+  icon_title: Top 2% Scientists
+  link: https://topresearcherslist.com/Home/Profile?AuthFull=Bauer,%20Christine&FirstYear=2006
 - icon: female
   icon_pack: fas
   icon_title: Speakerinnen
