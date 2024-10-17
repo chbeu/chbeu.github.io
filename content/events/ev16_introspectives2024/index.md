@@ -15,7 +15,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 event: "1st Workshop: Reflections on Recommender Systems Past, Present, and Future (INTROSPECTIVES 2024), co-located with RecSys 2024"
 event_url: "https://introspectives.github.io/2024/"
 
-location:  Politecnico di Bari at University Campus
+location:  Politecnico di Bari, University Campus, Aula Magna
 address:
 #  street: 
   city: Bari
@@ -62,5 +62,9 @@ links:
 #projects: []
 ---
 
+## Highlights
+* Keynote "People Who Liked This Also Liked … A Publication Analysis of Three Decades of Recommender Systems" by [Barry Smyth](https://barrysmyth.me/)
+* Panel with [Peter Brusilovsky](https://www.sci.pitt.edu/people/peter-brusilovsky), [Olivier Jeunen](https://olivierjeunen.github.io), and [Sole Pera](https://solepera.github.io)   
 
+<br>
 {{< cite page="said-2024-introspectives" view="4" >}}
