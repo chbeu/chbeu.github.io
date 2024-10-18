@@ -60,11 +60,39 @@ links:
 #url_proceedings: 
 
 #projects: []
+
+gallery_item:
+- album: ev16_introspectives2024
+  image: 1_eva.jpeg
+  caption: 'Eva Zangerle opening the workshop.'
+- album: ev16_introspectives2024
+  image: 2_barry2.jpeg
+  caption: 'Keynote by Barry Smyth.' 
+- album: ev16_introspectives2024
+  image: 3_keynote.jpeg
+  caption: 'Keynote by Barry Smyth.' 
+- album: ev16_introspectives2024
+  image: 4_barry1.jpeg
+  caption: 'Keynote by Barry Smyth.' 
+- album: ev16_introspectives2024
+  image: 5_barry3.jpeg
+  caption: 'Keynote by Barry Smyth.' 
+- album: ev16_introspectives2024
+  image: 6_audience.jpeg
+  caption: 'Panel with Peter Brusilovsky, Olivier Jeunen, and Sole Pera.' 
+- album: ev16_introspectives2024
+  image: 7_panel.jpeg
+  caption: 'Panel with Peter Brusilovsky, Olivier Jeunen, and Sole Pera.' 
 ---
 
 ## Highlights
 * Keynote "People Who Liked This Also Liked … A Publication Analysis of Three Decades of Recommender Systems" by [Barry Smyth](https://barrysmyth.me/)
 * Panel with [Peter Brusilovsky](https://www.sci.pitt.edu/people/peter-brusilovsky), [Olivier Jeunen](https://olivierjeunen.github.io), and [Sole Pera](https://solepera.github.io)   
 
+<br>
+
+{{< gallery album="ev16_introspectives2024" >}}
+
+<br>
 <br>
 {{< cite page="said-2024-introspectives" view="4" >}}
