@@ -1,7 +1,7 @@
 ---
 type: publication
 
-title: Proceedings of the Perspectives on the Evaluation of Recommender Systems Workshop 2023
+title: Proceedings of the 3rd Workshop Perspectives on the Evaluation of Recommender Systems 2023
 subtitle: ''
 summary: ''
 authors:
@@ -33,6 +33,6 @@ The goal of the PERSPECTIVES workshop series is to capture the current state of 
 We received eight paper contributions and three abstract submissions for the workshop. Each paper contribution received three reviews. We selected five papers and one abstract for publication.
 We would like to thank the members of the program committee for their valuable reviews and suggestions. We also thank the authors for their submissions and contributions to the workshop.'
 
-#publication: 'Proceedings of the Perspectives on the Evaluation of Recommender Systems Workshop 2023'
+#publication: 'Proceedings of the 3rd Workshop Perspectives on the Evaluation of Recommender Systems 2023'
 url_proceedings: 'https://ceur-ws.org/Vol-3476/'
 ---

@@ -25,7 +25,7 @@ feature:
   icon: award
   icon_pack: fas
 - name: Teaching
-  description: 30 different courses across 17 institutions<br>ELLIS ESSIR, RecSys Summer School, <br>Italian National PhD Program in AI<br>Tutorials at UMAP and ISMIR<br>Supervision of >70 theses
+  description: 30 different courses across 16 institutions<br>ESSIR, RecSys Summer School, <br>Italian National PhD Program in AI<br>Tutorials at UMAP and ISMIR<br>Supervision of >70 theses
   icon: chalkboard-teacher
   icon_pack: fas
 - name: Community service
@@ -37,11 +37,11 @@ feature:
   icon: bullhorn
   icon_pack: fas
 - name: International experience
-  description: Research experience in 4 countries (AT, DE, NL, US)<br>Teaching experience in 6 countries (AT, DE, IT, NL, SE, US)
+  description: Research experience in 4 countries (AT, DE, NL, US)<br>Teaching experience in 4 countries (AT, DE, NL, SE)
   icon: globe
   icon_pack: fas
 - name: Mentoring
-  description: WiMIR Mentoring since 2018<br>Queen Mary University of London since 2021<br>Allyship Co-Chair at CHI 2023+2022<br>Doctoral/PhD Symposium Co-Chair at RecSys 2023+2021 and CIKM 2023
+  description: WiMIR Mentoring since 2018<br>Queen Mary University of London 2021--2024<br>Allyship Co-Chair at CHI 2023+2022<br>Doctoral/PhD Symposium Co-Chair at RecSys 2023+2021 and CIKM 2023
   icon: hands-helping
   icon_pack: fas
 
