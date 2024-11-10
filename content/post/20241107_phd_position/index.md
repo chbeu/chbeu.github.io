@@ -1,7 +1,7 @@
 ---
 title: "PhD position in my team at Paris Lodron University Salzburg"
 subtitle: ""
-summary: "We seek **doctoral researcher (= PhD position)** with a focus on **fairness in recommender systems** in the music sector or a related field in the media sector. Funded position."
+summary: "We seek a **doctoral researcher (= PhD position)** with a focus on **fairness in recommender systems** in the music sector or a related field in the media sector. Funded position."
 authors: 
 #authors: [Christine Bauer]
 categories: [news]
@@ -29,10 +29,10 @@ image:
 #projects: []
 ---
 
-To strengthen our interdisciplinary research team, we seek a doctoral researcher with a focus on **fairness in recommender systems** in the music sector or a related field in the media sector. Fully-funded position.
-It is a funded PhD position (30h/week; for 4 years).
+To strengthen our interdisciplinary research team, we seek a doctoral researcher with a focus on **fairness in recommender systems** in the music sector or a related field in the media sector. It is a funded PhD position (30h/week; for 4 years).
 
-Candidates are expected to integrate well into a genuinely interdisciplinary research setting and demonstrate a strong interest in recommender systems. We seek candidates with **strong foundation in computational methods, as they apply to recommender systems research**, who are **equally motivated to incorporate human-centered insights into their work**.
+We seek candidates with **strong foundation in computational methods, as they apply to recommender systems research**, who are **equally motivated to incorporate human-centered insights into their work**.   
+Candidates are expected to integrate well into a genuinely interdisciplinary research setting and demonstrate a strong interest in recommender systems. 
 
 This position is part of the 'Excellence in Digital Sciences and Interdisciplinary Technologies' (EXDIGIT) initiative at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at Paris Lodron University Salzburg, Austria.  
 
