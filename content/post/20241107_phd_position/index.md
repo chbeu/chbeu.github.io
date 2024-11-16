@@ -1,5 +1,5 @@
 ---
-title: "PhD position in my team at Paris Lodron University Salzburg"
+title: "PhD position in my team in Salzburg (Austria)"
 subtitle: ""
 summary: "We seek a **doctoral researcher (= PhD position)** with a focus on **fairness in recommender systems** in the music sector or a related field in the media sector. Funded position."
 authors: 
