@@ -11,7 +11,7 @@ authors:
 tags: [gender, user choice models, re-ranking, RecSys, music, recommender systems, artists, simulation, bias, fairness]
 categories: []
 date: 2024-10-08 #14-18 October
-featured: false
+featured: true
 draft: false
 profile: false
 

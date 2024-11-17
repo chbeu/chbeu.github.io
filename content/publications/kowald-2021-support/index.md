@@ -15,7 +15,7 @@ tags: [recommender systems, bias, mainstreaminess]
 categories: []
 date: '2021-01-01'
 lastmod: 2021-08-08T03:11:11+02:00
-featured: true
+featured: false
 draft: false
 profile: false
 

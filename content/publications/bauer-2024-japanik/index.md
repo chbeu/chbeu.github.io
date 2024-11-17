@@ -9,7 +9,7 @@ authors:
 tags: [artificial intelligence, genAI, tech panic cycle, culture, arts]
 categories: []
 date: 2024-09-20
-featured: true
+featured: false
 draft: false
 profile: false
 

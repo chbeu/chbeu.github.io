@@ -20,7 +20,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: "Christine Bauer is a Professor of Interactive Intelligent Systems."
+    description: "Christine Bauer is a Professor of Interactive Intelligent Systems at Paris Lodron University Salzburg, Austria. Her research focuses on recommender systems, fairness, and multi-method evaluation."
     twitter: 'christine_bauer'
   analytics:
     google_analytics: 'tvdmEZ0WrN-QEAz6MIcKMQxy_uIi54hcQ17R_XWHJ6o'
@@ -33,7 +33,7 @@ sharing_image: 'sharing'
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo: ''
+#logo: ''
 
 
 # Site header
