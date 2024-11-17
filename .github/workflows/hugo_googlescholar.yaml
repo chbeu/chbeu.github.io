@@ -1,7 +1,7 @@
 name: Deploy Hugo site to Pages after Google Scholar
 
 env:
-  WC_HUGO_VERSION: '0.124.1'
+  WC_HUGO_VERSION: '0.136.5'
 
 on:
   # Triggered by completion of the "Extract Google Scholar Data, Write to JSON, and Push JSON" workflow
