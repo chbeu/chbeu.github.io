@@ -123,8 +123,8 @@ social:
   icon_pack: fab
   icon_title: YouTube
   link: https://youtube.com/playlist?list=PLqbYVfUvEtIM-f6VGvzTBrhUsFDCufKXQ
-- icon: square
-  icon_pack: fas
+- icon: bluesky
+  icon_pack: fab
   icon_title: Blue Sky
   link: https://bsky.app/profile/christinebauer.bsky.social
 
@@ -136,8 +136,8 @@ email: "chb@christinebauer.eu"
 highlight_name: true
 ---
 
-Christine Bauer is a Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the [Paris Lodron University Salzburg (PLUS)](https://www.plus.ac.at), Austria, and a Co-Lead of the program area [InterMediation. Music---Effect---Analysis](https://w-k.sbg.ac.at/en/intermediation-music-effect-analysis-2024-28/) at the inter-university institution Wissenschaft & Kunst.
+Christine Bauer is a Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the [Paris Lodron University Salzburg (PLUS)](https://www.plus.ac.at), Austria, and a Co-Lead of the focus area [InterMediation. Music---Effect---Analysis](https://w-k.sbg.ac.at/en/intermediation-music-effect-analysis-2024-28/) at the inter-university institution Wissenschaft & Kunst.
 
-Her research activities center on **interactive intelligent systems**, where she integrates research on intelligent technologies, the interaction of humans with intelligent systems, and their interplay. She takes a **human-centered computing approach**, where technology follows humans’ and society’s needs. Recently, she has focused on context-aware **recommender systems** and concentrates on recommender systems in the music and media sectors in particular. Core interests in her research activities are **fairness** in algorithmic decision-making and **multi-method evaluation**.   
+Her research activities center on **interactive intelligent systems**, whereby she integrates research on intelligent technologies, the interaction of humans with intelligent systems, and their interplay. She takes a **human-centered computing approach**, where technology follows humans’ and society’s needs. Recently, she has focused on context-aware **recommender systems** and concentrates on recommender systems in the music and media sectors in particular. Core interests in her research activities are **fairness** in algorithmic decision-making and **multi-method evaluation**.   
 <!-- She co-organized the workshop series ["Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES)"](https://perspectives-ws.github.io). -->
 She advocates equal opportunities, is a member of the [working group on equal opportunities (AKG)](https://www.plus.ac.at/akg/), and engages in initiatives such as [Women in Music Information Retrieval (WiMIR)](https://wimir.wordpress.com) and the Allyship program at CHI.
