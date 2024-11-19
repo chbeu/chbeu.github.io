@@ -1,0 +1,63 @@
+---
+title: "Fairness in algorithmic decision-making: The effects of bias mitigation strategies in music recommender systems"
+cms_exclude: true
+
+
+draft: false
+reading_time: false  # Show estimated reading time?
+share: true  # Show social sharing links?
+profile: false  # Show author profile?
+commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
+editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
+
+
+event: Forschungsseminar BWL, Department of Business, Paris Lodron University Salzburg
+event_url: "https://www.plus.ac.at/bwl/forschung/"
+
+location:  Paris Lodron University Salzburg
+address:
+  street: Sigmund Haffner Gasse 18/III, HS 888
+  city: Salzburg
+#  region: WA
+  postcode: '5020'
+  country: Austria
+  
+summary: Invited talk for the "Forschungsseminar BWL" at the Department of Business at Paris Lodron University Salzburg.
+abstract: "Fairness in algorithmic decision-making is a critical concern across various domains. In this talk, I focus on the music domain, where recommender systems have become indispensable, helping users navigate vast catalogs by suggesting similar artists or the next track to play. While these systems' goal is to recommend the ‘right music to the right person at the right moment’, they often fall short of this ideal, raising questions about fairness and bias. In this talk, I focus on fairness from the perspective of artists, addressing how biases—such as gender bias—manifest in music recommendations and affect artist exposure. I will present research findings on gender bias and explore strategies for their mitigation."
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: 2024-11-20T16:30:00.000Z
+date_end: 2024-11-20 18:30:00
+all_day: false
+
+# Schedule page publish date (NOT event date).
+publishDate: 2024-11-19T00:00:00+01:00
+
+authors:
+- Christine Bauer
+#- Karin van Es
+tags: [talk, fairness, algorithmic decision-making, recommender systems, gender bias, music, artists]
+
+# Is this a featured event? (true/false)
+featured: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: 'Smart'
+  preview_only: false
+  placement: 1
+  
+# links:
+# Optional filename of your slides within your event's folder or a URL.
+#url_slides: ""
+#url_video: ""
+#url_code: ""
+#url_pdf:  ""
+
+
+projects: [SpART2020]
+---
