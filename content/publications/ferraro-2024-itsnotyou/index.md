@@ -5,7 +5,7 @@ title: "It's not you, it's me: the impact of choice models and ranking strategie
 subtitle: ''
 summary: ''
 authors:
-- Andrés Ferraro
+- Andres Ferraro
 - Michael D. Ekstrand
 - Christine Bauer
 tags: [gender, user choice models, re-ranking, RecSys, music, recommender systems, artists, simulation, bias, fairness]

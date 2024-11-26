@@ -7,7 +7,7 @@ title: What is fair? Exploring the artists' perspective on the fairness of music
 subtitle: ''
 summary: ''
 authors:
-- Andrés Ferraro
+- Andres Ferraro
 - Xavier Serra
 - Christine Bauer
 tags: []

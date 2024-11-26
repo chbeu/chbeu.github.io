@@ -5,7 +5,7 @@ title: 'MuRS 2024: 2nd Music Recommender Systems Workshop'
 subtitle: ''
 summary: ''
 authors:
-- Andrés Ferraro
+- Andres Ferraro
 - Lorenzo Porcaro
 - Peter Knees
 - Christine Bauer

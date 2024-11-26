@@ -5,7 +5,7 @@ title: 'Proceedings of the 2nd Music Recommender Systems Workshop 2024'
 subtitle: ''
 summary: ''
 authors:
-- Andrés Ferraro
+- Andres Ferraro
 - Lorenzo Porcaro
 - Peter Knees
 - Christine Bauer

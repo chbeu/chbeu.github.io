@@ -5,7 +5,7 @@ title: 'Break the loop: gender imbalance in music recommenders'
 subtitle: ''
 summary: ''
 authors:
-- Andrés Ferraro
+- Andres Ferraro
 - Xavier Serra
 - Christine Bauer
 tags: [gender, CHIIR, music, recommender systems, artists, simulation]

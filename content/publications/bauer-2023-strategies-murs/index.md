@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Christine Bauer
-- Andrés Ferraro
+- Andres Ferraro
 tags: [recommender systems, fairness, gender bias, bias, gender, simulation]
 categories: []
 date: 2023-09-19
