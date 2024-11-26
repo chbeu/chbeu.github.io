@@ -50,6 +50,7 @@ experience:
     company_logo: dagstuhl
     description: >-
       with Alan Said and Eva Zangerle<br><br>
+      [See the Dagstuhl report](/publications/bauer-2024-dagstuhl-perspectives/)<br><br>
       ![Group photo of the Dagstuhl Seminar 24211 participants](/images/variouspics/dagstuhl2024_24211.jpg)
     company_url: "https://www.dagstuhl.de/24211"
   - company: "PERSPECTIVES 2023: 3rd Workshop on the Perspectives on the Evaluation of Recommender Systems"
