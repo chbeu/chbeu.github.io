@@ -60,7 +60,11 @@ social:
   icon_pack: fab
   icon_title: LinkedIn
   link: https://www.linkedin.com/in/christinebauer/
-- icon: twitter
+- icon: bluesky
+  icon_pack: fab
+  icon_title: Blue Sky
+  link: https://bsky.app/profile/christinebauer.bsky.social
+- icon: x-twitter
   icon_pack: fab
   icon_title: X (formerly Twitter)
   link: https://twitter.com/christine_bauer
@@ -115,18 +119,19 @@ social:
   icon_pack: far
   icon_title: Top 2% Scientists
   link: https://topresearcherslist.com/Home/Profile?AuthFull=Bauer,%20Christine&FirstYear=2006
-- icon: female
+- icon: person-dress
   icon_pack: fas
   icon_title: Speakerinnen
   link: https://speakerinnen.org/de/profiles/1754
+- icon: person-dress
+  icon_pack: fas
+  icon_title: Frauendomaene  
+  link: https://www.frauendomaene.at/user/christinebauer1/
 - icon: youtube
   icon_pack: fab
   icon_title: YouTube
   link: https://youtube.com/playlist?list=PLqbYVfUvEtIM-f6VGvzTBrhUsFDCufKXQ
-- icon: bluesky
-  icon_pack: fab
-  icon_title: Blue Sky
-  link: https://bsky.app/profile/christinebauer.bsky.social
+
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
