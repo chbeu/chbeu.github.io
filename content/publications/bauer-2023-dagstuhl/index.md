@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Christine Bauer
 - Ben Carterette
-- Norbert Fuhr
 - Nicola Ferro
+- Norbert Fuhr
 - Guglielmo Faggioli
 tags: [information retrieval, recommender systems, evaluation, information access, experimentation, Dagstuhl]
 categories: []
