@@ -25,6 +25,4 @@ tags:
 I am happy to announce that I will be part of this year's online edition of VUT Indie Days 2020, co-located with [c/o pop xoxo](https://c-o-pop.de/en/xoxo). I will join the panel on [Gender biases and discrimination in AI](https://c-o-pop.de/en/xoxo/program/vut-indie-days-koeln:-gender-biases-and-discrimination-in-ai-|-en-talk).
 
 
-{{< tweet user="copopconvention" id="1308348060779581440" >}}
-
 {{< gallery album="pd04_vutdays2020" >}}
