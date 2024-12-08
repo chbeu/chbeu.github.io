@@ -28,15 +28,14 @@ abstract: "In the recommender systems field, it is increasingly recognized that 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2024-10-17T17:10:00.000Z
-#date_end: 2024-10-17 17:25:00
-all_day: true
+date_end: 2024-10-17 17:25:00
+all_day: false
 
 # Schedule page publish date (NOT event date).
 publishDate: 2024-07-20T00:00:00+01:00
 
 authors:
 - Christine Bauer
-#- Karin van Es
 tags: [talk, RecSys, Women in RecSys, evaluation, recommender systems, values, news recommender systems, news, systematic literature review, survey, TORS]
 
 # Is this a featured event? (true/false)
@@ -51,7 +50,7 @@ image:
   preview_only: false
   placement: 1
   
-# links:
+links:
 # Optional filename of your slides within your event's folder or a URL.
 url_slides: "it29_womeninrecsys2024_values-slides.pdf"
 #url_video: ""

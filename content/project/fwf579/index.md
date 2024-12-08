@@ -7,6 +7,7 @@ tags:
 - personalization
 - context awareness
 date: "2017-02-01T00:00:00Z"
+show_date: false
 profile: false
 
 # Optional external URL for project (replaces project detail page).

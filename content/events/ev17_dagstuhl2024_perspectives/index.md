@@ -31,8 +31,8 @@ abstract: |-
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-05-20"
-date_end: "2023-05-24"
+date: "2024-05-20"
+date_end: "2024-05-24"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -69,3 +69,4 @@ links:
 projects: [multimethod]
 ---
 
+{{< cite page="bauer-2024-dagstuhl-perspectives" view="4" >}}

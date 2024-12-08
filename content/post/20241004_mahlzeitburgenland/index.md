@@ -1,5 +1,5 @@
 ---
-title: "Guest in Austrian radio program Mahlzeit Burgenland"
+title: "Guest on the Austrian radio program Mahlzeit Burgenland"
 #subtitle: ""
 summary: "I had the pleasure of being a guest on the Austrian radio program Mahlzeit Burgenland to discuss some of my favorite topics: music, AI, and broadcasting."
 #authors: [Christine Bauer]

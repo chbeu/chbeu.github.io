@@ -36,7 +36,6 @@ publishDate: 2024-11-19T00:00:00+01:00
 
 authors:
 - Christine Bauer
-#- Karin van Es
 tags: [talk, fairness, algorithmic decision-making, recommender systems, gender bias, music, artists]
 
 # Is this a featured event? (true/false)

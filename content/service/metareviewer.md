@@ -29,6 +29,7 @@ design:
   flip_alt_rows: false
 ---
 
+UMAP 2025  
 CIKM 2024, 2023  
 <mark>RecSys</mark> 2024, 2023  
 <mark>SIGIR</mark> 2024, 2023  

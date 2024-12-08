@@ -57,5 +57,3 @@ links:
 - name: Program
   url: ./talks/t11_mathematikmusik2023/Programmkarte_SweetSpot_Invasiv.pdf
 ---
-
-

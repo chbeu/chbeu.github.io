@@ -5,11 +5,13 @@ tags:
 - media
 - news
 - value-aware recommender systems
-- value-aware recommendatinos
+- value-aware recommendations
 - recommender systems
 - news recommender systems
 date: '2022-03-01T00:00:00Z'
 profile: false
+show_date: false
+
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""

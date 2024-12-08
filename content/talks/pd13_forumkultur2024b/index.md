@@ -57,7 +57,7 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+#projects:
 
 gallery_item:
 - album: pd13_forumkultur2024b
