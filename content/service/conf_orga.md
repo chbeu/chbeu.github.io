@@ -10,7 +10,7 @@ headless: true
 weight: 15
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: Conference Organization #PC Co-Chair #'Service to the Community'
+title: Conference Organization #'Service to the Community'
 #subtitle: PC Co-Chair
 
 date_format: Jan 2006
@@ -21,6 +21,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+#- company: "AlpCHI 2026"
+#  company_logo: alpchi_2026
+ # title: "Tutorial Co-Chair"
+ # description: "with Tiare Feuchtner, Michael Haller, Denis Lalanne, Johannes Schöning, and Verena Zimmermann<br>1st Human-Computer Interaction (HCI) Conference for the Alpine region (AlpCHI 2026)"
+#  company_url: "https://alpchi.org"
+  #url: "https://alpchi.org"
+#  date_start: "2026-03-01"
+  #date_end: "2026-03-05"
 - company: "ECIR 2025"
   company_logo: ecir_2025
   title: "Tutorial Co-Chair"
