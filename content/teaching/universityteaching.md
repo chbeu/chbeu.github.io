@@ -21,7 +21,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 | Course | Note | Level | Language | Institution | ST 2008 | WT 2008/09 | ST 2009 | WT 2009/10 | ST 2010 | WT 2010/11 | ST 2011 | WT 2011/12 | SS 2012 | WT 2012/13 | ST 2013 | WT 2013/14 | ST 2014 | WT 2014/15 | ST 2015 | WT 2015/16 | ST 2016 | WT 2016/17 | WT 2017/18 | ST 2018 | ST 2019 | WT 2019/20 | ST 2020 | WT 2020/21 | SS 2001 | WT 2021/22 | ST 2022 | WT 2022/23 | ST 2023 | WT 2023/24 | ST 2024 | WT 2024/25 | ST 2025 |  |
 |---|---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 |  |  |  |  |  | ECTS per course per semester |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Total ECTS |
-| Planning and Writing of Research Project Proposals | * | P | EN | PLUS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 |  | 4 |
+| Planning and Writing of Research Project Proposals | * | P | EN | PLUS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 4 |
 | AI Support for Supplementary Tasks in the Music and Art Sectors | + | M | DE | MOZ+PLUS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 |  | 4 |
 | Recommender Systems | * | M, P | EN | PLUS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 |  | 3 | 6 |
 | Intelligent Interfaces | * | B | DE | PLUS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 |  | 3 | 6 |
