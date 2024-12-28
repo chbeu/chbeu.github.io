@@ -25,7 +25,7 @@ projects: []
 
 Inspired by the end-of-year reviews of [Michael Ekstrand](https://md.ekstrandom.net/blog/2023/12/2023) and [Matt Kelly](https://log.lab.matkelly.com/year-in-review-2023), I thought it might be a good idea to do that too.
 
-It has been a pretty full year with many ups-- -yet, also downs.
+It has been a pretty full year with many ups---yet, also downs.
 
 
 ## My personal highlights
@@ -97,7 +97,7 @@ It has been a pretty full year with many ups-- -yet, also downs.
   - [Darius Afchar](https://scholar.google.com/citations?user=YAyP5psAAAAJ) at Sorbonne University and Deezer, France
 - (Meta-)Reviewing:
   - Meta-Reviewing activities for the 2023 conferences ECIS, ISMIR, CHI, SIGIR, RecSys, and CIKM
-  - Reviewing activities for the 2ß23 conferences UMAP, HICSS, BIAS, ICWSM, MuRS, HC-MIR, CIKM, and IUI
+  - Reviewing activities for the 2023 conferences UMAP, HICSS, BIAS, ICWSM, MuRS, HC-MIR, CIKM, and IUI
   - Reviewing activities for the journals ISR, TORS, TOIS, TKDE, TiiS, CACM
   - 1 international research proposal review
 - Session chairing at CIKM, RecSys, and CHI
