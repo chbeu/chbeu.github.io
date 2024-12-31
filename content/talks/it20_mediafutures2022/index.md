@@ -31,7 +31,8 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-03-31T22:16:51+01:00
 
-#authors: ["Christine Bauer"]
+authors:
+- Christine Bauer
 tags: [talk, recommender systems, music, fairness, algorithms, artists, gender bias]
 
 # Is this a featured event? (true/false)

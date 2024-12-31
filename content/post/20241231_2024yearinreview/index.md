@@ -23,15 +23,15 @@ image:
 projects: []
 ---
 
-Inspired by the end-of-year reviews of [Michael Ekstrand](https://md.ekstrandom.net/blog/2023/12/2023) and [Matt Kelly](https://log.lab.matkelly.com/year-in-review-2023), I gave it a go for myself too last year. And here is my new end-of-year review for 2024.
+Inspired by the end-of-year reviews of [Michael Ekstrand](https://md.ekstrandom.net/blog/2023/12/2023) and [Matt Kelly](https://log.lab.matkelly.com/year-in-review-2023), I gave it a go for myself too last year.---And here is my end-of-year review for 2024.
 
 Again, it has been a pretty full year with many ups---yet, also downs.
 
-
 ## My personal highlights
-- 2 times at Dagstuhl, spending the evenings in the music room 🎶🙂
-- From my home country, I traveled for work to Belgium, France, Germany, Italy, and The Netherlands. Particularly nice: 2 weeks in sunny Bari, Italy, in autumn.
+- 2 times at Dagstuhl---spending the evenings in the music room with my beloved music-RecSys friends 🎶🙂
+- From my home country, I traveled for work to Belgium, France, Germany, Italy, and The Netherlands. Particularly nice: 2 weeks in sunny Bari in autumn.
 - The collaboration with [Andrés Ferraro](https://scholar.google.com/citations?user=WQglBowAAAAJ) on on bias mitigation in music recommender systems is growing big. We have joined forces with [Michael Ekstrand](http://md.ekstrandom.net) and Samira Vaez Barenji. Stay tuned! 💪
+- Giving a talk at the big stage of Teatro Petruzzelli was an incomparable experience for me. I mean, on a big (!) stage in a beautiful, venerable theater, full of people, even people sitting on the balconies of the theater!
 
 
 ## Publications
@@ -56,8 +56,8 @@ Again, it has been a pretty full year with many ups---yet, also downs.
 
 ## Teaching
 - Started teaching Intelligent Interfaces in the AI Bachelor program of PLUS
-- Started teaching Recommender Systems at PLUS (open to all; all participants were on PhD level! 🙂)
-- Was teaching Contextual Interaction Design (with Chris Frauenberger) in the HCI Master program
+- Started teaching Recommender Systems at PLUS (open to *all* students of PLUS and MOZ; finally, all participants were on PhD level! 🙂)
+- Was teaching Contextual Interaction Design (with Chris Frauenberger) in a combined course with Contextual Analysis & Context Capturing (with Verena Fuchsberger-Staufer) in the HCI Master program
 - Started teaching AI Support for Supplementary Tasks in the Music and Art Sectors with Sebastian Gawron in the inter-university program of PLUS and MOZ
 - Session on Fantastic Reviews at the RecSys 2024 Summer School with Olivier Jeunen
 - Session on How to write reviews at ESSIR 2024
@@ -65,19 +65,19 @@ Again, it has been a pretty full year with many ups---yet, also downs.
 
 
 ## Advising and supervising PhD researchers
-- I keep serving as the co-promotor of [Marloes Vredenborg](https://marloesvredenborg.com) (UU).
-- While not officially acting in a (co-)promotor role, I keep working with [Anouk van Kasteren](http://anoukvankasteren.com) (UU).
 - I am the secondary supervisor of [Daniele Pretolesi](https://scholar.google.com/citations?user=-vmPHIUAAAAJ) (AIT), who will graduate soon (fingers crossed!).
+- While (still) not officially acting in a (co-)promotor role, I keep working with [Anouk van Kasteren](http://anoukvankasteren.com) (UU).
+- I keep serving as the co-promotor of [Marloes Vredenborg](https://marloesvredenborg.com) (UU).
 
 
 ## Service & organization
-- Since October, I am Co-Lead of the focus area “InterMediation. Music—Effect—Analysis” at the inter-university institution Wissenschaft & Kunst, together with Martin Losert; two sax🎷 players as leads; it can only be great 😉
+- Since October, I am a Co-Lead of the focus area “InterMediation. Music—Effect—Analysis” at the inter-university institution Wissenschaft & Kunst, together with Martin Losert; two sax🎷 players as leads; it can only be great 😉
 - Independent Ethics Advisor of the EU project [OpenMusE](https://www.openmuse.eu)
 - Member of the Equal Opportunities Working Group (AKG) at PLUS
 - Member of the Member of the Curriculum Committee for the Joint Master’s Degree Program in Human-Computer Interaction at PLUS and FHS
 - WP Lead for WP2 (Third-Party Funding) of EXDIGIT
 - Member of the Scientific Advisory Board of EXDIGIT
-- Jury member of Marie Andeßner Prizes for Master and Diploma theses 2024 and Marie Andeßner PhD Grants 2024
+- Jury member of the Marie Andeßner Prizes for Master and Diploma theses 2024 and the Marie Andeßner PhD Grants 2024
 - WiMIR mentoring 2024
 - Co-Chairing:
   - Workshop Co-Organizer of INTROSPECTIVES 2024 at RecSys 2024, with Alan Said and Eva Zangerle 
@@ -104,7 +104,8 @@ Again, it has been a pretty full year with many ups---yet, also downs.
 ## Third mission / outreach / media
 - Organization of the [W&K Forum Symposium 2024: Harmony & Dissonance: Generative AI in Music and the Arts](/events/genaiart2024/)
 - I have been introduced to the Let’s empower Austria (LEA) initiative as a LEA Role Model.
-- 2x panelist at Forum Kultur  
+- 2x panelist at Forum Kultur organized by the Austria's Federal Ministry for Arts, Culture, the Civil Service and Sport (BMKOES)
+- On stage at the "DAS ist EXDIGIT" press conference as part of EXDIGIT
 - Member of the Advisory Board for the Incubation programs FACTORY and FACTORY+ at Innovation Salzburg
 - Jury member of aws Preseed | Seedfinancing—Innovative Solutions
 - 13 media mentions:
@@ -119,15 +120,16 @@ Again, it has been a pretty full year with many ups---yet, also downs.
 
 ## Other happiness
 - Attended Salzburger Festspiele for the first time.
-- I enjoyed the theater play Luziwuzi with Tom Neuwirth in the leading role.---It was so good, I'll see it again in 2205.
+- I enjoyed the theater play Luziwuzi with Tom Neuwirth in the leading role.---It was so good, I'll see it again in 2025.
 - Dirty Loops is pretty cool as a live band!
 - Martijn C. Willemsen and me performed a song for Lien Michiels defense, for which we created lyrics aligned to her thesis 🎶 
 
 
 ## The downsides
-- I'm still not settled in Salzburg musically.---Hope to find a band to actively engage in playing music again.
+- I'm still not settled in Salzburg musically.---Hope to find a band to actively engage in playing music again. I miss it!
 - I've had a very hard time bearing up against a detrimental campaign... 😔
 
 ## Wrap up
-I’m pretty sure I’ve forgotten a thing or two or three. 
-I want to thank those who supported and encouraged me to uphold integrity and move forward.  
+- I’m pretty sure I’ve forgotten a thing or two or three.  
+- I want to thank those who supported and encouraged me to uphold integrity and move forward.  
+- I made it through the year, and that's the most important achievement!

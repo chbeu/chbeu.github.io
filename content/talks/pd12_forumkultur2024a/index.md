@@ -34,7 +34,13 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-06-08T00:00:00Z"
 
-authors: [Christine Bauer, Nina George, Paul Nemitz, Wolfgang Ullrich, Marlies Wirth, Claudia Zettel]
+authors:
+- Christine Bauer
+- Nina George
+- Paul Nemitz
+- Wolfgang Ullrich
+- Marlies Wirth
+- Claudia Zettel
 tags: [panel, AI, artificial intelligence, culture, art]
 
 # Is this a featured talk? (true/false)

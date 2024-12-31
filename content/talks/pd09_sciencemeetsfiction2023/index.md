@@ -35,7 +35,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-08-08T00:00:00Z"
 
-authors: [Christine Bauer, Anna Blumenkranz, Christopher Frauenberger]
+authors:
+- Christine Bauer
+- Anna Blumenkranz
+- Christopher Frauenberger
 tags: [panel, time, digitization, science meets fiction]
 
 # Is this a featured talk? (true/false)

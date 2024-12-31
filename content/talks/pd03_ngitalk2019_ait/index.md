@@ -33,7 +33,11 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-08-01T00:00:00Z"
 
-authors: ["Christine Bauer", Patrick Ratheiser, Tünde Fülöp, Mario Drobics]
+authors:
+- Christine Bauer
+- Patrick Ratheiser
+- Tünde Fülöp
+- Mario Drobics
 tags: [panel, AIT, artificial intelligence]
 
 # Is this a featured talk? (true/false)

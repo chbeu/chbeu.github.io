@@ -33,7 +33,8 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-05-12T00:00:00Z"
 
-#authors: ["Christine Bauer"]
+authors:
+- Christine Bauer
 tags: [keynote, talk, IIR, evaluation, recommender systems, information retrieval, multimethods, multi-stakeholder]
 
 # Is this a featured talk? (true/false)

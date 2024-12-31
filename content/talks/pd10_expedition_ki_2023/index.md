@@ -33,7 +33,11 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-07-13T00:00:00Z"
 
-authors: [Christine Bauer, Paul Fischer, Martin Giesswein, Stephanie Meisl]
+authors:
+- Christine Bauer
+- Paul Fischer
+- Martin Giesswein
+- Stephanie Meisl
 tags: [panel, creative sector, creative industries, music, artificial intelligence, copyright, legal issues, creative AI, generative AI]
 
 # Is this a featured talk? (true/false)

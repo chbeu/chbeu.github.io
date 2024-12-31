@@ -34,7 +34,11 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-02-25T00:00:00Z"
 
-authors: [Christine Bauer, Anna Katharina Tipotsch, Alexander Pabst, Christian Auinger]
+authors:
+- Christine Bauer
+- Anna Katharina Tipotsch
+- Alexander Pabst
+- Christian Auinger
 tags: [talk, panel, music, generative AI, artificial intelligence, challenges, copyright, droit d'auteurs]
 
 # Is this a featured talk? (true/false)

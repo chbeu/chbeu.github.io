@@ -32,7 +32,8 @@ all_day: true
 # Schedule page publish date (NOT event date).
 publishDate: 2023-04-12T12:00:00+01:00
 
-#authors: ["Christine Bauer"]
+authors:
+- Christine Bauer
 tags: [talk, keynote, future music camp, Popakademie, recommender systems, music, ethics, fairness, artificial intelligence]
 
 # Is this a featured event? (true/false)

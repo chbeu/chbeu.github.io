@@ -34,7 +34,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-10-18T00:00:00Z"
 
-#authors: ["Christine Bauer"]
+authors:
+- Christine Bauer
 tags: [keynote, talk, ISMIR, music recommender systems, music information retrieval, MIR, diverse needs]
 
 # Is this a featured talk? (true/false)

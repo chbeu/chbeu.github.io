@@ -33,7 +33,11 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-04-30T00:00:00Z"
 
-authors: [Christine Bauer, Thomas Lidy, Franz Medwenitsch, Claudia Zettel]
+authors:
+- Christine Bauer
+- Thomas Lidy
+- Franz Medwenitsch
+- Claudia Zettel
 tags: [panel, WKO, music, artificial intelligence, algorithms, Bzzzz]
 
 # Is this a featured talk? (true/false)

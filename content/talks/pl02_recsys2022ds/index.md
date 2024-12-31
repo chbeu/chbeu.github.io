@@ -33,7 +33,12 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-09-18T00:00:00Z"
 
-authors: [Christine Bauer, Robin Burke, Tara Safavi, Tao Ye, Yi Zhang]
+authors:
+- Christine Bauer
+- Robin Burke
+- Tara Safavi
+- Tao Ye
+- Yi Zhang
 tags: [panel, RecSys, PhD, career, mentoring, doctoral symposium]
 
 # Is this a featured talk? (true/false)

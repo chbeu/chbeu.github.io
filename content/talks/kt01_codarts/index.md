@@ -32,7 +32,8 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-02-28T22:16:51+01:00
 
-#authors: ["Christine Bauer"]
+authors:
+- Christine Bauer
 tags: [talk, keynote, international women's day, music, artists, gender bias, fairness]
 
 # Is this a featured event? (true/false)

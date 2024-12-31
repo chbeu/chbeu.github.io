@@ -53,7 +53,14 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-08-01T00:00:00Z"
 
-authors: [Tim Renner, Anna F, Monika Eigensperger, Alex Deutsch, Karl A. Fröschl, "Christine Bauer", Sarah Spiekermann]
+authors:
+- Tim Renner
+- Anna F
+- Monika Eigensperger
+- Alex Deutsch
+- Karl A. Fröschl
+- Christine Bauer
+- Sarah Spiekermann
 tags: [talk, music, popstar, music business, technology interruption]
 
 # Is this a featured talk? (true/false)

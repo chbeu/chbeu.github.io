@@ -33,7 +33,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-08-25T00:00:00Z"
 
-#authors: ["Christine Bauer"]
+authors:
+- Christine Bauer
 tags: [keynote, talk, Women in RecSys, recommender systems, RecSys, career, big picture]
 
 # Is this a featured talk? (true/false)

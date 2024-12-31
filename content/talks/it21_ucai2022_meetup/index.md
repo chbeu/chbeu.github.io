@@ -32,7 +32,8 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-06-03T00:00:00+01:00
 
-#authors: ["Christine Bauer"]
+authors:
+- Christine Bauer
 tags: [talk, recommender systems, news, value-driven recommendations, values]
 
 # Is this a featured event? (true/false)

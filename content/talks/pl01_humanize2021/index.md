@@ -33,7 +33,11 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-08-01T00:00:00Z"
 
-authors: [Christine Bauer, Peter Knees, Elisabeth Lex, Dimitris Sacharidis]
+authors:
+- Christine Bauer
+- Peter Knees
+- Elisabeth Lex
+- Dimitris Sacharidis
 tags: [panel, humanize, human-centered ai, artificial intelligence, IUI]
 
 # Is this a featured talk? (true/false)

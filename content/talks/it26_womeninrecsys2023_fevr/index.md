@@ -34,7 +34,9 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2023-08-24T00:00:00+01:00
 
-authors: ["Eva Zangerle", "Christine Bauer"]
+authors:
+- Eva Zangerle
+- Christine Bauer
 tags: [talk, RecSys, Women in RecSys, evaluation, recommender systems, FEVR, survey, multimethod, framework]
 
 # Is this a featured event? (true/false)

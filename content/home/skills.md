@@ -33,7 +33,7 @@ feature:
   icon: users
   icon_pack: fas
 - name: Outreach
-  description: Repeatedly speaker and panelist at non-scientific events (e.g., Ars Electronica Festival, Dutch Media Week, VUT Indie Days)<br>Substantial media coverage (e.g., Financial Times, El País)<br>Radio interviews (e.g., Ö1, FM4, SWR 2, NPO Radio 1)
+  description: Speaker and panelist at non-scientific events (e.g., Ars Electronica Festival, Dutch Media Week, VUT Indie Days)<br>Substantial media coverage (e.g., Financial Times, El País)<br>Radio interviews (e.g., Ö1, FM4, SWR 2, NPO Radio 1)<br>Policy Impact (e.g., EPRS)
   icon: bullhorn
   icon_pack: fas
 - name: International experience
@@ -41,7 +41,7 @@ feature:
   icon: globe
   icon_pack: fas
 - name: Mentoring
-  description: WiMIR Mentoring since 2018<br>Mentoring at Queen Mary University of London 2021--2024<br>Allyship Chair at CHI 2023+2022<br>Doctoral/PhD Symposium Chair at RecSys 2023+2021 and CIKM 2023
+  description: WiMIR Mentoring since 2018<br>Mentoring at Queen Mary University of London 2021--2024<br>LEA Role Model since 2024<br>Allyship Chair at CHI 2023+2022<br>Doctoral/PhD Symposium Chair at RecSys 2023+2021 and CIKM 2023
   icon: hands-helping
   icon_pack: fas
 

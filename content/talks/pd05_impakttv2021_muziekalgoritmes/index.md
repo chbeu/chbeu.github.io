@@ -33,7 +33,11 @@ date_end: "2021-10-07T21:00:00Z"
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-08-01T00:00:00Z"
 
-#authors: []
+authors:
+- Christine Bauer
+- Wilbert Mutsaers
+- Rosa Wevers
+- Friso Wiersum
 tags: [panel, Impakt TV, music, algorithms, dutch media week, media, music recommender systems]
 
 # Is this a featured talk? (true/false)

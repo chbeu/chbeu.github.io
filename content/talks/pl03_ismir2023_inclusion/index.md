@@ -33,7 +33,12 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-11-02T00:00:00Z"
 
-authors: [Claire Arthur, Christine Bauer, Jin Ha Lee, Lorenzo Porcaro, Anja Volk]
+authors:
+- Claire Arthur
+- Christine Bauer
+- Jin Ha Lee
+- Lorenzo Porcaro
+- Anja Volk
 tags: [panel, ISMIR, inclusion, diversity]
 
 # Is this a featured talk? (true/false)

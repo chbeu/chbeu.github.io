@@ -35,7 +35,8 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-02-08T00:00:00Z"
 
-#authors: ["Christine Bauer"]
+authors:
+- Christine Bauer
 tags: [keynote, talk, CRUM, HAAPIE, UMAP, context, context adaptivity, context representations]
 
 # Is this a featured talk? (true/false)

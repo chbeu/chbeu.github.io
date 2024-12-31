@@ -37,7 +37,8 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-12-01T00:00:00Z"
 
-#authors: ["Christine Bauer"]
+authors:
+- Christine Bauer
 tags: [talk, context-adaptivity, attention, context]
 
 # Is this a featured talk? (true/false)
