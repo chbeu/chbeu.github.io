@@ -23,14 +23,14 @@ image:
 projects: []
 ---
 
-Inspired by the end-of-year reviews of [Michael Ekstrand](https://md.ekstrandom.net/blog/2023/12/2023) and [Matt Kelly](https://log.lab.matkelly.com/year-in-review-2023), I gave it a go for myself too last year.---And here is my end-of-year review for 2024.
+Inspired by the end-of-year reviews of [Michael Ekstrand](https://md.ekstrandom.net/blog/2023/12/2023) and [Matt Kelly](https://log.lab.matkelly.com/year-in-review-2023), I gave it a go for myself last year too.---And here is my end-of-year review for 2024.
 
-Again, it has been a pretty full year with many ups---yet, also downs.
+Again, it has been a full year with many ups---yet, also downs.
 
 ## My personal highlights
 - 2 times at Dagstuhl---spending the evenings in the music room with my beloved music-RecSys friends 🎶🙂
 - From my home country, I traveled for work to Belgium, France, Germany, Italy, and The Netherlands. Particularly nice: 2 weeks in sunny Bari in autumn.
-- The collaboration with [Andrés Ferraro](https://scholar.google.com/citations?user=WQglBowAAAAJ) on on bias mitigation in music recommender systems is growing big. We have joined forces with [Michael Ekstrand](http://md.ekstrandom.net) and Samira Vaez Barenji. Stay tuned! 💪
+- The collaboration with [Andrés Ferraro](https://scholar.google.com/citations?user=WQglBowAAAAJ) on bias mitigation in music recommender systems is growing big. We have joined forces with [Michael Ekstrand](http://md.ekstrandom.net) and Samira Vaez Barenji. Stay tuned! 💪
 - Giving a talk at the big stage of Teatro Petruzzelli was an incomparable experience for me. I mean, on a big (!) stage in a beautiful, venerable theater, full of people, even people sitting on the balconies of the theater!
 
 
@@ -40,7 +40,7 @@ Again, it has been a pretty full year with many ups---yet, also downs.
 - 1 short conference paper (RecSys)
 - 1 proceedings (MuRS)
 - 1 Dagstuhl report
-- 3 event reports (PERSPECTIVES, INTROPECTIVES, MuRS, CIKM PhD Symposium)
+- 3 event reports (PERSPECTIVES, INTROSPECTIVES, MuRS, CIKM PhD Symposium)
 - 1 invited article 
 
 
@@ -104,7 +104,7 @@ Again, it has been a pretty full year with many ups---yet, also downs.
 ## Third mission / outreach / media
 - Organization of the [W&K Forum Symposium 2024: Harmony & Dissonance: Generative AI in Music and the Arts](/events/genaiart2024/)
 - I have been introduced to the Let’s empower Austria (LEA) initiative as a LEA Role Model.
-- 2x panelist at Forum Kultur organized by the Austria's Federal Ministry for Arts, Culture, the Civil Service and Sport (BMKOES)
+- 2x panelist at Forum Kultur organized by Austria's Federal Ministry for Arts, Culture, the Civil Service and Sport (BMKOES)
 - On stage at the "DAS ist EXDIGIT" press conference as part of EXDIGIT
 - Member of the Advisory Board for the Incubation programs FACTORY and FACTORY+ at Innovation Salzburg
 - Jury member of aws Preseed | Seedfinancing—Innovative Solutions
@@ -122,11 +122,11 @@ Again, it has been a pretty full year with many ups---yet, also downs.
 - Attended Salzburger Festspiele for the first time.
 - I enjoyed the theater play Luziwuzi with Tom Neuwirth in the leading role.---It was so good, I'll see it again in 2025.
 - Dirty Loops is pretty cool as a live band!
-- Martijn C. Willemsen and me performed a song for Lien Michiels defense, for which we created lyrics aligned to her thesis 🎶 
+- Martijn C. Willemsen and I performed a song for Lien Michiels' defense, for which we created lyrics aligned to her thesis 🎶 
 
 
 ## The downsides
-- I'm still not settled in Salzburg musically.---Hope to find a band to actively engage in playing music again. I miss it!
+- I'm still not settled in Salzburg musically.---I hope to find a band to actively engage in playing music again. I miss it!
 - I've had a very hard time bearing up against a detrimental campaign... 😔
 
 ## Wrap up

@@ -28,6 +28,6 @@ image:
 #projects: []
 ---
 
-I am humbled and honored having been introduced to the [Let's empower Austria (LEA)](https://letsempoweraustria.at) initiative as a LEA Role Model. LEA is an Austrian initiative to empower and support women and girls. Currently, the initiative has 400 role models (for whole Austria!). Being mentioned among these brilliant people---wow!
+I am humbled and honored to have been introduced to the [Let's empower Austria (LEA)](https://letsempoweraustria.at) initiative as a LEA Role Model. LEA is an Austrian initiative to empower and support women and girls. The initiative currently has 400 role models (for whole Austria!). Being mentioned among these brilliant people---wow!
 
 My [LEA Role Model profile](https://letsempoweraustria.at/role-model/christine-bauer/) went online today (in German).
