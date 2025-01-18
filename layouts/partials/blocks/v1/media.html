@@ -36,6 +36,11 @@
                 {{ index $r 3 }} <!-- Title -->
                 {{ if index $r 5 }}</a>{{ end }} <!-- Close link -->
                 (in {{ index $r 4 }}). <!-- Language -->
+                {{ if index $r 6 }}
+                  {{ if eq (index $r 6) "text" }}<i class="fa-brands fa-readme" style="color: {{ site.Data.themes.chb.light.primary | safeCSS}};"></i>{{ end }}
+                  {{ if eq (index $r 6) "audio" }}<i class="fa-solid fa-ear-listen" style="color: {{ site.Data.themes.chb.light.primary | safeCSS}};"></i>{{ end }}
+                  {{ if eq (index $r 6) "video" }}<i class="fa-solid fa-video" style="color: {{ site.Data.themes.chb.light.primary | safeCSS }};"></i>{{ end }}
+                {{ end }}
             </p>
         {{ end }}
     {{ end }}
