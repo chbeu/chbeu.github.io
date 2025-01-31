@@ -27,12 +27,12 @@ design:
   flip_alt_rows: false
 ---
 
+<mark>ECAI</mark> 2025, 2024  
 <mark>FAccT</mark> 2025, 2024  
 ECIR 2025, 2024 (IR for Good)  
 <mark>IUI</mark> 2025, 2024, 2023, 2022 {{< icon name="award" pack="fas" >}}  
 NORMalize 2024  
 MuC 2024  
-<mark>ECAI</mark> 2024  
 CIKM 2023  
 HC-MIR 2023  
 MuRS 2023  
