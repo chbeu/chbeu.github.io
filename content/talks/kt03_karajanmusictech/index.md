@@ -28,7 +28,7 @@ abstract: "Music recommendation systems are indispensable in today's music indus
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2024-03-07T12:45:00Z"
-#date_end: "2021-04-13T15:00:00Z"
+date_end: "2024-03-07T13:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
