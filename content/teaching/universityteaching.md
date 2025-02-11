@@ -21,6 +21,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 | Course | Note | Level | Language | Institution | ST 2008 | WT 2008/09 | ST 2009 | WT 2009/10 | ST 2010 | WT 2010/11 | ST 2011 | WT 2011/12 | SS 2012 | WT 2012/13 | ST 2013 | WT 2013/14 | ST 2014 | WT 2014/15 | ST 2015 | WT 2015/16 | ST 2016 | WT 2016/17 | WT 2017/18 | ST 2018 | ST 2019 | WT 2019/20 | ST 2020 | WT 2020/21 | SS 2001 | WT 2021/22 | ST 2022 | WT 2022/23 | ST 2023 | WT 2023/24 | ST 2024 | WT 2024/25 | ST 2025 |  |
 |---|---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 |  |  |  |  |  | ECTS per course per semester |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Total ECTS |
+| Selected Topics in Informatics: Planning and Writing of Grant Proposals | * | P | EN | AAU |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 4 |
 | Planning and Writing of Research Project Proposals | * | P | EN | PLUS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 4 |
 | AI Support for Supplementary Tasks in the Music and Art Sectors | + | M | DE | MOZ+PLUS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 |  | 4 |
 | Recommender Systems | * | M, P | EN | PLUS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 |  | 3 | 6 |
@@ -55,7 +56,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 | eBusiness in the Creative Industries | * | B, M | DE | VIE | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |  | 4 |  | 4 |  | 4 |  | 4 |  | 4 |  | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  | 52 |
 | Model Engineering | # | M | DE | TUW |  | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Total |  |  |  |  | 4 | 13 | 4 | 14 | 12 | 16 | 12 | 20 | 9 | 16 | 12 | 15 | 12 | 14 | 0 | 6.5 | 6 | 21.5 | 4 | 4 | 10 | 5 | 11.75 | 15 | 15 | 15 | 7.5 | 15 | 0 | 3 | 9 | 4 | 10 | 335.25 |
+| Total |  |  |  |  | 4 | 13 | 4 | 14 | 12 | 16 | 12 | 20 | 9 | 16 | 12 | 15 | 12 | 14 | 0 | 6.5 | 6 | 21.5 | 4 | 4 | 10 | 5 | 11.75 | 15 | 15 | 15 | 7.5 | 15 | 0 | 3 | 9 | 4 | 14 | 339.25 |
 
 
 \*	…	entire course self-developed  
@@ -72,6 +73,7 @@ DE	…	German
 EN	…	English  
 
 
+AAU	…	University of Klagenfurt, Austria  
 DUK	…	Danube University Krems, Austria  
 FFH	…	Ferdinand Porsche FernFH Studiengänge (University of Applied Sciences), Vienna, Austria  
 FHS	…	FH Salzburg, Austria  
