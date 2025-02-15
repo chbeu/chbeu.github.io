@@ -119,6 +119,13 @@ tbody td{
     pointer-events: none;
 }
 
+.zenodo {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    height: 26px;
+}
+
 
 /* style for alert background*/
 .alert-note {
