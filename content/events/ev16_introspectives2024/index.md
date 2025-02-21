@@ -52,7 +52,7 @@ image:
   preview_only: false
   placement: 1
 
-links:
+#links:
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""

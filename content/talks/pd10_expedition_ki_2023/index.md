@@ -57,16 +57,5 @@ image:
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects:
-#- internal-project
-
-links: 
-- name: Program
-  url: expedition_ki_2023_program.pdf
+url_program: expedition_ki_2023_program.pdf
 ---

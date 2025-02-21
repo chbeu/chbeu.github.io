@@ -51,7 +51,6 @@ image:
   placement: 1
   
 links:
-# Optional filename of your slides within your event's folder or a URL.
 url_slides: "it29_womeninrecsys2024_values-slides.pdf"
 #url_video: ""
 #url_code: ""

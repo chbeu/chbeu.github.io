@@ -73,16 +73,9 @@ featured: false
 links:
 #url_code: ""
 #url_pdf: ""
-url_slides: ""
+#url_slides: ""
 url_video: "https://www.wu.ac.at/wutv/show/clip/20100528-italks"
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects:
-#- internal-project
 ---
 
 {{< vimeo 13127238 >}}

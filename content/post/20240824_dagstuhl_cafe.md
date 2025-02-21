@@ -26,7 +26,7 @@ profile: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [multimethods]
+projects: [multimethod]
 ---
 
 While I was in Dagstuhl end of May (co-organizing [Dagstuhl Seminar 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education](https://www.dagstuhl.de/24211) with [Alan Said](https://www.alansaid.com) and [Eva Zangerle](https://evazangerle.at)), I will return to Dagstuhl on Sunday for the [Dagstuhl Perspectives Workshop 24352: Conversational Agents: A Framework for Evaluation (CAFE)](https://www.dagstuhl.de/24352), co-organized with [Li Chen](https://www.comp.hkbu.edu.hk/~lichen/), [Nicola Ferro](https://www.dei.unipd.it/~ferro/), and [Norbert Fuhr](https://scholar.google.com/citations?user=p53Ht7UAAAAJ).

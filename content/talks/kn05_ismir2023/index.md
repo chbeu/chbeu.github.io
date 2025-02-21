@@ -53,8 +53,6 @@ links:
 #url_slides: ""
 url_video: "https://drive.google.com/file/d/1Em9_70CXnT1icS6WejDjgftwAuKYrz3A/preview"
 
-projects: []
-
 ---
 
 <iframe src="https://www.dropbox.com/scl/fi/ph0mc1nvpttaw37ovt1xp/keynote1.mp4?rlkey=1lm0ltha4lkt66j7szobxoqvv&raw=1" width="720" height="390" allow="autoplay"></iframe>

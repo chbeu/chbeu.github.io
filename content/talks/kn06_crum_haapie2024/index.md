@@ -54,7 +54,6 @@ links:
 url_slides: kn06_crum_haapie2024_slides.pdf
 #url_video: ""
 
-projects: []
 ---
 
 {{< tweet user="peterpaws" id="1808402649709977704" >}}

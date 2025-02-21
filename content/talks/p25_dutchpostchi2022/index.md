@@ -49,11 +49,6 @@ links:
 url_slides: "talks/p25_dutchpostchi2022/p25_dutchpostchi2022-slides.pdf"
 url_poster: "publications/ferwerda-2022-conformity-culture/ferwerda-2022-conformity-culture-poster.pdf"
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
   - fwf579
 ---

@@ -48,20 +48,15 @@ image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Smart
 
-links:
+url_program: Program_Symposium_20240620.pdf
+url_flyer: Programmkarte_W&K-Forum_K2.pdf
+
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
 #url_proceedings: 
-- icon: scroll
-  icon_pack: fas
-  name: Flyer
-  url: Programmkarte_W&K-Forum_K2.pdf
-- icon: circle-info
-  icon_pack: fas
-  name: Program
-  url: Program_Symposium_20240620.pdf
+#links:
 
 projects: []
 ---

@@ -44,11 +44,8 @@ image:
   focal_point: Smart
   placement: 1
 
-links:
-- icon: circle-info
-  icon_pack: fas
-  name: Program
-  url: programm_dgri_dach_tagung_2024.pdf
+
+url_program: programm_dgri_dach_tagung_2024.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

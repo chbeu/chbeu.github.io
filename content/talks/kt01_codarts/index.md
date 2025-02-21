@@ -54,18 +54,8 @@ image:
 #url_pdf:  ""
 #url_slides:  ""
 #url_video: ""
+url_program: kt01_codarts_program.png
 
-links:
-- icon: circle-info
-  icon_pack: fas
-  name: Program
-  url: 'kt01_codarts_program.png'
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: [SpART2020]
 ---
 

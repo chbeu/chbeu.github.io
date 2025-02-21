@@ -53,13 +53,6 @@ links:
 url_slides: "talks/t04_musikwirtschaftsjourfixe2012/t04_musikwirtschaftsjourfixe2012_slides.pdf"
 #url_video: ""
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects:
-#- internal-project
 ---
 
 {{< cite page="bauer-2012-bands" view="4" >}}

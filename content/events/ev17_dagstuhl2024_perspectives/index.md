@@ -65,7 +65,6 @@ links:
 #url_proceedings: ''
 #doi: 
 
-
 projects: [multimethod]
 ---
 

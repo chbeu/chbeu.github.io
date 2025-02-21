@@ -56,5 +56,4 @@ projects: []
 
 ---
 
-
 {{< tweet user="DrCh0le" id="1696904601251795420" >}}

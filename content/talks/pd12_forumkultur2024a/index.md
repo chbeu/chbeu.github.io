@@ -51,21 +51,10 @@ image:
   focal_point: Smart
   placement: 1
 
-
-links:
-- icon: circle-info
-  icon_pack: fas
-  name: Program
-  url: FK24-Programm.pdf
+url_program: FK24-Programm.pdf
 url_video: "https://www.youtube.com/watch?v=c5geMrDMtIM"
 
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects:
 
 gallery_item:
 - album: pd12_forumkultur2024a

@@ -7,18 +7,6 @@
 {{ $publication_short := $page.Params.publication_short }}
 {{ $publication_short := strings.TrimRight "1234567890 " $publication_short  }}
 
-{{/* ***** TODO: Deprecate `url_preprint` in favour of `url_pdf` given there's now a dedicated "Preprint" pub. type. ***** */}}
-{{ with $page.Params.url_preprint }}
-  {{ $resource := $page.Resources.GetMatch . }}
-  {{ if $resource }}
-    {{ $link = $resource.RelPermalink }}
-  {{ else }}
-    {{ $link = . | relURL }}
-  {{ end }}
-<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  {{ i18n "btn_preprint" }}
-</a>
-{{ end }}
 {{ $pdf := "" }}
 {{ $resource := $page.Resources.GetMatch (printf "%s.pdf" $page.File.ContentBaseName) }}
 {{ with $resource }}
@@ -65,20 +53,21 @@
 </a>
 {{ end }}
 {{ if $page.Params.projects }}
-{{ range $page.Params.projects }}
-  {{ with (site.GetPage (printf "project/%s" .)) }}
-  <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ .RelPermalink }}">
-    {{ i18n "btn_project" }}
-  </a>
-  {{ else }}
-    {{/* errorf "The `projects` parameter in `content/%s` references a project file, `content/project/%s`, which cannot be found. Please either set `projects = []` or fix the reference." $page.File.Path . */}}
+  {{ range $page.Params.projects }}
+    {{ $projectPage := site.GetPage (printf "project/%s" .) }}
+    {{ if and $projectPage $projectPage.File }}  
+      <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $projectPage.RelPermalink }}">
+        {{ i18n "btn_project" }}
+      </a>
+    {{ else }}
+      {{ errorf "The `projects` parameter in `content/%s` references a project file, `content/project/%s`, which cannot be found. Please either set `projects = []` or fix the reference." $page.File.Path . }}
+    {{ end }}
   {{ end }}
-{{ end }}
 {{ else }}
 {{ with $page.Params.url_project }}
-<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
-  {{ i18n "btn_project" }}
-</a>
+  <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
+    {{ i18n "btn_project" }}
+  </a>
 {{ end }}
 {{ end }}
 {{ with $page.Params.url_poster }}
@@ -99,17 +88,17 @@
   </a>
   {{ end }}
 {{ else }}
-{{ with $page.Params.url_slides }}
-  {{ $resource := $page.Resources.GetMatch . }}
-  {{ if $resource }}
-    {{ $link = $resource.RelPermalink }}
-  {{ else }}
-    {{ $link = . | relURL }}
+  {{ with $page.Params.url_slides }}
+    {{ $resource := $page.Resources.GetMatch . }}
+    {{ if $resource }}
+      {{ $link = $resource.RelPermalink }}
+    {{ else }}
+      {{ $link = . | relURL }}
+    {{ end }}
+  <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+    {{ i18n "btn_slides" }}
+  </a>
   {{ end }}
-<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  {{ i18n "btn_slides" }}
-</a>
-{{ end }}
 {{ end }}
 {{ with $page.Params.url_video }}
   {{ $resource := $page.Resources.GetMatch . }}
@@ -118,10 +107,10 @@
   {{ else }}
     {{ $link = . | relURL }}
   {{ end }}
-<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  <i class="fas fa-solid fa-video"></i>
-  {{ i18n "btn_video" }}
-</a>
+  <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+    <i class="fas fa-solid fa-video"></i>
+    {{ i18n "btn_video" }}
+  </a>
 {{ end }}
 {{ with $page.Params.url_source }}
   {{ $resource := $page.Resources.GetMatch . }}
@@ -130,36 +119,55 @@
   {{ else }}
     {{ $link = . | relURL }}
   {{ end }}
-<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  {{ i18n "btn_source" }}
-</a>
+  <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+    {{ i18n "btn_source" }}
+  </a>
 {{ end }}
 {{ with $page.Params.doi }}
-<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
-  DOI
-</a> 
+  <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
+    DOI
+  </a> 
 {{ end }}
 {{ with $page.Params.url_proceedings }}
-<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
-  <i class="fas fa-solid fa-book"></i>
-  Proceedings
-</a> 
+  <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
+    <i class="fas fa-solid fa-book"></i>
+    Proceedings
+  </a> 
 {{ end }}
 {{ with $page.Params.authorizer }}
-<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
-  <i class="ai ai-acmdl"></i>
-  ACM Author-izer
-</a> 
+  <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
+    <i class="ai ai-acmdl"></i>
+    ACM Author-izer
+  </a> 
 {{ end }}
 {{ with $page.Params.url_book }}
-<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
-  Book
-</a> 
+  <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
+    Book
+  </a> 
 {{ end }}
 {{ with $page.Params.url_program }}
-<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
-  Program
-</a> 
+  {{ $resource := $page.Resources.GetMatch . }}
+  {{ if $resource }}
+    {{ $link = $resource.RelPermalink }}
+  {{ else }}
+    {{ $link = . | relURL }}
+  {{ end }}
+  <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+    <i class="fas fa-solid fa-circle-info"></i>
+    Program
+  </a> 
+{{ end }}
+{{ with $page.Params.url_flyer }}
+  {{ $resource := $page.Resources.GetMatch . }}
+  {{ if $resource }}
+    {{ $link = $resource.RelPermalink }}
+  {{ else }}
+    {{ $link = . | relURL }}
+  {{ end }}
+  <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+    <i class="fas fa-solid fa-scroll"></i>
+    Flyer
+  </a> 
 {{ end }}
 {{ range $page.Params.links }}
   {{ $pack := or .icon_pack "fas" }}
@@ -203,7 +211,6 @@
     {{ with .name }}<b>{{ . }}</b>{{end}}
 {{ end }}
 
-
 {{ with $page.Params.altmetric }}
   {{if $doi}}
     {{partial "functions/chb_get_altmetricbadge"  (dict "context" . "doiparent" $doi) }}
@@ -217,4 +224,3 @@
 {{ with $page.Params.plumx }}
   {{partial "functions/chb_get_plumxbadge"  (dict "context" . "doiparent" $doi) }}
 {{ end }}
-

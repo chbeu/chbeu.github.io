@@ -49,13 +49,6 @@ image:
   caption: 'Framework for EValuating Recommender systems (FEVR)'
   focal_point: ''
   preview_only: false
-  
-# links:
-# Optional filename of your slides within your event's folder or a URL.
-#url_slides: ""
-#url_video: ""
-#url_code: ""
-#url_pdf:  ""
 
 
 projects: [multimethod]

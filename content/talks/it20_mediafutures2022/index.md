@@ -47,8 +47,6 @@ image:
 #  preview_only: false
   placement: 300
   
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
 # links:
 # Optional filename of your slides within your event's folder or a URL.
 url_slides: "talks/it20_mediafutures2022/mediafutures2022_fairness_slides.pdf"
@@ -57,11 +55,6 @@ url_video: "https://player.vimeo.com/video/702565366?h=233b4ebcf8"
 #url_pdf:  ""
 #url_slides:  ""
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: [SpART2020]
 ---
 

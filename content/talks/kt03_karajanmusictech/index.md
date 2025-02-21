@@ -47,14 +47,6 @@ image:
   placement: 500
 
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-
-
 gallery_item:
 - album: kt03_karajanmusictech
   image: 1_IMG_0368.JPG
@@ -75,6 +67,5 @@ gallery_item:
   image: 6_IMG_0377.JPG
   caption: 'Image credit: **Jasper Alexander Gradussen**/[**Karajan Music Tech**](http://karajanmusictech.com), 2024.' 
 ---
-
 
 {{< gallery album="kt03_karajanmusictech" >}}

@@ -45,14 +45,15 @@ image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Smart
 
-links:
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
 url_proceedings: 'https://ceur-ws.org/Vol-2955/'
 links: 
-- name: Keynote video
+- icon: video
+  icon_pack: fas
+  name: Keynote video
   url: https://youtu.be/ZWZp389Fxis
 
 projects: [multimethod]

@@ -46,19 +46,7 @@ featured: false
 image:
   caption: 'Left to right: Patrick Ratheiser (Leftshift One), Tünde Fülöp (BMEIA), Christine Bauer (JKU), Mario Drobics (AIT)<br>Image credit: **AIT / Raimund Appel**, 2019.'
   focal_point: Right
-links:
-#url_code: ""
-#url_pdf: ""
-#url_slides: ""
-#url_video: ""
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects:
-#- internal-project
 ---
 
 [Aftermath to NGI#3---AI and beyond (in German)](https://ngi.ait.ac.at/aftermath-to-ngi3-ai-and-beyond/)

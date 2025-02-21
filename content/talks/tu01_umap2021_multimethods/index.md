@@ -61,12 +61,6 @@ url_pdf: "publications/bauer-2021-multimethods-tutorial/bauer-2021-multimethods-
 url_slides: "talks/tu01_umap2021_multimethods/umap2021_tutorial_multimethods_slides.pdf"
 #url_video: ""
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

@@ -3,7 +3,6 @@ title: "2nd Music Recommender Systems Workshop (MuRS 2024)"
 cms_exclude: true
 type: talks
 
-
 draft: false
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
@@ -52,14 +51,9 @@ image:
   preview_only: false
   placement: 1
 
-links:
-#url_code: ""
-#url_pdf: ""
-#url_slides: ""
-#url_video: ""
-#url_proceedings: 
+url_proceedings: 'https://ceur-ws.org/Vol-3787/'
 
-#projects: []
+projects: []
 ---
 
 {{< cite page="ferraro-2024-murs" view="4" >}}

@@ -53,11 +53,4 @@ image:
 #  preview_only: false
   placement: 1
 
-#links:
-#url_code: ""
-#url_pdf: ""
-#url_slides: ""
-#url_video: ""
-
-#projects = []
 ---

@@ -58,13 +58,6 @@ image:
 url_video: "https://youtu.be/Q63NUsg8xr4"
 url_program: "https://www.futuremusiccamp.de/programm/"
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects: []
-
 gallery_item:
 - album: kt02_fmc2023
   image: 6_IMG_6795.jpeg

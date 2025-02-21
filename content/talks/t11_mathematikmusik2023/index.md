@@ -44,16 +44,8 @@ image:
   focal_point: Smart
   placement: 300
 
+url_program: Programmkarte_SweetSpot_Invasiv.pdf
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
 - SpART2020
-
-links:
-- name: Program
-  url: ./talks/t11_mathematikmusik2023/Programmkarte_SweetSpot_Invasiv.pdf
 ---
