@@ -47,10 +47,10 @@ image:
   focal_point: Smart
 
 links:
-#- icon: scroll
-#  icon_pack: fas
-#  name: Flyer
-#  url: .pdf
+- icon: scroll
+  icon_pack: fas
+  name: Flyer
+  url: Programmkarte_KI-Lernen_250314.pdf
 - icon: bullhorn
   icon_pack: fas
   name: Call
