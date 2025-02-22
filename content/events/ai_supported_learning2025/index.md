@@ -43,7 +43,7 @@ categories:
 featured: false
 
 image:
-  caption: 'Image credit: [**Frank Rietsch**](https://pixabay.com/users/frank_rietsch-638998/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8266849) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8266849)'
+#  caption: 'Image credit: [**Frank Rietsch**](https://pixabay.com/users/frank_rietsch-638998/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8266849) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8266849)'
   focal_point: Smart
 
 url_flyer: Programmkarte_KI-Lernen_250314.pdf
