@@ -14,7 +14,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 event: "3rd Workshop: Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2023), co-located with RecSys 2023"
 event_url: "https://perspectives-ws.github.io/2023/"
 
-location:  Suntec Convention Centre
+location:  Suntec Convention Centre and Online
 address:
 #  street: 
 #  city: Singapore
@@ -36,7 +36,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-03-29T00:00:00Z"
 
-authors: [Alan Said, Eva Zangerle, Christine Bauer]
+authors:
+- Alan Said
+- Eva Zangerle
+- Christine Bauer
 tags: [workshop, PERSPECTIVES, evaluation, recommender systems, RecSys]
 categories:
   - event
@@ -54,6 +57,7 @@ links:
 #url_slides: ""
 #url_video: ""
 url_proceedings: https://ceur-ws.org/Vol-3476/
+doi: 10.1145/3604915.3608748
 
 projects: [multimethod]
 ---

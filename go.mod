@@ -4,7 +4,7 @@ go 1.23.4
 
 require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20250212230654-6dc78be62296
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20250301201144-44e75541f7be
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.2
 )
 

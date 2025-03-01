@@ -32,7 +32,10 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-09-01T00:00:00Z"
 
-authors: [Eva Zangerle, Christine Bauer, Alan Said]
+authors:
+- Eva Zangerle
+- Alan Said
+- Christine Bauer
 tags: [workshop, PERSPECTIVES, evaluation, recommender systems, RecSys]
 categories:
   - event

@@ -63,7 +63,7 @@ links:
 #url_slides: ""
 #url_video: ""
 #url_proceedings: ''
-#doi: 
+doi: 10.4230/DagRep.14.5.58
 
 projects: [multimethod]
 ---

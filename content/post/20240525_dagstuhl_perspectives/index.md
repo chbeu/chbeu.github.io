@@ -30,7 +30,7 @@ projects: [multimethod]
 
 We had a very intense, yet amazing, seminar at Dagstuhl.
 
-Together with Alan Said](https://www.alansaid.com) and [Eva Zangerle](https://evazangerle.at), I organized the [Dagstuhl Seminar 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education](https://www.dagstuhl.de/24211).
+Together with [Alan Said](https://www.alansaid.com) and [Eva Zangerle](https://evazangerle.at), I organized the [Dagstuhl Seminar 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education](https://www.dagstuhl.de/24211).
 It was incredible having so many brilliant people discussing topics around the evaluation of recommender systems with us. Thank you to everyone!
 
 As some people are into quantitative measures ;-):

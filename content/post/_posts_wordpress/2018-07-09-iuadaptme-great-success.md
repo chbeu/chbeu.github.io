@@ -12,14 +12,15 @@ profile: false
 categories:
   - news
 tags:
-  - multi-methods
+  - multimethod
   - recommender systems
   - workshop
   - UMAP
   - evaluation
+projects: [multimethod]
 ---
 Yesterday's IUadaptME workshop at [UMAP 2018](https://www.um.org/umap2018/) was a great success! Thank you to all participants and my co-organizers. We had interesting discussions.
 
-{{< gallery album="ws_iuadaptme2018" >}}
+{{< gallery album="ev01_iuadaptme2018" >}}
 <br>
 {{< cite page="celik-2018-multimethods-umap-workshop" view="4" >}}
