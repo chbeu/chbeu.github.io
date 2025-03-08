@@ -118,7 +118,7 @@ social:
 - icon: chart-bar
   icon_pack: far
   icon_title: Top 2% Scientists
-  link: https://topresearcherslist.com/Home/Profile?AuthFull=Bauer,%20Christine&FirstYear=2006
+  link: https://topresearcherslist.com/Home/Profile/945471
 - icon: person-dress
   icon_pack: fas
   icon_title: Speakerinnen
