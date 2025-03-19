@@ -16,7 +16,7 @@ event: HCI Lecture Series #, Department of Artificial Intelligence and Human Int
 
 location:  Paris Lodron University Salzburg, online
 address:
-  #street: Sigmund Haffner Gasse 18/III, HS 888
+  #street: 
   city: Salzburg
 #  region: WA
   postcode: '5020'
