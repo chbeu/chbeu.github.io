@@ -1,5 +1,5 @@
 ---
-title: "Wie kann eine Symbiose zwischen kreativem Schaffen und Künstlicher Intelligenz aussehen?"
+title: "KI und Live-Musik: Wie beeinflusst KI die Live-Musik? Welche Chancen und Risiken bringt sie mit sich? Wie kann eine Symbiose zwischen kreativem Schaffen und Künstlicher Intelligenz aussehen?"
 cms_exclude: true
 type: talks
 
@@ -34,7 +34,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-02-28T00:00:00Z"
 
-authors: [Christine Bauer]
+authors: [Christine Bauer, Josh., Scharmien Zandi, Peter Vieweger, Tamara Ofenauer-Haas, Irene Suchy]
 tags: [panel, AI, artificial intelligence, music, GenAI, culture, copyright]
 
 # Is this a featured talk? (true/false)
@@ -61,3 +61,5 @@ Seien Sie dabei und bringen Sie Ihre Ideen in die Debatte ein!
 - Welche unterstützenden Maßnahmen braucht es, um die Vielfalt der Live-Kultur zu erhalten?  
 - Wie kann die Branche langfristig gestärkt werden?  
 - Und wie kann eine Symbiose zwischen kreativem Schaffen und Künstlicher Intelligenz aussehen?
+
+Moderation: Irene Suchy
