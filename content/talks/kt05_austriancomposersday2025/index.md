@@ -12,7 +12,7 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 event: "Austrian Composers Day 2025"
-event_url: https://www.austriancomposers.com
+event_url: https://www.austriancomposers.com/veranstaltungen/austrian-composers-day-2025/
 
 location: 
 address:
