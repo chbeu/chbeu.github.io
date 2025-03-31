@@ -27,7 +27,7 @@ cta:
 cta_note:
   label: >-
     {{< spoiler id="bio_en" text="**Biography for Press in English 🇺🇸🇬🇧**" >}}
-    Christine Bauer is a Professor of Interactive Intelligent Systems at the Paris Lodron University Salzburg (PLUS) in Austria, and a Co-Lead of the focus area "InterMediation. Music---Effect---Analysis" at the inter-university institution Wissenschaft & Kunst. She is part of the Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT) initiative, funded by the State of Salzburg.
+    Christine Bauer is a Professor of Interactive Intelligent Systems at the University of Salzburg in Austria, and a Co-Lead of the focus area "InterMediation. Music---Effect---Analysis" at the inter-university institution Wissenschaft & Kunst. She is part of the Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT) initiative, funded by the State of Salzburg.
     <br><br>
     She researches intelligent technologies that adapt to human preferences and behavior. In this interdisciplinary research, she advances technologies, studies human needs, and explores the implications of human-technology interactions. She is particularly interested in developing fair technologies. Her research focuses on recommender systems in general, with a specific emphasis on the music and media domains.
         <br><br>
@@ -38,7 +38,7 @@ cta_note:
     She authored over 130 publications, including award-winning research papers. Her expertise has also been recognized through multiple awards for her outstanding contributions as a reviewer. Furthermore, she is a recipient of the prestigious Elise Richter grant for the project "Fine-grained Culture-aware Music Recommender Systems", funded by the Austrian Science Fund (FWF). In this project, she investigated cultural differences in music preferences and developed models and algorithmic approaches for music recommender systems that account for these cultural differences.
     {{< /spoiler >}}
     {{< spoiler id="bio_de" text="**Biography for Press in German 🇦🇹🇩🇪**" >}}
-    Christine Bauer ist Professorin für Interactive Intelligent Systems an der Paris Lodron Universität Salzburg in Österreich und Co-Leiterin des Programmbereichs „InterMediation. Musik---Wirkung---Analyse“ an der interuniversitären Einrichtung Wissenschaft & Kunst. Sie ist Teil von Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT), eine vom Land Salzburg geförderte Initiative.
+    Christine Bauer ist Professorin für Interactive Intelligent Systems an der Universität Salzburg in Österreich und Co-Leiterin des Programmbereichs „InterMediation. Musik---Wirkung---Analyse“ an der interuniversitären Einrichtung Wissenschaft & Kunst. Sie ist Teil von Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT), eine vom Land Salzburg geförderte Initiative.
         <br><br>
     Sie erforscht intelligente Technologien, die sich an die Präferenzen und Verhaltensweisen von Menschen anpassen. In dieser interdisziplinären Forschung entwickelt sie Technologien weiter, untersucht menschliche Bedürfnisse und erforscht die Auswirkungen von Mensch-Technologie-Interaktion. Ihr besonderes Interesse gilt der Entwicklung fairer Technologien. Ihr Forschungsschwerpunkt liegt auf Empfehlungssystemen im Allgemeinen, mit besonderem Schwerpunkt auf den Bereichen Musik und Medien.
         <br><br>

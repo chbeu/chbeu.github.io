@@ -11,10 +11,10 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 
-event: HCI Lecture Series #, Department of Artificial Intelligence and Human Interfaces, Paris Lodron University Salzburg
+event: HCI Lecture Series #, Department of Artificial Intelligence and Human Interfaces, University of Salzburg
 #event_url: ""
 
-location:  Paris Lodron University Salzburg, online
+location:  University of Salzburg, online
 address:
   #street: 
   city: Salzburg
@@ -22,7 +22,7 @@ address:
   postcode: '5020'
   country: Austria
   
-summary: Invited talk at the HCI Lecture Series at Paris Lodron University Salzburg.
+summary: Invited talk at the HCI Lecture Series at the University of Salzburg.
 abstract: "Algorithmic decision-making plays a crucial role in shaping digital experiences, yet biases in these systems can amplify existing inequalities. In the music domain, recommender systems influence what artists gain exposure. This talk focuses on the music domain and examines fairness from the perspective of artists, with a particular focus on gender bias. In this talk, I will present research findings on how bias manifests in music recommender algorithms, with a particular focus on gender bias from the perspective of artists. I will discuss mitigation strategies aimed at fostering fairer exposure and highlights the challenges and opportunities of designing more equitable recommender systems."
 
 # Talk start and end times.

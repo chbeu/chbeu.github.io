@@ -82,7 +82,7 @@ IBK	…	University of Innsbruck, Austria
 JKU	…	Johannes Kepler University Linz, Austria  
 JU	…	Jönköping University, Sweden  
 MOZ	…	Mozarteum University Salzburg, Austria  
-PLUS	…	Paris Lodron University Salzburg, Austria  
+PLUS	…	University of Salzburg, Austria  
 POP	…	University of Popular Music and Music Business (Popakademie), Mannheim, Germany  
 Tech	…	University of Applied Sciences Technikum Wien, Vienna, Austria  
 TUW	…	TU Wien, Vienna, Austria  
