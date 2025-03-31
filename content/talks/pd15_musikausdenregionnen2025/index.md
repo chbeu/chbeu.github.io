@@ -63,3 +63,7 @@ Seien Sie dabei und bringen Sie Ihre Ideen in die Debatte ein!
 - Und wie kann eine Symbiose zwischen kreativem Schaffen und Künstlicher Intelligenz aussehen?
 
 Moderation: Irene Suchy
+
+[Aftermath: Das war Musik aus den Regionen 2025 (by Stefanie Geier)](https://www.akm.at/das-war-musik-aus-den-regionen-2025/)
+
+{{< video src="https://www.akm.at//wp-content/uploads/filemanager/Videos%20Musik%20aus%20den%20Regionen/2503_AKM_MadR_16x9_1.mp4" controls="yes" >}}
