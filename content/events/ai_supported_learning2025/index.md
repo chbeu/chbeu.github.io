@@ -34,7 +34,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-02-15T00:00:00Z"
 
-#authors: [Christine Bauer]
+authors: [Christine Bauer, Martin Losert, Sarah Schönbrodt, Katarzyna Grebosz-Haring, Simon Blatt, Fritz Höfer]
 tags: [AI, artificial intelligence, learning, education, W&K]
 categories:
   - event

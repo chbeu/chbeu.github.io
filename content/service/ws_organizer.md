@@ -20,6 +20,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - company: "BEYOND 2025: 1st Workshop on Beyond Algorithms: Reclaiming the Interdisciplinary Roots of Recommender Systems"
+    title: Workshop Co-Organizer
+    date_start: "2025-09-22"
+    date_end: "2025-09-22"
+    description: "co-located with [19th ACM Conference on Recommender Systems (RecSys 2025)](https://recsys.acm.org/recsys25/)<br><br>with Eva Zangerle and Alan Said"
+    company_url: "https://beyondrecsys.github.io/2025/"
+  - company: "MuRS 2025: 3rd Music Recommender Systems Workshop"
+    title: Workshop Co-Organizer
+    company_logo: murs
+    date_start: "2025-09-22"
+    date_end: "2025-09-22"
+    description: "co-located with [19th ACM Conference on Recommender Systems (RecSys 2025)](https://recsys.acm.org/recsys25/)<br><br>with Andrés Ferraro and Lorenzo Porcaro"
+    company_url: "https://sites.google.com/view/murs-2025"
+  - company: "AI-Supported Learning 2025: Networking Symposium, Current research and practical projects in Salzburg"
+    title: Symposium Co-Organizer
+    date_start: "2025-03-14"
+    date_end: "2025-03-14"
+    description: "with Martin Losert, Sarah Schönbrodt, Katarzyna Grebosz-Haring, Simon Blatt, and Fritz Höfer"
+    company_url: "https://w-k.sbg.ac.at/veranstaltung/ki-gestuetztes-lernen-forschung-und-projekte-in-salzburg/"
   - company: "INTROSPECTIVES 2024: 1st Workshop: Reflections on Recommender Systems Past, Present, and Future"
     title: Workshop Co-Organizer
     date_start: "2024-10-18"
@@ -28,7 +47,7 @@ experience:
     company_url: "https://introspectives.github.io/2024/"
   - company: "MuRS 2024: 2nd Music Recommender Systems Workshop"
     title: Workshop Co-Organizer
-    company_logo: murs_2024
+    company_logo: murs
     date_start: "2024-10-14"
     date_end: "2024-10-14"
     description: "co-located with [18th ACM Conference on Recommender Systems (RecSys 2024)](https://recsys.acm.org/recsys24/)<br><br>with Andrés Ferraro, Lorenzo Porcaro, and Peter Knees<br>
