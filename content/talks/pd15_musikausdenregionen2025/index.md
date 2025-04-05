@@ -47,6 +47,23 @@ image:
 
 
 #url_program: 
+
+gallery_item:
+- album: pd15_musikausdenregionen2025
+  image: 1_MusikAusDenRegionen2025_c_EvaKelety_001.jpg
+  caption: 'Left to right: Christine Schick, Katharina Schick, Shlomit Butbul, Christian Stani, Sepp Adlmann, Gernot Graninger, Peter Pansky, Reinhart Gabriel, Veronika Schick, Hannes Schwarzenberger, Christine Bauer, Tamara Ofenauer-Haas, Irene Suchy, Martin Lammerhuber, Scharmien Zandi, Alfred Jaklitsch. Image credit: Eva Kelety, 2025.'
+- album: pd15_musikausdenregionen2025
+  image: z_MusikAusDenRegionen2025_c_EvaKelety_053.jpg
+  caption: 'Image credit: Eva Kelety, 2025.'
+- album: pd15_musikausdenregionen2025
+  image: MusikAusDenRegionen2025_c_EvaKelety_061.jpg
+  caption: 'Image credit: Eva Kelety, 2025.'
+- album: pd15_musikausdenregionen2025
+  image: 2_Tagung_2535.jpg
+  caption: 'Image credit: Kultur. Region. Niederösterreich, 2025.'
+- album: pd15_musikausdenregionen2025
+  image: Tagung_2625.jpg
+  caption: 'Image credit: Kultur. Region. Niederösterreich, 2025.'
 ---
 
 Die Live-Branche steht vor Herausforderungen, die Künstler:innen und Veranstalter:innen gleichermaßen betreffen. Unsichere Planbarkeit und sich wandelnde Rahmenbedingungen führen dazu, dass Auftrittsmöglichkeiten wegbrechen oder Konzerte abgesagt werden.<br>
@@ -64,6 +81,10 @@ Seien Sie dabei und bringen Sie Ihre Ideen in die Debatte ein!
 
 Moderation: Irene Suchy
 
-[Aftermath: Das war Musik aus den Regionen 2025 (by Stefanie Geier)](https://www.akm.at/das-war-musik-aus-den-regionen-2025/)
+[Aftermath 1: Das war Musik aus den Regionen 2025 (by Stefanie Geier/AKM)](https://www.akm.at/das-war-musik-aus-den-regionen-2025/)
+
+[Aftermath 2: Tagung "Musik aus den Regionen" widmete sich der Zukunft (by Kultur. Region. Niederösterreich)](https://www.kulturregionnoe.at/news-detail/tagung-musik-aus-den-regionen)
 
 {{< video src="https://www.akm.at//wp-content/uploads/filemanager/Videos%20Musik%20aus%20den%20Regionen/2503_AKM_MadR_16x9_1.mp4" controls="yes" >}}
+
+{{< gallery album="pd15_musikausdenregionen2025" >}}
