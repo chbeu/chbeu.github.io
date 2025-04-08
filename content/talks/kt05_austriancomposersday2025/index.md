@@ -14,12 +14,12 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 event: "Austrian Composers Day 2025"
 event_url: https://www.austriancomposers.com/veranstaltungen/austrian-composers-day-2025/
 
-location: 
+location: Joseph Haydn-Saal, mdw---Universität für Musik und darstellende Kunst Wien
 address:
-  #street: 
+  street: Anton-von-Webern Platz 1
   city: Vienna
 #  region: CA
-  #postcode: '5020'
+  postcode: '1030'
   country: Austria
 
 summary: Keynote talk at the Austrian Composers Day 2025.
@@ -27,9 +27,9 @@ abstract: "Die Einen nehmen KI im Musikbereich mit Begeisterung auf. Andere dist
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-05-10T12:45:00Z"
-#date_end: "2021-04-13T15:00:00Z"
-all_day: true
+date: "2025-05-10T10:00:00Z"
+date_end: "2025-05-10T20:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-02-04T00:00:00Z"
@@ -44,6 +44,8 @@ featured: false
 image:
   #caption: 'Image credit:'
   focal_point: Smart
-  placement: 500
+  placement: 1
+
+url_program: ACD2025_program.jpg
 
 ---
