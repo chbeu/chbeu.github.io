@@ -21,13 +21,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-#- company: "AlpCHI 2026"
-#  company_logo: alpchi_2026
- # title: "Tutorial Co-Chair"
- # description: "with Tiare Feuchtner, Michael Haller, Denis Lalanne, Johannes Schöning, and Verena Zimmermann<br>1st Human-Computer Interaction (HCI) Conference for the Alpine region (AlpCHI 2026)"
-#  company_url: "https://alpchi.org"
-  #url: "https://alpchi.org"
-#  date_start: "2026-03-01"
+- company: "AlpCHI 2026"
+  company_logo: alpchi_2026
+  title: "Organizer"
+  description: "with Tiare Feuchtner, Michael Haller, Denis Lalanne, Johannes Schöning, and Verena Zimmermann<br>1st Human-Computer Interaction (HCI) Conference for the Alpine region (AlpCHI 2026)"
+  company_url: "https://alpchi.org"
+  url: "https://alpchi.org"
+  date_start: "2026-03-01"
   #date_end: "2026-03-05"
 - company: "ECIR 2025"
   company_logo: ecir_2025
@@ -36,7 +36,7 @@ experience:
   company_url: "https://ecir2025.eu"
   #url: "https://ecir2025.eu"
   date_start: "2025-04-06"
-  #date_end: "2025-04-10"
+  date_end: "2025-04-10"
 - company: "CIKM 2023"
   company_logo: cikm_2023
   title: "PhD Symposium Co-Chair"
