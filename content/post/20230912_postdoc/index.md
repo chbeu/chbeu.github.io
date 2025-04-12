@@ -1,7 +1,7 @@
 ---
-title: "PostDoc position at Paris Lodron University Salzburg in collaboration with Salzburg Research"
+title: "PostDoc position at the University of Salzburg in collaboration with Salzburg Research"
 subtitle: ""
-summary: "To strengthen our interdisciplinary research team, we week a PostDoc working at the interface of digitalisation, recommender systems and psychological models and techniques of behavioural change—a collaboration between Salzburg Research and Paris Lodron University Salzburg as part of the 'Excellence in Digital Sciences and Interdisciplinary Technologies' (EXDIGIT) initiative."
+summary: "To strengthen our interdisciplinary research team, we week a PostDoc working at the interface of digitalisation, recommender systems and psychological models and techniques of behavioural change—a collaboration between Salzburg Research and the University of Salzburg as part of the 'Excellence in Digital Sciences and Interdisciplinary Technologies' (EXDIGIT) initiative."
 authors: 
 #authors: [Christine Bauer]
 categories: [news]
@@ -30,7 +30,7 @@ image:
 ---
 
 To strengthen our interdisciplinary research team, we are seeking a full-time PostDoc for 4 years.  
-This position is part of a collaboration of [Salzburg Research](https://www.salzburgresearch.at/en/) and the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at Paris Lodron University Salzburg---as part of the 'Excellence in Digital Sciences and Interdisciplinary Technologies' (EXDIGIT) initiative.  
+This position is part of a collaboration of [Salzburg Research](https://www.salzburgresearch.at/en/) and the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at the University of Salzburg---as part of the 'Excellence in Digital Sciences and Interdisciplinary Technologies' (EXDIGIT) initiative.  
 We are working together at the interface of digitalization, recommender systems, and psychological models and techniques of behavioral change. In an application-oriented basic research endeavor, this position is intended to put a particular focus on questions regarding sustainable and effective mobility and/or tourism.
 
 This position is embedded in the EXDIGIT Research College with ample room for interdisciplinary collaborations beyond the mentioned focus.

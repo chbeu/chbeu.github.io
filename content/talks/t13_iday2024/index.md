@@ -13,7 +13,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 event: "i-Day 2024"
 event_url: https://informatik.uni-salzburg.at/de/node/764
 
-location: Paris Lodron Universität Salzburg, Itzling
+location: University of Salzburg, Itzling
 address:
   street: Jakob-Haringer-Strasse 2
   city: Salzburg

@@ -62,7 +62,7 @@ gallery_item:
   caption: 'Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)'
 - album: pd12_forumkultur2024a
   image: 53819733850_3f92339b89_o.jpg
-  caption: 'Left to right: Panel with cultural scientist and art historian Wolfgang Ullrich, writer Nina George, moderator Claudia Zettel, Paul Nemitz, European Commission, Marlies Wirth, MAK --Museum of Applied Arts Vienna and Christine Bauer, Paris Lodron University Salzburg. Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)'
+  caption: 'Left to right: Panel with cultural scientist and art historian Wolfgang Ullrich, writer Nina George, moderator Claudia Zettel, Paul Nemitz, European Commission, Marlies Wirth, MAK --Museum of Applied Arts Vienna and Christine Bauer, University of Salzburg. Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)'
 - album: pd12_forumkultur2024a
   image: 53819628234_6cb08278d4_o.jpg
   caption: 'Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)'

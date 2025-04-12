@@ -25,7 +25,7 @@ gallery_item:
   caption: 'Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)'
 - album: pd12_forumkultur2024a
   image: 53819733850_3f92339b89_o.jpg
-  caption: 'Left to right: Panel with cultural scientist and art historian Wolfgang Ullrich, writer Nina George, moderator Claudia Zettel, Paul Nemitz, European Commission, Marlies Wirth, MAK --Museum of Applied Arts Vienna and Christine Bauer, Paris Lodron University Salzburg. Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)'
+  caption: 'Left to right: Panel with cultural scientist and art historian Wolfgang Ullrich, writer Nina George, moderator Claudia Zettel, Paul Nemitz, European Commission, Marlies Wirth, MAK --Museum of Applied Arts Vienna and Christine Bauer, University of Salzburg. Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)'
 - album: pd12_forumkultur2024a
   image: 53819628234_6cb08278d4_o.jpg
   caption: 'Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)'
@@ -37,7 +37,7 @@ gallery_item:
   caption: 'Image credit: **BMKÖS/HBF/D. Trippolt**, 2024. <br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)' 
 - album: pd13_forumkultur2024b
   image: 53820964321_8a3712fdaf_o.jpg
-  caption: 'Left to right: Panel with Alexander Dumreicher-Ivanceanu, FAMA---Film and Music Austria, Christina Maaß, UNSECO Commission, Christine Bauer, Paris Lodron University Salzburg, Transmedia artist S()fia Braga, Patrick Ager, Bertelsmann. Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)'
+  caption: 'Left to right: Panel with Alexander Dumreicher-Ivanceanu, FAMA---Film and Music Austria, Christina Maaß, UNSECO Commission, Christine Bauer, University of Salzburg, Transmedia artist S()fia Braga, Patrick Ager, Bertelsmann. Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)'
 ---
 
 I had the honor of participating in two panels at [Forum Kultur](https://forumkultur.at/), an event organized by the [Federal Ministry Republic of Austria for Arts, Culture, Civil Service and Sport (BMKOES)](https://www.bmkoes.gv.at/en.html). The thematic focus of this event was artificial intelligence.

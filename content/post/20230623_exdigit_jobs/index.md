@@ -1,7 +1,7 @@
 ---
-title: "Vacant positions (PhD and Postdoc level) in my team at Paris Lodron University Salzburg"
+title: "Vacant positions (PhD and Postdoc level) in my team at the University of Salzburg"
 subtitle: ""
-summary: "We are seeking for doctoral candidates and postdocs to work with us within the framework of the EXDIGIT Research College at the Paris-Lodron University of Salzburg."
+summary: "We are seeking for doctoral candidates and postdocs to work with us within the framework of the EXDIGIT Research College at the University of Salzburg."
 authors: 
 #authors: [Christine Bauer]
 categories: [news]
@@ -29,7 +29,7 @@ profile: false
 #projects: []
 ---
 
-I am happy to announce that we have several vacant positions (at PhD and Postdoc level) to work with us within the framework of the EXDIGIT Research College at the Paris-Lodron University of Salzburg.
+I am happy to announce that we have several vacant positions (at PhD and Postdoc level) to work with us within the framework of the EXDIGIT Research College at the University of Salzburg.
 EXDIGIT stands for "Excellence in Digital Sciences and Interdisciplinary Technologies". In this interdisciplinary endeavor, we emphasize bridging the existing research areas and represented disciplines at the faculty. 
 
 I seek candidates to work with me on topics related to **fairness of algorithmic decision-making** and **adaptation and personalization**---specifically in the **recommender systems** field. Interest in researching these topics in the music or media sector is a particular asset.

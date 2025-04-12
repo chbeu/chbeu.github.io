@@ -23,7 +23,7 @@ image:
 ---
 
 
-This project is a collaboration with DPG Media, the AI Labs at Utrecht University (UU), and Paris Lodron University Salzburg (PLUS)---with [Karin van Es](http://www.karinvanes.net) and me as Co-PIs.
+This project is a collaboration with DPG Media, the AI Labs at Utrecht University (UU), and the University of Salzburg (PLUS)---with [Karin van Es](http://www.karinvanes.net) and me as Co-PIs.
 
 # Abstract
 

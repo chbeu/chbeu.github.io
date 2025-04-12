@@ -13,7 +13,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 event: "International Conference: 30. DGRI-D-A-CH-Tagung"
 event_url: https://www.dgri.de/38n513
 
-location: Paris Lodron University Salzburg, Toskanatrakt
+location: University of Salzburg, Toskanatrakt
 address:
   street: Churfürststraße 1
   city: Salzburg

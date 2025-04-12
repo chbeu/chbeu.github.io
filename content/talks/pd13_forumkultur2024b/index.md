@@ -55,7 +55,7 @@ gallery_item:
   caption: 'Image credit: **BMKÖS/HBF/D. Trippolt**, 2024. <br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)' 
 - album: pd13_forumkultur2024b
   image: 53820964321_8a3712fdaf_o.jpg
-  caption: 'Left to right: Panel with Alexander Dumreicher-Ivanceanu, FAMA---Film and Music Austria, Christina Maaß, UNSECO Commission, Christine Bauer, Paris Lodron University Salzburg, Transmedia artist S()fia Braga, Patrick Ager, Bertelsmann. Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)'
+  caption: 'Left to right: Panel with Alexander Dumreicher-Ivanceanu, FAMA---Film and Music Austria, Christina Maaß, UNSECO Commission, Christine Bauer, University of Salzburg, Transmedia artist S()fia Braga, Patrick Ager, Bertelsmann. Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)'
 ---
 
 Panel together with Patrik Ager, S()fia Braga, and Alexander Dumreicher-Ivanceanu, moderated by Christine Maass.

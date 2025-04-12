@@ -1,7 +1,7 @@
 ---
-title: "Warm welcome at the Paris Lodron University Salzburg "
+title: "Warm welcome at the University of Salzburg"
 subtitle: ""
-summary: "Paris Lodron University Salzburg made a news entry to announce my start."
+summary: "University of Salzburg made a news entry to announce my start."
 authors: 
 #authors: [Christine Bauer]
 categories: [news]
@@ -29,4 +29,4 @@ image:
 #projects: []
 ---
 
-Today, the Paris Lodron University Salzburg gave me a warm welcome by [announcing my start on its website's news section](https://www.plus.ac.at/news/erste-brueckenprofessur-im-projekt-exdigit-an-der-das-fakultaet/?pgrp=218&is_paged=1) (in German). Thank you!
+Today, the University of Salzburg gave me a warm welcome by [announcing my start on its website's news section](https://www.plus.ac.at/news/erste-brueckenprofessur-im-projekt-exdigit-an-der-das-fakultaet/?pgrp=218&is_paged=1) (in German). Thank you!

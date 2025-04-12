@@ -33,7 +33,7 @@ To strengthen our interdisciplinary research team, we seek a doctoral researcher
 We seek candidates with **strong foundation in computational methods, as they apply to recommender systems research**, who are **equally motivated to incorporate human-centered insights into their work**.   
 Candidates are expected to integrate well into a genuinely interdisciplinary research setting and demonstrate a strong interest in recommender systems. 
 
-This position is part of the 'Excellence in Digital Sciences and Interdisciplinary Technologies' (EXDIGIT) initiative at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at Paris Lodron University Salzburg, Austria.  
+This position is part of the 'Excellence in Digital Sciences and Interdisciplinary Technologies' (EXDIGIT) initiative at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at the University of Salzburg, Austria.  
 
 
 [Full vacancy description](./job_phd_202411.pdf)

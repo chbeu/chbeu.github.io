@@ -1,5 +1,5 @@
 ---
-title: "PhD position at Paris Lodron University Salzburg"
+title: "PhD position at the University of Salzburg"
 subtitle: ""
 summary: "To strengthen our interdisciplinary research team, we seek a **PhD candidate** with focus on **recommender systems**, particularly with interest in **fairness** in recommender systems; music recommender systems; or societal implications of recommender systems."
 authors: 
@@ -36,7 +36,7 @@ Candidates are expected to integrate well into a genuinely interdisciplinary res
 - music recommender systems; or
 - societal implications of recommender systems.
 
-This position is part of the 'Excellence in Digital Sciences and Interdisciplinary Technologies' (EXDIGIT) initiative at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at Paris Lodron University Salzburg, Austria.  
+This position is part of the 'Excellence in Digital Sciences and Interdisciplinary Technologies' (EXDIGIT) initiative at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at the University of Salzburg, Austria.  
 
 
 [Full vacancy description {{< figure src="./phd_job_featured.png" alt="Pic of full vacancy description; full text in the linked pdf above." width="248" height="159" >}}](./phd_job.pdf)

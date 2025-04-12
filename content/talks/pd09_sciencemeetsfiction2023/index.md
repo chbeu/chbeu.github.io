@@ -24,7 +24,7 @@ address:
 summary: Panelist at the Science Meets Fiction Festival in Salzburg, discussing topics related to digitization and time.
 abstract: "Das in Wien entstandene Gesprächsformat Pandora gastiert erneut beim Science meets Fiction-Festival: In Anlehnung an das literarische Quartett werden Bücher vor und mit dem Publikum besprochen, die sich um die Digitalisierung und deren Rolle für Menschen und Gesellschaft drehen. Im Fokus stehen werden diesmal 'Die Zeitmaschine' von H.G. Wells, 'Nichts Tun' von Jenny Odell und „Speculative Everything. Design, Fiction, and Social Dreaming“ von Anthony Dunne und Fiona Raby.
 <br><br>
-Als Diskussionspartnerinnen sind Christine Bauer und Anna Blumenkranz, beide vom Fachbereich Artificial Intelligence and Human Interfaces der Paris Lodron Universität Salzburg, zu Gast. Es moderiert Christopher Frauenberger, ebenso von der Paris Lodron Universität Salzburg, tätig am Fachbereich Human-Computer Interaction."
+Als Diskussionspartnerinnen sind Christine Bauer und Anna Blumenkranz, beide vom Fachbereich Artificial Intelligence and Human Interfaces der Universität Salzburg, zu Gast. Es moderiert Christopher Frauenberger, ebenso von der Universität Salzburg, tätig am Fachbereich Human-Computer Interaction."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
