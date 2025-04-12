@@ -11,13 +11,13 @@ profile: false  # Show author profile?
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
-event: "1st Human-Computer Interaction (HCI) Conference for the Alpine region (AlpCHI 2026)"
+event: "1st Human-Computer Interaction (HCI) Conference of the Alpine region (AlpCHI 2026)"
 event_url: "https://alpchi.org/"
 
 location: Congressi Stefano Franscini by ETH Zürich
 address:
   street: Monte Verità, Strada Collina 84
-  city: AScona
+  city: Ascona
 #  region: WA
   postcode: '6612'
   country: Switzerland
