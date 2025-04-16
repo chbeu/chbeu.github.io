@@ -11,8 +11,6 @@ date: "2019-09-01T00:00:00Z"
 profile: false
 show_date: false
 
-# Optional external URL for project (replaces project detail page).
-#external_link: ""
 
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.

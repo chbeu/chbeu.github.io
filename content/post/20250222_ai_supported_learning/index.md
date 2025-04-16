@@ -1,7 +1,7 @@
 ---
 title: "AI-Supported Learning 2025: Networking Symposium, Current research and practical projects in Salzburg"
 subtitle: ""
-summary: "On March 14, 2025, we are organizing a networking symposium on 'AI-Supported Learning' as an initiative of the focus area 'InterMediation. Music---Effect---Analysis' at Wissenschaft & Kunst."
+summary: "On March 14, 2025, we will organize a networking symposium on 'AI-Supported Learning' as an initiative of the focus area 'InterMediation. Music---Effect---Analysis' at Wissenschaft & Kunst."
 #authors: [Christine Bauer]
 #projects: []
 categories: [news]
