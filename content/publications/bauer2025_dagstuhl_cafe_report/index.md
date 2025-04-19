@@ -9,7 +9,7 @@ authors:
 - Li Chen
 - Nicola Ferro
 - Norbert Fuhr
-tags: [conversational agents, evaluation, information access, Dagstuhl Perspectives Workshop, Dagstuhl]
+tags: [conversational agents, evaluation, information access, Dagstuhl Perspectives Workshop, Dagstuhl, report, CONversational Information ACcess, CONIAC, ConversationalAgents Framework for Evaluation, CAFE]
 categories: []
 date: 2025-03-13
 featured: false

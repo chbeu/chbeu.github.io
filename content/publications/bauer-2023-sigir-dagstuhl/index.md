@@ -13,6 +13,10 @@ authors:
 - Timo Breuer
 - Charles L A Clarke
 - Anita Crescenzi
+- Gianluca Demartini
+- Giorgio Maria Di Nunzio
+- Laura Dietz
+- Guglielmo Faggioli
 - Bruce Ferwerda
 - Maik Fröbe
 - Matthias Hagen
