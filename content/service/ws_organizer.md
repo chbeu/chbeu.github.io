@@ -23,14 +23,14 @@ experience:
   - company: "BEYOND 2025: 1st Workshop on Beyond Algorithms: Reclaiming the Interdisciplinary Roots of Recommender Systems"
     title: Workshop Co-Organizer
     date_start: "2025-09-22"
-    date_end: "2025-09-22"
+#    date_end: "2025-09-22"
     description: "co-located with [19th ACM Conference on Recommender Systems (RecSys 2025)](https://recsys.acm.org/recsys25/)<br><br>with Eva Zangerle and Alan Said"
     company_url: "https://beyondrecsys.github.io/2025/"
   - company: "MuRS 2025: 3rd Music Recommender Systems Workshop"
     title: Workshop Co-Organizer
     company_logo: murs
     date_start: "2025-09-22"
-    date_end: "2025-09-22"
+#    date_end: "2025-09-22"
     description: "co-located with [19th ACM Conference on Recommender Systems (RecSys 2025)](https://recsys.acm.org/recsys25/)<br><br>with Andrés Ferraro and Lorenzo Porcaro"
     company_url: "https://sites.google.com/view/murs-2025"
   - company: "AI-Supported Learning 2025: Networking Symposium, Current research and practical projects in Salzburg"
