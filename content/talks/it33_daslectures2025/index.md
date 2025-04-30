@@ -49,7 +49,7 @@ image:
   caption: ''
   focal_point: 'Smart'
   preview_only: false
-  placement: 1
+  placement: 500
 
 
 projects: []
