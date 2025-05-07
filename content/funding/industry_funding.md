@@ -41,7 +41,7 @@ experience:
     company_logo: oktav
     location: Austria
     date_start: '2019-05-01'
-    date_end: '2019-01-31'
+    date_end: '2019-08-31'
     description: |2-
         Affiliation: Johannes Kepler University Linz<br>
         Partner: OKTAV GmbH
