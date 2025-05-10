@@ -47,5 +47,6 @@ image:
   placement: 1
 
 url_program: ACD2025_program.jpg
+url_slides: kt05_austriancomposersday2025_pres.pdf
 
 ---
