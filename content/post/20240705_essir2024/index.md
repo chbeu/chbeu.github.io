@@ -5,7 +5,7 @@ summary: "From 1st to 5th of July 2024, I participated as a speaker at ELLIS ESS
 #authors: [Christine Bauer]
 #projects: []
 categories: [news]
-tags: [summer school, ESSIR, information retrieval, peer reviews, ]
+tags: [summer school, ESSIR, information retrieval, peer reviews]
 date: '2024-07-05T00:00:00Z'
 featured: false
 draft: false
