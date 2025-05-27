@@ -51,4 +51,6 @@ links:
 #url_pdf: ""
 #url_slides: 
 #url_video: ""
+
+projects: [multimethod]
 ---
