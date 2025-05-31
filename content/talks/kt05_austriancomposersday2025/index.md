@@ -49,4 +49,70 @@ image:
 url_program: ACD2025_program.jpg
 url_slides: kt05_austriancomposersday2025_pres.pdf
 
+gallery_item:
+- album: kt05_austriancomposersday2025
+  image: _A7_2381.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_2387.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_2424.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_2487.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_2516.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_2518.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_2532.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_2535.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_2551.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_2552.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_2919.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_3055.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_3057.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_3059.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_3066.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_3093.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_3096.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_3098.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_3121.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
+  image: _A7_3187.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'- album: kt05_austriancomposersday2025
+  image: _A7_3212.jpg
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+
 ---
+
+{{< gallery album="kt05_austriancomposersday2025" >}}
