@@ -60,9 +60,6 @@ gallery_item:
   image: _A7_2424.jpg
   caption: 'Image credit: **Robert Puteanu**, 2025.'
 - album: kt05_austriancomposersday2025
-  image: _A7_2487.jpg
-  caption: 'Image credit: **Robert Puteanu**, 2025.'
-- album: kt05_austriancomposersday2025
   image: _A7_2516.jpg
   caption: 'Image credit: **Robert Puteanu**, 2025.'
 - album: kt05_austriancomposersday2025
@@ -109,7 +106,8 @@ gallery_item:
   caption: 'Image credit: **Robert Puteanu**, 2025.'
 - album: kt05_austriancomposersday2025
   image: _A7_3187.jpg
-  caption: 'Image credit: **Robert Puteanu**, 2025.'- album: kt05_austriancomposersday2025
+  caption: 'Image credit: **Robert Puteanu**, 2025.'
+- album: kt05_austriancomposersday2025
   image: _A7_3212.jpg
   caption: 'Image credit: **Robert Puteanu**, 2025.'
 
