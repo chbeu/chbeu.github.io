@@ -48,8 +48,15 @@ publishDate: '2025-04-19T01:13:46.973627Z'
 publication_types: [report]
 publication: '*Dagstuhl Manifestos*'
 
-abstract: "During the workshop, we deeply discussed what CONversational Information ACcess (CONIAC) is and its unique features, proposing a world model abstracting it, and defined the Conversational Agents Framework for Evaluation (CAFE) for the evaluation of CONIAC systems, consisting of six major components: 1) goals of the system's stakeholders, 2) user tasks to be studied in the evaluation, 3) aspects of the users carrying out the tasks, 4) evaluation criteria to be considered, 5) evaluation methodology to be applied, and 6) measures for the quantitative criteria chosen. "
+abstract: "During the workshop, we deeply discussed what CONversational Information ACcess (CONIAC) is and its unique features, proposing a world model abstracting it, and defined the Conversational Agents Framework for Evaluation (CAFE) for the evaluation of CONIAC systems, consisting of six major components: 1) goals of the system's stakeholders, 2) user tasks to be studied in the evaluation, 3) aspects of the users carrying out the tasks, 4) evaluation criteria to be considered, 5) evaluation methodology to be applied, and 6) measures for the quantitative criteria chosen."
 
 # doi: 
+
+links: 
+- icon: arxiv
+  icon_pack: ai
+  name: arXiv
+  url: https://doi.org/10.48550/arXiv.2506.11112
+
 altmetric: false
 ---
