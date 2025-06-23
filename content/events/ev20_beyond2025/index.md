@@ -28,8 +28,8 @@ abstract: "This workshop aims to examine and challenge the current machine learn
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-09-22T09:00:00" #-05:00"
-#date_end: "2025-09-22T17:30:00" #-05:00"
+date: "2025-09-26T09:00:00" #-05:00"
+#date_end: "2025-09-26T17:30:00" #-05:00"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
