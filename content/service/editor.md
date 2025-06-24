@@ -53,7 +53,7 @@ experience:
  
 
 
-  - title: "Review Editor"
+  - title: "Community Reviewer"
     company: Frontiers in Research Metrics and Analytics---Research Methods
     company_url: 'https://www.frontiersin.org/journals/research-metrics-and-analytics/sections/research-methods'
     company_logo: frontiers
@@ -63,7 +63,7 @@ experience:
     #description: 
 
     
-  - title: "Review Editor"
+  - title: "Community Reviewer"
     company: Frontiers in Big Data---Recommender Systems
     company_url: 'https://www.frontiersin.org/journals/big-data/sections/recommender-systems'
     company_logo: frontiers
