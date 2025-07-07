@@ -29,6 +29,14 @@ experience:
   url: "https://alpchi.org"
   date_start: "2026-03-01"
   #date_end: "2026-03-05"
+- company: "ECIR 2026"
+  #company_logo: ecir_2026
+  title: "Short Paper Co-Chair"
+  description: "with Sean McAvaney and Mohammad Aliannejadi<br>48th European Conference on Information Retrieval (ECIR 2026)"
+  company_url: "https://ecir2026.eu"
+  #url: "https://ecir2026.eu"
+  date_start: "2026-03-29"
+  #date_end: "2026-04-02"
 - company: "ECIR 2025"
   company_logo: ecir_2025
   title: "Tutorial Co-Chair"
