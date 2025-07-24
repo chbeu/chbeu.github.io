@@ -31,6 +31,7 @@ design:
 <mark>FAccT</mark> 2025, 2024  
 ECIR 2025, 2024 (IR for Good)  
 <mark>IUI</mark> 2025, 2024, 2023, 2022 {{< icon name="award" pack="fas" >}}  
+<mark>RecSys</mark> 2025 (LBR), 2022 {{< icon name="award" pack="fas" >}}, 2021, 2020 {{< icon name="award" pack="fas" >}}, 2019 {{< icon name="trophy" pack="fas" >}}, 2018 {{< icon name="award" pack="fas" >}}, 2017  
 NORMalize 2024  
 MuC 2024  
 CIKM 2023  
@@ -43,7 +44,6 @@ HICSS 2023, 2018, 2015
 SIGIR 2022  
 HT 2022  
 GMAP 2022  
-<mark>RecSys</mark> 2022 {{< icon name="award" pack="fas" >}}, 2021, 2020 {{< icon name="award" pack="fas" >}}, 2019 {{< icon name="trophy" pack="fas" >}}, 2018 {{< icon name="award" pack="fas" >}}, 2017  
 <mark>CHI</mark> 2022, 2020 {{< icon name="award" pack="fas" >}}, 2019, 2018, 2015, 2014, 2013, 2012, 2011   
 ComplexRec 2021  
 CSCW 2021, 2018  
