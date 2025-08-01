@@ -30,7 +30,7 @@ experience:
   date_start: "2026-03-01"
   #date_end: "2026-03-05"
 - company: "ECIR 2026"
-  #company_logo: ecir_2026
+  company_logo: ecir_2026
   title: "Short Paper Co-Chair"
   description: "with Sean McAvaney and Mohammad Aliannejadi<br>48th European Conference on Information Retrieval (ECIR 2026)"
   company_url: "https://ecir2026.eu"
@@ -128,4 +128,3 @@ experience:
 design:
   columns: '2' 
 ---
-
