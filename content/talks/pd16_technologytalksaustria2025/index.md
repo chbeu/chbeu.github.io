@@ -49,4 +49,4 @@ image:
 #url_program: 
 ---
 
-The workshop on "Algorithms of inequality? Gender, discrimination and power in AI" is organized by the Austrian Federal Ministry of Women, Science and Research, in the scope of the "Technology Talks Austria" event organized by AIT Austrian Institute of Technology.
+The workshop on "Algorithms of inequality? Gender, discrimination and power in AI" is organized by the Austrian Federal Ministry of Women, Science and Research (BMFWF), in the scope of the "Technology Talks Austria" event organized by AIT Austrian Institute of Technology.
