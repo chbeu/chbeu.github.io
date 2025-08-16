@@ -60,6 +60,8 @@ experience:
     company_logo: dagstuhl
     description: >-
       with Li Chen, Nicola Ferro, and Norbert Fuhr<br><br>
+      [See the Dagstuhl report](/publications/bauer-2025-dagstuhl-cafe-report/)<br>
+      [See the Dagstuhl manifesto](/publications/bauer-2025-dagstuhl-cafe-manifesto/)<br><br>
       ![Group photo of the Dagstuhl Perspectives Workshop 24352 participants](/images/variouspics/dagstuhl2024_24352.jpg)
     company_url: "https://www.dagstuhl.de/24352"
   - company: "Dagstuhl Seminar 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education"

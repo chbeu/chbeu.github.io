@@ -23,7 +23,7 @@ address:
   country: Austria
 
 summary: Panel discussion at the Technology Talks Austria by AIT, in cooperation with the Austiran Federal Ministry of Women, Science and Research.
-abstract: ""
+abstract: "AI has a strong influence on our lives, but holds the risk of reinforcing inequalities. Equality, ethics & social equity are often marginalised. Gender stereotypes in data and the low representation of women in AI development consolidate 'gender-typical' interests. This panel takes a critical look at algorithms of inequality by asking: How can AI be used to promote gender equality and therefore a more equal future? Join experts to discuss solutions at the intersection of gender, discrimination and technology."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
