@@ -50,6 +50,9 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+url_video: https://youtu.be/87qX4wsf1CA?si=CAaGj3lumeZsNsCk
+
 
 projects: [multimethod]
 
@@ -60,5 +63,11 @@ icons:
 ---
 
 
+{{< youtube "87qX4wsf1CA?si=CAaGj3lumeZsNsCk" >}}
+<br>
 <br>
 {{< cite  page="zangerle-2022-fevr" view="4" >}}
+
+
+
+

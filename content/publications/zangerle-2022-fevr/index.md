@@ -35,6 +35,7 @@ abstract: 'The comprehensive evaluation of the performance of a recommender syst
 
 
 doi: 10.1145/3556536
+url_video: https://youtu.be/87qX4wsf1CA?si=CAaGj3lumeZsNsCk
 authorizer: https://dl.acm.org/doi/10.1145/3556536?cid=81453628934
 
 icons:
@@ -46,3 +47,5 @@ altmetric: true
 plumx: true
 dimensions: false
 ---
+
+{{< youtube "87qX4wsf1CA?si=CAaGj3lumeZsNsCk" >}}
