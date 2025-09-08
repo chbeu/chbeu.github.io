@@ -1,7 +1,7 @@
 ---
 type: publication
 
-title: 'MuRS 2025: 3rd Music Recommender Systems Workshop'
+title: 'MuRS: 3rd Music Recommender Systems Workshop'
 subtitle: ''
 summary: ''
 authors:
@@ -25,7 +25,7 @@ profile: false
 
 
 projects: []
-publishDate: '2025-09-20T01:13:45.839142Z'
+publishDate: '2025-09-07T01:13:45.839142Z'
 publication_types: [paper-conference]
 publication: '*19th ACM Conference on Recommender Systems*'
 publication_short: RecSys 2025

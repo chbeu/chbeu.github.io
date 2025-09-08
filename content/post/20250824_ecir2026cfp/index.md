@@ -1,7 +1,7 @@
 ---
 title: "CfP for ECIR 2026"
 subtitle: ""
-summary: "The CfP for ECIR 2026 are available online."
+summary: "The CfPs for ECIR 2026 are available online."
 #authors: [Christine Bauer]
 #projects: []
 categories: [news]
@@ -26,4 +26,4 @@ It is a great honor to chair the [ECIR 2026](https://ecir2026.eu) Short Paper Tr
 
 The [Call for Short Papers](https://ecir2026.eu/calls/call-for-short-papers) was just released. We look forward to receiving your great :) submissions. Deadlines typically approach sooner than appreciated---so better get started ;)
 
-Also, the calls for the other tracks are available the [confernce website](https://ecir2026.eu).
+Also, the calls for the other tracks are available the [conference website](https://ecir2026.eu).

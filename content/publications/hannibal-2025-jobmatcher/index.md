@@ -29,12 +29,12 @@ publication_types: [paper-conference]
 publication: '*20th IFIP TC13 International Conference on Human-Computer Interaction*'
 publication_short: INTERACT 2025
 
-abstract: ""
+abstract: "Artificial Intelligence (AI) is widely used in recruitment with Job Recommender Systems (JRS) being designed for job matching. However, poor matches can significantly impact individuals' livelihoods, business profits, and organizational productivity. Thus, it is critical to study whether users trust JRS and their outputs, especially after receiving explanations for job matches. In a between-subjects, mixed-methods online experiment, we study whether varying explanations of trust violations embedded in a job match influence user trust in the mock-up JRS algorithm JobMatcher. We found that such explanations had limited effect on trust in the JobMatcher algorithm or understanding of the job match. We discuss the findings about the complexity of explanations concerning trust, the problematic role of high or low agency perception of AI for trust measures, and the need to address the moral dimension of trust."
 
 altmetric: false
 plumx: false
 dimensions: false
-#doi: 
+doi: 10.1007/978-3-032-05002-1_33
 #url_pdf: 
 #links:
 #- icon: file
