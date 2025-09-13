@@ -9,7 +9,7 @@ authors:
 - Christine Bauer
 tags: [JobMatcher, job recommendation, recommender systems, trust, AI, explanations]
 categories: []
-date: 2025-09-08
+date: 2026-01-01
 featured: false
 draft: false
 profile: false

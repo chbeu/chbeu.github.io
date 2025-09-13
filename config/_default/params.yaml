@@ -52,6 +52,7 @@ header:
 # Site footer
 
 footer:
+  block: minimal
   copyright:
     notice: '© {year} Christine Bauer. This work is licensed under {license}'
     license:
