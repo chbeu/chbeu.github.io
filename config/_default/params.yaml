@@ -20,8 +20,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: "Christine Bauer is a Professor of Interactive Intelligent Systems at Paris Lodron University Salzburg, Austria. Her research focuses on recommender systems, fairness, and multi-method evaluation."
-    twitter: 'christine_bauer'
+    description: "Christine Bauer is a Professor of Interactive Intelligent Systems at the University of Salzburg, Austria. Her research focuses on recommender systems, fairness, and multi-method evaluation."
+    twitter: ''
   analytics:
     google_analytics: 'tvdmEZ0WrN-QEAz6MIcKMQxy_uIi54hcQ17R_XWHJ6o'
   verification:
