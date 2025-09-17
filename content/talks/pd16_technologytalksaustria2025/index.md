@@ -47,6 +47,32 @@ image:
 
 
 #url_program: 
+
+gallery_item:
+- album: pd16_technologytalksaustria2025
+  image: 1_1758119931371.jpeg
+  caption: 'Left to right: Irina Nalis, Elka Xharo, Teki Akuetteh, Virginia Dignum, Yufang Hou, BM Eva-Maria Holzleitner, Christine Bauer. Image credit: Katharina Schiffl, 2025.'
+- album: pd16_technologytalksaustria2025
+  image: 2_1758119930315.jpeg
+  caption: 'Left to right: Elka Xharo, Irina Nalis, Yufang Hou, Teki Akuetteh, Virginia Dignum, Christine Bauer. Image credit: Katharina Schiffl, 2025.'
+- album: pd16_technologytalksaustria2025
+  image: 3_moApQb4C5ELA6QZhWCY3.jpeg
+  caption: 'Left to right: Irina Nalis, Yufang Hou, Teki Akuetteh, Virginia Dignum, Christine Bauer, BM Eva-Maria Holzleitner. Image credit: APA/Huber-Lang, 2025.'
+- album: pd16_technologytalksaustria2025
+  image: 4_moApNXfs5ELA6QZhWCXc.jpeg
+  caption: 'Left to right: Irina Nalis, Elka Xharo, Teki Akuetteh, Virginia Dignum, Yufang Hou, BM Eva-Maria Holzleitner, Christine Bauer. Image credit: APA/Huber-Lang, 2025.'
+- album: pd16_technologytalksaustria2025
+  image: 5_moApa1s45ELA6QZhYTcG.jpeg
+  caption: 'Left to right: Yufang Hou, Teki Akuetteh, Virginia Dignum, Christine Bauer. Image credit: APA/Huber-Lang, 2025.'
+- album: pd16_technologytalksaustria2025
+  image: 6_moApPH5R5ELA6QZhWCXj.jpeg
+  caption: 'Image credit: APA/Huber-Lang, 2025.'
+ 
 ---
 
-The workshop on "Algorithms of inequality? Gender, discrimination and power in AI" is organized by the Austrian Federal Ministry of Women, Science and Research (BMFWF), in the scope of the "Technology Talks Austria" event organized by AIT Austrian Institute of Technology.
+The workshop titled "Algorithms of inequality? Gender, discrimination and power in AI" was organized by the Austrian Federal Ministry of Women, Science and Research (BMFWF), as part of the "Technology Talks Austria 2025" event organized by AIT Austrian Institute of Technology.   
+The welcome address was delivered by Federal Minister Eva-Maria Holzleitner.
+The panel discussion was moderated by Elka Xharo.  
+
+<br>
+{{< gallery album="pd16_technologytalksaustria2025" >}}
