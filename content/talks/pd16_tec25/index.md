@@ -73,7 +73,10 @@ gallery_item:
 - album: pd16_tec25
   image: 8_250911KatharinaSchiffl-9075.jpg
   caption: 'Left to right: Elka Xharo, Irina Nalis, Yufang Hou, Teki Akuetteh, Virginia Dignum, Christine Bauer. Image credit: Katharina Schiffl, 2025.'
- 
+- album: pd16_tec25
+  image: 9_250911KatharinaSchiffl-7484.jpg
+  caption: 'Image credit: Katharina Schiffl, 2025.'
+
 ---
 
 The workshop titled "Algorithms of inequality? Gender, discrimination and power in AI" was organized by the Austrian Federal Ministry of Women, Science and Research (BMFWF), as part of the "Technology Talks Austria 2025" (TEC25) event organized by AIT Austrian Institute of Technology.   
