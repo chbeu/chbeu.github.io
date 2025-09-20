@@ -61,7 +61,7 @@ authors:
 - Karl A. Fröschl
 - Christine Bauer
 - Sarah Spiekermann
-tags: [talk, music, popstar, music business, technology interruption]
+tags: [talk, music, popstar, music business, technology interruption, communication to the public]
 
 # Is this a featured talk? (true/false)
 featured: false

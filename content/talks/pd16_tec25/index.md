@@ -35,7 +35,7 @@ all_day: false
 publishDate: "2025-07-24T00:00:00Z"
 
 authors: [Virginia Dignum, Youfang Hou, Teki Akuetteh, Irina Nalis-Neuner, Christine Bauer, Elka Xharo]
-tags: [panel, TEC25, AIT, AI, artificial intelligence, algorithms, inequality, gender, discrimination, power]
+tags: [panel, TEC25, AIT, AI, artificial intelligence, algorithms, inequality, gender, discrimination, power, communication to the public]
 
 # Is this a featured talk? (true/false)
 featured: false

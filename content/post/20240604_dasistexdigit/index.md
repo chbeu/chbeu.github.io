@@ -5,7 +5,7 @@ summary: "On June 4, 2024, we organized the event 'DAS ist EXDIGIT', introducing
 #authors: [Christine Bauer]
 #projects: []
 categories: [news]
-tags: [event, press conference, EXDIGIT]
+tags: [event, press conference, EXDIGIT, communication to the public]
 date: '2024-06-04T00:00:00Z'
 featured: false
 draft: false

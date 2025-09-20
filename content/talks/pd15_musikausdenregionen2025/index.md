@@ -35,7 +35,7 @@ all_day: false
 publishDate: "2025-02-28T00:00:00Z"
 
 authors: [Christine Bauer, Josh., Scharmien Zandi, Peter Vieweger, Tamara Ofenauer-Haas, Irene Suchy]
-tags: [panel, AI, artificial intelligence, music, GenAI, culture, copyright]
+tags: [panel, AI, artificial intelligence, music, GenAI, culture, copyright, communication to the public]
 
 # Is this a featured talk? (true/false)
 featured: false

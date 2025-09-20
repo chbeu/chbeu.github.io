@@ -38,7 +38,7 @@ authors:
 - Paul Fischer
 - Martin Giesswein
 - Stephanie Meisl
-tags: [panel, creative sector, creative industries, music, artificial intelligence, copyright, legal issues, creative AI, generative AI]
+tags: [panel, creative sector, creative industries, music, artificial intelligence, copyright, legal issues, creative AI, generative AI, communication to the public]
 
 # Is this a featured talk? (true/false)
 featured: false

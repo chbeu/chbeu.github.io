@@ -5,7 +5,7 @@ summary: "I had the honor of participating in two panels at Forum Kultur, an eve
 #authors: [Christine Bauer]
 #projects: []
 categories: [news]
-tags: [panel, artificial intelligence, AI, culture, arts, music, arts]
+tags: [panel, artificial intelligence, AI, culture, arts, music, arts, communication to the public]
 date: '2024-06-27T00:00:00Z'
 featured: false
 draft: false

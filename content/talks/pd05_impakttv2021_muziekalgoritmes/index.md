@@ -38,7 +38,7 @@ authors:
 - Wilbert Mutsaers
 - Rosa Wevers
 - Friso Wiersum
-tags: [panel, Impakt TV, music, algorithms, dutch media week, media, music recommender systems]
+tags: [panel, Impakt TV, music, algorithms, dutch media week, media, music recommender systems, communication to the public]
 
 # Is this a featured talk? (true/false)
 featured: false

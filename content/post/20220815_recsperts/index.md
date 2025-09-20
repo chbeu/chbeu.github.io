@@ -4,7 +4,7 @@ subtitle: ""
 #summary: ""
 #authors: [Christine Bauer]
 categories: [news]
-tags: [podcast, outreach, recommender systems, music, fairness, multi-method evaluation]
+tags: [podcast, outreach, recommender systems, music, fairness, multi-method evaluation, communication to the public]
 date: 2022-08-15T13:00:00+02:00
 lastmod: 2022-08-15T13:00:00+02:00
 featured: false

@@ -41,7 +41,7 @@ authors:
 - Wolfgang Ullrich
 - Marlies Wirth
 - Claudia Zettel
-tags: [panel, AI, artificial intelligence, culture, art]
+tags: [panel, AI, artificial intelligence, culture, art, communication to the public]
 
 # Is this a featured talk? (true/false)
 featured: false

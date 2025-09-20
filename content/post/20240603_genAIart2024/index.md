@@ -5,7 +5,7 @@ summary: "On June 20, 2024, I am organizing a symposium on 'Harmony & Dissonance
 #authors: [Christine Bauer]
 #projects: []
 categories: [news]
-tags: [event, GenAI, Generative Artificial Intelligence, artificial intelligence, AI, music, arts, W&K]
+tags: [event, GenAI, Generative Artificial Intelligence, artificial intelligence, AI, music, arts, W&K, communication to the public]
 date: '2024-06-03T00:00:00Z'
 featured: false
 draft: false

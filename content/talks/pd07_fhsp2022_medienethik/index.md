@@ -44,7 +44,7 @@ authors:
 - Michael Litschka
 - Anna Michalski
 - Florian Saurwein
-tags: [panel, FH St. Pölten, media, artificial intelligence, ethics, algorithms]
+tags: [panel, FH St. Pölten, media, artificial intelligence, ethics, algorithms, communication to the public]
 
 # Is this a featured talk? (true/false)
 featured: false

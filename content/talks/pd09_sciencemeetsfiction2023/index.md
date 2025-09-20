@@ -39,7 +39,7 @@ authors:
 - Christine Bauer
 - Anna Blumenkranz
 - Christopher Frauenberger
-tags: [panel, time, digitization, science meets fiction]
+tags: [panel, time, digitization, science meets fiction, communication to the public]
 
 # Is this a featured talk? (true/false)
 featured: false
