@@ -21,6 +21,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- company: "RecSys 2027"
+  company_logo: recsys_2027
+  #date_end: "2023-09-23"
+  title: "General Co-Chair"
+  description: "with Bamschaud Mobaher and Joeran Beel <br>21st ACM Conference on Recommender Systems (RecSys 2027)"
+  company_url: "https://recsys.acm.org/recsys23/"
+  url: "https://recsys.acm.org"
+  date_start: "2027-09-01"
 - company: "AlpCHI 2026"
   company_logo: alpchi_2026
   title: "Organizer"
