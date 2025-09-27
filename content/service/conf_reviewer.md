@@ -27,7 +27,7 @@ design:
   flip_alt_rows: false
 ---
 
-<mark>IUI</mark> 2026, 2025, 2024, 2023, 2022 {{< icon name="award" pack="fas" >}}  
+<mark>IUI</mark> 2025, 2024, 2023, 2022 {{< icon name="award" pack="fas" >}}  
 <mark>ECAI</mark> 2025, 2024  
 <mark>FAccT</mark> 2025, 2024  
 ECIR 2025, 2024 (IR for Good)  

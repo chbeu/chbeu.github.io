@@ -25,7 +25,7 @@ experience:
   company_logo: recsys_2027
   #date_end: "2023-09-23"
   title: "General Co-Chair"
-  description: "with Bamschaud Mobaher and Joeran Beel <br>21st ACM Conference on Recommender Systems (RecSys 2027)"
+  description: "with Bamshad Mobasher and Joeran Beel <br>21st ACM Conference on Recommender Systems (RecSys 2027)"
   company_url: "https://recsys.acm.org/recsys23/"
   url: "https://recsys.acm.org"
   date_start: "2027-09-01"
