@@ -52,5 +52,9 @@ image:
   placement: 1
 
 projects: []
+url_proceedings: 'https://ceur-ws.org/Vol-4045/'
 doi: 10.1145/3705328.3748000
 ---
+
+{{< cite page="ferraro-2025-murs" view="4" >}}
+{{< cite page="ferraro-2025-murs-ceur" view="4" >}}
