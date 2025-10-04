@@ -1,7 +1,7 @@
 ---
-title: "Panelist at TEC25"
+title: "Panelist at #TEC25"
 subtitle: ""
-summary: "I had the honor participating in a panelist at TEC25, in a workshop organized by the Federal Ministry of Women, Science and Research."
+summary: "I had the honor participating in a panelist at #TEC25, in a workshop organized by the Federal Ministry of Women, Science and Research."
 #authors: [Christine Bauer]
 #projects: []
 categories: [news]
@@ -22,6 +22,6 @@ image:
 ---
 
 It was a great pleasure participating in the panel titled "Algorithms of inequality? Gender, discrimination and power in AI" at the [Technology Talks Austria 2025 (#TEC25)](https://technologytalks.ait.ac.at) by AIT Austrian Institute of Technology.
-We had a vivid discussion with wonderful panelists: Irina Nalis, Yufang Hou, Teki Akuetteh (Ms.), and Virginia Dignum, moderated by Elka Xharo.
+We had a vivid discussion with wonderful panelists: Irina Nalis, Yufang Hou, Teki Akuetteh, and Virginia Dignum, moderated by Elka Xharo.
 
 The workshop (and panel) was organized by the [Federal Ministry of Women, Science and Research](https://www.bmfwf.gv.at/en.html) and Federal Minister Eva-Maria Holzleitner delivered the welcome address.

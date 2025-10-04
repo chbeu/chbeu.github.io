@@ -11,7 +11,7 @@ profile: false  # Show author profile?
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
-event: "Technology Talks Austria by AIT (TEC25)"
+event: "Technology Talks Austria by AIT (#TEC25)"
 event_url: https://technologytalks.ait.ac.at/en/workshops
 
 location: MuseumsQuartier Wien
@@ -22,7 +22,7 @@ address:
   postcode: '1070'
   country: Austria
 
-summary: Panel discussion at the Technology Talks Austria by AIT (TEC25), in cooperation with the Austiran Federal Ministry of Women, Science and Research.
+summary: "Panel discussion at the Technology Talks Austria by AIT (#TEC25), in cooperation with the Austiran Federal Ministry of Women, Science and Research."
 abstract: "AI has a strong influence on our lives, but holds the risk of reinforcing inequalities. Equality, ethics & social equity are often marginalised. Gender stereotypes in data and the low representation of women in AI development consolidate 'gender-typical' interests. This panel takes a critical look at algorithms of inequality by asking: How can AI be used to promote gender equality and therefore a more equal future? Join experts to discuss solutions at the intersection of gender, discrimination and technology."
 
 # Talk start and end times.
@@ -79,7 +79,7 @@ gallery_item:
 
 ---
 
-The workshop titled "Algorithms of inequality? Gender, discrimination and power in AI" was organized by the Austrian Federal Ministry of Women, Science and Research (BMFWF), as part of the "Technology Talks Austria 2025" (TEC25) event organized by AIT Austrian Institute of Technology.   
+The workshop titled "Algorithms of inequality? Gender, discrimination and power in AI" was organized by the Austrian Federal Ministry of Women, Science and Research (BMFWF), as part of the "Technology Talks Austria 2025" (TEC25) event, organized by AIT Austrian Institute of Technology.   
 The welcome address was delivered by Federal Minister Eva-Maria Holzleitner.
 The panel discussion was moderated by Elka Xharo.  
 
