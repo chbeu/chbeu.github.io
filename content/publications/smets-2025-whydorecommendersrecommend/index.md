@@ -1,7 +1,7 @@
 ---
 type: publication
 
-title: "Why Do Recommenders Recommend? Three Waves of Research Perspectives on Recommender Systems"
+title: "Why do recommenders recommend? Three waves of research perspectives on recommender systems"
 subtitle: ''
 summary: ''
 authors:
