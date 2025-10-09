@@ -56,7 +56,7 @@ image:
 #url_pdf:  ""
 #url_slides:  ""
 url_video: "https://youtu.be/Q63NUsg8xr4"
-url_program: "https://www.futuremusiccamp.de/programm/"
+url_program: "https://www.futuremusiccamp.de/fmc2023/"
 
 gallery_item:
 - album: kt02_fmc2023

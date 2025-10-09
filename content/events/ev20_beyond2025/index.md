@@ -53,5 +53,10 @@ image:
   placement: 1
 
 projects: []
+url_proceedings: 'https://ceur-ws.org/Vol-4063/'
 doi: 10.1145/3705328.3747998
 ---
+
+
+{{< cite page="zangerle-2025-beyond" view="4" >}}
+{{< cite page="zangerle-2025-beyond-ceur" view="4" >}}

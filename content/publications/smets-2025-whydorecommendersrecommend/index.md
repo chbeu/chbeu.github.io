@@ -34,11 +34,5 @@ abstract: "Research on Recommender Systems (RSs) has evolved across disciplines,
 altmetric: false
 plumx: false
 dimensions: false
-#doi: 
-#url_pdf: 
-#links:
-#- icon: file
-#  icon_pack: fa
-#  name: Postprint
-#  url: 
+#url_pdf: https://ceur-ws.org/Vol-4063/paper3.pdf
 ---

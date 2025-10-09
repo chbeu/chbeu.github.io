@@ -21,7 +21,7 @@ profile: false
 image:
   caption: ''
   placement: 300
-  focal_point: Snart
+  focal_point: Smart
   preview_only: false
 
 
