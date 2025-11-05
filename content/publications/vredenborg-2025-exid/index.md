@@ -20,10 +20,11 @@ profile: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  caption: ''
-#  focal_point: ''
-#  preview_only: false
+image:
+  caption: 'Path diagram illustrating the relationships between scale factors (ellipses) and scale items (rectangles). Bold numbers indicate factor loadings between factors and items, while italicised numbers represent correlations between latent factors. Arrow thickness corresponds to the magnitude of the relationships, with thicker lines indicating stronger correlations.'
+  focal_point: 'Smart'
+  preview_only: false
+  placement: 1
 
 
 #   Otherwise, set `projects = []`.
