@@ -37,7 +37,7 @@ all_day: false
 publishDate: "2024-03-20T00:00:00Z"
 
 #authors: [Christine Bauer]
-tags: [GenAI, Generative Artificial Intelligence, artificial intelligence, AI, music, arts, W&K]
+tags: [GenAI, Generative Artificial Intelligence, artificial intelligence, AI, music, arts, W&K, InterMediation]
 categories:
   - event
 

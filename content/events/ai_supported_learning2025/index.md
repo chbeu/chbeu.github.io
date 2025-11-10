@@ -35,7 +35,7 @@ all_day: false
 publishDate: "2025-02-15T00:00:00Z"
 
 authors: [Christine Bauer, Martin Losert, Sarah Schönbrodt, Katarzyna Grebosz-Haring, Simon Blatt, Fritz Höfer]
-tags: [AI, artificial intelligence, learning, education, W&K]
+tags: [AI, artificial intelligence, learning, education, W&K, InterMediation]
 categories:
   - event
 
