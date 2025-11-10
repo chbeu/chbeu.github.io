@@ -36,7 +36,7 @@ publishDate: "2024-02-15T00:00:00Z"
 
 authors:
 - Christine Bauer
-tags: [keynote, talk, music, recommender systems, fairness, music recommender systems, communication to the public]
+tags: [keynote, talk, music, recommender systems, fairness, music recommender systems, communication to the public, W&K, InterMediation]
 
 # Is this a featured talk? (true/false)
 featured: false
