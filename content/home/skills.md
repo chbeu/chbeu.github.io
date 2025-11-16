@@ -14,7 +14,7 @@ weight: 30
 
 feature:
 - name: Central theme
-  description: Interactive intelligent systems<br>at the intersection of human-centered computing, data science, and artificial intelligence
+  description: Interactive intelligent systems<br>at the intersection of human-centered computing, artificial intelligence, and data science
   icon: bullseye
   icon_pack: fa
 - name: Academic indices
