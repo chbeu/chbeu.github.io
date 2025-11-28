@@ -29,7 +29,7 @@ feature:
   icon: chalkboard-teacher
   icon_pack: fas
 - name: Community service
-  description: AE at TORS, TOIS, and JITT<br>Conf. Org. (e.g., RecSys, CHI, CIKM, ECIR)<br>Meta-Reviewer (e.g., SIGIR, RecSys, CHI, ISMIR)<br>Reviewer for >30 journals and >140 conferences<br>Workshop Organizer (e.g., PERSPECTIVES, Dagstuhl)
+  description: AE at TORS, TOIS, and JITT<br>Conf. Org. (e.g., RecSys, ECIR, CHI, CIKM)<br>Meta-Reviewer (e.g., SIGIR, RecSys, CHI, ISMIR)<br>Reviewer for >30 journals and >140 conferences<br>Workshop Organizer (e.g., PERSPECTIVES, Dagstuhl)
   icon: users
   icon_pack: fas
 - name: Outreach

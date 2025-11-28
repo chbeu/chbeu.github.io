@@ -39,6 +39,13 @@ The EXID scale is suitable for both research and practice. It can be applied in 
 
 
 doi: 10.1016/j.trf.2025.103418
+
+links: 
+- icon: file-zipper
+  icon_pack: fas
+  name: Supplementary Material (.zip)
+  url: vredenborg-2025-exid_supplementarymaterial.zip
+
 altmetric: true
 plumx: false
 dimensions: false
