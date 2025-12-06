@@ -31,12 +31,15 @@ main:
   - name: Media & Press
     url: 'media/'
     weight: 10
+  - name: Teams
+    url: 'teams/'
+    weight: 11
   - name: Gallery
     url: 'gallery/'
-    weight: 11
+    weight: 12
   - name: Contact
     url: '#contact'
-    weight: 12
+    weight: 13
  # - name: Posts
  #   url: '#posts'
  #   weight: 30

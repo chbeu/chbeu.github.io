@@ -25,6 +25,7 @@ interests:
 - Interactive intelligent systems
 - Recommender systems
 - Fairness
+- Evaluation
 - Applied AI
 - Human-centered computing
 - Multi-method evaluation
