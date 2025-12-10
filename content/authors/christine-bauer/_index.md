@@ -123,7 +123,7 @@ social:
 - icon: chart-bar
   icon_pack: far
   icon_title: Top 2% Scientists
-  link: https://topresearcherslist.com/Home/Profile/945471
+  link: https://topscinet.com/scientist_profile/Bauer,%20Christine/2006/?stype=single_year
 - icon: person-dress
   icon_pack: fas
   icon_title: Speakerinnen
