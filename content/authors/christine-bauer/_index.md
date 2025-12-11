@@ -109,6 +109,10 @@ social:
   icon_pack: ai
   icon_title: Zotero
   link: https://www.zotero.org/christine_bauer/cv
+- icon: book-open
+  icon_pack: fas
+  icon_title: Open Review
+  link: https://openreview.net/profile?id=%7EChristine_Bauer1
 - icon: globe
   icon_pack: fas
   icon_title: ScholarGPS

@@ -27,9 +27,9 @@ design:
   flip_alt_rows: false
 ---
 
+<mark>FAccT</mark> 2026, 2025, 2024  
 <mark>IUI</mark> 2025, 2024, 2023, 2022 {{< icon name="award" pack="fas" >}}  
 <mark>ECAI</mark> 2025, 2024  
-<mark>FAccT</mark> 2025, 2024  
 ECIR 2025, 2024 (IR for Good)  
 <mark>RecSys</mark> 2025 (LBR), 2022 {{< icon name="award" pack="fas" >}}, 2021, 2020 {{< icon name="award" pack="fas" >}}, 2019 {{< icon name="trophy" pack="fas" >}}, 2018 {{< icon name="award" pack="fas" >}}, 2017  
 NORMalize 2024  
