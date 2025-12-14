@@ -36,7 +36,7 @@ all_day: true
 publishDate: "2021-08-01T00:00:00Z"
 
 authors: [Christine Bauer, Peter Knees, Richard Vogl, Hansi Raaber]
-tags: [workshop, artificial intelligence, music, music creation, ars electronica]
+tags: [workshop, artificial intelligence, music, music creation, ars electronica, communication to the public]
 
 # Is this a featured talk? (true/false)
 featured: false

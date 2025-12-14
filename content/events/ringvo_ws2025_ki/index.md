@@ -35,7 +35,7 @@ all_day: true
 publishDate: "2025-10-15T00:00:00Z"
 
 authors: [Christine Bauer, Katarzyna Grebosz-Haring, Martin Losert]
-tags: [artificial intelligence, AI, arts, research, education, lectures series, W&K, InterMediation]
+tags: [artificial intelligence, AI, arts, research, education, lectures series, W&K, InterMediation, communication to the public, teaching]
 categories:
   - event
 

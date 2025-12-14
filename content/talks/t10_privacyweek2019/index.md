@@ -40,7 +40,7 @@ all_day: true
 publishDate: "2021-08-01T00:00:00Z"
 
 authors: []
-tags: [talk, privacy, privacyweek, music, c3w]
+tags: [talk, privacy, privacyweek, music, c3w, communication to the public]
 
 # Is this a featured talk? (true/false)
 featured: false

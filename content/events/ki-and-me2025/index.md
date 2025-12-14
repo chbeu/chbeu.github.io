@@ -44,7 +44,7 @@ all_day: true
 publishDate: "2025-11-06T00:00:00Z"
 
 authors: [Christine Bauer, Sebastian Linz]
-tags: [artificial intelligence, AI, everyday life, power, feelings, arts, W&K, InterMediation]
+tags: [artificial intelligence, AI, everyday life, power, feelings, arts, W&K, InterMediation, communication to the public]
 categories:
   - event
 

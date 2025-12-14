@@ -36,7 +36,7 @@ all_day: true
 publishDate: "2021-08-01T00:00:00Z"
 
 authors: [Christine Bauer, Peter Knees]
-tags: [talk, artificial intelligence, recommender systems, music, music information retrieval, ars electronica]
+tags: [talk, artificial intelligence, recommender systems, music, music information retrieval, ars electronica, communication to the public]
 
 # Is this a featured talk? (true/false)
 featured: false

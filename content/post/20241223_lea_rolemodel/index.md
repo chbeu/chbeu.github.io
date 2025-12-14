@@ -4,7 +4,7 @@ subtitle: "My profile was published today."
 summary: "I was invited as a LEA Role Model in the initiative 'Let's empower Austria (LEA)', an Austrian initiative to empower and support women and girls."
 #authors: [Christine Bauer]
 categories: [news]
-tags: [LEA, role model, women, girls, empowerment, honor]
+tags: [LEA, role model, women, girls, empowerment, honor, communication to the public]
 date: 2024-12-23T00:00:00
 featured: false
 draft: false

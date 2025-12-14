@@ -34,7 +34,7 @@ publishDate: 2022-02-28T22:16:51+01:00
 
 authors:
 - Christine Bauer
-tags: [talk, keynote, international women's day, music, artists, gender bias, fairness]
+tags: [talk, keynote, international women's day, music, artists, gender bias, fairness, communication to the public]
 
 # Is this a featured event? (true/false)
 featured: false

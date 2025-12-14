@@ -34,7 +34,7 @@ publishDate: 2023-04-12T12:00:00+01:00
 
 authors:
 - Christine Bauer
-tags: [talk, keynote, future music camp, Popakademie, recommender systems, music, ethics, fairness, artificial intelligence]
+tags: [talk, keynote, future music camp, Popakademie, recommender systems, music, ethics, fairness, artificial intelligence, communication to the public]
 
 # Is this a featured event? (true/false)
 featured: false
