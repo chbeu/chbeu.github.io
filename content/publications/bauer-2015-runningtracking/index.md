@@ -34,9 +34,4 @@ abstract: 'In the last years, a large number of sport and fitness applications f
 
 doi: 10.1145/2837126.2839316
 authorizer:  https://dl.acm.org/doi/10.1145/2837126.2839316?cid=81453628934
-links: 
-- icon: file
-  icon_pack: fa
-  name: Postprint
-  url: bauer-2015-runningtracking-acceptedversion.pdf
 ---

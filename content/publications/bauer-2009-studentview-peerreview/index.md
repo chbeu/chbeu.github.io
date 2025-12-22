@@ -39,9 +39,4 @@ abstract: 'Peer review is used as an effective quality assurance measure in many
 
 doi: 10.1145/1562877.1562892
 authorizer: https://dl.acm.org/doi/10.1145/1562877.1562892?cid=81453628934
-links: 
-- icon: file
-  icon_pack: fa
-  name: Postprint
-  url: bauer-2009-studentview-peerreview-postprint.pdf
 ---

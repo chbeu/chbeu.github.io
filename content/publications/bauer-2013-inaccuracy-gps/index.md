@@ -34,11 +34,6 @@ abstract: 'Sports tracking applications are increasingly available on the market
 
 doi: 10.1145/2536853.2536893
 authorizer: https://dl.acm.org/doi/10.1145/2536853.2536893?cid=81453628934
-links: 
-- icon: file
-  icon_pack: fa
-  name: Postprint
-  url: bauer-2013-inaccuracy-gps-postprint.pdf
 url_slides: bauer-2013-inaccuracy-gps-slides.pdf
 altmetric: true
 ---
