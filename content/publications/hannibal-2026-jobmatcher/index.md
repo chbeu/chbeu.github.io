@@ -35,10 +35,10 @@ altmetric: false
 plumx: false
 dimensions: false
 doi: 10.1007/978-3-032-05002-1_33
-#url_pdf: 
+url_pdf: https://rdcu.be/eWfc6
 #links:
 #- icon: file
 #  icon_pack: fa
 #  name: Postprint
-#  url: 
+#  url: https://rdcu.be/eWfc6
 ---

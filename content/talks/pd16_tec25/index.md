@@ -79,7 +79,7 @@ gallery_item:
 
 ---
 
-The workshop titled "Algorithms of inequality? Gender, discrimination and power in AI" was organized by the [Austrian Federal Ministry of Women, Science and Research (BMFWF)(https://www.bmfwf.gv.at/en.html), as part of the "Technology Talks Austria 2025" (TEC25) event, organized by AIT Austrian Institute of Technology.   
+The workshop titled "Algorithms of inequality? Gender, discrimination and power in AI" was organized by the [Austrian Federal Ministry of Women, Science and Research (BMFWF)](https://www.bmfwf.gv.at/en.html), as part of the "Technology Talks Austria 2025" (TEC25) event, organized by AIT Austrian Institute of Technology.   
 The welcome address was delivered by Federal Minister Eva-Maria Holzleitner.
 The panel discussion was moderated by Elka Xharo.  
 

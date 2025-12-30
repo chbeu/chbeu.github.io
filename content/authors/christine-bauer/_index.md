@@ -135,7 +135,7 @@ social:
 - icon: person-dress
   icon_pack: fas
   icon_title: Frauendomaene  
-  link: https://www.frauendomaene.at/user/christinebauer1/
+  link: https://www.frauendomaene.at/user/christinebauer/
 - icon: youtube
   icon_pack: fab
   icon_title: YouTube
