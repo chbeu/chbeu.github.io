@@ -5,7 +5,7 @@ summary: "A personal recap of 2025."
 #authors: 
 categories: [news]
 tags: [reflection, end-of-year reflection, year in review]
-date: 2025-12-31T02:00:06+02:00
+date: 2025-12-31T23:00:06+02:00
 featured: false
 draft: false
 profile: false
