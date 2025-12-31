@@ -45,7 +45,7 @@ Again, it has been a full year with many ups---yet, also downs.
 
 
 ## Keynotes, talks, and panels 
-- 1 keynotes: CRUM
+- 1 keynote: CRUM
 - 5 invited talks
 - 2x panelist: at Fachtagung für Urheberrecht 2024 and 30. DGRI-D-A-CH-Tagung
 
@@ -71,14 +71,14 @@ Again, it has been a full year with many ups---yet, also downs.
 
 
 ## Service & organization
-- Since October, I am a Co-Lead of the focus area “InterMediation. Music—Effect—Analysis” at the inter-university institution Wissenschaft & Kunst, together with Martin Losert; two sax🎷 players as leads; it can only be great 😉
+- Since October, I am a Co-Lead of the focus area [InterMediation. Music—Effect—Analysis](https://w-k.sbg.ac.at/intermediation-musik-wirkung-analyse-2024-2028/) at the inter-university institution Wissenschaft & Kunst, together with Martin Losert; two sax🎷 players as leads; it can only be great 😉
 - Independent Ethics Advisor of the EU project [OpenMusE](https://www.openmuse.eu)
 - Member of the Equal Opportunities Working Group (AKG) at PLUS
-- Member of the Member of the Curriculum Committee for the Joint Master’s Degree Program in Human-Computer Interaction at PLUS and FHS
+- Member of the Curriculum Committee for the Joint Master’s Degree Program in Human-Computer Interaction at PLUS and FHS
 - WP Lead for WP2 (Third-Party Funding) of EXDIGIT
 - Member of the Scientific Advisory Board of EXDIGIT
 - Jury member of the Marie Andeßner Prizes for Master and Diploma theses 2024 and the Marie Andeßner PhD Grants 2024
-- WiMIR mentoring 2024
+- WIMIR mentoring 2024
 - Co-Chairing:
   - Workshop Co-Organizer of INTROSPECTIVES 2024 at RecSys 2024, with Alan Said and Eva Zangerle 
   - Workshop Co-Organizer of MuRS 2024 at RecSys 2024, with Andrés Ferraro, Lorenzo Porcaro, and Peter Knees 
@@ -90,7 +90,7 @@ Again, it has been a full year with many ups---yet, also downs.
   - Joined the Editorial Board of JITT
 - Member of PhD Defense committees:
   - [Lien Michiels](https://lienmichiels.be) at University of Antwerp, Belgium
-  - [Kristina Matrosova](https://scholar.google.dk/citations?user=4c_Qth8AAAAJ) at  Sorbonne University and Deezer, France
+  - [Kristina Matrosova](https://scholar.google.dk/citations?user=4c_Qth8AAAAJ) at Sorbonne University and Deezer, France
 - Opponent of PhD dispositions at PLUS:
   - [Nicola Leschke](https://pepsys-group.github.io/team/nl)
   - [Cansu Demir](https://cansu-demir.com)
@@ -129,7 +129,7 @@ Again, it has been a full year with many ups---yet, also downs.
 - I'm still not settled in Salzburg musically.---I hope to find a band to actively engage in playing music again. I miss it!
 - I've had a very hard time bearing up against a detrimental campaign... 😔
 
-## Wrap up
-- I’m pretty sure I’ve forgotten a thing or two or three.  
-- I want to thank those who supported and encouraged me to uphold integrity and move forward.  
+## Wrap-up
+- I’m pretty sure I’ve forgotten a thing or two or three.
+- I want to thank those who supported and encouraged me to uphold integrity and move forward.
 - I made it through the year, and that's the most important achievement!

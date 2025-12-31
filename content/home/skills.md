@@ -41,7 +41,7 @@ feature:
   icon: globe
   icon_pack: fas
 - name: Mentoring
-  description: LEA Role Model since 2024<br>WiMIR Mentoring since 2018<br>Mentoring at Queen Mary University of London 2021--2024<br>Allyship Chair at CHI 2023+2022<br>Doctoral/PhD Symposium Chair at RecSys 2023+2021 and CIKM 2023
+  description: LEA Role Model since 2024<br>WIMIR Mentoring since 2018<br>Mentoring at Queen Mary University of London 2021--2024<br>Allyship Chair at CHI 2023+2022<br>Doctoral/PhD Symposium Chair at RecSys 2023+2021 and CIKM 2023
   icon: hands-helping
   icon_pack: fas
 
