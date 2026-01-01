@@ -24,7 +24,7 @@ design:
   columns: '2'
 ---
 
-I am Head of the **[Interactive Intelligent Systems Research Group](https://interintsys.github.io)**. Founded in 2023, it is a young and dynamic research group.
+I am the Head of the **[Interactive Intelligent Systems Research Group](https://interintsys.github.io)**. Founded in 2023, it is a young and dynamic research group.
 This group is part of *Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT)* within the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at the [University of Salzburg](https://plus.ac.at?lang=en), Austria. The group is affiliated with the [Department of Artificial Intelligence and Human Interfaces (AIHI)](https://www.plus.ac.at/aihi/?lang=en).
 
 In our research group, we investigate the full spectrum of recommender systems and human-AI interaction: from (i) investigating humans’ needs of how such systems function to (ii) measuring the implications of these systems. This also includes (iii) evaluating their algorithmic performance, analyzing biases, or studying trust issues, and (iv) improving algorithmic approaches to better align with those needs.
