@@ -24,7 +24,7 @@ projects: []
 
 Inspired by the end-of-year reviews of [Michael Ekstrand](https://md.ekstrandom.net/blog/2023/12/2023) and [Matt Kelly](https://log.lab.matkelly.com/year-in-review-2023), I wrote my first one last year: [Year in Review 2024](/post/20241231_2024yearinreview)---and here is my Year in Review 2025.
 
-*As there is not official abbreviation of our university's name (University of Salzburg), I use my own: USBG.*
+*As there is no official abbreviation of our university's name (University of Salzburg), I use my own: USBG.*
 
 Similar to last year, my year was full---but in different ways. Again, with ups and downs...
 
@@ -80,7 +80,7 @@ Similar to last year, my year was full---but in different ways. Again, with ups 
 - Roles in academic governance at USBG:
   - Member of the Equal Opportunities Working Group (AKG)
   - Alternate Member of the Faculty Council of the Faculty of Digital and Analytical Sciences
-  - Theoretically, I am a member of the Member of the Department Council of the Department of Artificial Intelligence and Human Interfaces---but there has not even been a meeting yet?!
+  - Theoretically, I am a member of the Department Council of the Department of Artificial Intelligence and Human Interfaces---but there has not even been a meeting yet?!
   - Curriculum Committees:
     - Member of the Curriculum Committee for the Joint Master’s Degree Program in Human-Computer Interaction at USBG and FHS
     - Alternate Member of the Curriculum Committee for the Master's Degree Program in Applied Image and Signal Processing
@@ -88,8 +88,8 @@ Similar to last year, my year was full---but in different ways. Again, with ups 
   - WP Lead for WP2 (Third-Party Funding) of EXDIGIT
   - Member of the Scientific Advisory Board of EXDIGIT
   - Appointment committees:
-    - Representative for equal opportunities in appointment committee for the Full Professorship in Zoological Ecology
-    - Representative for equal opportunities in appointment committee for the Full Professorship in Plant Ecophysiology
+    - Representative for equal opportunities in the appointment committee for the Full Professorship in Zoological Ecology
+    - Representative for equal opportunities in the appointment committee for the Full Professorship in Plant Ecophysiology
   - Representative for equal opportunities in the habilitation committee for Ulrike Ruprecht (Venia: Botanic)
 - Co-Chairing and organization:
   - Co-Chair of ECIR 2026 Short Papers
@@ -141,7 +141,7 @@ Similar to last year, my year was full---but in different ways. Again, with ups 
 - After Udo K. mentioned in passing that he uses his winter break to book concert tickets for the whole year, I was inspired to do the same...
   - I enjoyed the theater play Luziwuzi with Tom Neuwirth in the leading role for a second time (with my mum!).
   - Jamiroquai live on stage again---I had a blast!
-  - Mnozil Brass is touring again, and I had a great time attending their Johann Strauß special program in Salzburg.
+  - Mnozil Brass is touring again, and I had a great time attending their Johann Strauss special program in Salzburg.
 - When someone interrupts a meeting with, "I just want to tell you: I really enjoy working with you all!", it gave me so much joy and motivation to keep going! I was genuinely touched. And you know what?! I enjoy working with the team too!
 
 

@@ -1,7 +1,7 @@
 ---
 title: 'Radio episodes out now: Confirm Humanity—Epochenbruch'
 subtitle: ""
-summary: "I am featured in three radio/podcast episodes on social justice, education and work, and art and artificial intelligence, produced by Freies Radio Salzkammergut."
+summary: "I contribute to three radio/podcast episodes on social justice, education and work, and art and artificial intelligence, produced by Freies Radio Salzkammergut."
 #authors: [Christine Bauer]
 #projects: []
 categories: [news]
@@ -34,7 +34,7 @@ https://cba.media/podcast/confirm-humanity-epochenbruch
 
 This episode focuses on **social justice in data-driven societies**. We discuss how data and algorithms are often seen as "neutral", while in reality they reflect the society that produces them---and can reproduce and reinforce existing inequalities.
 
-I discuss how recommender systems in music and media affect visibility and access, and why fairness is not just about the data---it is about understanding the whole system and requires critical reflection on **datasets, algorithms, and their social embedding**.
+I discuss how recommender systems in music and media affect visibility and access, and why fairness is not just about the data---it is about understanding the whole system and requires critical reflection on **datasets, algorithms, and their social context**.
 
 Episode link: 
 https://cba.media/751431

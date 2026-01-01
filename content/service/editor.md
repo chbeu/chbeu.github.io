@@ -77,7 +77,7 @@ experience:
     company_logo: frontiers
     #location: 
     date_start: '2021-03-01'
-   # date_end: '2022-05-31'
+    date_end: '2025-12-31'
     #description:  
     
   - title: "Guest Editor: Special Issue 'Perspectives on Recommender Systems Evaluation'"
