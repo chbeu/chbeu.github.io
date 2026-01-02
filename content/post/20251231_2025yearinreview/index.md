@@ -115,9 +115,9 @@ Similar to last year, my year was full---but in different ways. Again, with ups 
 
 ## Third mission / outreach / media
 - 2 keynotes in the music industry
-- 4x panelist
+- 4 panels
 - 1 talk for teens
-- Co-organization of [Diskurs | OPEN MIND FREQUENTLY: KI + ME](/events/ki-and-me2025/), a collaboration of InterMediation. Music---Effect---Analysis and ARGEkultur Salzburg
+- Co-organization of [Diskurs | OPEN MIND FREQUENTLY: KI + ME](/events/ki-and-me2025/), a collaboration of InterMediation. Music---Effect---Analysis and ARGEkultur Salzburg; moderating one of these myself 🙌
 - Co-organization of the public lecture series [Gekommen, um zu bleiben…: KI in Kunst, Forschung und Lehre](/events/ringvo_ws2025_ki/)
 - Continuing service with the Let’s empower Austria (LEA) initiative as a LEA Role Model.
 - 9 media mentions
