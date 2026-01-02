@@ -1,6 +1,6 @@
 ---
 title: 'Bio'
-date: 2024-09-22
+date: 2025-12-31
 draft: false
 type: page
 show_date: false
