@@ -11,7 +11,7 @@ weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Reviewing activities'
-subtitle: 'Meta-Reviewer'
+subtitle: 'Meta-Reviewer (SPC, AC)'
 
 
 design:
@@ -31,8 +31,8 @@ design:
 
 <mark>IUI</mark> 2026  
 UMAP 2026, 2025  
+<mark>SIGIR</mark> 2026, 2025, 2024, 2023  
 <mark>RecSys</mark> 2025, 2024, 2023  
-<mark>SIGIR</mark> 2025, 2024, 2023  
 CIKM 2024, 2023  
 <mark>CHI</mark> 2023, 2021, 2020  
 <mark>ISMIR</mark> 2023, 2021, 2020  
