@@ -96,8 +96,8 @@ Paul Feigelfeld (Institut für Open Arts, Universität Mozarteum Salzburg)
 Hanna Maria Kreuzbauer (Fachbereich Völkerrecht, Europarecht und Grundlagen des Rechts, Universität Salzburg)   
 
 - 10. Dezember 2025, 17:15-18:45   
-Meines, deines, unser Werk? Ein psychologischer Blick auf kreative Zusammenarbeit mit KI    
-Martina Mara (Linz Institute of Technology – LIT, JKU Linz)   
+[Mit KI erstellt! Wie wird kreative Zusammenarbeit mit einer KI wahrgenommen?](https://w-k.sbg.ac.at/veranstaltung/mit-ki-erstellt-wie-wird-kreative-zusammenarbeit-mit-einer-ki-wahrgenommen-tanja-messingschlager/)    
+Tanja Messingschlager (Universität Würzburg)     
 
 - 17. Dezember 2025, 17:15-18:45   
 [CORPUS – Musik zwischen Mensch, Maschine und Recht](https://w-k.sbg.ac.at/veranstaltung/corpus-musik-zwischen-mensch-maschine-und-recht-mathis-nitschke/)    
@@ -112,7 +112,7 @@ Sebastian Gawron (Institut für Angewandte Bauforschung Weimar (IAB) / KI macht 
 Leoni Cramer / Franziska Kinskofer (Fachbereich Psychologie, Universität Salzburg)   
 
 - 21. Jänner 2026, 17:15-18:45   
-AI‑assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation   
+[AI‑assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://w-k.sbg.ac.at/veranstaltung/ai-assisted-scientific-evaluation-automated-reasoning-for-conflicting-evidence-and-misleading-claims-yufang-hou/)   
 Yufang Hou (IT:U Interdisciplinary Transformation University Austria, Linz)   
 In englischer Sprache   
 
