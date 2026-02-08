@@ -25,7 +25,7 @@ feature:
   icon: award
   icon_pack: fas
 - name: Teaching
-  description: 30 different courses at 17 institutions<br>ESSIR, RecSys Summer School, PhD-AI.it<br>Tutorials at UMAP and ISMIR<br>Supervision of >70 theses
+  description: 34 different courses at 17 institutions<br>ESSIR, RecSys Summer School, PhD-AI.it<br>Tutorials at UMAP and ISMIR<br>Supervision of >70 theses
   icon: chalkboard-teacher
   icon_pack: fas
 - name: Community service

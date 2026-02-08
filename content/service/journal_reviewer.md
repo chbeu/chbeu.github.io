@@ -31,31 +31,31 @@ design:
 
 <mark>Nature</mark>  
 <mark>Communications of the ACM (CACM)</mark>  
-<mark>ACM Transactions on Computer-Human Interaction (TOCHI)</mark>  
-AI Magazine  
-<mark>Information Processing and Management (IPM)</mark>  
-<mark>User Modeling and User-Adapted Interaction (UMUAI)</mark>  
-Decision Support Systems (DSS)  
-<mark>Information Systems Research (ISR)</mark>  
-International Journal of Human-Computer Studies (IJHCS)  
-<mark>ACM Transactions on Interactive Intelligent Systems (TiiS)</mark>  
-IEEE Transactions on Knowledge and Data Engineering (TKDE)  
-Human-Computer Interaction  
 Computers in Human Behavior (CHB)  
-Personal and Mobile Computing (PMC)  
-<mark>PLOS ONE</mark>  
-IEEE Pervasive Computing  
-ACM Transactions on Intelligent Systems and Technology (TIST)  
-Transactions of the International Society for Music Information Retrieval (TISMIR)  
-ACM Transactions on Recommender Systems (TORS)  
-ACM Transactions on Information Systems (TOIS)  
-<mark>Electronic Markets (EM)</mark>  
-<mark>European Journal of Information Systems (EJIS)</mark>  
+IEEE Transactions on Knowledge and Data Engineering (TKDE)  
+<mark>Information Processing and Management (IPM)</mark>  
 Business & Information Systems Engineering (BISE) / Wirtschaftsinformatik  
-Journal of Music Business Research  
-IEEE Transactions on Human-Machine Systems  
+<mark>European Journal of Information Systems (EJIS)</mark>  
+ACM Transactions on Intelligent Systems and Technology (TIST)  
+<mark>Electronic Markets (EM)</mark>  
+Decision Support Systems (DSS)  
 IEEE Transactions on Services Computing  
+ACM Transactions on Information Systems (TOIS)  
+<mark>International Journal of Human-Computer Studies (IJHCS)  </mark>
+Information Systems Research (ISR)  
+<mark>ACM Transactions on Computer-Human Interaction (TOCHI)</mark>  
+Human-Computer Interaction  
+<mark>ACM Transactions on Interactive Intelligent Systems (TiiS)</mark>  
+IEEE Transactions on Human-Machine Systems  
+<mark>User Modeling and User-Adapted Interaction (UMUAI)</mark>  
+Pervasive and Mobile Computing (PMC)  
+<mark>PLOS ONE</mark>  
+AI Magazine  
 Service Science  
+IEEE Pervasive Computing  
+ACM Transactions on Recommender Systems (TORS)  
+Transactions of the International Society for Music Information Retrieval (TISMIR)  
+Journal of Music Business Research  
 Die Betriebswirtschaft (DBW) / Business Administration Review (BARev)  
 ETRI Journal  
 Journal of Service Science Research (JoSSR)  

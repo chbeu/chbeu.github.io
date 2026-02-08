@@ -34,4 +34,5 @@ abstract: "Web 2.0 and social media have triggered radical changes in the very f
 
 #url_pdf: https://epub.wu.ac.at/5578/
 url_slides: bauer-2016-darkside-artists-slides.pdf
+doi: 10.57938/c55bad87-d362-4026-a862-a37b5bad85cd
 ---

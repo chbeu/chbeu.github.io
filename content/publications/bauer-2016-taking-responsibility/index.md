@@ -35,4 +35,5 @@ This paper offers a non-exhaustive overview of available options, how a company 
 
 #url_pdf: https://epub.wu.ac.at/5578/
 url_slides: bauer-2016-taking-responsibility-slides.pdf
+doi: 10.57938/c55bad87-d362-4026-a862-a37b5bad85cd
 ---
