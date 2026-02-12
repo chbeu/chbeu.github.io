@@ -1,6 +1,6 @@
 ---
 title: "Interactive Intelligent Systems Research Group"  # Add a page title.
-subtitle: Department of Artificial Intelligence and Human Interfaces (AIHI)<br>University of Salzburg
+subtitle: Department of Artificial Intelligence and Human Interfaces (AIHI)<br>University of Salzburg <br>{{< figure src="/images/variouspics/usbg_aihi_logo.png" width=300 >}}
 summary: "This page provides an overview of the Interactive Intelligent Systems research group at the University of Salzburg."  # Add a page description.
 date: "2025-12-06T00:00:00Z"
 widget: markdown

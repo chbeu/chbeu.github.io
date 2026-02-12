@@ -1,6 +1,6 @@
 ---
 title: "InterMediation. Music---Effect---Analysis"  # Add a page title.
-subtitle: Wissenschaft & Kunst<br>Mozarteum University Salzburg & <br>University of Salzburg
+subtitle: Wissenschaft & Kunst<br>Mozarteum University Salzburg & <br>University of Salzburg <br>{{< figure src="/images/variouspics/w-k_3er-logo_quer2_web.png" width=250 >}}
 summary: "This page provides an overview of the team at the focus area InterMediation. Music---Effect---Analysis."  # Add a page description.
 date: "2025-12-06T00:00:00Z"
 widget: markdown
