@@ -32,8 +32,10 @@ experience:
     company_logo: murs
     date_start: "2025-09-22"
     date_end: "2025-09-22"
-    description: "co-located with [19th ACM Conference on Recommender Systems (RecSys 2025)](https://recsys.acm.org/recsys25/)<br><br>with Andrés Ferraro and Lorenzo Porcaro<br>
-      [See proceedings](https://ceur-ws.org/Vol-4045/)"
+    description:  >-
+      co-located with [19th ACM Conference on Recommender Systems (RecSys 2025)](https://recsys.acm.org/recsys25/)<br><br>
+      with Andrés Ferraro and Lorenzo Porcaro<br>
+      [See proceedings](https://ceur-ws.org/Vol-4045/)
     company_url: "https://sites.google.com/view/murs-2025"
   - company: "AI-Supported Learning 2025: Networking Symposium, Current research and practical projects in Salzburg"
     title: Symposium Co-Organizer
@@ -45,15 +47,19 @@ experience:
     title: Workshop Co-Organizer
     date_start: "2024-10-18"
     date_end: "2024-10-18"
-    description: "co-located with [18th ACM Conference on Recommender Systems (RecSys 2024)](https://recsys.acm.org/recsys24/)<br><br>with Alan Said and Eva Zangerle"
+    description:  >-
+      co-located with [18th ACM Conference on Recommender Systems (RecSys 2024)](https://recsys.acm.org/recsys24/)<br><br>
+      with Alan Said and Eva Zangerle
     company_url: "https://introspectives.github.io/2024/"
   - company: "MuRS 2024: 2nd Music Recommender Systems Workshop"
     title: Workshop Co-Organizer
     company_logo: murs
     date_start: "2024-10-14"
     date_end: "2024-10-14"
-    description: "co-located with [18th ACM Conference on Recommender Systems (RecSys 2024)](https://recsys.acm.org/recsys24/)<br><br>with Andrés Ferraro, Lorenzo Porcaro, and Peter Knees<br>
-      [See proceedings](https://ceur-ws.org/Vol-3787/)"
+    description:  >-
+      co-located with [18th ACM Conference on Recommender Systems (RecSys 2024)](https://recsys.acm.org/recsys24/)<br><br>
+      with Andrés Ferraro, Lorenzo Porcaro, and Peter Knees<br>
+      [See proceedings](https://ceur-ws.org/Vol-3787/)
     company_url: "https://sites.google.com/view/murs-2024"
   - company: "Dagstuhl Perspectives Workshop 24352: Conversational Agents: A Framework for Evaluation (CAFE)"
     title: Dagstuhl Perspectives Workshop Co-Organizer
@@ -101,22 +107,33 @@ experience:
     title: Workshop Co-Organizer
     date_start: "2022-09-25"
     date_end: "2022-09-25"
-    description: "co-located with [16th ACM Conference on Recommender Systems (RecSys 2022)](https://recsys.acm.org/recsys22/)<br><br>with Eva Zangerle and Alan Said<br><br>[See proceedings](https://ceur-ws.org/Vol-3228/)<br>[See event report in SIGIR Forum](/publications/zangerle-2023-sigirforum-perspectives/)"
-    company_url: "https://perspectives-ws.github.io/2022/"
+    description:  >-
+      co-located with [16th ACM Conference on Recommender Systems (RecSys 2022)](https://recsys.acm.org/recsys22/)<br><br>
+      with Eva Zangerle and Alan Said<br><br>
+      [See proceedings](https://ceur-ws.org/Vol-3228/)<br>[See event report in SIGIR Forum](/publications/zangerle-2023-sigirforum-perspectives/)
+      company_url: "https://perspectives-ws.github.io/2022/"
   - company: "PERSPECTIVES 2021: Workshop on the Perspectives on the Evaluation of Recommender Systems"
     title: Workshop Co-Organizer
     date_start: "2021-09-25"
     date_end: "2021-10-01"
-    description: "co-located with [15th ACM Conference on Recommender Systems (RecSys 2021)](https://recsys.acm.org/recsys21/)<br><br>with Eva Zangerle and Alan Said<br><br>[See proceedings](https://ceur-ws.org/Vol-2955/)<br>[See event report in SIGIR Forum](/publications/zangerle-2022-sigirforum-perspectives/)"
+    description:  >-
+      co-located with [15th ACM Conference on Recommender Systems (RecSys 2021)](https://recsys.acm.org/recsys21/)<br><br>
+      with Eva Zangerle and Alan Said<br><br>
+      [See proceedings](https://ceur-ws.org/Vol-2955/)<br>
+      [See event report in SIGIR Forum](/publications/zangerle-2022-sigirforum-perspectives/)
     company_url: "https://perspectives-ws.github.io/2021/"
   - company: "ISMIR Meetup: How do we—in MIR research—help artists? Do we?"
     date_start: "2020-10-15"
     date_end: "2020-10-15"
     title: Meetup Organizer
-    description: "co-located with [21st International Society for Music Information Retrieval Conference (ISMIR 2020)](https://www.ismir2020.net)<br><br>[See event report in SIGIR Forum](/publications/bauer-2020-helpartists/)"
+    description:  >-
+      co-located with [21st International Society for Music Information Retrieval Conference (ISMIR 2020)](https://www.ismir2020.net)<br><br>
+      [See event report in SIGIR Forum](/publications/bauer-2020-helpartists/)
   - company: "IUadaptMe 2018: Workshop on Intelligent User-Adapted Interfaces: Design and Multi-Modal Evaluation"
     title: Workshop Co-Organizer
-    description: "co-located with [26th Conference on User Modeling, Adaptation and Personalization (UMAP 2018)](https://www.um.org/umap2018/)<br><br>with Ilknur Celik, Ilaria Torre, Frosina Koceva, Eva Zangerle, and Bart Knijnenburg"
+    description:  >-
+      co-located with [26th Conference on User Modeling, Adaptation and Personalization (UMAP 2018)](https://www.um.org/umap2018/)<br><br>
+      with Ilknur Celik, Ilaria Torre, Frosina Koceva, Eva Zangerle, and Bart Knijnenburg
     company_url: "https://multimethods.info/"
     date_start: "2018-07-08"
     date_end: "2018-07-08"

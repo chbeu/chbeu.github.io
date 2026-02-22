@@ -22,14 +22,15 @@ date_format:  Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-#  - title: "Guest Editor: Special Issue 'Music Recommender Systems'"
-#    company: ACM Transactions on Recommender Systems
-#    company_url: 'https://dl.acm.org/journal/tors'
-#    company_logo: acm
-#    date_start: '2026-01-01'
+  - title: "Guest Editor: Special Issue 'Music Recommender Systems'"
+    company: ACM Transactions on Recommender Systems
+    company_url: 'https://dl.acm.org/journal/tors'
+    company_logo: acm
+    date_start: '2026-02-22'
     #date_end: '2026-12-31'
-#    description: with Elena Epure, Andrés Ferraro, and Lorenzo Porcaro
-    #<br>[Call for Papers](https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-CfP-SI-Evaluation-1650479094177.pdf)
+    description: >-
+      with Elena Epure, Andrés Ferraro, and Lorenzo Porcaro
+      <br>[Call for Papers](https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS_CfP_SI_MRS-1770757684123.pdf)
 
   - title: Editorial Board Member
     company: Information Technology & Tourism
@@ -96,7 +97,10 @@ experience:
     #location: 
     date_start: '2022-04-21'
     date_end: '2024-03-07'
-    description: with Eva Zangerle and Alan Said<br>[Call for Papers](https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-CfP-SI-Evaluation-1650479094177.pdf)<br>[Link to Special Issue](https://dl.acm.org/toc/tors/2024/2/1)<br>[See Editorial](/publications/bauer-2024-si-perspectives/)
+    description: >-
+      with Eva Zangerle and Alan Said<br>
+      [Call for Papers](https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-CfP-SI-Evaluation-1650479094177.pdf)<br>
+      [Link to Special Issue](https://dl.acm.org/toc/tors/2024/2/1)<br>[See Editorial](/publications/bauer-2024-si-perspectives/)
 
 
 design:
