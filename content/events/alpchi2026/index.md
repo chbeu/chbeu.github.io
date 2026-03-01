@@ -1,5 +1,5 @@
 ---
-title: "1st Human-Computer Interaction (HCI) Conference for the Alpine region (AlpCHI 2026)"
+title: "1st International Conference on Human-Computer Interaction in the Alps (AlpCHI 2026)"
 cms_exclude: true
 type: talks
 
@@ -11,7 +11,7 @@ profile: false  # Show author profile?
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
-event: "1st Human-Computer Interaction (HCI) Conference of the Alpine region (AlpCHI 2026)"
+event: "1st International Conference on Human-Computer Interaction in the Alps (AlpCHI 2026)"
 event_url: "https://alpchi.org/"
 
 location: Congressi Stefano Franscini by ETH Zürich
@@ -40,7 +40,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-04-09T00:00:00Z"
 
-authors: [Christine Bauer, Tiare Feuchtner, Michael Haller, Denis Lalanne, Johannes Schöning, Verena Zimmermann]
+authors: [Christine Bauer, Tiare Feuchtner, Michael Haller, Denis Lalanne, Johannes Schöning, Verena Zimmermann, Anke V. Reinschluessel, Alexandre de Masi, Jannis Strecker-Bischoff]
 tags: [AlpCHI, HCI, alpine, conference]
 categories:
   - event
@@ -56,10 +56,17 @@ image:
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
-#url_proceedings: 
+url_proceedings: https://doi.org/10.1145/3780045
 #links:
+doi: 10.1145/3780045
 
 projects: []
 ---
 
-The idea for AlpCHI was first discussed within the SIGCHI Switzerland chapter of the ACM, building on a long-standing idea by Denis Lalanne to establish such a conference. Whether as an independent event or by hosting established SIGCHI conferences such as MobileHCI, DIS, CHI or others, AlpCHI provides a regional forum that is accessible, community-driven, and fosters collaboration. The goal is to create a sustainable conference landscape while strengthening the local HCI community. A defining feature of AlpCHI is its commitment to inspiring locations. Each conference will take place within a 50 km radius of a mountain that is at least 2,026 metres (each year adding one meter) above sea level, offering participants the opportunity for a scenic hike before or after the event.
+AlpCHI is the inaugural Human-Computer Interaction (HCI) conference of the Alpine region. Designed as an annual or biennial event, AlpCHI aims to bring together researchers, industry professionals, and academics to exchange ideas and explore new developments in HCI.
+
+The first edition of AlpCHI 2026 will take place at the Congressi Stefano Franscini (CSF) by ETH Zürich between Sunday, March 1st, 2026, to Thursday, March 5th, 2026, on Monte Verità in Ascona, Switzerland. Monte Verità, or the “Mountain of Truth,” is a historic hilltop site overlooking Lake Maggiore. Founded in the early 20th century as a utopian community, it became a hub for artists, philosophers, and reformers. Today, it hosts the CSF, providing a unique setting for conferences with modern facilities, a museum, and a tranquil park.
+
+AlpCHI will serve as a regional flagship event that celebrates HCI research and emphasizes the importance of community-building and hands-on interaction. The conference will aim to bridge the gap left by the digital shift, offering a space where researchers can connect meaningfully. If you want to get involved, get in touch with us organizers and simply drop us (or one of us) an Email.
+
+The idea for AlpCHI was first discussed within the SIGCHI Switzerland chapter of the ACM, building on a long-standing idea by Denis Lalanne to establish such a conference. AlpCHI provides a regional forum that is accessible, community-driven, and fosters collaboration. The goal is to create a sustainable conference landscape while strengthening the local HCI community. A defining feature of AlpCHI is its commitment to inspiring locations. Each conference will take place within a 50 km radius of a mountain at least 2,026 metres above sea level (adding one meter each year), offering participants the opportunity for a scenic hike before or after the event.

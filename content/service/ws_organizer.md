@@ -32,7 +32,7 @@ experience:
     company_logo: murs
     date_start: "2025-09-22"
     date_end: "2025-09-22"
-    description:  >-
+    description: >-
       co-located with [19th ACM Conference on Recommender Systems (RecSys 2025)](https://recsys.acm.org/recsys25/)<br><br>
       with Andrés Ferraro and Lorenzo Porcaro<br>
       [See proceedings](https://ceur-ws.org/Vol-4045/)
