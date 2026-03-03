@@ -34,7 +34,7 @@ experience:
     title: "Organizer"
     description: |
       with Tiare Feuchtner, Michael Haller, Denis Lalanne, Johannes Schöning, Verena Zimmermann, Anke V. Reinschluessel, Alexandre de Masi, and Jannis Strecker-Bischoff<br>
-      1st International Conference on Human-Computer Interaction in the Alps (AlpCHI 2026)<br>
+      1st International Conference on Human-Computer Interaction in the Alps (AlpCHI 2026)<br><br>
       [See proceedings](https://doi.org/10.1145/3780045)
     company_url: "https://alpchi.org"
     url: "https://alpchi.org"
