@@ -111,7 +111,7 @@ experience:
       co-located with [16th ACM Conference on Recommender Systems (RecSys 2022)](https://recsys.acm.org/recsys22/)<br><br>
       with Eva Zangerle and Alan Said<br><br>
       [See proceedings](https://ceur-ws.org/Vol-3228/)<br>[See event report in SIGIR Forum](/publications/zangerle-2023-sigirforum-perspectives/)
-      company_url: "https://perspectives-ws.github.io/2022/"
+    company_url: "https://perspectives-ws.github.io/2022/"
   - company: "PERSPECTIVES 2021: Workshop on the Perspectives on the Evaluation of Recommender Systems"
     title: Workshop Co-Organizer
     date_start: "2021-09-25"

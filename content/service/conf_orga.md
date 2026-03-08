@@ -35,11 +35,12 @@ experience:
     description: |
       with Tiare Feuchtner, Michael Haller, Denis Lalanne, Johannes Schöning, Verena Zimmermann, Anke V. Reinschluessel, Alexandre de Masi, and Jannis Strecker-Bischoff<br>
       1st International Conference on Human-Computer Interaction in the Alps (AlpCHI 2026)<br><br>
-      [See proceedings](https://doi.org/10.1145/3780045)
+      [See proceedings](https://doi.org/10.1145/3780045)<br><br>
+      ![Group photo of AlpCHI 2026 attendees](/images/variouspics/alpchi2026_group_all.jpg)
     company_url: "https://alpchi.org"
     url: "https://alpchi.org"
     date_start: "2026-03-01"
-    #date_end: "2026-03-05"
+    date_end: "2026-03-05"
   - company: "ECIR 2026"
     company_logo: ecir_2026
     title: "Short Paper Co-Chair"
