@@ -32,8 +32,8 @@ design:
 <mark>IUI</mark> 2026  
 UMAP 2026, 2025  
 <mark>SIGIR</mark> 2026, 2025, 2024, 2023  
+<mark>RecSys</mark> 2026, 2025, 2024, 2023  
 <mark>ISMIR</mark> 2026, 2023, 2021, 2020  
-<mark>RecSys</mark> 2025, 2024, 2023  
 CIKM 2024, 2023  
 <mark>CHI</mark> 2023, 2021, 2020  
 ECIS 2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015  
