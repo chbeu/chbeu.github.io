@@ -5,7 +5,7 @@ summary: "Panelist at the Austrian Chancellery's event on the International Wome
 #authors: [Christine Bauer]
 #projects: []
 categories: [news]
-tags: [International Women's Day, panel, gender, communication to the public]
+tags: [International Women's Day, panel, gender, role model, communication to the public]
 date: '2026-03-05T00:00:00Z'
 featured: false
 draft: false
@@ -49,6 +49,22 @@ gallery_item:
 
 I had the great honor of participating in a panel at the [Federal Chancellery of Austria](https://www.bundeskanzleramt.gv.at/en/) on the occasion of International Women's Day. [State Secretary Pröll](https://www.bundeskanzleramt.gv.at/bundeskanzleramt/staatssekretaer-alexander-proell.html) hosted an event featuring four panels---business, science, arts and culture, and politics. I was privileged to join the discussion on women in science as one of the panelists, sharing insights and celebrating the achievements of women in the field.
 
+Participants:
+- Susanne Riess-Hahn
+- Mariana Kühnel
+- Elisabeth Geyer-Schall
+- Kristina Sprenger
+- Waltraud Klasnic
+- Maria Großbauer
+- Nina Wöss
+- Natascha Fürst
+- Francesca Ferlaino
+- Ivona Brandic
+- Claudia Haslinger
+- Juliane Bogner-Strauß
+- Sabine Schatz Agnes
+- Husslein Ulrike Sych
+- Eva Maria Holzleitner
+
 <br>
 {{< gallery album="20260305_bka_weltfrauentag" >}}
-
