@@ -60,7 +60,7 @@ I am also very grateful to the fantastic organizing team:
 
 It was a pleasure working with all of you.
 
-Special thanks also to the wonderful team at [Monte Verità](https://www.monteverita.org) and [Congressi Stefano Franscini](https://csf.ethz.ch) for hosting us so beautifully.
+Special thanks also to the wonderful teams at [Monte Verità](https://www.monteverita.org) and [Congressi Stefano Franscini](https://csf.ethz.ch) for hosting us so beautifully.
 
 I am already looking forward to the next edition of **[AlpCHI](https://alpchi.org/) in 2028 in Konstanz**.
 
