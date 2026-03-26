@@ -5,10 +5,10 @@ title: "'Now what?' Modelling route choices for personalised context-aware decis
 subtitle: ''
 summary: ''
 authors:
-- Annouk van Kasteren
+- Anouk van Kasteren
 - Marloes Vredenborg
-- Judith Masthoff
 - Christine Bauer
+- Judith Masthoff
 tags:
 - choice models
 - transportation
