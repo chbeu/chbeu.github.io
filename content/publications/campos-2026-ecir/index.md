@@ -1,7 +1,7 @@
 ---
 type: publication
 
-title: 'Advances in Information Retrieval, 48th European Conference on Information Retrieval, ECIR 2026, Delft, The Netherlands, March 29 -- April 2, 2026, Proceedings, Part III'
+title: 'Advances in Information Retrieval, 48th European Conference on Information Retrieval, ECIR 2026, Delft, The Netherlands, March 29 -- April 2, 2026, Proceedings, Parts I--IV'
 subtitle: ''
 summary: ''
 authors:
@@ -47,6 +47,15 @@ abstract: >-
     - Volume 3: Reproducibility Papers, Workshop Papers, IR for Good papers, and Doctoral Consortium Papers   
     - Volume 4: Tutorial Papers, Industry Papers, Demo Papers, CLEF Overview Papers, and Resource Papers.
 
-#publication: 'Advances in Information Retrieval, 48th European Conference on Information Retrieval, ECIR 2026, Delft, The Netherlands, March 29 -- April 2, 2026, Proceedings, Part III'
-doi: 10.1007/978-3-032-21324-2
+#publication: 'Advances in Information Retrieval, 48th European Conference on Information Retrieval, ECIR 2026, Delft, The Netherlands, March 29 -- April 2, 2026, Proceedings, Parts I--IV'
+
+links:
+- name: DOI, Part I
+  url: https://doi.org/10.1007/978-3-032-21289-4
+- name: DOI, Part II
+  url: https://doi.org/10.1007/978-3-032-21300-6
+- name: DOI, Part III
+  url: https://doi.org/10.1007/978-3-032-21324-2
+- name: DOI, Part IV
+  url: https://doi.org/10.1007/978-3-032-21321-1
 ---

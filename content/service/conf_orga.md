@@ -28,18 +28,17 @@ experience:
     description: "with Bamshad Mobasher and Joeran Beel <br>21st ACM Conference on Recommender Systems (RecSys 2027)"
     company_url: "https://recsys.acm.org/"
     url: "https://recsys.acm.org"
-    date_start: "2027-09-01"
+    date_start: "2027-08-01"
   - company: "ECIR 2026"
     company_logo: ecir_2026
     title: "Short Paper Co-Chair"
     description: >-
       with Sean McAvaney and Mohammad Aliannejadi<br>
-      48th European Conference on Information Retrieval (ECIR 2026)<br>
-      [See proceedings](https://doi.org/https://doi.org/10.1007/978-3-032-21324-2)   
+      48th European Conference on Information Retrieval (ECIR 2026)<br><br>
+      See proceedings, [Part I](https://doi.org/10.1007/978-3-032-21289-4), [Part II](https://doi.org/10.1007/978-3-032-21300-6), [Part III](https://doi.org/https://doi.org/10.1007/978-3-032-21324-2), [Part IV](https://doi.org/10.1007/978-3-032-21321-1)   
     company_url: "https://ecir2026.eu"
-    #url: "https://ecir2026.eu"
     date_start: "2026-03-29"
-    #date_end: "2026-04-02"
+    date_end: "2026-04-02"
   - company: "AlpCHI 2026"
     company_logo: alpchi_2026
     title: "Organizer"

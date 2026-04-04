@@ -6,6 +6,7 @@
 public/
 jsconfig.json
 node_modules/
+go.sum
 
 # invisible files
 .DS_Store
