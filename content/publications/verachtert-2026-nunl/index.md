@@ -36,7 +36,7 @@ projects: []
 publishDate: '2026-03-26T01:13:45.989615Z'
 publication_types: [paper-conference]
 publication: '*34th ACM International Conference on User Modeling, Adaptation and Personalization*'
-publication_short: UMAP '26
+publication_short: UMAP 2026
 
 abstract: ""
 
