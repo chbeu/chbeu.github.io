@@ -33,7 +33,7 @@ jobs:
         pip install google-search-results
 
     - name: Run script using serpapi secret to generate JSON
-      run: python .github/workflows/serpapi.py
+      run: python .github/workflows/fetch_scholar.py
       env:
         SERP_API_KEY: ${{ secrets.SERP_API_KEY }}
 
