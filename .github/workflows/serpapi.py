@@ -7,7 +7,7 @@ output_dir = os.path.join(os.getcwd(), 'data/json')
 output_file = 'googlescholar_output.json'
 
 params = {
-  "api_key": os.environ['SERP_SECRET'],
+  "api_key": os.getenv['SERP_API_KEY'],
   "engine": "google_scholar_author",
   "hl": "en",
   "author_id": "55_WwZ8AAAAJ",

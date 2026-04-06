@@ -42,6 +42,14 @@ jobs:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
 
+       - name: Cache Hugo resources
+        uses: actions/cache@v4
+        with:
+          path: ${{ runner.temp }}/hugo_cache
+          key: ${{ runner.os }}-hugo-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-
+ 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -58,7 +66,7 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
