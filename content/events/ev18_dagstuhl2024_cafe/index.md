@@ -71,6 +71,10 @@ links:
 #url_video: ""
 #url_proceedings: ''
 #doi: 
+- name: DOI  Manifesto
+  url: https://doi.org/10.4230/DagMan.11.1.19
+- name: DOI Report
+  url: 10.4230/DagRep.14.8.53
 
 
 projects: [multimethod]

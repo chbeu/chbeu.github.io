@@ -35,7 +35,7 @@ experience:
     description: >-
       with Sean McAvaney and Mohammad Aliannejadi<br>
       48th European Conference on Information Retrieval (ECIR 2026)<br><br>
-      See proceedings, [Part I](https://doi.org/10.1007/978-3-032-21289-4), [Part II](https://doi.org/10.1007/978-3-032-21300-6), [Part III](https://doi.org/https://doi.org/10.1007/978-3-032-21324-2), [Part IV](https://doi.org/10.1007/978-3-032-21321-1)   
+      See proceedings [Part I](https://doi.org/10.1007/978-3-032-21289-4), [Part II](https://doi.org/10.1007/978-3-032-21300-6), [Part III](https://doi.org/https://doi.org/10.1007/978-3-032-21324-2), [Part IV](https://doi.org/10.1007/978-3-032-21321-1)   
     company_url: "https://ecir2026.eu"
     date_start: "2026-03-29"
     date_end: "2026-04-02"
