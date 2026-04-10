@@ -32,7 +32,7 @@ profile: false
 #  preview_only: false
 
 
-projects: []
+projects: [beyondclicks]
 publishDate: '2026-03-26T01:13:45.989615Z'
 publication_types: [paper-conference]
 publication: '*34th ACM International Conference on User Modeling, Adaptation and Personalization*'
