@@ -38,7 +38,7 @@ publication_types: [paper-conference]
 publication: '*34th ACM International Conference on User Modeling, Adaptation and Personalization*'
 publication_short: UMAP 2026
 
-abstract: ""
+abstract: "Diversity is a widely studied beyond-accuracy aspect of recommender systems, particularly in the news domain. Extensive research has explored its theoretical foundations and proposed algorithmic strategies to promote it, with most evaluations conducted through offline experiments. This work presents the results of deploying and evaluating diversification methods in a large-scale production news recommender system. Motivated by the goal of upholding editorial values, we compare three diversification methods: Interleaving and two implementations of Intra-List Diversification (ILD), relying on Term Frequency-Inverse Document Frequency (TF-IDF) and Bidirectional Encoder Representations from Transformers (BERT) embeddings, respectively. Across a two-week online experiment (A/B test) and a follow-up user study on a large-scale production news platform, ILD with BERT embeddings improved diversity as measured by a reduction in Intra-List Similarity (ILS) and increased Click-Through Rates (CTRs), while also improving users' perceived relevance."
 
 altmetric: true
 plumx: false
