@@ -37,7 +37,13 @@ gallery_item:
   image: Fotografeelgood_ECIR2026_Breakouts-404.jpg
   caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
 - album: ecir2026
-  image: Fotografeelgood_ECIR2026_Breakouts-405.jpg
+  image: Fotografeelgood_ECIR2026_Day3-215.jpg
+  caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
+- album: ecir2026
+  image: Fotografeelgood_ECIR2026_Day3-333.jpg
+  caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
+- album: ecir2026
+  image: Fotografeelgood_ECIR2026_Day3-333.jpg
   caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
 - album: ecir2026
   image: Fotografeelgood_ECIR2026_Day4-099.jpg
