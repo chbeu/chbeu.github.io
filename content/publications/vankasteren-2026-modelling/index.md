@@ -35,7 +35,7 @@ publication_types: [paper-conference]
 publication: '*34th ACM International Conference on User Modeling, Adaptation and Personalization*'
 publication_short: UMAP 2026
 
-abstract: ""
+abstract: "Public transport disruptions require travellers to make rapid replanning decisions under uncertainty, increasing cognitive burden and negatively affecting the travel experience. Supporting such decisions through personalised, context-aware recommendations requires modelling heterogeneous and context-dependent behaviour. This paper investigates how such behaviour can be modelled for route recommendations during disruptions. Using a discrete choice experiment and latent class modelling, we identify recurring decision strategies—context-adaptive, efficiency-driven rerouting, and waiting-oriented—rather than stable traveller types. Overlap between classes suggests that individuals shift strategies across situations. By framing latent classes as decision strategies, this work provides modelling insights beyond the public transport domain and positions latent class modelling as a structured step toward personalisation in context-dependent decision settings."
 
 altmetric: true
 plumx: false
