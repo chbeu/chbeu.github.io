@@ -12,7 +12,7 @@ profile: false  # Show author profile?
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
-event: "1st Workshop on Beyond Algorithms: Reclaiming the Interdisciplinary Roots of Recommender Systems (BEYOND 2025), co-located with RecSys 2025"
+event: "2nd Workshop on Beyond Algorithms: A Workshop on the Interdisciplinarity of Recommender Systems (BEYOND 2026), co-located with RecSys 2026"
 event_url: "https://beyondrecsys.github.io/2026/"
 
 location: Marriott City Center, Downtown
@@ -50,7 +50,7 @@ image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Smart
   preview_only: false
-  placement: 1
+  placement: 500
 
 projects: []
 url_proceedings: 

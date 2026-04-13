@@ -100,7 +100,7 @@ social:
 - icon: acm
   icon_pack: ai
   icon_title: ACM
-  link: https://dl.acm.org/profile/81453628934
+  link: https://dl.acm.org/action/share-profile-publications?id=Myt75RwofogHWBHsH75WPw%3D%3D
 - icon: semantic-scholar
   icon_pack: ai
   icon_title: SematicScholar
