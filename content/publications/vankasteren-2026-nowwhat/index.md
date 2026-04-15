@@ -46,3 +46,8 @@ dimensions: false
 doi: 10.1145/3772363.3798949
 authorizer: https://dl.acm.org/doi/10.1145/3772363.3798949?cid=81453628934
 ---
+
+<figure>
+	<img src="anouk_withposter.jpg" alt="Anouk van Kasteren presenting the poster" width="600" />
+	  <figcaption>Anouk van Kasteren, presenting the CHI 2026 Poster in Barcelona, Spain.</figcaption>
+</figure
