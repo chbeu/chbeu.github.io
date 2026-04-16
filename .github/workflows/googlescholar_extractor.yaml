@@ -46,8 +46,7 @@ jobs:
     - name: Check if JSON file has changed
       id: check_changes
       run: |
-        git fetch origin main
-        if git diff --quiet origin/main -- data/json/googlescholar_output.json; then
+        if git diff --quiet HEAD -- data/json/googlescholar_output.json; then
           echo "changed=false" >> $GITHUB_OUTPUT
         else
           echo "changed=true" >> $GITHUB_OUTPUT
