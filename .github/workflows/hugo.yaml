@@ -8,6 +8,10 @@ on:
   push:
     branches:
       - main
+  workflow_run:
+    workflows: ["Extract Google Scholar Data, Write to JSON, and Push JSON"]
+    types:
+      - completed
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -28,6 +32,9 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    
+    outputs:
+      should_build: ${{ steps.decision.outputs.build }}
 
     steps:
       - name: Checkout
@@ -35,14 +42,47 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+       
+       # Detect JSON change (only relevant for workflow_run)
+      - name: Check if JSON file changed
+        id: json_check
+        run: |
+          if git diff --quiet HEAD^ HEAD -- data/json/googlescholar_output.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      # Decide build behavior
+      - name: Decide whether to build
+        id: decision
+        run: |
+          EVENT="${{ github.event_name }}"
+
+          if [ "$EVENT" = "push" ]; then
+            echo "build=true" >> $GITHUB_OUTPUT
+
+          elif [ "$EVENT" = "workflow_run" ]; then
+            if [ "${{ github.event.workflow_run.conclusion }}" != "success" ]; then
+              echo "build=false" >> $GITHUB_OUTPUT
+            elif [ "${{ steps.json_check.outputs.changed }}" = "true" ]; then
+              echo "build=true" >> $GITHUB_OUTPUT
+            else
+              echo "build=false" >> $GITHUB_OUTPUT
+            fi
+          else
+            echo "build=true" >> $GITHUB_OUTPUT
+          fi
 
       - name: Setup Hugo
+        if: steps.decision.outputs.build == 'true'
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
 
       - name: Cache Hugo resources
+        if: steps.decision.outputs.build == 'true'
         uses: actions/cache@v4
         with:
           path: ${{ runner.temp }}/hugo_cache
@@ -55,6 +95,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build with Hugo
+        if: steps.decision.outputs.build == 'true'
         env:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
@@ -66,12 +107,15 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact
+        if: steps.decision.outputs.build == 'true'
         uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
   # Deployment job
   deploy:
+    needs: build
+    if: needs.build.outputs.should_build == 'true'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
