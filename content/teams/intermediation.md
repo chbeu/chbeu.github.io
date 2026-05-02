@@ -29,6 +29,6 @@ Wissenschaft & Kunst is an inter-university organization, founded as a cooperati
 Together with [Martin Losert](https://www.moz.ac.at/en/people/music-education-salzburg/martin-losert), I am leading a team of eight researchers across both universities.
 
 The focus area InterMediation deals with the mediation and impact of music and related arts. All InterMediation projects are characterized by the following fields, which are expressed and linked in different ways:
-- The field of Music – Arts – Culture refers to art and culture or artistic and cultural forms of expression.
-- The field of Interaction – Intermediation – Impact relates to anthropological aspects, i.e. possible social, individual, or historical attributions of meaning to art and culture or – in more general terms – the connection between people and culture.
-- The field of Data – Mathematics – Technology examines the available information in the context of scientific and artistic projects, as well as the question how this information can be interpreted.
+- The field of *Music---Arts---Culture* refers to art and culture or artistic and cultural forms of expression.
+- The field of *Interaction---Intermediation---Impact* relates to anthropological aspects, i.e. possible social, individual, or historical attributions of meaning to art and culture or – in more general terms – the connection between people and culture.
+- The field of *Data---Mathematics---Technology* examines the available information in the context of scientific and artistic projects, as well as the question how this information can be interpreted.
