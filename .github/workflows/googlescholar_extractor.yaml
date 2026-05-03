@@ -2,7 +2,7 @@ name: Extract Google Scholar Data, Write to JSON, and Push JSON
 
 on:
   schedule:
-    - cron: '30 22 * * *'
+    - cron: '30 2 * * *'
   workflow_dispatch:
 
 permissions:
