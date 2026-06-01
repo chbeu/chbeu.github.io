@@ -23,7 +23,7 @@ Sophie Straetemans interviewed me for [Science Notes](https://sciencenotes.de/ge
 The interview is part of the article collection entitled [Greatest Hits](https://sciencenotes.de/gender-algorithmus-fairness/
 ).
 
-As so often ;-), I talk about the work on gender fairness in music recommender systems with [Andrés Ferraro](/publications/ferraro-2021-break-the-loop) and [Andrés Ferraro and Michael Ekstrand](/publications/ferraro-2024-itsnotyou): We talk about what 'fairness' means in music recommendation and how algorithms steer which artists get heard and which stay invisible on digital music platforms. 
+As so often ;-), I talk about the work on gender fairness in music recommender systems published with [Andrés Ferraro](/publications/ferraro-2021-break-the-loop) and together with [Andrés Ferraro and Michael Ekstrand](/publications/ferraro-2024-itsnotyou): We talk about what 'fairness' means in music recommendation and how algorithms steer which artists get heard and which stay invisible on digital music platforms. 
 
 In this interview, I also go beyond and highlight that fairness can mean different things to artists, listeners, and streaming platforms.
 
