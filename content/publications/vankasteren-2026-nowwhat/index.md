@@ -44,7 +44,6 @@ altmetric: true
 plumx: false
 dimensions: false
 doi: 10.1145/3772363.3798949
-authorizer: https://dl.acm.org/doi/10.1145/3772363.3798949?cid=81453628934
 ---
 
 <figure>
