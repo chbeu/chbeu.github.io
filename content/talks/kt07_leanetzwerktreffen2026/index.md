@@ -1,5 +1,5 @@
 ---
-title: "Stereotype bei Entwicklung und Anwendung von AI"
+title: "Stereotype bei Entwicklung und Anwendung von KI"
 cms_exclude: true
 type: talks
 
@@ -22,7 +22,7 @@ address:
   postcode: '5020'
   country: Austria
 
-summary: Keynote talk at the networkig event of LEA (Let's Empower Austria) in Salzburg.
+summary: Keynote talk at the networking event of LEA (Let's Empower Austria) in Salzburg.
 abstract: ""
 
 # Talk start and end times.
@@ -36,7 +36,7 @@ publishDate: "2026-06-03T00:00:00Z"
 
 authors:
 - Christine Bauer
-tags: [keynote, talk, artificial intelligence, AI, biases, stereotypse]
+tags: [keynote, talk, artificial intelligence, AI, biases, stereotypes, She Goes AI]
 
 # Is this a featured talk? (true/false)
 featured: false
