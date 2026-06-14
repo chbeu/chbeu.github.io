@@ -23,10 +23,11 @@ profile: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  caption: ''
-#  focal_point: ''
-#  preview_only: false
+image:
+  caption: 'Overview of the two-part study design'
+  focal_point: 'Smart'
+  preview_only: false
+  placement: 1
 
 
 projects: []
