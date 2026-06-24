@@ -45,5 +45,22 @@ image:
   #caption: 'Image credit:'
   focal_point: Smart
   placement: 300
+
+gallery_item:
+- album: kt07_leanetzwerktreffen2026
+  image: 20260611a_1024x768.jpg
+  caption: 'Image credit: [**LEA**](https://letsempoweraustria.at/aktuelles/female-tech-im-fokus/), 2026.'
+- album: kt07_leanetzwerktreffen2026
+  image: 20260611b_1024x768.jpg
+  caption: 'Image credit: [**LEA**](https://letsempoweraustria.at/aktuelles/female-tech-im-fokus/), 2026.'
+- album: kt07_leanetzwerktreffen2026
+  image: 20260611c_1024x768.jpeg
+  caption: 'Image credit: [**LEA**](https://letsempoweraustria.at/aktuelles/female-tech-im-fokus/), 2026.'
+- album: kt07_leanetzwerktreffen2026
+  image: 20260611d_1782304845613_c.jpeg
+  caption: 'Image credit: [**LEA**](https://letsempoweraustria.at/aktuelles/female-tech-im-fokus/), 2026.'
 ---
 
+[Aftermath Blog post at LEA (in German)](https://letsempoweraustria.at/aktuelles/female-tech-im-fokus/)
+<br>
+{{< gallery album="kt07_leanetzwerktreffen2026" >}}
