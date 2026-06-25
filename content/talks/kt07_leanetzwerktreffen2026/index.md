@@ -12,7 +12,7 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 event: "LEA-Netzwerktreffen 2026 Salzburg"
-event_url: https://letsempoweraustria.at/
+event_url: https://letsempoweraustria.at/aktuelles/female-tech-im-fokus/
 
 location: ehem. Stadtwerkshaus
 address:
@@ -36,7 +36,7 @@ publishDate: "2026-06-03T00:00:00Z"
 
 authors:
 - Christine Bauer
-tags: [keynote, talk, artificial intelligence, AI, biases, stereotypes, She Goes AI]
+tags: [keynote, talk, artificial intelligence, AI, biases, stereotypes, She Goes AI, LEA, women]
 
 # Is this a featured talk? (true/false)
 featured: false
