@@ -1,7 +1,7 @@
 ---
 title: "Keynote at the LEA-Netzwerktreffen 2026 Salzburg"
 subtitle: ""
-summary: ""
+summary: "I had the great pleasure giving the keynote at the LEA-Netzwerktreffen 2026 in Salzburg."
 #authors: [Christine Bauer]
 categories: [news]
 tags: [keynote, talk, artificial intelligence, AI, biases, stereotypes, She Goes AI, LEA, women]
