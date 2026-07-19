@@ -21,13 +21,12 @@ profile: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'Path diagram illustrating the relationships between scale factors (ellipses) and scale items (rectangles). Bold numbers indicate factor loadings between factors and items, while italicised numbers represent correlations between latent factors. Arrow thickness corresponds to the magnitude of the relationships, with thicker lines indicating stronger correlations.'
+  caption: 'Path diagram illustrating the relationships between scale factors (ellipses) and scale items (rectangles).' # Bold numbers indicate factor loadings between factors and items, while italicised numbers represent correlations between latent factors. Arrow thickness corresponds to the magnitude of the relationships, with thicker lines indicating stronger correlations.'
   focal_point: 'Smart'
   preview_only: false
   placement: 1
 
 
-#   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2025-10-17T01:13:45.839142Z'
 publication_types: [article-journal]
@@ -41,6 +40,10 @@ The EXID scale is suitable for both research and practice. It can be applied in 
 doi: 10.1016/j.trf.2025.103418
 
 links: 
+- icon: triangle-exclamation
+  icon_pack: fas
+  name: Corrigendum
+  url: vredenborg-2025-exid_corrigendum.pdf
 - icon: file-zipper
   icon_pack: fas
   name: Supplementary Material (.zip)
