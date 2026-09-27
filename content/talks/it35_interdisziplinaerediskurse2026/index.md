@@ -14,7 +14,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 event: "Tagung 'Salzburger interdisziplinäre Diskurse': Reflexion und Motivation: Warum tun wir nicht einfach, was wir wissen? Eine interdisziplinäre Nachfrage"
 event_url: "https://www.plus.ac.at/ztkr/news-events-social-media/bthw2021/salzburger-interdisziplinaere-diskurse-2-2/"
 
-location: Edmundsburg, University of Salzburg
+location: Europasaal, Edmundsburg, University of Salzburg
 address:
   street: Mönchsberg 2
   city: Salzburg
