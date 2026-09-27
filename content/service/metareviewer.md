@@ -29,6 +29,7 @@ design:
   flip_alt_rows: false
 ---
 
+ECIR 2027  
 <mark>IUI</mark> 2026  
 UMAP 2026, 2025  
 <mark>SIGIR</mark> 2026, 2025, 2024, 2023  

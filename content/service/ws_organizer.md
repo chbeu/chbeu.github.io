@@ -35,7 +35,7 @@ experience:
     #date_end: "2026-09-28"
     description: >-
       co-located with [20th ACM Conference on Recommender Systems (RecSys 2026)](https://recsys.acm.org/recsys26/)<br><br>
-      with Andrés Ferraro and Lorenzo Porcaro
+      with Andrés Ferraro, Lorenzo Porcaro, and Marta Moscati
     company_url: "https://sites.google.com/view/murs-2026"
   - company: "BEYOND 2025: 1st Workshop on Beyond Algorithms: Reclaiming the Interdisciplinary Roots of Recommender Systems"
     title: Workshop Co-Organizer
