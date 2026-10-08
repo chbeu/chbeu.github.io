@@ -28,7 +28,7 @@ abstract: 'Die interdisziplinäre Ringvorlesung Gekommen, um zu bleiben. KI in K
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2026-10-06T17:00:00" #-05:00"
-date_end: "2026-01-19T18:00:00" #-05:00"
+date_end: "2027-01-19T18:00:00" #-05:00"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
