@@ -16,7 +16,7 @@ event_url: "https://w-k.sbg.ac.at/veranstaltung/gekommen-um-zu-bleiben-ki-in-kun
 
 location: W&K-Atelier, 1. OG, KunstQuartier
 address:
-  street: Bergstraße 2a
+  street: Bergstraße 12a
   city: Salzburg
 #  region: WA
   postcode: '5020'
