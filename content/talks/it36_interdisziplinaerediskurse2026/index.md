@@ -28,7 +28,7 @@ abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2026-11-13T09:00:00.000Z
-date_end: 2026-11-03T10:00:00
+date_end: 2026-11-13T10:00:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
@@ -48,7 +48,9 @@ image:
   caption: ''
   focal_point: 'Smart'
   preview_only: false
-  placement: 500
+  placement: 1
+
+url_program: Folder_Reflexion_Uni_11_26_korr_web.pdf
 
 
 projects: []
