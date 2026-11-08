@@ -52,6 +52,7 @@ image:
   preview_only: false
   placement: 500
 
+url_flyer: Plakat_Ring_VO_Gekommen_um_zu_bleiben_KI_WS2026_27.pdf
 
 projects: []
 ---

@@ -14,7 +14,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 event: "Gekommen, um zu bleiben. KI in Kunst, Forschung und Gesellschaft"
 event_url: "https://w-k.sbg.ac.at/veranstaltung/gekommen-um-zu-bleiben-ki-in-kunst-forschung-und-gesellschaft/"
 
-location: W&K-Atelier, 1. OG, KunstQuartier 6 online
+location: W&K-Atelier, 1. OG, KunstQuartier & online
 address:
   street: Bergstraße 12a
   city: Salzburg
@@ -35,7 +35,7 @@ all_day: true
 publishDate: "2026-10-08T00:00:00Z"
 
 authors: [Christine Bauer, Katarzyna Grebosz-Haring, Martin Losert]
-tags: [artificial intelligence, AI, arts, research, society, lectures series, W&K, InterMediation, communication to the public, teaching]
+tags: [artificial intelligence, AI, arts, research, society, lecture series, W&K, InterMediation, communication to the public, teaching]
 categories:
   - event
 
@@ -45,8 +45,9 @@ featured: false
 image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Smart
+  placement: 300
 
-#url_flyer: 
+url_flyer: Plakat_Ring_VO_Gekommen_um_zu_bleiben_KI_WS2026_27.pdf
 
 #url_code: ""
 #url_pdf: ""
@@ -67,7 +68,10 @@ sowie
 **W&K-Forum – Symposium** am 19. Jänner 2027 von 14:00--18:00 Uhr, Kleines Studio (Universität Mozarteum, Mirabellplatz 1, 5020 Salzburg) & online   
 <br>
 *Teilnahme kostenfrei | Participation free of charge   
-Information: intermediation@plus.ac.at | +43 662 8044 2380*   
+Information: intermediation@plus.ac.at | +43 662 8044 2380*
+<br>   
+For links to access the lectures online, please visit the [event page](https://w-k.sbg.ac.at/veranstaltung/gekommen-um-zu-bleiben-ki-in-kunst-forschung-und-gesellschaft/).
+<br><br>
 
 #### GASTVORTRÄGE   
 
@@ -89,7 +93,7 @@ Martin Losert (Department Musikpädagogik, Universität Mozarteum Salzburg | Wis
 Andreas Lehmann Wermser (Hochschule für Musik Theater und Medien Hannover)   
 
 - 10. November 2026, 17:00-18:30  
-KI als gesellschaftliches Phänomen zwischen "wicked problems" und Critical AI Literacy
+[KI als gesellschaftliches Phänomen zwischen "wicked problems" und Critical AI Literacy](https://w-k.sbg.ac.at/veranstaltung/ki-als-gesellschaftliches-phaenomen-zwischen-wicked-problems-und-critical-ai-literacy-stefan-strauss/)
 Stefan Strauß (Österreichische Akademie der Wissenschaften, Wien)   
 
 - 17. November 2026, 17:00-18:30  
@@ -108,19 +112,19 @@ Robin Ungruh (TU Delft)
 - 15. Dezember 2026, 17:00-18:30  
 Geister und Maschinen: Zur Literaturgeschichte der Künstlichen Intelligenz
 Thomas Ballhausen (Wissenschaft & Kunst, Universität Salzburg/Universität Mozarteum Salzburg)   
-
+   <br>
 - 19. Jänner 2026, 14:00-18:00 | Kleines Studio, Universität Mozarteum, Mirabellplatz 1, 5020 Salzburg   
 ***W&K-Forum – Symposium Gekommen, um zu bleiben. KI in Kunst, Forschung und Gesellschaft***   
    <br>
-Vorträge mit Diskussion + Paneldiskussion   
-Clemens Appl: Kreatives Schaffen und Urheberschaft im Schatten generativer KI (Universität für Weiterbildung Krems)   
-Leoni Brand (Universität Salzburg): KI als Katalysator für Future Skills? Wie wir Lernen gestalten können, um junge Menschen für eine Welt im Dauerumbruch zu stärken   
-Carlos Cancino-Chacón (Universität Linz): Towards Computational Music Rehearsal Analysis: From Rach3 to Dress Rehearsal
-Martina Mara (Universität Linz)   
+Vorträge mit Diskussion + Paneldiskussion:   
+[Clemens Appl](https://www.donau-uni.ac.at/de/universitaet/organisation/mitarbeiterinnen/person/4295288780): Kreatives Schaffen und Urheberschaft im Schatten generativer KI (Universität für Weiterbildung Krems)   
+[Leoni Brand](https://www.plus.ac.at/psychologie/fachbereich/organisation/sozialpsychologie/unser-team/brand-leoni/) (Universität Salzburg): KI als Katalysator für Future Skills? Wie wir Lernen gestalten können, um junge Menschen für eine Welt im Dauerumbruch zu stärken   
+[Carlos Cancino-Chacón](https://www.jku.at/en/institute-of-computational-perception/about-us/people/carlos-eduardo-cancino-chacon/) (Universität Linz): Towards Computational Music Rehearsal Analysis: From Rach3 to Dress Rehearsal
+[Martina Mara](https://www.jku.at/lit-robopsychology-lab/ueber-uns/team/martina-mara/) (Universität Linz)   
    <br>
 Weitere Diskutant:innen:   
-Stefan Strauß (Österreichische Akademie der Wissenschaften, Wien)   
-Andreas Lehmann Wermser (Hochschule für Musik Theater und Medien Hannover)   
+[Stefan Strauß](https://www.oeaw.ac.at/ita/strauss) (Österreichische Akademie der Wissenschaften, Wien)   
+[Andreas Lehmann Wermser](https://www.ifib.de/ueber-uns/team/detail/andreas-lehmann-wermser) (Hochschule für Musik Theater und Medien Hannover)   
 
  
 
