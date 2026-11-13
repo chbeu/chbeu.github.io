@@ -61,7 +61,7 @@ links:
   url: https://ceur-ws.org/Vol-2697/
 #url_code: ""
 #url_pdf:  ""
-url_slides: "talks/kn01_complexrec2020/kn01_complexrec2020_slides.pdf"
+url_slides: "kn01_complexrec2020_slides.pdf"
 url_video: "https://youtu.be/nAevW75MzQA"
 
 ---

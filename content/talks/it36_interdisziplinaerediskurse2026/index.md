@@ -51,7 +51,7 @@ image:
   placement: 1
 
 url_program: Folder_Reflexion_Uni_11_26_korr_web.pdf
-
+url_slides: it36_interdisziplinaerediskurse2026_slides.pdf
 
 projects: []
 ---
